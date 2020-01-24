@@ -38,16 +38,18 @@ You can still be of help to students as mistakes are made at the syntax and logi
 Once you join, you should be added to:
 
 - Slack
-  - \#scotland channel
-  - \#scotland-mentors channel
-  - \#scotland-class-4 channel
-  - \#scotland-education / \#scotland-development-and-outreach channel
-  - @scotlandmentors user list
+  - All the channels associated with your city
+    - e.g.
+      - \#scotland channel
+      - \#scotland-mentors channel
+      - \#scotland-class-4 channel
+      - \#scotland-education / \#scotland-development-and-outreach channel
+      - @scotlandmentors user list
 - GitHub
-  - Scotland Mentors group, so that you can review PRs and collaborate on the syllabus
+  - City mentors group, so that you can review PRs and collaborate on the syllabus
 - Trello
   - Used for assessment of homework and graduation project work, and also used sometimes for other things like outreach
-- Google calendar
+- Google Calendar and Group
   - To receive updates and changes for class dates, times and locations (please tell us when you no longer want to receive updates)
 
-Please let us know either on Slack or through scotland@codeyourfuture.io if you have not been added to any of the above.
+Please let us know either on Slack or through your cities contact information if you have not been added to any of the above.

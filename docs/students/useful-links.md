@@ -1,6 +1,6 @@
 ---
-id: developer-links
-title: Developer links
+id: useful-links
+title: Useful links
 ---
 
 This page aims to give you the best links for working as a developer
@@ -23,8 +23,8 @@ and improving your skills.
 
 - You should code with these
   [programming principles](https://github.com/webpro/programming-principles)
-  in mind. Focus on what's in the *Generic* section — the *Inter-Module/Class*
-  and *Module/Class* sections are relevant for object-oriented programming
+  in mind. Focus on what's in the _Generic_ section — the _Inter-Module/Class_
+  and _Module/Class_ sections are relevant for object-oriented programming
   (OOP) developers
 - [decent-code](https://robatwilliams.github.io/decent-code/)
   is a thorough guide on good programming practices to create quality code

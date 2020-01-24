@@ -5,7 +5,7 @@ title: Introduction
 
 ## Course information
 
-Please read through the [syllabus introduction page](syllabus.md) to get an overview of the course and what is expected of both students and mentors.
+Please read through the [syllabus introduction page](https://codeyourfuture.github.io/syllabus-master/) to get an overview of the course and what is expected of both students and mentors.
 
 Our core syllabus is open source and we consider it to be on an ongoing improvement process.
 We aim to constantly listen to our mentor's and student's feedback and adapt the course accordingly.

@@ -1,10 +1,6 @@
 {
   "students": {
-    "Students": [
-      "students",
-      "students/developer-links",
-      "students/getting-a-job"
-    ]
+    "Students": ["students", "students/useful-links", "students/getting-a-job"]
   },
   "london": {
     "London": ["cities/london/home", "cities/london/contact"]
