@@ -21,6 +21,6 @@ jobs:
       run: |
         cd website
         npm install
-        GIT_USER=ChrisOwen101 CURRENT_BRANCH=master USE_SSH=true npm run publish-gh-pages
+        GIT_USER=ChrisOwen101 CURRENT_BRANCH=master USE_SSH=false npm run publish-gh-pages
       env:
         CI: true
