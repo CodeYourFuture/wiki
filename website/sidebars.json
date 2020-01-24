@@ -2,6 +2,17 @@
   "students": {
     "Students": ["students", "students/useful-links", "students/getting-a-job"]
   },
+  "mentors": {
+    "Mentors": ["mentors"],
+    "Organisation": [
+      "mentors/joining",
+      "mentors/teams",
+      "mentors/module-leads",
+      "mentors/retrospectives",
+      "mentors/git-repos"
+    ],
+    "Teaching": ["mentors/teaching-rules", "mentors/teaching-tips"]
+  },
   "london": {
     "London": ["cities/london/home", "cities/london/contact"]
   },
@@ -13,10 +24,5 @@
   },
   "manchester": {
     "Manchester": ["cities/manchester/home", "cities/manchester/contact"]
-  },
-  "mentors": {
-    "Mentors": ["mentors", "mentors/git-repos"],
-    "Helping out": ["mentors/joining", "mentors/teams"],
-    "Classes": ["mentors/module-leads", "mentors/retrospectives"]
   }
 }
