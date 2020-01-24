@@ -17,14 +17,16 @@
   "mentors": {
     "Mentors": ["mentors"],
     "Organisation": [
-      "mentors/joining",
       "mentors/teams",
       "mentors/module-leads",
       "mentors/retrospectives",
       "mentors/git-repos",
       "slack"
     ],
-    "Teaching": ["mentors/teaching-rules", "mentors/teaching-tips"]
+    "New Volunteers": ["mentors/joining"],
+    "Outreach": [],
+    "Personal Development": [],
+    "Education": ["mentors/teaching-rules", "mentors/teaching-tips"]
   },
   "london": {
     "London": [
