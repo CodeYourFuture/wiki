@@ -1,6 +1,6 @@
-# CodeYourFuture Scotland portal
+# CodeYourFuture Wiki
 
-This is the CYF Scotland portal which contains the syllabus and useful information for students and mentors.
+This is the CYF Wiki portal contains useful information for students and mentors.
 
 ## Getting started
 
@@ -14,9 +14,10 @@ npm start
 
 ## Deployment
 
-Deploy to https://codeyourfuture.github.io/scotland/
+Deploy to https://codeyourfuture.github.io/wiki/
 
 ```
 cd website
-GIT_USER=<git-user> CURRENT_BRANCH=master USE_SSH=true npm run publish-gh-pages
+npm install
+GIT_USER=ChrisOwen101 CURRENT_BRANCH=master USE_SSH=true npm run publish-gh-pages
 ```

@@ -1,31 +1,26 @@
 {
-  "syllabus": {
-    "Syllabus": ["syllabus", "syllabus/slack", "syllabus/house-rules"],
-    "Introduction": ["syllabus/introduction-1", "syllabus/introduction-2"],
-    "HTML/CSS": ["syllabus/html-css-1", "syllabus/html-css-2", "syllabus/html-css-3"],
-    "JavaScript I": ["syllabus/js1-1", "syllabus/js1-2", "syllabus/js1-3"],
-    "JavaScript II": ["syllabus/js2-1", "syllabus/js2-2", "syllabus/js2-3"],
-    "JavaScript III": ["syllabus/js3-1", "syllabus/js3-2", "syllabus/js3-3"],
-    "React": ["syllabus/react-1", "syllabus/react-2", "syllabus/react-3"],
-    "Node/DB 1": ["syllabus/node-db-1", "syllabus/node-db-2", "syllabus/node-db-3"],
-    "Node/DB 2": ["syllabus/node-db-4", "syllabus/node-db-5", "syllabus/node-db-6"],
-    "Graduation project": ["syllabus/graduation-project"]
-  },
   "students": {
-    "Students": ["students", "students/developer-links", "students/getting-a-job"]
+    "Students": [
+      "students",
+      "students/developer-links",
+      "students/getting-a-job"
+    ]
+  },
+  "london": {
+    "London": ["cities/london/home", "cities/london/contact"]
+  },
+  "glasgow": {
+    "Glasgow": ["cities/glasgow/home", "cities/glasgow/contact"]
+  },
+  "birmingham": {
+    "Birmingham": ["cities/birmingham/home", "cities/birmingham/contact"]
+  },
+  "manchester": {
+    "Manchester": ["cities/manchester/home", "cities/manchester/contact"]
   },
   "mentors": {
-    "Mentors": [
-      "mentors",
-      "mentors/git-repos"
-    ],
-    "Helping out": [
-      "mentors/joining",
-      "mentors/teams"
-    ],
-    "Classes": [
-      "mentors/module-leads",
-      "mentors/retrospectives"
-    ]
+    "Mentors": ["mentors", "mentors/git-repos"],
+    "Helping out": ["mentors/joining", "mentors/teams"],
+    "Classes": ["mentors/module-leads", "mentors/retrospectives"]
   }
 }
