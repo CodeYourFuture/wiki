@@ -13,7 +13,8 @@ const siteConfig = {
     },
     { label: "Students", doc: "students" },
     { label: "Mentors", doc: "mentors" },
-    { label: "Code of Conduct", page: "code-of-conduct" }
+    { label: "Code of Conduct", page: "code-of-conduct" },
+    { search: true }
   ],
   headerIcon: "img/logo.png",
   favicon: "img/favicon.png",

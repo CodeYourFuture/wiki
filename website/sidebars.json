@@ -8,6 +8,7 @@
       "slack"
     ],
     "Guides": [
+      "students/guides/making-a-pull-request",
       "students/guides/hosting-netlify",
       "students/guides/node",
       "students/guides/cors"

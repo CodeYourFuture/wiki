@@ -1,6 +1,6 @@
 # CodeYourFuture Wiki
 
-This is the CYF Wiki portal contains useful information for students and mentors.
+This is the CYF Wiki. It contains useful information for students and mentors.
 
 ## Getting started
 
