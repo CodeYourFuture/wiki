@@ -1,0 +1,87 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>Module leads · CodeYourFuture Wiki</title><meta name="viewport" content="width=device-width"/><meta name="generator" content="Docusaurus"/><meta name="description" content="Mentors can volunteer as module leads, where they lead a module (e.g. JavaScript I)."/><meta name="docsearch:language" content="en"/><meta property="og:title" content="Module leads · CodeYourFuture Wiki"/><meta property="og:type" content="website"/><meta property="og:url" content="https://codeyourfuture.github.io/wiki/"/><meta property="og:description" content="Mentors can volunteer as module leads, where they lead a module (e.g. JavaScript I)."/><meta name="twitter:card" content="summary"/><link rel="shortcut icon" href="/wiki/img/favicon.png"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><script src="/wiki/js/scrollSpy.js"></script><link rel="stylesheet" href="/wiki/css/main.css"/><script src="/wiki/js/codetabs.js"></script></head><body class="sideNavVisible separateOnPageNav"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/wiki/"><img class="logo" src="/wiki/img/logo.png" alt="CodeYourFuture Wiki"/><h2 class="headerTitleWithLogo">CodeYourFuture Wiki</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class=""><a href="/wiki/students" target="_self">Students</a></li><li class="siteNavGroupActive"><a href="/wiki/mentors" target="_self">Mentors</a></li><li class=""><a href="/wiki/code-of-conduct" target="_self">Code of Conduct</a></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="docsNavContainer" id="docsNav"><nav class="toc"><div class="toggleNav"><section class="navWrapper wrapper"><div class="navBreadcrumb wrapper"><div class="navToggle" id="navToggler"><div class="hamburger-menu"><div class="line1"></div><div class="line2"></div><div class="line3"></div></div></div><h2><i>›</i><span>Classes</span></h2><div class="tocToggler" id="tocToggler"><i class="icon-toc"></i></div></div><div class="navGroups"><div class="navGroup"><h3 class="navGroupCategoryTitle">Mentors</h3><ul class=""><li class="navListItem"><a class="navItem" href="/wiki/mentors">Introduction</a></li><li class="navListItem"><a class="navItem" href="/wiki/mentors/git-repos">Git repos we use</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Helping out</h3><ul class=""><li class="navListItem"><a class="navItem" href="/wiki/mentors/joining">Joining as a volunteer</a></li><li class="navListItem"><a class="navItem" href="/wiki/mentors/teams">Mentor teams</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Classes</h3><ul class=""><li class="navListItem navListItemActive"><a class="navItem" href="/wiki/mentors/module-leads">Module leads</a></li><li class="navListItem"><a class="navItem" href="/wiki/mentors/retrospectives">Retrospectives</a></li></ul></div></div></section></div><script>
+            var coll = document.getElementsByClassName('collapsible');
+            var checkActiveCategory = true;
+            for (var i = 0; i < coll.length; i++) {
+              var links = coll[i].nextElementSibling.getElementsByTagName('*');
+              if (checkActiveCategory){
+                for (var j = 0; j < links.length; j++) {
+                  if (links[j].classList.contains('navListItemActive')){
+                    coll[i].nextElementSibling.classList.toggle('hide');
+                    coll[i].childNodes[1].classList.toggle('rotate');
+                    checkActiveCategory = false;
+                    break;
+                  }
+                }
+              }
+
+              coll[i].addEventListener('click', function() {
+                var arrow = this.childNodes[1];
+                arrow.classList.toggle('rotate');
+                var content = this.nextElementSibling;
+                content.classList.toggle('hide');
+              });
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+              createToggler('#navToggler', '#docsNav', 'docsSliderActive');
+              createToggler('#tocToggler', 'body', 'tocActive');
+
+              var headings = document.querySelector('.toc-headings');
+              headings && headings.addEventListener('click', function(event) {
+                var el = event.target;
+                while(el !== headings){
+                  if (el.tagName === 'A') {
+                    document.body.classList.remove('tocActive');
+                    break;
+                  } else{
+                    el = el.parentNode;
+                  }
+                }
+              }, false);
+
+              function createToggler(togglerSelector, targetSelector, className) {
+                var toggler = document.querySelector(togglerSelector);
+                var target = document.querySelector(targetSelector);
+
+                if (!toggler) {
+                  return;
+                }
+
+                toggler.onclick = function(event) {
+                  event.preventDefault();
+
+                  target.classList.toggle(className);
+                };
+              }
+            });
+        </script></nav></div><div class="container mainContainer docsContainer"><div class="wrapper"><div class="post"><header class="postHeader"><h1 id="__docusaurus" class="postHeaderTitle">Module leads</h1></header><article><div><span><p>Mentors can volunteer as module leads, where they lead a module (e.g. JavaScript I).
+Module leads do not necessarily need to be an expert in the subject or even be the one doing the teaching — their main role is ensuring the module runs.
+It is also possible to have multiple mentor leads for a single module to share the responsibilities.</p>
+<p>We are currently organising mentor leads.
+A spreadsheet was created for this which can be found here: <a href="https://docs.google.com/spreadsheets/d/1U1zt0XBOQXvLUc2OtP5kHrtwAgPvjTz90WQIN23btJo">https://docs.google.com/spreadsheets/d/1U1zt0XBOQXvLUc2OtP5kHrtwAgPvjTz90WQIN23btJo</a></p>
+<p>The responsibilities and duties of a module lead are listed below.</p>
+<h2><a class="anchor" aria-hidden="true" id="responsibilities"></a><a href="#responsibilities" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Responsibilities</h2>
+<ul>
+<li>Lead mentors are responsible for ensuring the following tasks are completed to ensure the module runs smoothly</li>
+<li>Resources such as quizzes may already exist for most modules. In such cases these need to be reviewed/updated</li>
+</ul>
+<h2><a class="anchor" aria-hidden="true" id="prep"></a><a href="#prep" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Prep</h2>
+<ul>
+<li>Syllabus reviewed and tested for clarity and accuracy. A full run-through of exercises should be completed to catch any broken code</li>
+<li>A progress tracker should be completed for the students to track their own learning progress</li>
+<li>A quiz should be created to be given to students at the end of the module</li>
+<li>Revision material should be created for the students to do on their own during revision week</li>
+<li>Group projects or similar exercises should be arranged to teach soft skills, group work, Git, or similar skills during revision week</li>
+</ul>
+<h2><a class="anchor" aria-hidden="true" id="running-the-class"></a><a href="#running-the-class" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Running the class</h2>
+<ul>
+<li>Identify who will be teaching what during each week and make sure they understand the material they are teaching</li>
+<li>Make sure there are enough mentors to run the class each week (at least 3)</li>
+<li>Show up 30 minutes before class to open Collaborate, arrange desks and make sure the class can start on time</li>
+<li>Make sure food is available at lunch</li>
+<li>Make sure the course runs to time — that lunch breaks happen at appropriate times, that it ends on time, that group presentations are kept to time, etc.</li>
+<li>Run a retrospective on the final session of the module</li>
+<li>Compile the top outcomes of the retrospective and determine actions to take. Share with mentors and students</li>
+<li>Make sure learning outcomes are achieved during the class. If a teacher is floundering or a concept explanation didn't land, make sure it is revisited</li>
+</ul>
+</span></div></article></div><div class="docs-prevnext"><a class="docs-prev button" href="/wiki/mentors/teams"><span class="arrow-prev">← </span><span>Mentor teams</span></a><a class="docs-next button" href="/wiki/mentors/retrospectives"><span>Retrospectives</span><span class="arrow-next"> →</span></a></div></div></div><nav class="onPageNav"><ul class="toc-headings"><li><a href="#responsibilities">Responsibilities</a></li><li><a href="#prep">Prep</a></li><li><a href="#running-the-class">Running the class</a></li></ul></nav></div><footer class="nav-footer" id="footer"><div class="wrapper"><section class="sitemap"><h5>CodeYourFuture</h5><nav><ul><li><a href="https://codeyourfuture.io" target="_blank" rel="noreferrer noopener">Website</a></li><li><a href="https://github.com/CodeYourFuture" target="_blank" rel="noreferrer noopener">GitHub</a></li><li><a href="https://twitter.com/CodeYourFuture_" target="_blank" rel="noreferrer noopener">Twitter</a></li><li><a href="https://www.facebook.com/codeyourfuture.io" target="_blank" rel="noreferrer noopener">Facebook</a></li></ul></nav></section><section class="copyright">Copyright © 2020 CodeYourFuture</section></div></footer></div></body></html>

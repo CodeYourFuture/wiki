@@ -1,0 +1,236 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>Getting a job · CodeYourFuture Wiki</title><meta name="viewport" content="width=device-width"/><meta name="generator" content="Docusaurus"/><meta name="description" content="## CV"/><meta name="docsearch:language" content="en"/><meta property="og:title" content="Getting a job · CodeYourFuture Wiki"/><meta property="og:type" content="website"/><meta property="og:url" content="https://codeyourfuture.github.io/wiki/"/><meta property="og:description" content="## CV"/><meta name="twitter:card" content="summary"/><link rel="shortcut icon" href="/wiki/img/favicon.png"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><script src="/wiki/js/scrollSpy.js"></script><link rel="stylesheet" href="/wiki/css/main.css"/><script src="/wiki/js/codetabs.js"></script></head><body class="sideNavVisible separateOnPageNav"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/wiki/"><img class="logo" src="/wiki/img/logo.png" alt="CodeYourFuture Wiki"/><h2 class="headerTitleWithLogo">CodeYourFuture Wiki</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class="siteNavGroupActive"><a href="/wiki/students" target="_self">Students</a></li><li class=""><a href="/wiki/mentors" target="_self">Mentors</a></li><li class=""><a href="/wiki/code-of-conduct" target="_self">Code of Conduct</a></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="docsNavContainer" id="docsNav"><nav class="toc"><div class="toggleNav"><section class="navWrapper wrapper"><div class="navBreadcrumb wrapper"><div class="navToggle" id="navToggler"><div class="hamburger-menu"><div class="line1"></div><div class="line2"></div><div class="line3"></div></div></div><h2><i>›</i><span>Students</span></h2><div class="tocToggler" id="tocToggler"><i class="icon-toc"></i></div></div><div class="navGroups"><div class="navGroup"><h3 class="navGroupCategoryTitle">Students</h3><ul class=""><li class="navListItem"><a class="navItem" href="/wiki/students">Students</a></li><li class="navListItem"><a class="navItem" href="/wiki/students/developer-links">Developer links</a></li><li class="navListItem navListItemActive"><a class="navItem" href="/wiki/students/getting-a-job">Getting a job</a></li></ul></div></div></section></div><script>
+            var coll = document.getElementsByClassName('collapsible');
+            var checkActiveCategory = true;
+            for (var i = 0; i < coll.length; i++) {
+              var links = coll[i].nextElementSibling.getElementsByTagName('*');
+              if (checkActiveCategory){
+                for (var j = 0; j < links.length; j++) {
+                  if (links[j].classList.contains('navListItemActive')){
+                    coll[i].nextElementSibling.classList.toggle('hide');
+                    coll[i].childNodes[1].classList.toggle('rotate');
+                    checkActiveCategory = false;
+                    break;
+                  }
+                }
+              }
+
+              coll[i].addEventListener('click', function() {
+                var arrow = this.childNodes[1];
+                arrow.classList.toggle('rotate');
+                var content = this.nextElementSibling;
+                content.classList.toggle('hide');
+              });
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+              createToggler('#navToggler', '#docsNav', 'docsSliderActive');
+              createToggler('#tocToggler', 'body', 'tocActive');
+
+              var headings = document.querySelector('.toc-headings');
+              headings && headings.addEventListener('click', function(event) {
+                var el = event.target;
+                while(el !== headings){
+                  if (el.tagName === 'A') {
+                    document.body.classList.remove('tocActive');
+                    break;
+                  } else{
+                    el = el.parentNode;
+                  }
+                }
+              }, false);
+
+              function createToggler(togglerSelector, targetSelector, className) {
+                var toggler = document.querySelector(togglerSelector);
+                var target = document.querySelector(targetSelector);
+
+                if (!toggler) {
+                  return;
+                }
+
+                toggler.onclick = function(event) {
+                  event.preventDefault();
+
+                  target.classList.toggle(className);
+                };
+              }
+            });
+        </script></nav></div><div class="container mainContainer docsContainer"><div class="wrapper"><div class="post"><header class="postHeader"><h1 id="__docusaurus" class="postHeaderTitle">Getting a job</h1></header><article><div><span><h2><a class="anchor" aria-hidden="true" id="cv"></a><a href="#cv" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>CV</h2>
+<p>This CV section is relevant for people applying to jobs within the UK.</p>
+<h3><a class="anchor" aria-hidden="true" id="best-practice"></a><a href="#best-practice" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Best practice</h3>
+<ul>
+<li>Keep it short and concise, 1-2 pages maximum</li>
+<li>Put your details at the top. Only these details are necessary:
+<ul>
+<li>Name</li>
+<li>Email (use a sensible one—no <a href="mailto:sexy_lulu@hotmail.com">sexy_lulu@hotmail.com</a> etc.)</li>
+<li>Phone number</li>
+<li>Your city (not your full address since this is personal information!
+If they need it they'll ask for it later)</li>
+<li>If you have a LinkedIn profile you can add a link to it here (your LinkedIn profile should have the same information and dates as the rest of your CV)</li>
+</ul></li>
+<li>Use the following sections, and only populate them with relevant details
+starting from the most recent first:
+<ol>
+<li>Profile (optional)
+<ul>
+<li>Profile is who you are now, a short 'brag' and what you want to do next in your career</li>
+</ul></li>
+<li>Skills</li>
+<li>Employment
+<ul>
+<li>Use action verbs for each bullet point
+(see: <a href="https://www.indeed.com/career-advice/resumes-cover-letters/action-verbs-to-make-your-resume-stand-out">https://www.indeed.com/career-advice/resumes-cover-letters/action-verbs-to-make-your-resume-stand-out</a>)</li>
+<li>Show your accomplishments, with numbers if you can
+(e.g. Improved landing page time to interactive by 50%)</li>
+</ul></li>
+<li>Education (this can go above Employment if the last thing you did was education and not work)</li>
+<li>Personal projects</li>
+<li>Interests (optional)</li>
+</ol></li>
+</ul>
+<h4><a class="anchor" aria-hidden="true" id="profile-section-explained"></a><a href="#profile-section-explained" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Profile section explained</h4>
+<p>A profile section says who you are now, a quick summary of your skills and experience (1-2 sentences), and what you want to do next in your career.
+It needs to use action verbs and describe the job you're applying to.
+Change this section depending on the advert you apply to, copying the phrases used in the advert.
+Don't write &quot;I am&quot; (1st person) or &quot;Nick is&quot; (3rd person).
+Aim for a 3rd person impersonal tone:</p>
+<blockquote>
+<p><del>I am</del> An experienced <strong>front end web developer</strong> who takes pride in creating accessible sites using a variety of tools.
+<del>I have</del> Experience of working in a dynamic project environment using agile methodologies and tools including Adobe studio and React.
+<del>I am</del> Now looking for a new challenging position in a young dynamic organisation to build and consolidate skills.</p>
+</blockquote>
+<p>In the example above, removing the &quot;I am / I have&quot; makes it sound a little less boastful and more factual.
+This way, you can say more about yourself.
+It's easy to write &quot;I am / I have&quot; in the first draft, then delete them later.</p>
+<p>Change the job title in the first line to match the job you are applying for.
+If the job you are applying for is a Front End Web Designer, then write you are a front end web designer even if your last job was widget sales.
+Nothing turns off a recruiter faster than if the first line of the CV says you are something they are not looking for!
+Mirror the job advert language here—if they call a developer a designer, then write designer.</p>
+<p>Next, if the advert asks for certain tools and you have that experience then mention them here.
+Bring out the most relevant bits of your CV experience in the next couple of sentences.</p>
+<p>Finally, the last sentence is what you want to do next in your career—what sort of role in what sort of organisation.
+Again, mirror the language of the job advert.
+If they say they are a young dynamic agency then write you would like your next role to be in a young dynamic organisation.</p>
+<p>Mirroring the language helps your application.
+If you are writing a general CV, write it using industry standard language and terms.</p>
+<h4><a class="anchor" aria-hidden="true" id="employment-section-explained"></a><a href="#employment-section-explained" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Employment section explained</h4>
+<p>Everything you have delivered in a role can be explained as an achievement.
+Each achievement is an example of completed work.
+Ideally, it should have a quantitative element.
+Each job needs 2-3 achievements.
+The layout can be something like:</p>
+<blockquote>
+<p>Jan 2018 – Sept 2019<br>
+Front End Web Developer, Acme Web Ltd</p>
+<p>Acme are an award winning developer based in Glasgow, with a design team of 30 and clients across the UK.
+Working as part of a wide team and along-side clients, I develop unique web front ends with UI and mobile accessibility in mind.
+Working with Jira, PHP and Adobe tools.</p>
+<p>Achievements:</p>
+<ul>
+<li>2018 — Redesigned and dramatically simplified a web site for a client in 2 months, with very positive feedback from the client and their customers</li>
+<li>2019 — Working on a client premise, alongside marketing team. Created a custom Wordpress site for a charity, retiring an aging flash site. Handover included posting and maintenance training and documentation allowing them to become self-sufficient</li>
+</ul>
+</blockquote>
+<p>Add the most recent experience first.
+The most recent or most important information appears above the older or less important information.
+If education is more important than experience for this job advert, then put the education section above experience.
+Focus on the experience that is relevant to the job you want.</p>
+<p>If have an older unrelated career, de-focus its importance by writing less about it.
+However, you can extract and use the important aspects that are transferable.
+For example, if your previous experience was working in a pub then only write one line about it with no achievements, but you can include transferable skills such as working as part of a team and supporting colleagues.</p>
+<p>Don't try to hide gaps in employment.
+Explain them if they lasted more than a few months.
+However, if you have unpaid volunteer work then you can add this as a job and expand on it if it provided experience relevant to the job advert.</p>
+<h3><a class="anchor" aria-hidden="true" id="cv-layout"></a><a href="#cv-layout" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>CV layout</h3>
+<p>The layout of the CV should be right for the role you're applying for.
+An accountant's CV should be boring and a creative's CV can be more visually appealing.
+For your CV, the content is king.
+Layout and eye-appeal is secondary and in many cases can detract from the content.</p>
+<p>Your CV should be a single column.
+2-column CVs should be avoided.</p>
+<p><img src="/wiki/assets/students/equal-columns.png" alt="Equal columns"></p>
+<p>In the 2-column example above, a 2-column format is applied to the CV text.
+The top of both columns are likely to contain different content.
+This makes it more difficult to read and can trip up screen reading and <a href="https://en.wikipedia.org/wiki/Applicant_tracking_system">applicant tracking systems (ATS)</a> if it tries to read across a line.
+Also, CVs are usually compiled with the most important information at the top of page 1, and the least important at the top of page 2.
+The 2-column format can distort this, leaving your best information at the bottom of the page.</p>
+<p><img src="/wiki/assets/students/minor-column.png" alt="Minor column"></p>
+<p>In the alternative 2-column example above, a second minor column is used for keywords and skills to highlight the experience in the main body.
+It can take a lot of work to set this up but ATSs might still parse it as a single line.
+If you absolutely have to have a 2-column format then this is going to be the best one to use.</p>
+<p>The bottom line is you should avoid the 2-column format since it doesn't gain you enough for the problems it causes.</p>
+<h4><a class="anchor" aria-hidden="true" id="file-format"></a><a href="#file-format" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>File format</h4>
+<p>PDFs should be avoided.
+They can be tricky to copy and paste from, often adding line breaks to text blocks that line-wrap.
+Agencies often reformat your CV to fit their house style in order to present it to clients.
+Making it more difficult to copy and paste will not help them.</p>
+<p>DOC or DOCX (Microsoft Word format) is preferred by most employers and agents.
+It's easy to manipulate and copy into systems, and it is still the industry standard CV format.
+However, never embed macros into the Word document since most email virus systems will filter these by default.</p>
+<p>RTF (rich text format) is still popular, and if you can make it look good in RTF then it is light and easy to maintain.</p>
+<p>Whatever the format, your CV file size should never be more than 15MB.
+Keep graphical elements to a minimum.</p>
+<h3><a class="anchor" aria-hidden="true" id="cv-guides"></a><a href="#cv-guides" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>CV guides</h3>
+<ul>
+<li><a href="https://nationalcareers.service.gov.uk/get-a-job/cv-sections">https://nationalcareers.service.gov.uk/get-a-job/cv-sections</a></li>
+<li><a href="http://www.energizerecruitment.co.uk/software-developers-guide-writing-cv-2017/">http://www.energizerecruitment.co.uk/software-developers-guide-writing-cv-2017/</a></li>
+</ul>
+<h3><a class="anchor" aria-hidden="true" id="cv-samples"></a><a href="#cv-samples" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>CV samples</h3>
+<ul>
+<li><a href="https://www.livecareer.co.uk/cv-search/r/front-end-web-developer-31839afbd6b640429d637cdda953561c">https://www.livecareer.co.uk/cv-search/r/front-end-web-developer-31839afbd6b640429d637cdda953561c</a></li>
+<li><a href="https://www.livecareer.co.uk/cv-search/r/front-end-developer-00fdd3a63d27437d899f94a70df420be">https://www.livecareer.co.uk/cv-search/r/front-end-developer-00fdd3a63d27437d899f94a70df420be</a></li>
+<li><a href="https://www.brookes.ac.uk/students/careers/students-and-graduates/cv-guide/mature-graduate-cv/">https://www.brookes.ac.uk/students/careers/students-and-graduates/cv-guide/mature-graduate-cv/</a>
+— useful reference for people with gaps in their CV</li>
+</ul>
+<h2><a class="anchor" aria-hidden="true" id="cover-letter"></a><a href="#cover-letter" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Cover letter</h2>
+<p>A cover letter is essential for job applications.
+Ensure you provide one that is tailored for each of your job applications.
+You can search the internet to find various cover letter guides and samples.</p>
+<h2><a class="anchor" aria-hidden="true" id="interviews"></a><a href="#interviews" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Interviews</h2>
+<p>General interview questions</p>
+<ul>
+<li><a href="https://www.wisebread.com/how-to-answer-23-of-the-most-common-interview-questions">https://www.wisebread.com/how-to-answer-23-of-the-most-common-interview-questions</a></li>
+</ul>
+<p>Technical interview questions with answers (intermediate-level)</p>
+<ul>
+<li><a href="https://github.com/30-seconds/30-seconds-of-interviews">https://github.com/30-seconds/30-seconds-of-interviews</a></li>
+<li><a href="https://github.com/FAQGURU/FAQGURU">https://github.com/FAQGURU/FAQGURU</a></li>
+</ul>
+<p>Questions to ask the company</p>
+<ul>
+<li><a href="https://github.com/Twipped/InterviewThis">https://github.com/Twipped/InterviewThis</a>
+— some of these questions are great, but some are not so good</li>
+</ul>
+<p>Live interview practice</p>
+<ul>
+<li><a href="https://www.pramp.com/">https://www.pramp.com/</a></li>
+</ul>
+<h2><a class="anchor" aria-hidden="true" id="personal-projects"></a><a href="#personal-projects" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Personal projects</h2>
+<p>Personal projects are a good way to build up your portfolio of code projects on GitHub.
+They are very useful for employers to see how you code and also demonstrate your enthusiasm.</p>
+<p>Inspiration for personal projects</p>
+<ul>
+<li><a href="https://github.com/florinpop17/app-ideas">https://github.com/florinpop17/app-ideas</a></li>
+<li><a href="https://github.com/karan/Projects">https://github.com/karan/Projects</a></li>
+</ul>
+<p>Walkthroughs of projects</p>
+<ul>
+<li><a href="https://github.com/tuvtran/project-based-learning">https://github.com/tuvtran/project-based-learning</a></li>
+<li><a href="https://javascript30.com/">https://javascript30.com/</a></li>
+</ul>
+<h2><a class="anchor" aria-hidden="true" id="contributing-to-open-source"></a><a href="#contributing-to-open-source" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Contributing to open source</h2>
+<p>Easier open source issues for people starting with open source contribution</p>
+<ul>
+<li><a href="https://github.com/MunGell/awesome-for-beginners">https://github.com/MunGell/awesome-for-beginners</a></li>
+<li><a href="https://firstcontributions.github.io/">https://firstcontributions.github.io/</a></li>
+</ul>
+<p>How to contribute to an open source project on GitHub</p>
+<ul>
+<li><a href="https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github">https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github</a></li>
+</ul>
+<h2><a class="anchor" aria-hidden="true" id="other"></a><a href="#other" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Other</h2>
+<ul>
+<li><a href="https://skillcrush.com/2015/03/12/impressive-tech-portfolio/">Tips for creating your own portfolio website</a></li>
+<li><a href="https://github.com/HackYourFuture/alumni/wiki">Career tips from HackYourFuture, a refugee code school in Amsterdam</a></li>
+</ul>
+</span></div></article></div><div class="docs-prevnext"><a class="docs-prev button" href="/wiki/students/developer-links"><span class="arrow-prev">← </span><span>Developer links</span></a></div></div></div><nav class="onPageNav"><ul class="toc-headings"><li><a href="#cv">CV</a><ul class="toc-headings"><li><a href="#best-practice">Best practice</a></li><li><a href="#cv-layout">CV layout</a></li><li><a href="#cv-guides">CV guides</a></li><li><a href="#cv-samples">CV samples</a></li></ul></li><li><a href="#cover-letter">Cover letter</a></li><li><a href="#interviews">Interviews</a></li><li><a href="#personal-projects">Personal projects</a></li><li><a href="#contributing-to-open-source">Contributing to open source</a></li><li><a href="#other">Other</a></li></ul></nav></div><footer class="nav-footer" id="footer"><div class="wrapper"><section class="sitemap"><h5>CodeYourFuture</h5><nav><ul><li><a href="https://codeyourfuture.io" target="_blank" rel="noreferrer noopener">Website</a></li><li><a href="https://github.com/CodeYourFuture" target="_blank" rel="noreferrer noopener">GitHub</a></li><li><a href="https://twitter.com/CodeYourFuture_" target="_blank" rel="noreferrer noopener">Twitter</a></li><li><a href="https://www.facebook.com/codeyourfuture.io" target="_blank" rel="noreferrer noopener">Facebook</a></li></ul></nav></section><section class="copyright">Copyright © 2020 CodeYourFuture</section></div></footer></div></body></html>
