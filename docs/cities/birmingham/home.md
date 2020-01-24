@@ -1,6 +1,6 @@
 ---
 id: home
-title: Overview of Birmingham
+title: Overview
 ---
 
 ## Birmingham Information

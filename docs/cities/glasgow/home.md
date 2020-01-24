@@ -1,6 +1,6 @@
 ---
 id: home
-title: Overview of Glasgow
+title: Overview
 ---
 
 ## Glasgow Information

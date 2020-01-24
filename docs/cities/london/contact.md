@@ -1,6 +1,6 @@
 ---
 id: contact
-title: Contact information for London
+title: Contact information
 ---
 
 Here is information about london

@@ -1,6 +1,6 @@
 ---
 id: house-rules
-title: House Riles
+title: House Rules
 ---
 
 - Whilst you're a student, arrive on time. Lots of people are giving freely of their time and knowledge to make the class possible and giving up other commitments to be here. Respect that, and always be on time.

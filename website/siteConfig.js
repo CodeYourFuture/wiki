@@ -5,7 +5,12 @@ const siteConfig = {
   baseUrl: "/wiki/",
   organizationName: "codeyourfuture",
   projectName: "Wiki",
+  users: [{ caption: "Hello" }],
   headerLinks: [
+    {
+      label: "Syllabus",
+      href: "https://codeyourfuture.github.io/syllabus-master/"
+    },
     { label: "Students", doc: "students" },
     { label: "Mentors", doc: "mentors" },
     { label: "Code of Conduct", page: "code-of-conduct" }

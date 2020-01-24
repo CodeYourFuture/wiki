@@ -4,7 +4,13 @@
       "students",
       "students/house-rules",
       "students/useful-links",
-      "students/getting-a-job"
+      "students/getting-a-job",
+      "slack"
+    ],
+    "Guides": [
+      "students/guides/hosting-netlify",
+      "students/guides/node",
+      "students/guides/cors"
     ]
   },
   "mentors": {
@@ -14,7 +20,8 @@
       "mentors/teams",
       "mentors/module-leads",
       "mentors/retrospectives",
-      "mentors/git-repos"
+      "mentors/git-repos",
+      "slack"
     ],
     "Teaching": ["mentors/teaching-rules", "mentors/teaching-tips"]
   },

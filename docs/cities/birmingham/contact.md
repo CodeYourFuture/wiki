@@ -1,6 +1,6 @@
 ---
 id: contact
-title: Contact information for Birmingham
+title: Contact information
 ---
 
 Here is information about birmingham

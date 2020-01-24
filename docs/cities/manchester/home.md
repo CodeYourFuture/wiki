@@ -1,6 +1,6 @@
 ---
 id: home
-title: Overview of Manchester
+title: Overview
 ---
 
 ## Manchester Information

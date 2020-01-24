@@ -1,6 +1,6 @@
 ---
 id: home
-title: Overview of London
+title: Overview
 ---
 
 ## London Information

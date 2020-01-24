@@ -1,6 +1,6 @@
 ---
 id: useful-information
-title: Useful information for London
+title: Useful information
 ---
 
 ## Where do we teach?

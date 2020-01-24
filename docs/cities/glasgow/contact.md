@@ -1,6 +1,6 @@
 ---
 id: contact
-title: Contact information for Glasgow
+title: Contact information
 ---
 
 Here is information about Glasgow
