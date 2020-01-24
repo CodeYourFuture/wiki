@@ -29,21 +29,21 @@ At all times, you need to be super careful about the words you use.
 
 It's hard, but possible. Don't use words and technical terminology that kids wouldn't understand.
 
-## Don't say "it's easy" or "just..."
+### Don't say "it's easy" or "just..."
 
 For your learners it may be the hardest thing they've ever done. Telling them that "it's easy" is not cool. Saying "just…" suggests that it's simple and they're failing if they find it hard to understand.
 
-## No feigning surprise
+### No feigning surprise
 
 Don't act surprised when people say they don't know something. Not knowing something (technical or not) is totally acceptable at Code Your Future
 
 Be prepared even for questions like: "What is a directory?" or "How do I create a file?".
 
-## No well-actually's
+### No well-actually's
 
 A well-actually happens when someone says something that's almost - but not entirely - correct, and you say, "well, actually…" and then give a minor correction. This is especially annoying when the correction has no bearing on the actual conversation.
 
-## No subtle-isms
+### No subtle-isms
 
 Subtle-isms are small things that make others feel uncomfortable, things that we all sometimes do by mistake. For example, saying "It's so easy my grandmother could do it" is a subtle-ism. Like the other three social rules, this one is often accidentally broken. Like the other three, it's not a big deal to mess up – you just apologize and move on.
 The above two sections come from Hacker School User's Manual which is a highly recommended resource for teaching.
