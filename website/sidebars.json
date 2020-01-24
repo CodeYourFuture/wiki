@@ -18,15 +18,20 @@
     "Mentors": ["mentors"],
     "Organisation": [
       "mentors/teams",
-      "mentors/module-leads",
       "mentors/retrospectives",
-      "mentors/git-repos",
+      "mentors/cyf-dashboard",
       "slack"
     ],
     "New Volunteers": ["mentors/joining"],
     "Outreach": [],
     "Personal Development": [],
-    "Education": ["mentors/teaching-rules", "mentors/teaching-tips"]
+    "Education": [
+      "mentors/education/teaching-rules",
+      "mentors/education/teaching-tips",
+      "mentors/education/google-classroom",
+      "mentors/education/git-repos",
+      "mentors/education/module-leads"
+    ]
   },
   "london": {
     "London": [
