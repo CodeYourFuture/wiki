@@ -1,6 +1,11 @@
 {
   "students": {
-    "Students": ["students", "students/useful-links", "students/getting-a-job"]
+    "Students": [
+      "students",
+      "students/house-rules",
+      "students/useful-links",
+      "students/getting-a-job"
+    ]
   },
   "mentors": {
     "Mentors": ["mentors"],
@@ -14,15 +19,31 @@
     "Teaching": ["mentors/teaching-rules", "mentors/teaching-tips"]
   },
   "london": {
-    "London": ["cities/london/home", "cities/london/contact"]
+    "London": [
+      "cities/london/home",
+      "cities/london/useful-information",
+      "cities/london/contact"
+    ]
   },
   "glasgow": {
-    "Glasgow": ["cities/glasgow/home", "cities/glasgow/contact"]
+    "Glasgow": [
+      "cities/glasgow/home",
+      "cities/glasgow/useful-information",
+      "cities/glasgow/contact"
+    ]
   },
   "birmingham": {
-    "Birmingham": ["cities/birmingham/home", "cities/birmingham/contact"]
+    "Birmingham": [
+      "cities/birmingham/home",
+      "cities/birmingham/useful-information",
+      "cities/birmingham/contact"
+    ]
   },
   "manchester": {
-    "Manchester": ["cities/manchester/home", "cities/manchester/contact"]
+    "Manchester": [
+      "cities/manchester/home",
+      "cities/manchester/useful-information",
+      "cities/manchester/contact"
+    ]
   }
 }
