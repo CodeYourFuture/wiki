@@ -1,0 +1,135 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>Hosting a website on Netlify · CodeYourFuture Wiki</title><meta name="viewport" content="width=device-width"/><meta name="generator" content="Docusaurus"/><meta name="description" content="# Hosting your React app on the web, using Netlify"/><meta name="docsearch:language" content="en"/><meta property="og:title" content="Hosting a website on Netlify · CodeYourFuture Wiki"/><meta property="og:type" content="website"/><meta property="og:url" content="https://codeyourfuture.github.io/wiki/"/><meta property="og:description" content="# Hosting your React app on the web, using Netlify"/><meta name="twitter:card" content="summary"/><link rel="shortcut icon" href="/wiki/img/favicon.png"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><script src="/wiki/js/scrollSpy.js"></script><link rel="stylesheet" href="/wiki/css/main.css"/><script src="/wiki/js/codetabs.js"></script></head><body class="sideNavVisible separateOnPageNav"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/wiki/"><img class="logo" src="/wiki/img/logo.png" alt="CodeYourFuture Wiki"/><h2 class="headerTitleWithLogo">CodeYourFuture Wiki</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class=""><a href="https://codeyourfuture.github.io/syllabus-master/" target="_self">Syllabus</a></li><li class="siteNavGroupActive"><a href="/wiki/students" target="_self">Students</a></li><li class=""><a href="/wiki/mentors" target="_self">Mentors</a></li><li class=""><a href="/wiki/code-of-conduct" target="_self">Code of Conduct</a></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="docsNavContainer" id="docsNav"><nav class="toc"><div class="toggleNav"><section class="navWrapper wrapper"><div class="navBreadcrumb wrapper"><div class="navToggle" id="navToggler"><div class="hamburger-menu"><div class="line1"></div><div class="line2"></div><div class="line3"></div></div></div><h2><i>›</i><span>Guides</span></h2><div class="tocToggler" id="tocToggler"><i class="icon-toc"></i></div></div><div class="navGroups"><div class="navGroup"><h3 class="navGroupCategoryTitle">Students</h3><ul class=""><li class="navListItem"><a class="navItem" href="/wiki/students">Students</a></li><li class="navListItem"><a class="navItem" href="/wiki/students/house-rules">House Rules</a></li><li class="navListItem"><a class="navItem" href="/wiki/students/useful-links">Useful links</a></li><li class="navListItem"><a class="navItem" href="/wiki/students/getting-a-job">Getting a job</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Guides</h3><ul class=""><li class="navListItem navListItemActive"><a class="navItem" href="/wiki/students/guides/hosting-netlify">Hosting a website on Netlify</a></li><li class="navListItem"><a class="navItem" href="/wiki/students/guides/node">Node Version Manager</a></li><li class="navListItem"><a class="navItem" href="/wiki/students/guides/cors">CORS</a></li></ul></div></div></section></div><script>
+            var coll = document.getElementsByClassName('collapsible');
+            var checkActiveCategory = true;
+            for (var i = 0; i < coll.length; i++) {
+              var links = coll[i].nextElementSibling.getElementsByTagName('*');
+              if (checkActiveCategory){
+                for (var j = 0; j < links.length; j++) {
+                  if (links[j].classList.contains('navListItemActive')){
+                    coll[i].nextElementSibling.classList.toggle('hide');
+                    coll[i].childNodes[1].classList.toggle('rotate');
+                    checkActiveCategory = false;
+                    break;
+                  }
+                }
+              }
+
+              coll[i].addEventListener('click', function() {
+                var arrow = this.childNodes[1];
+                arrow.classList.toggle('rotate');
+                var content = this.nextElementSibling;
+                content.classList.toggle('hide');
+              });
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+              createToggler('#navToggler', '#docsNav', 'docsSliderActive');
+              createToggler('#tocToggler', 'body', 'tocActive');
+
+              var headings = document.querySelector('.toc-headings');
+              headings && headings.addEventListener('click', function(event) {
+                var el = event.target;
+                while(el !== headings){
+                  if (el.tagName === 'A') {
+                    document.body.classList.remove('tocActive');
+                    break;
+                  } else{
+                    el = el.parentNode;
+                  }
+                }
+              }, false);
+
+              function createToggler(togglerSelector, targetSelector, className) {
+                var toggler = document.querySelector(togglerSelector);
+                var target = document.querySelector(targetSelector);
+
+                if (!toggler) {
+                  return;
+                }
+
+                toggler.onclick = function(event) {
+                  event.preventDefault();
+
+                  target.classList.toggle(className);
+                };
+              }
+            });
+        </script></nav></div><div class="container mainContainer docsContainer"><div class="wrapper"><div class="post"><header class="postHeader"><h1 id="__docusaurus" class="postHeaderTitle">Hosting a website on Netlify</h1></header><article><div><span><h1><a class="anchor" aria-hidden="true" id="hosting-your-react-app-on-the-web-using-netlify"></a><a href="#hosting-your-react-app-on-the-web-using-netlify" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Hosting your React app on the web, using Netlify</h1>
+<p>Note: these instructions are for React apps that have been created with the command <code>create-react-app</code>.</p>
+<h2><a class="anchor" aria-hidden="true" id="getting-set-up"></a><a href="#getting-set-up" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Getting set up</h2>
+<h3><a class="anchor" aria-hidden="true" id="install-the-netlify-cli-software-_once_"></a><a href="#install-the-netlify-cli-software-_once_" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Install the netlify-cli software, <em>once</em>:</h3>
+<p>In a terminal, from <em>any</em> directory, run the following to install <code>netlify-cli</code> globally.</p>
+<pre><code class="hljs">npm install netlify-<span class="hljs-keyword">cli</span> -g
+</code></pre>
+<p>If this fails with errors, run it again with superuser privileges, using <code>sudo</code>:</p>
+<pre><code class="hljs">sudo npm install netlify-<span class="hljs-keyword">cli</span> -g
+</code></pre>
+<h3><a class="anchor" aria-hidden="true" id="create-a-netlify-account"></a><a href="#create-a-netlify-account" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Create a netlify account</h3>
+<p>Visit <a href="https://netlify.com/">https://netlify.com/</a> and create a free account.</p>
+<h2><a class="anchor" aria-hidden="true" id="build-your-react-app"></a><a href="#build-your-react-app" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>&quot;Build&quot; your React app</h2>
+<p>First navigate with <code>cd</code> to the directory for your React app that you want to host. (Let's assume it's called cyf-hotel)</p>
+<pre><code class="hljs"><span class="hljs-keyword">cd</span> cyf-<span class="hljs-keyword">hotel</span>
+</code></pre>
+<p>Now, <code>build</code> the app:</p>
+<pre><code class="hljs">npm <span class="hljs-keyword">run</span><span class="bash"> build</span>
+</code></pre>
+<p>This will create (or update) a <code>build</code> directory within your current directory. This contains a <em>prepared</em> version of your app, ready to be hosted. (There are many ways to host it.)</p>
+<h3><a class="anchor" aria-hidden="true" id="host-the-app-for-the-first-time-on-netlify"></a><a href="#host-the-app-for-the-first-time-on-netlify" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Host the app for the first time on netlify</h3>
+<pre><code class="hljs">netlify <span class="hljs-keyword">deploy</span> <span class="hljs-params">--prod</span>
+</code></pre>
+<p>It will ask some questions.</p>
+<p>NOTE: You can <em>only</em> use the <em>keyboard</em> (UP/DOWN arrows, and ENTER) to input the answers to these questions.</p>
+<p>First it will try to use your browser to authenticate you. Depending on your computer, it may launch a new browser tab or it may fail to do so.</p>
+<p>If told to do so:</p>
+<ul>
+<li>open the given URL in the browser to authenticate</li>
+</ul>
+<p>In all cases:</p>
+<ul>
+<li><p>Go to your browser, press &quot;Authenticate&quot; on the netlify tab that has just been opened.</p></li>
+<li><p>Go back to the terminal. It should display that auth was successful, and it should ask you more questions:</p></li>
+<li><p>Choose: <code>Create &amp; Configure a new site</code></p></li>
+<li><p>Choose a site name like: <code>cyf-ahmet-hotel</code></p></li>
+<li><p>When asked for <em>team</em>, <em>DON'T</em> select <code>CYF</code> if it is an option. Choose <em>your own user name</em> as a team.</p></li>
+<li><p>When asked for deploy path, enter <code>build</code>.</p></li>
+</ul>
+<p><em>That's it, all done.</em></p>
+<ul>
+<li>Visit the live site URL that netlify reports at the end.</li>
+<li>Check your app is there and works!</li>
+<li>Test it on your phone!</li>
+<li>Share the url with someone in the class!</li>
+</ul>
+<h2><a class="anchor" aria-hidden="true" id="what-if-i-want-to-make-changes-to-my-app"></a><a href="#what-if-i-want-to-make-changes-to-my-app" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>What if I want to make changes to my app?</h2>
+<p>After you make changes, you will want to <em>build</em> and <em>deploy</em> again, in order to host your updated app. Here is how:</p>
+<ul>
+<li><p>Make changes to your app</p></li>
+<li><p>Test the changes</p></li>
+<li><p>If you're ready to update the hosted version:</p></li>
+</ul>
+<pre><code class="hljs">npm <span class="hljs-built_in">run</span> build
+netlify deploy <span class="hljs-comment">--prod</span>
+</code></pre>
+<h1><a class="anchor" aria-hidden="true" id="troubleshooting"></a><a href="#troubleshooting" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Troubleshooting</h1>
+<h1><a class="anchor" aria-hidden="true" id="deleting-your-hosted-site"></a><a href="#deleting-your-hosted-site" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Deleting your hosted site</h1>
+<p>If you decide you don't want your site hosted:</p>
+<ul>
+<li>log in to <a href="https://netlify.com/">https://netlify.com/</a></li>
+<li>select your site from the list</li>
+<li>click on site settings</li>
+<li>scroll down and choose <em>delete this site</em></li>
+<li>follow the instructions to confirm</li>
+</ul>
+<h1><a class="anchor" aria-hidden="true" id="advanced-section-you-can-ignore-this"></a><a href="#advanced-section-you-can-ignore-this" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Advanced Section: You can ignore this!</h1>
+<p>To make updating your site easier, you can make some small adjustments (suggested by Jon R Sharpe):</p>
+<ul>
+<li>You can specify the deploy directory in the Netlify <code>deploy</code> command, by adding <code>--dir ./build</code>. This way, it won't ask you to type it in.
+Example:</li>
+</ul>
+<p><code>netlify deploy --prod --dir ./build</code></p>
+<ul>
+<li>You could make a custom command to do build and deploy together. Here's how:</li>
+</ul>
+<p>Edit <code>package.json</code> to add <code>&quot;deploy&quot;: &quot;npm run build &amp;&amp; netlify deploy --prod --dir ./build&quot;</code> to the <code>scripts</code> object.
+Then you can just run <code>npm run deploy</code> and the build and deploy step will both be done for you. Be careful when you edit that file, and copy and paste exactly from here!</p>
+</span></div></article></div><div class="docs-prevnext"><a class="docs-prev button" href="/wiki/slack"><span class="arrow-prev">← </span><span>Slack communication</span></a><a class="docs-next button" href="/wiki/students/guides/node"><span>Node Version Manager</span><span class="arrow-next"> →</span></a></div></div></div><nav class="onPageNav"><ul class="toc-headings"><li><a href="#getting-set-up">Getting set up</a><ul class="toc-headings"><li><a href="#install-the-netlify-cli-software-_once_">Install the netlify-cli software, <em>once</em>:</a></li><li><a href="#create-a-netlify-account">Create a netlify account</a></li></ul></li><li><a href="#build-your-react-app">&quot;Build&quot; your React app</a><ul class="toc-headings"><li><a href="#host-the-app-for-the-first-time-on-netlify">Host the app for the first time on netlify</a></li></ul></li><li><a href="#what-if-i-want-to-make-changes-to-my-app">What if I want to make changes to my app?</a></li></ul></nav></div><footer class="nav-footer" id="footer"><div class="wrapper"><section class="sitemap"><h5>CodeYourFuture</h5><nav><ul><li><a href="https://codeyourfuture.io" target="_blank" rel="noreferrer noopener">Website</a></li><li><a href="https://github.com/CodeYourFuture" target="_blank" rel="noreferrer noopener">GitHub</a></li><li><a href="https://twitter.com/CodeYourFuture_" target="_blank" rel="noreferrer noopener">Twitter</a></li><li><a href="https://www.facebook.com/codeyourfuture.io" target="_blank" rel="noreferrer noopener">Facebook</a></li></ul></nav></section><section class="copyright">Copyright © 2020 CodeYourFuture</section></div></footer></div></body></html>

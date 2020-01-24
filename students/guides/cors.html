@@ -1,0 +1,143 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>CORS · CodeYourFuture Wiki</title><meta name="viewport" content="width=device-width"/><meta name="generator" content="Docusaurus"/><meta name="description" content="![status-draft](https://img.shields.io/badge/status-draft-darkred.svg)"/><meta name="docsearch:language" content="en"/><meta property="og:title" content="CORS · CodeYourFuture Wiki"/><meta property="og:type" content="website"/><meta property="og:url" content="https://codeyourfuture.github.io/wiki/"/><meta property="og:description" content="![status-draft](https://img.shields.io/badge/status-draft-darkred.svg)"/><meta name="twitter:card" content="summary"/><link rel="shortcut icon" href="/wiki/img/favicon.png"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><script src="/wiki/js/scrollSpy.js"></script><link rel="stylesheet" href="/wiki/css/main.css"/><script src="/wiki/js/codetabs.js"></script></head><body class="sideNavVisible separateOnPageNav"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/wiki/"><img class="logo" src="/wiki/img/logo.png" alt="CodeYourFuture Wiki"/><h2 class="headerTitleWithLogo">CodeYourFuture Wiki</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class=""><a href="https://codeyourfuture.github.io/syllabus-master/" target="_self">Syllabus</a></li><li class="siteNavGroupActive"><a href="/wiki/students" target="_self">Students</a></li><li class=""><a href="/wiki/mentors" target="_self">Mentors</a></li><li class=""><a href="/wiki/code-of-conduct" target="_self">Code of Conduct</a></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="docsNavContainer" id="docsNav"><nav class="toc"><div class="toggleNav"><section class="navWrapper wrapper"><div class="navBreadcrumb wrapper"><div class="navToggle" id="navToggler"><div class="hamburger-menu"><div class="line1"></div><div class="line2"></div><div class="line3"></div></div></div><h2><i>›</i><span>Guides</span></h2><div class="tocToggler" id="tocToggler"><i class="icon-toc"></i></div></div><div class="navGroups"><div class="navGroup"><h3 class="navGroupCategoryTitle">Students</h3><ul class=""><li class="navListItem"><a class="navItem" href="/wiki/students">Students</a></li><li class="navListItem"><a class="navItem" href="/wiki/students/house-rules">House Rules</a></li><li class="navListItem"><a class="navItem" href="/wiki/students/useful-links">Useful links</a></li><li class="navListItem"><a class="navItem" href="/wiki/students/getting-a-job">Getting a job</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Guides</h3><ul class=""><li class="navListItem"><a class="navItem" href="/wiki/students/guides/hosting-netlify">Hosting a website on Netlify</a></li><li class="navListItem"><a class="navItem" href="/wiki/students/guides/node">Node Version Manager</a></li><li class="navListItem navListItemActive"><a class="navItem" href="/wiki/students/guides/cors">CORS</a></li></ul></div></div></section></div><script>
+            var coll = document.getElementsByClassName('collapsible');
+            var checkActiveCategory = true;
+            for (var i = 0; i < coll.length; i++) {
+              var links = coll[i].nextElementSibling.getElementsByTagName('*');
+              if (checkActiveCategory){
+                for (var j = 0; j < links.length; j++) {
+                  if (links[j].classList.contains('navListItemActive')){
+                    coll[i].nextElementSibling.classList.toggle('hide');
+                    coll[i].childNodes[1].classList.toggle('rotate');
+                    checkActiveCategory = false;
+                    break;
+                  }
+                }
+              }
+
+              coll[i].addEventListener('click', function() {
+                var arrow = this.childNodes[1];
+                arrow.classList.toggle('rotate');
+                var content = this.nextElementSibling;
+                content.classList.toggle('hide');
+              });
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+              createToggler('#navToggler', '#docsNav', 'docsSliderActive');
+              createToggler('#tocToggler', 'body', 'tocActive');
+
+              var headings = document.querySelector('.toc-headings');
+              headings && headings.addEventListener('click', function(event) {
+                var el = event.target;
+                while(el !== headings){
+                  if (el.tagName === 'A') {
+                    document.body.classList.remove('tocActive');
+                    break;
+                  } else{
+                    el = el.parentNode;
+                  }
+                }
+              }, false);
+
+              function createToggler(togglerSelector, targetSelector, className) {
+                var toggler = document.querySelector(togglerSelector);
+                var target = document.querySelector(targetSelector);
+
+                if (!toggler) {
+                  return;
+                }
+
+                toggler.onclick = function(event) {
+                  event.preventDefault();
+
+                  target.classList.toggle(className);
+                };
+              }
+            });
+        </script></nav></div><div class="container mainContainer docsContainer"><div class="wrapper"><div class="post"><header class="postHeader"><h1 id="__docusaurus" class="postHeaderTitle">CORS</h1></header><article><div><span><p><img src="https://img.shields.io/badge/status-draft-darkred.svg" alt="status-draft"></p>
+<p><strong>What will we learn today?</strong></p>
+<ul>
+<li><a href="#cors">CORS</a>
+<ul>
+<li><a href="#what-is-the-same-origin-policy">What is the Same-Origin policy</a>
+<ul>
+<li><a href="#what-is-an-origin">What is an origin</a></li>
+</ul></li>
+<li><a href="#how-can-i-allow-a-cross-origin-request">How can I allow a cross-origin request</a></li>
+<li><a href="#cors-in-nodeexpress">CORS in Node/Express</a></li>
+</ul></li>
+</ul>
+<h2><a class="anchor" aria-hidden="true" id="what-is-the-same-origin-policy"></a><a href="#what-is-the-same-origin-policy" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>What is the Same-Origin policy</h2>
+<p>If you are creating a website (let's call it awesome-cyf-website.com).
+This website may make requests back to your server that you want to trust.
+You wrote the website, so you know that it should be making that request.</p>
+<p>If I am a hacker creating a website (let's call it evil.com)
+and I make a request to your website — from evil.com to awesome-cyf-website.com —
+then you can't trust that request.
+You do not know or control what my website is doing.
+I could be stealing data, hacking your users or many other evil things.</p>
+<p>To prevent this, browsers follow a rule called the Same-Origin policy.
+This means that JavaScript running on a website can only make a request
+to the exactly the same <em>origin</em> as the current page.</p>
+<h3><a class="anchor" aria-hidden="true" id="what-is-an-origin"></a><a href="#what-is-an-origin" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>What is an origin</h3>
+<p>The origin is part of the URL of the request.
+It is made up of the scheme (<code>http://</code> or <code>https://</code>),
+the host (<code>example.com</code>) and the port
+(usually blank, but can be <code>:3000</code> or <code>:3001</code>)
+Here are some example URLs with their origins:</p>
+<table>
+<thead>
+<tr><th>URL</th><th>Origin</th></tr>
+</thead>
+<tbody>
+<tr><td><a href="https://example.com">https://example.com</a></td><td><a href="https://example.com">https://example.com</a></td></tr>
+<tr><td><a href="https://example.com/foo">https://example.com/foo</a></td><td><a href="https://example.com">https://example.com</a></td></tr>
+<tr><td><a href="https://example.com/foo/bar">https://example.com/foo/bar</a></td><td><a href="https://example.com">https://example.com</a></td></tr>
+<tr><td><a href="https://www.example.com/foo">https://www.example.com/foo</a></td><td><a href="https://www.example.com">https://www.example.com</a></td></tr>
+<tr><td><a href="https://www.example.com:3000/foo">https://www.example.com:3000/foo</a></td><td><a href="https://www.example.com:8080">https://www.example.com:8080</a></td></tr>
+</tbody>
+</table>
+<p>Most modern browsers will highlight the origin in the address bar.</p>
+<h2><a class="anchor" aria-hidden="true" id="how-can-i-allow-a-cross-origin-request"></a><a href="#how-can-i-allow-a-cross-origin-request" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>How can I allow a cross-origin request</h2>
+<p>Sometimes we want to make a request that is <em>cross-origin</em>.
+For example, if I am building a Twitter client,
+I need to be able to make requests to <code>twitter.com</code>
+from a website that is not <code>twitter.com</code>.
+This would be a cross-origin request — the origins do not match
+and so the browser cannot follow the same-origin rule.</p>
+<p>This would be a problem for us, however Twitter can enable special rules
+to allow cross-origin requests.
+They can avoid the security problems of cross-origin requests
+by requiring authentication info to be included on every request
+(this is commonly called an <em>API key</em>).</p>
+<p>To allow users to make cross-origin requests, you can add some <em>headers</em>
+to the server's HTTP responses
+which tells the browser that we are allowing cross-origin requests.
+The most important header is <code>Access-Control-Allow-Origin</code>.
+This means the server says
+&quot;I allow requests to be made from these origins&quot; to the browser.
+You can list specific origins like this:</p>
+<pre><code class="hljs css language-text">Access-Control-Allow-Origin: example.com,awesome-cyf-website.com
+</code></pre>
+<p>Or you can allow any origin like this:</p>
+<pre><code class="hljs css language-text">Access-Control-Allow-Origin: *
+</code></pre>
+<h2><a class="anchor" aria-hidden="true" id="cors-in-nodeexpress"></a><a href="#cors-in-nodeexpress" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>CORS in Node/Express</h2>
+<p>You can add a header to a response in Node/Express using the <code>res.header()</code> function:</p>
+<pre><code class="hljs css language-js">app.get(<span class="hljs-string">"/foo"</span>, <span class="hljs-function"><span class="hljs-keyword">function</span>(<span class="hljs-params">req, res</span>) </span>{
+  res.header(<span class="hljs-string">"Access-Control-Allow-Origin"</span>, <span class="hljs-string">"*"</span>);
+});
+</code></pre>
+<p>The first argument is the name of the header and the second argument is the value.</p>
+<p>This can become quite tedious to add to every request.
+Instead we can use a package from npm called
+<a href="https://www.npmjs.com/package/cors">cors</a>.
+Once you have installed it (using <code>npm install</code>),
+you can add it to your server like this:</p>
+<pre><code class="hljs css language-js"><span class="hljs-keyword">var</span> cors = <span class="hljs-built_in">require</span>(<span class="hljs-string">"cors"</span>);
+
+app.use(cors());
+</code></pre>
+<p>Normally you would do this once,
+where you are creating and setting up the Express server.</p>
+</span></div></article></div><div class="docs-prevnext"><a class="docs-prev button" href="/wiki/students/guides/node"><span class="arrow-prev">← </span><span>Node Version Manager</span></a></div></div></div><nav class="onPageNav"><ul class="toc-headings"><li><a href="#what-is-the-same-origin-policy">What is the Same-Origin policy</a><ul class="toc-headings"><li><a href="#what-is-an-origin">What is an origin</a></li></ul></li><li><a href="#how-can-i-allow-a-cross-origin-request">How can I allow a cross-origin request</a></li><li><a href="#cors-in-nodeexpress">CORS in Node/Express</a></li></ul></nav></div><footer class="nav-footer" id="footer"><div class="wrapper"><section class="sitemap"><h5>CodeYourFuture</h5><nav><ul><li><a href="https://codeyourfuture.io" target="_blank" rel="noreferrer noopener">Website</a></li><li><a href="https://github.com/CodeYourFuture" target="_blank" rel="noreferrer noopener">GitHub</a></li><li><a href="https://twitter.com/CodeYourFuture_" target="_blank" rel="noreferrer noopener">Twitter</a></li><li><a href="https://www.facebook.com/codeyourfuture.io" target="_blank" rel="noreferrer noopener">Facebook</a></li></ul></nav></section><section class="copyright">Copyright © 2020 CodeYourFuture</section></div></footer></div></body></html>
