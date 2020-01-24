@@ -95,7 +95,7 @@ Fear of making mistakes also keeps people from making progress.
 I'm not used to work with Windows!
 Your group is using Windows but you're more a Mac or Linux user? Don't worry, you will do fine! Python installation got easier on Windows and there are other coaches to help you in case of a problem.
 
-## Impostor syndrome
+### Impostor syndrome
 
 Madeline Kunin's research: women self-filter more than men.
 The impostor syndrome is a psychological phenomenon in which people are unable to internalize their accomplishments. Despite external evidence of their competence, they remain convinced that they are frauds and do not deserve the success they have achieved. Impostor syndrome is particularly common among women.
@@ -113,7 +113,7 @@ To fight impostor syndrome:
 - Great question
 - Hm, I'm not sure... Let's look on the internet/ask someone else.
 
-## No back-seat driving
+### No back-seat driving
 
 Imagine that their keyboard is made of lava. LAVA! You wouldn't touch it, right?
 
@@ -123,12 +123,14 @@ We're sure you can explain what needs to be done and instruct them with your wor
 
 - Ask: "Do you mind if I type?" or "May I?".
 
-## Show them how they can teach themselves
+### Show them how they can teach themselves
 
 Attendees will only spend 6 hours or so with you, but they will have to spend many many many more hours teaching themselves. Fortunately, you can make it easier for them!
 
-**Make them Google stuff** - do not give immediate answers just to make things go faster. It doesn't matter if you are going faster or slower -- what matters is whether they're going to fall in love with it or not.
+#### Make them Google stuff
 
-**Ask about their ideas** - "How would you solve it?", "What do you think?". Make them figure it out on their own. You know they know it, right?
+Do not give immediate answers just to make things go faster. It doesn't matter if you are going faster or slower -- what matters is whether they're going to fall in love with it or not.
 
-**Encourage them to make their own changes and not to follow the tutorial too precisely** - if they try to add some twists, and don't follow the tutorial at every step, they will learn much, much more. It is easy to copy-paste some code and put it in the correct location. It is harder to add something on your own and make it work.
+#### Ask about their ideas
+
+"How would you solve it?", "What do you think?". Make them figure it out on their own. You know they know it, right?

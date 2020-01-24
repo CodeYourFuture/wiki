@@ -1,6 +1,6 @@
 ---
 id: git-repos
-title: Git repos we use
+title: Useful Git Repositories
 ---
 
 We use multiple repos in CYF Scotland which might cause confusion.
