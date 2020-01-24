@@ -1,0 +1,22 @@
+.mainContainer a {
+  text-decoration: underline;
+}
+
+.nav-footer .sitemap {
+  margin: 0;
+  display: block;
+  max-width: initial;
+}
+
+.nav-footer .sitemap ul {
+  padding-left: 0;
+}
+
+.nav-footer .sitemap a {
+  display: initial;
+}
+
+.nav-footer .copyright {
+  margin-top: 2em;
+  text-align: left;
+}
