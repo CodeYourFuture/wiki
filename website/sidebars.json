@@ -4,15 +4,15 @@
       "students",
       "students/house-rules",
       "students/useful-links",
-      "students/getting-a-job",
       "slack"
     ],
-    "Guides": [
+    "Tech Guides": [
       "students/guides/making-a-pull-request",
       "students/guides/hosting-netlify",
       "students/guides/node",
       "students/guides/cors"
-    ]
+    ],
+    "Soft Skills Guides": ["students/getting-a-job", "slack"]
   },
   "mentors": {
     "Mentors": ["mentors"],
