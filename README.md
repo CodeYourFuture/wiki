@@ -2,6 +2,8 @@
 
 This is the CYF Wiki. It contains useful information for students and mentors.
 
+This is online here: https://codeyourfuture.github.io/wiki/
+
 ## Getting started
 
 Start up a local server
