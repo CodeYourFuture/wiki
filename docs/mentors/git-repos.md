@@ -6,19 +6,27 @@ title: Git repos we use
 We use multiple repos in CYF Scotland which might cause confusion.
 This page explains which repos we use and why.
 
-- https://github.com/CodeYourFuture/syllabus/ — [`master`](https://github.com/CodeYourFuture/syllabus/tree/master) branch
+## Syllabus
+
+- [`CodeYourFuture/syllabus`](https://github.com/CodeYourFuture/syllabus/tree/master)
   - This is the CYF syllabus
   - We use the contents of this as the single source of truth for our teaching material
   - We don't give this link to anyone
-- https://github.com/CodeYourFuture/syllabus/ — [`scotland`](https://github.com/CodeYourFuture/syllabus/tree/scotland) branch
+- [`CodeYourFuture/syllabus/scotland`](https://github.com/CodeYourFuture/syllabus/tree/scotland) branch
   - This is the CYF syllabus, but branched for Scotland
   - We use this as the single source of truth for our introduction module, which is the only module that differs from the rest of the CYF syllabus
   - We don't give this link to anyone
-- https://github.com/CodeYourFuture/scotland/
-  - This is the Scotland portal
-  - We use this as the single website where students and mentors can find all the information they need regarding CYF Scotland
-    - The syllabus contents are copied from https://github.com/CodeYourFuture/syllabus/ — `master` branch, and `scotland` branch for the introduction module
-    - This portal is the single source of truth for the Syllabus introduction, Students section and Mentors section
+- [`CodeYourFuture/syllabus/london`](https://github.com/CodeYourFuture/syllabus/tree/london) branch
+  - This is the CYF syllabus, but branched for Scotland
+  - We use this as the single source of truth for our introduction module, which is the only module that differs from the rest of the CYF syllabus
+  - We don't give this link to anyone
+
+## Wiki
+
+- [`CodeYourFuture/wiki/`](https://github.com/CodeYourFuture/wiki/)
+  - This is the repo for this website
+  - We use this as the single website where students and mentors can find all the information they need regarding CYF
+    - This portal is the single source of truth for Cities, Students and Mentors
   - We give this link to students and mentors
 
 ## Questions and answers

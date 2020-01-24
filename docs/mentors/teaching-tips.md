@@ -56,7 +56,6 @@ Over the course of the tutorial you'll see that we're trying to first steer atte
 
 ## Learn that coding is fun
 
-The ultimate goal of the workshop is not to build a website. It is not to teach the whole of Django. It is also not to teach programming.
 The ultimate goal is to show that code is fun. To get people excited. To show them that programming is not scary and that it is for everyone. To show them how powerful programming skills can be.
 
 This excitement and passion will then drive them to spend endless hours trying to figure all of this out during and after the workshop.
