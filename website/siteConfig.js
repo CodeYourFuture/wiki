@@ -1,3 +1,12 @@
+const users = [
+  {
+    caption: "User1",
+    image: "/test-site/img/docusaurus.svg",
+    infoLink: "https://www.example.com",
+    pinned: true
+  }
+];
+
 const siteConfig = {
   title: "CodeYourFuture Wiki",
   tagline: "",
@@ -6,14 +15,14 @@ const siteConfig = {
   baseUrl: "/wiki/",
   organizationName: "codeyourfuture",
   projectName: "Wiki",
-  users: [{ caption: "Hello" }],
+  users: users,
   headerLinks: [
     {
       label: "Syllabus",
       href: "https://codeyourfuture.github.io/syllabus-master/"
     },
     { label: "Students", doc: "students" },
-    { label: "Mentors", doc: "mentors" },
+    { label: "Volunteers", doc: "mentors" },
     { label: "Code of Conduct", page: "code-of-conduct" },
     { search: true }
   ],

@@ -26,7 +26,7 @@ This page explains which repos we use and why.
 - [`CodeYourFuture/wiki/`](https://github.com/CodeYourFuture/wiki/)
   - This is the repo for this website
   - We use this as the single website where students and mentors can find all the information they need regarding CYF
-    - This portal is the single source of truth for Cities, Students and Mentors
+    - This portal is the single source of truth for Cities, Students and Volunteers
   - We give this link to students and mentors
 
 ## Questions and answers
@@ -40,6 +40,6 @@ I want to update the introduction module. How do I do this?
 
 - To update this, create a PR against https://github.com/CodeYourFuture/syllabus/ — [`scotland`](https://github.com/CodeYourFuture/syllabus/tree/scotland) branch
 
-I want to update non-syllabus material (e.g. the Syllabus introduction / a page in the Students/Mentors section). How do I do this?
+I want to update non-syllabus material (e.g. the Syllabus introduction / a page in the Students/Volunteers section). How do I do this?
 
 - To update non-syllabus material, create a PR against https://github.com/CodeYourFuture/scotland/

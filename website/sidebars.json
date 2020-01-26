@@ -17,7 +17,7 @@
     "Soft Skills Guides": ["students/getting-a-job", "slack"]
   },
   "mentors": {
-    "Mentors": ["mentors"],
+    "Volunteers": ["mentors"],
     "Organisation": [
       "mentors/teams",
       "mentors/retrospectives",

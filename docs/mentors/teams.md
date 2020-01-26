@@ -1,6 +1,6 @@
 ---
 id: teams
-title: Mentor teams
+title: Volunteer teams
 ---
 
 Here are general tasks to be fulfilled by respective Education, Outreach and Personal Development Teams:
@@ -34,7 +34,7 @@ Here are general tasks to be fulfilled by respective Education, Outreach and Per
 
 - Provide support for any personal issues students may have
 - Provide career advice to students
-- Mentor a student 1-2-1
+- Volunteer a student 1-2-1
 - Provide CV reviews
 - Provide mock interviews for students
 - Track students technical and soft skills progress, and recommend tuition to fill gaps identified

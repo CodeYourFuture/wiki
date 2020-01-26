@@ -33,7 +33,7 @@ Slack should be kept tidy and organised to maximise its usefulness.
 - Delete any failed group calls to keep the channel clear
 - Inform the class as soon as possible if you are not planning to come or able to come to class
 
-## Mentor communication
+## Volunteer communication
 
 - Make sure to tag students and graduates for events and create user groups for core volunteers
 - Share social meetings and pictures in public channels

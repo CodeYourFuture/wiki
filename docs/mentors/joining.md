@@ -23,7 +23,7 @@ This is a non-exhaustive list of things you can help out with:
 - Organising social events
 - Helping specific teams, which involves working towards the goals outlined in the [mentor teams page](mentors/teams.md) through regular communication and meetings with other mentors
 
-Mentors are not expected to come to every weekend Saturday class and to do all of the above, but you are more than welcome to if you would like!
+Volunteers are not expected to come to every weekend Saturday class and to do all of the above, but you are more than welcome to if you would like!
 
 ## What if I don't know JavaScript/React/Node?
 

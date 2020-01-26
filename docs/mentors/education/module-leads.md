@@ -3,7 +3,7 @@ id: module-leads
 title: Module leads
 ---
 
-Mentors can volunteer as module leads, where they lead a module (e.g. JavaScript I).
+Volunteers can volunteer as module leads, where they lead a module (e.g. JavaScript I).
 Module leads do not necessarily need to be an expert in the subject or even be the one doing the teaching — their main role is ensuring the module runs.
 It is also possible to have multiple mentor leads for a single module to share the responsibilities.
 
