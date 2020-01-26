@@ -3,8 +3,6 @@ id: submitting-homework
 title: Submitting Homework (Github Desktop)
 ---
 
-![status-draft](https://img.shields.io/badge/status-draft-darkred.svg)
-
 ## Why fork
 
 For many of the CodeYourFuture homework assignments,
