@@ -1,6 +1,6 @@
 ---
 id: teaching-rules
-title: The Ten Teaching Rules at Code Your Future
+title: The Ten Rules for Teaching at Code Your Future
 ---
 
 If you take nothing else from this guide then please remember these ten rules whenever you are in the classroom.

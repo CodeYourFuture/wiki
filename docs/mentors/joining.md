@@ -15,10 +15,10 @@ You can join anytime as there is always something you can help out with all year
 
 This is a non-exhaustive list of things you can help out with:
 
-- Helping to answer student's questions during Saturday classes
-- Helping to teach a part or all of a Saturday class
+- Helping to answer student's questions during classes
+- Helping to teach a part or all of a class
 - Reviewing student homework on GitHub
-- Helping out students outside of Saturday classes, either in person or on Slack
+- Helping out students outside of classes, either in person or on Slack
 - Helping students during their graduation coding project
 - Organising social events
 - Helping specific teams, which involves working towards the goals outlined in the [mentor teams page](mentors/teams.md) through regular communication and meetings with other mentors

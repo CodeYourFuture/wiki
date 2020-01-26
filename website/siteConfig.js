@@ -2,6 +2,7 @@ const siteConfig = {
   title: "CodeYourFuture Wiki",
   tagline: "",
   url: "https://codeyourfuture.github.io",
+  editUrl: "https://github.com/CodeYourFuture/wiki/tree/master/docs/",
   baseUrl: "/wiki/",
   organizationName: "codeyourfuture",
   projectName: "Wiki",
