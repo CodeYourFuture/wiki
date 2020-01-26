@@ -45,12 +45,6 @@ _e.g. You would add this line in the file_
 
 ```
 "students": {
-    "Students": [
-      "students",
-      "students/house-rules",
-      "students/useful-links",
-      "slack"
-    ],
     "Tech Guides": [
       "students/guides/making-a-pull-request",
       "students/guides/git",
