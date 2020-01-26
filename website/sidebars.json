@@ -4,7 +4,8 @@
       "students",
       "students/house-rules",
       "students/useful-links",
-      "slack"
+      "slack",
+      "git"
     ],
     "Tech Guides": [
       "students/guides/making-a-pull-request",
