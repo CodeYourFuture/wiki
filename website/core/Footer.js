@@ -1,4 +1,4 @@
-const React = require('react');
+const React = require("react");
 
 class Footer extends React.Component {
   render() {
@@ -13,7 +13,8 @@ class Footer extends React.Component {
                   <a
                     href="https://codeyourfuture.io"
                     target="_blank"
-                    rel="noreferrer noopener">
+                    rel="noreferrer noopener"
+                  >
                     Website
                   </a>
                 </li>
@@ -21,7 +22,8 @@ class Footer extends React.Component {
                   <a
                     href="https://github.com/CodeYourFuture"
                     target="_blank"
-                    rel="noreferrer noopener">
+                    rel="noreferrer noopener"
+                  >
                     GitHub
                   </a>
                 </li>
@@ -29,7 +31,8 @@ class Footer extends React.Component {
                   <a
                     href="https://twitter.com/CodeYourFuture_"
                     target="_blank"
-                    rel="noreferrer noopener">
+                    rel="noreferrer noopener"
+                  >
                     Twitter
                   </a>
                 </li>
@@ -37,10 +40,16 @@ class Footer extends React.Component {
                   <a
                     href="https://www.facebook.com/codeyourfuture.io"
                     target="_blank"
-                    rel="noreferrer noopener">
+                    rel="noreferrer noopener"
+                  >
                     Facebook
                   </a>
                 </li>
+                <i>
+                  <a href="https://github.com/CodeYourFuture/wiki">
+                    This website is open source. Click here to make a change.
+                  </a>
+                </i>
               </ul>
             </nav>
           </section>

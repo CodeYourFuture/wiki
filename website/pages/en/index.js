@@ -108,13 +108,13 @@ class Index extends React.Component {
             <li>Cape Town</li>
           </ul>
         </p>
-        <i>
-          This website is open source. If you'd like to make a change{" "}
-          <a href="https://github.com/CodeYourFuture/wiki">
-            you can make it here
-          </a>
-          .
-        </i>
+        <center>
+          <i>
+            <a href="https://github.com/CodeYourFuture/wiki">
+              This website is open source. Click here to make a change.
+            </a>
+          </i>
+        </center>
       </Container>
     );
 
