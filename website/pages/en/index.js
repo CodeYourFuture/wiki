@@ -94,9 +94,19 @@ class Index extends React.Component {
           help people without.
         </p>
         <p>
-          CodeYourFuture started in London in October 2016. Glasgow followed in
-          2017, and since then Manchester, Rome and Medellín have joined us. The
-          next class in Glasgow will start in March 2020.
+          CodeYourFuture currently operates in the follow cities:
+          <ul>
+            <li>London</li>
+            <li>Glasgow</li>
+            <li>Manchester</li>
+            <li>Birmingham</li>
+            <li>Rome</li>
+            <li>Medellín</li>
+          </ul>
+          We are currently looking at expanding to
+          <ul>
+            <li>Cape Town</li>
+          </ul>
         </p>
       </Container>
     );
