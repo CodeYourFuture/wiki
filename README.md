@@ -14,22 +14,6 @@ npm install
 npm start
 ```
 
-## Deployment
-
-These docs are re-deployed on every commit to Master using Github Actions
-
-https://github.com/CodeYourFuture/wiki/actions?query=workflow%3A%22Deploy+Docs+Workflow%22
-
-## Manual Deployment
-
-Deploy to https://codeyourfuture.github.io/wiki/
-
-```
-cd website
-npm install
-GIT_USER=ChrisOwen101 CURRENT_BRANCH=master USE_SSH=true npm run publish-gh-pages
-```
-
 ## Adding a page
 
 To add a page first create a file in the correct folder inside `docs`.
@@ -55,4 +39,20 @@ _e.g. You would add this line in the file_
       "students/guides/making-a-pull-request",
       "students/guides/git",
        ...
+```
+
+## Deployment
+
+These docs are re-deployed on every commit to Master using Github Actions
+
+https://github.com/CodeYourFuture/wiki/actions?query=workflow%3A%22Deploy+Docs+Workflow%22
+
+## Manual Deployment
+
+Deploy to https://codeyourfuture.github.io/wiki/
+
+```
+cd website
+npm install
+GIT_USER=ChrisOwen101 CURRENT_BRANCH=master USE_SSH=true npm run publish-gh-pages
 ```
