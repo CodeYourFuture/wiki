@@ -16,6 +16,12 @@ npm start
 
 ## Deployment
 
+These docs are re-deployed on every commit to Master using Github Actions
+
+https://github.com/CodeYourFuture/wiki/actions?query=workflow%3A%22Deploy+Docs+Workflow%22
+
+## Manual Deployment
+
 Deploy to https://codeyourfuture.github.io/wiki/
 
 ```
