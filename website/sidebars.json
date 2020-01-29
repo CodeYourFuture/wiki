@@ -62,5 +62,12 @@
       "cities/manchester/useful-information",
       "cities/manchester/contact"
     ]
+  },
+  "rome": {
+    "Rome": [
+      "cities/rome/home",
+      "cities/rome/useful-information",
+      "cities/rome/contact"
+    ]
   }
 }
