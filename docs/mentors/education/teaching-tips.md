@@ -3,7 +3,7 @@ id: teaching-tips
 title: Coaching Guidelines, Tips and Tricks
 ---
 
-**(This document is taken from https://coach.djangogirls.org/tips/)**
+**(This page is taken from https://coach.djangogirls.org/tips/)**
 
 As much as possible, we want our coaches to follow some guidelines.
 
