@@ -4,7 +4,12 @@ This is the CYF Wiki. It contains useful information for students and mentors.
 
 This is online here: https://codeyourfuture.github.io/wiki/
 
-## Getting started
+## Contribution Guide
+The contribution guide can be found in the wiki here:
+
+https://codeyourfuture.github.io/wiki/contributon-guide
+
+## Local Development
 
 Start up a local server
 
@@ -12,33 +17,6 @@ Start up a local server
 cd website
 npm install
 npm start
-```
-
-## Adding a page
-
-To add a page first create a file in the correct folder inside `docs`.
-
-_e.g. If you wanted to add a student guide about Github you would create a file in `docs/students/guides/git.md`_
-
-It is important that the file has this at the top of it so that the website can find the file
-
-```
----
-id: git
-title: An Introduction to Git
----
-```
-
-To make this appear in the Students side bar you must add a line in the `sidebars.json` file.
-
-_e.g. You would add this line in the file_
-
-```
-"students": {
-    "Tech Guides": [
-      "students/guides/making-a-pull-request",
-      "students/guides/git",
-       ...
 ```
 
 ## Deployment
