@@ -25,8 +25,8 @@
       "slack"
     ],
     "New Volunteers": ["mentors/joining"],
-    "Outreach": [],
-    "Personal Development": [],
+    "Outreach": ["mentors/outreach/outreach-roles"],
+    "Personal Development": ["mentors/personaldevelopment/pd-roles"],
     "Education": [
       "mentors/education/teaching-rules",
       "mentors/education/teaching-tips",
