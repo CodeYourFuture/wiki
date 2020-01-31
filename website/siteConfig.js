@@ -8,13 +8,13 @@ const users = [
 ];
 
 const siteConfig = {
-  title: "Code Your Future Docs",
+  title: "CodeYourFuture Wiki",
   tagline: "",
   url: "https://codeyourfuture.github.io",
-  editUrl: "https://github.com/CodeYourFuture/docs/tree/master/docs/",
-  baseUrl: "/docs/",
+  editUrl: "https://github.com/CodeYourFuture/wiki/tree/master/docs/",
+  baseUrl: "/wiki/",
   organizationName: "codeyourfuture",
-  projectName: "Docs",
+  projectName: "Wiki",
   users: users,
   headerLinks: [
     {
