@@ -2,7 +2,7 @@
 
 This is the CYF Wiki. It contains useful information for students and mentors.
 
-This is online here: https://codeyourfuture.github.io/wiki/
+This is online here: https://codeyourfuture.github.io/wiki/contribution-wiki
 
 ## Contribution Guide
 The contribution guide can be found in the wiki here:
