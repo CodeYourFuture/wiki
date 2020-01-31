@@ -19,6 +19,7 @@
   "mentors": {
     "Volunteers": ["mentors"],
     "Organisation": [
+      "mentors/history",
       "mentors/the-course",
       "mentors/teams",
       "mentors/retrospectives",
