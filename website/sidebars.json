@@ -16,20 +16,24 @@
     ],
     "Soft Skills Guides": ["students/getting-a-job", "slack"]
   },
-  "mentors": {
-    "Volunteers": ["mentors"],
-    "Organisation": ["mentors/history", "mentors/the-course", "mentors/teams"],
-    "Tools": ["mentors/cyf-dashboard", "slack"],
-    "New Volunteers": ["mentors/joining"],
-    "Outreach": ["mentors/outreach/outreach-roles"],
-    "Personal Development": ["mentors/personaldevelopment/pd-roles"],
+  "volunteers": {
+    "Volunteers": ["volunteers"],
+    "Organisation": [
+      "volunteers/history",
+      "volunteers/the-course",
+      "volunteers/teams"
+    ],
+    "Tools": ["volunteers/cyf-dashboard", "slack"],
+    "New Volunteers": ["volunteers/joining"],
+    "Outreach": ["volunteers/outreach/outreach-roles"],
+    "Personal Development": ["volunteers/personaldevelopment/pd-roles"],
     "Education": [
-      "mentors/education/teaching-rules",
-      "mentors/education/teaching-tips",
-      "mentors/education/education-roles",
-      "mentors/education/google-classroom",
-      "mentors/education/git-repos",
-      "mentors/education/module-leads"
+      "volunteers/education/teaching-rules",
+      "volunteers/education/teaching-tips",
+      "volunteers/education/education-roles",
+      "volunteers/education/google-classroom",
+      "volunteers/education/git-repos",
+      "volunteers/education/module-leads"
     ]
   },
   "london": {
