@@ -22,7 +22,7 @@ const siteConfig = {
       href: "https://codeyourfuture.github.io/syllabus-master/"
     },
     { label: "Students", doc: "students" },
-    { label: "Volunteers", doc: "mentors" },
+    { label: "Volunteers", doc: "volunteers" },
     { label: "Code of Conduct", page: "code-of-conduct" },
     { search: true }
   ],
