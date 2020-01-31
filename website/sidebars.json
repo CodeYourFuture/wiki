@@ -18,14 +18,8 @@
   },
   "mentors": {
     "Volunteers": ["mentors"],
-    "Organisation": [
-      "mentors/history",
-      "mentors/the-course",
-      "mentors/teams",
-      "mentors/retrospectives",
-      "mentors/cyf-dashboard",
-      "slack"
-    ],
+    "Organisation": ["mentors/history", "mentors/the-course", "mentors/teams"],
+    "Tools": ["mentors/cyf-dashboard", "slack"],
     "New Volunteers": ["mentors/joining"],
     "Outreach": ["mentors/outreach/outreach-roles"],
     "Personal Development": ["mentors/personaldevelopment/pd-roles"],
