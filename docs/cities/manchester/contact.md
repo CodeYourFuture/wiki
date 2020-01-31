@@ -3,4 +3,7 @@ id: contact
 title: Contact information
 ---
 
-Here is information about Manchester
+North-West Email account: northwest@codeyourfuture.io
+
+Programme Coordinator: Barnaby Dathan
+Email: barnaby@codeyoufuture.io
