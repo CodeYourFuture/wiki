@@ -1,6 +1,6 @@
 ---
 id: slack
-title: Slack communication
+title: Slack
 ---
 
 ## Introduction

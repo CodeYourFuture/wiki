@@ -1,6 +1,6 @@
 ---
 id: teams
-title: Volunteer teams
+title: Volunteer Teams
 ---
 
 Here are general tasks to be fulfilled by respective Education, Outreach and Personal Development Teams:
