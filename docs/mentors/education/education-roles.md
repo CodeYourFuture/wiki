@@ -17,7 +17,7 @@ There are several roles that you can take when volunteering with the Education T
 
 As a teaching assistant your job is to help the lead teacher deliver the lesson to our students. This will include:
 
-## Lead Teacher & Assitant Lead Teacher
+## Lead Teacher & Assistant Lead Teacher
 
 ### Time Commitment
 
