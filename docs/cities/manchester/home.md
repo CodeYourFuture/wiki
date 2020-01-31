@@ -3,6 +3,6 @@ id: home
 title: Overview
 ---
 
-## Manchester Information
+## North-West Information
 
-In this section you'll find all the information specific to Manchester
+Welcome to the CodeYourFuture North-West page. In this section you'll find all the information specific to the North-West
