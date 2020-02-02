@@ -33,7 +33,7 @@ Later in the course, the students learn frameworks such as React, Node and Expre
 If you are not familiar with these frameworks, you might still be able to pick them up quickly as they are taught in class.
 You can still be of help to students as mistakes are made at the syntax and logical level where knowledge of the framework is not required.
 
-## What happens when I join?
+## After you join
 
 Once you join, you should be added to:
 
