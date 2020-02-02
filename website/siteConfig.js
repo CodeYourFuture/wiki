@@ -10,9 +10,9 @@ const users = [
 const siteConfig = {
   title: "Code Your Future Wiki",
   tagline: "",
-  url: "https://codeyourfuture.github.io",
+  url: "https://docs.codeyourfuture.io",
   editUrl: "https://github.com/CodeYourFuture/wiki/tree/master/docs/",
-  baseUrl: "/wiki/",
+  baseUrl: "",
   organizationName: "codeyourfuture",
   projectName: "Wiki",
   users: users,
