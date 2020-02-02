@@ -12,14 +12,14 @@ const siteConfig = {
   tagline: "",
   url: "https://docs.codeyourfuture.io",
   editUrl: "https://github.com/CodeYourFuture/wiki/tree/master/docs/",
-  baseUrl: "",
+  baseUrl: "/",
   organizationName: "codeyourfuture",
   projectName: "Wiki",
   users: users,
   headerLinks: [
     {
       label: "Syllabus",
-      href: "https://codeyourfuture.github.io/syllabus-master/"
+      href: "https://syllabus.codeyourfuture.io"
     },
     { label: "Students", doc: "students" },
     { label: "Volunteers", doc: "volunteers" },
