@@ -21,7 +21,7 @@ This is a non-exhaustive list of things you can help out with:
 - Helping out students outside of classes, either in person or on Slack
 - Helping students during their graduation coding project
 - Organising social events
-- Helping specific teams, which involves working towards the goals outlined in the [mentor teams page](mentors/teams.md) through regular communication and meetings with other mentors
+- Helping specific teams, which involves working towards the goals outlined in the [volunteer teams page](volunteers/teams.md) through regular communication and meetings with other mentors
 
 Volunteers are not expected to come to every weekend Saturday class and to do all of the above, but you are more than welcome to if you would like!
 
