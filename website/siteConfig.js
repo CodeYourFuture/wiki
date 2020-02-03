@@ -13,7 +13,7 @@ const siteConfig = {
   url: "https://docs.codeyourfuture.io",
   editUrl: "https://github.com/CodeYourFuture/wiki/tree/master/docs/",
   baseUrl: "/",
-  organizationName: "Code Your Future",
+  organizationName: "codeyourfuture",
   projectName: "Wiki",
   users: users,
   headerLinks: [
