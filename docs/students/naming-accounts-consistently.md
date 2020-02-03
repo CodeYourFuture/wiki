@@ -1,3 +1,5 @@
+# Consistency and anonymity in online account names
+
 During the CYF course you will be requested to make an account with various online services (such as Slack, GitHub, Google Classroom, trello, codepen, code.org, khan academy, ...).
 
 CYF recognises some students may wish for anonymity, and it is of course acceptable not to use your real name (or profile photo) when creating these accounts.
