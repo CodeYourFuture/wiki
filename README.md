@@ -2,12 +2,13 @@
 
 This is the CYF Wiki. It contains useful information for students and mentors.
 
-This is online here: https://codeyourfuture.github.io/wiki/
+This is online here: https://docs.codeyourfuture.io
 
 ## Contribution Guide
+
 The contribution guide can be found in the wiki here:
 
-https://codeyourfuture.github.io/wiki/contributon-guide
+https://docs.codeyourfuture.io/contribution-guide
 
 ## Local Development
 
@@ -27,7 +28,7 @@ https://github.com/CodeYourFuture/wiki/actions?query=workflow%3A%22Deploy+Docs+W
 
 ## Manual Deployment
 
-Deploy to https://codeyourfuture.github.io/wiki/
+Deploy to https://docs.codeyourfuture.io
 
 ```
 cd website

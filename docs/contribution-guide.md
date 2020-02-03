@@ -9,6 +9,10 @@ title: Contribution Guide
 
 https://guides.github.com/features/mastering-markdown/
 
+## Tools
+
+This website is built using the [Docusaurus](https://docusaurus.io) tool. You can find the documentation for it [here](https://docusaurus.io/docs/en/installation).
+
 ## Getting Added to Github Teams
 
 ### Code Your Future Teams
@@ -42,7 +46,7 @@ To add a page first create a file in the correct folder inside `docs`.
 
 _e.g. If you wanted to add a student guide about Github you would create a file in `docs/students/guides/git.md`_
 
-It is important that the file has this at the top of it so that the website can find the file
+It is important that the file has this header at the top of it so that the website can find the file.
 
 ```
 ---
@@ -50,6 +54,8 @@ id: git
 title: An Introduction to Git
 ---
 ```
+
+The title is what appears at the top of the page (in a Title Style). The id is used to identify the page in links and the URL.
 
 To make this appear in the Students side bar you must add a line in the `sidebars.json` file.
 
