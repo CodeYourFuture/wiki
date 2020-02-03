@@ -1,3 +1,8 @@
+---
+id: naming-accounts-consistently
+title: Naming accounts consistently
+---
+
 # Consistency and anonymity in online account names
 
 During the CYF course you will be requested to make an account with various online services (such as Slack, GitHub, Google Classroom, trello, codepen, code.org, khan academy, ...).
