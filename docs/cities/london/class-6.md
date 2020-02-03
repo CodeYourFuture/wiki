@@ -8,7 +8,7 @@ title: Class 6 Overview
 - London Class 6 will run from 24th Nov 2019 to 4th October 2020
 - The class is comprised of 37 students.
   - They are split into two classes of 19 and 18.
-- Roughly 20% of the class has previously exposure to code
+- Roughly 20% of the class has previous exposure to code
 
 ## Schedule
 
