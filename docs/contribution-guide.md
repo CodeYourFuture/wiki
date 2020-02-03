@@ -68,3 +68,9 @@ _e.g. You would add this line in the file_
       "students/guides/git",
        ...
 ```
+
+## Trouble-shooting
+
+Your changes may take a couple of minutes to be made visible at the site.
+
+If you suspect the wiki build/deploy process has failed you can dig into the logs at https://github.com/CodeYourFuture/wiki/actions
