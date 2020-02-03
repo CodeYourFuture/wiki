@@ -11,7 +11,6 @@ This page explains which repos we use and why.
 - [`CodeYourFuture/syllabus`](https://github.com/CodeYourFuture/syllabus/tree/master)
   - This is the CYF syllabus
   - We use the contents of this as the single source of truth for our teaching material
-  - We don't give this link to anyone
 - [`CodeYourFuture/syllabus/scotland`](https://github.com/CodeYourFuture/syllabus/tree/scotland) branch
   - This is the CYF syllabus, but branched for Scotland
   - We use this as the single source of truth for our introduction module, which is the only module that differs from the rest of the CYF syllabus
