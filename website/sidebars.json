@@ -23,7 +23,11 @@
       "volunteers/the-course",
       "volunteers/teams"
     ],
-    "Tools": ["volunteers/cyf-dashboard", "slack"],
+    "Tools": [
+      "volunteers/cyf-dashboard",
+      "slack",
+      "volunteers/slack-organisation"
+    ],
     "New Volunteers": ["volunteers/joining"],
     "Outreach": ["volunteers/outreach/outreach-roles"],
     "Personal Development": ["volunteers/personaldevelopment/pd-roles"],
