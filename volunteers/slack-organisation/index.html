@@ -1,0 +1,133 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>Effective Organisation on Slack · Code Your Future Docs</title><meta name="viewport" content="width=device-width"/><meta name="generator" content="Docusaurus"/><meta name="description" content="## Brief"/><meta name="docsearch:language" content="en"/><meta property="og:title" content="Effective Organisation on Slack · Code Your Future Docs"/><meta property="og:type" content="website"/><meta property="og:url" content="https://docs.codeyourfuture.io/"/><meta property="og:description" content="## Brief"/><meta name="twitter:card" content="summary"/><link rel="shortcut icon" href="/img/favicon.png"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><script src="/js/scrollSpy.js"></script><link rel="stylesheet" href="/css/main.css"/><script src="/js/codetabs.js"></script></head><body class="sideNavVisible separateOnPageNav"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/"><img class="logo" src="/img/logo.png" alt="Code Your Future Docs"/><h2 class="headerTitleWithLogo">Code Your Future Docs</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class=""><a href="https://syllabus.codeyourfuture.io" target="_self">Syllabus</a></li><li class=""><a href="/students" target="_self">Students</a></li><li class="siteNavGroupActive"><a href="/volunteers" target="_self">Volunteers</a></li><li class=""><a href="/code-of-conduct" target="_self">Code of Conduct</a></li><li class=""><a target="_self"></a></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="docsNavContainer" id="docsNav"><nav class="toc"><div class="toggleNav"><section class="navWrapper wrapper"><div class="navBreadcrumb wrapper"><div class="navToggle" id="navToggler"><div class="hamburger-menu"><div class="line1"></div><div class="line2"></div><div class="line3"></div></div></div><h2><i>›</i><span>Tools</span></h2><div class="tocToggler" id="tocToggler"><i class="icon-toc"></i></div></div><div class="navGroups"><div class="navGroup"><h3 class="navGroupCategoryTitle">Volunteers</h3><ul class=""><li class="navListItem"><a class="navItem" href="/volunteers">Introduction</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Organisation</h3><ul class=""><li class="navListItem"><a class="navItem" href="/volunteers/history">History of Code Your Future</a></li><li class="navListItem"><a class="navItem" href="/volunteers/the-course">Full Stack Web Development Course</a></li><li class="navListItem"><a class="navItem" href="/volunteers/teams">Volunteer Teams</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Tools</h3><ul class=""><li class="navListItem"><a class="navItem" href="/volunteers/cyf-dashboard">CYF Dashboard</a></li><li class="navListItem"><a class="navItem" href="/slack">Slack</a></li><li class="navListItem navListItemActive"><a class="navItem" href="/volunteers/slack-organisation">Effective Organisation on Slack</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">New Volunteers</h3><ul class=""><li class="navListItem"><a class="navItem" href="/volunteers/joining">Joining as a volunteer</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Outreach</h3><ul class=""><li class="navListItem"><a class="navItem" href="/volunteers/outreach/outreach-roles">Outreach Team Roles</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Personal Development</h3><ul class=""><li class="navListItem"><a class="navItem" href="/volunteers/personaldevelopment/pd-roles">Personal Development Team Roles</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Education</h3><ul class=""><li class="navListItem"><a class="navItem" href="/volunteers/education/teaching-rules">The Ten Rules for Teaching at Code Your Future</a></li><li class="navListItem"><a class="navItem" href="/volunteers/education/teaching-tips">Coaching Guidelines, Tips and Tricks</a></li><li class="navListItem"><a class="navItem" href="/volunteers/education/education-roles">Education Team Roles</a></li><li class="navListItem"><a class="navItem" href="/volunteers/education/google-classroom">Google Classroom</a></li><li class="navListItem"><a class="navItem" href="/volunteers/education/git-repos">Useful Git Repositories</a></li><li class="navListItem"><a class="navItem" href="/volunteers/education/module-leads">Module leads</a></li></ul></div></div></section></div><script>
+            var coll = document.getElementsByClassName('collapsible');
+            var checkActiveCategory = true;
+            for (var i = 0; i < coll.length; i++) {
+              var links = coll[i].nextElementSibling.getElementsByTagName('*');
+              if (checkActiveCategory){
+                for (var j = 0; j < links.length; j++) {
+                  if (links[j].classList.contains('navListItemActive')){
+                    coll[i].nextElementSibling.classList.toggle('hide');
+                    coll[i].childNodes[1].classList.toggle('rotate');
+                    checkActiveCategory = false;
+                    break;
+                  }
+                }
+              }
+
+              coll[i].addEventListener('click', function() {
+                var arrow = this.childNodes[1];
+                arrow.classList.toggle('rotate');
+                var content = this.nextElementSibling;
+                content.classList.toggle('hide');
+              });
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+              createToggler('#navToggler', '#docsNav', 'docsSliderActive');
+              createToggler('#tocToggler', 'body', 'tocActive');
+
+              var headings = document.querySelector('.toc-headings');
+              headings && headings.addEventListener('click', function(event) {
+                var el = event.target;
+                while(el !== headings){
+                  if (el.tagName === 'A') {
+                    document.body.classList.remove('tocActive');
+                    break;
+                  } else{
+                    el = el.parentNode;
+                  }
+                }
+              }, false);
+
+              function createToggler(togglerSelector, targetSelector, className) {
+                var toggler = document.querySelector(togglerSelector);
+                var target = document.querySelector(targetSelector);
+
+                if (!toggler) {
+                  return;
+                }
+
+                toggler.onclick = function(event) {
+                  event.preventDefault();
+
+                  target.classList.toggle(className);
+                };
+              }
+            });
+        </script></nav></div><div class="container mainContainer docsContainer"><div class="wrapper"><div class="post"><header class="postHeader"><a class="edit-page-link button" href="https://github.com/CodeYourFuture/wiki/tree/master/docs/volunteers/slack-organisation.md" target="_blank" rel="noreferrer noopener">Edit</a><h1 id="__docusaurus" class="postHeaderTitle">Effective Organisation on Slack</h1></header><article><div><span><h2><a class="anchor" aria-hidden="true" id="brief"></a><a href="#brief" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Brief</h2>
+<p>In this guide, I want to give some high level tips about how to communicate and organise effectively on Slack.</p>
+<p>Most of this document is what I’ve gleaned from digital organising with other code schools and activist organisations.</p>
+<h2><a class="anchor" aria-hidden="true" id="problems"></a><a href="#problems" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Problems</h2>
+<p>Using Slack as an organisational tool has several problems</p>
+<ul>
+<li>People do not check Slack enough
+<ul>
+<li>Unless you work for a company that uses Slack extensively, it’s very easy to forget that Slack exists</li>
+<li>The longer people don’t check the Slack, the harder it is to catch up</li>
+</ul></li>
+<li>Messages are easily sent off screen so they get missed
+<ul>
+<li>Important messages are quickly sent off the first scroll of the page if there are lots of people talking</li>
+</ul></li>
+<li>It’s hard to tell the difference between an important message and people chatting</li>
+<li>Everyone’s messages have the same importance
+<ul>
+<li>There’s no way to tell who is in charge</li>
+</ul></li>
+</ul>
+<p>However, I’ve noticed a few tricks that can help us cut through the noise.</p>
+<h2><a class="anchor" aria-hidden="true" id="rules-of-slack-organisation"></a><a href="#rules-of-slack-organisation" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Rules of Slack Organisation</h2>
+<ol>
+<li><strong>Every message is a project</strong></li>
+</ol>
+<p>When you’re writing a message you should always have in mind the information you’re trying to convey and the goals you’re trying to achieve with the message.</p>
+<ol start="2">
+<li><strong>The importance of the message is directly proportional to how much time you spend creating it</strong></li>
+</ol>
+<p>People respond better when they know that the person sending the message has spent time creating it. The respect goes two ways.</p>
+<ol start="3">
+<li><strong>Fewer, better crafted messages</strong></li>
+</ol>
+<p>It is very easy to swamp Slack channels with requests. You shouldn’t send multiple requests within a few hours, especially if they are low quality.</p>
+<h2><a class="anchor" aria-hidden="true" id="building-a-slack-request"></a><a href="#building-a-slack-request" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Building a Slack Request</h2>
+<p>Every message should, at a glance, be able to answer these questions</p>
+<ol>
+<li>Who is the message for?</li>
+<li>What needs to be done?</li>
+<li>How do I get involved?</li>
+</ol>
+<p>Let’s imagine we have an urgent request to get volunteers to help with approving applicants.</p>
+<p>Here is an example of a poorly made Slack Request:</p>
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Code-Your0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p><img src="images/Code-Your0.png" alt="alt_text" title="image_tooltip"></p>
+<p>Here is an example of a better Slack Request:</p>
+<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Code-Your1.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p><img src="images/Code-Your1.png" alt="alt_text" title="image_tooltip"></p>
+<p>Here is an example of a better, very urgent Slack Request:</p>
+<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Code-Your2.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p><img src="images/Code-Your2.png" alt="alt_text" title="image_tooltip"></p>
+<p>What does the second message do better than the first?</p>
+<ul>
+<li>Formatting
+<ul>
+<li>Splitting the request out onto separate lines help to break up the post</li>
+<li>Using bold to highlight the most important parts of the request to get people understand the request quickly.</li>
+</ul></li>
+<li>Thread
+<ul>
+<li>By tagging relevant people in the thread (instead of into the post itself) it encourages people to respond in the thread.</li>
+</ul></li>
+<li>Emojis
+<ul>
+<li>Whilst you shouldn’t use for every request. A line of emojis at the top of the request can help to break the message apart from others in the chat log.</li>
+</ul></li>
+<li>Physical space
+<ul>
+<li>The amount of screen real estate that the message takes up should be in line with how important the message is</li>
+</ul></li>
+<li>Short messaging
+<ul>
+<li>There’s no point in using long, run on sentences in a Slack message. Nobody will read it. Always be succinct.</li>
+</ul></li>
+</ul>
+</span></div></article></div><div class="docs-prevnext"><a class="docs-prev button" href="/slack"><span class="arrow-prev">← </span><span>Slack</span></a><a class="docs-next button" href="/volunteers/joining"><span>Joining as a volunteer</span><span class="arrow-next"> →</span></a></div></div></div><nav class="onPageNav"><ul class="toc-headings"><li><a href="#brief">Brief</a></li><li><a href="#problems">Problems</a></li><li><a href="#rules-of-slack-organisation">Rules of Slack Organisation</a></li><li><a href="#building-a-slack-request">Building a Slack Request</a></li></ul></nav></div><footer class="nav-footer" id="footer"><div class="wrapper"><section class="sitemap"><h5>CodeYourFuture</h5><nav><ul><li><a href="https://codeyourfuture.io" target="_blank" rel="noreferrer noopener">Website</a></li><li><a href="https://github.com/CodeYourFuture" target="_blank" rel="noreferrer noopener">GitHub</a></li><li><a href="https://twitter.com/CodeYourFuture_" target="_blank" rel="noreferrer noopener">Twitter</a></li><li><a href="https://www.facebook.com/codeyourfuture.io" target="_blank" rel="noreferrer noopener">Facebook</a></li><i><a href="https://github.com/CodeYourFuture/wiki">This website is open source. Click here to make a change.</a></i></ul></nav></section><section class="copyright">Copyright © 2020 CodeYourFuture</section></div></footer></div></body></html>
