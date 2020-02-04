@@ -50,7 +50,7 @@ class HomeSplash extends React.Component {
               Syllabus
             </Button>
             <Button href={docUrl("students")}>Students</Button>
-            <Button href={docUrl("mentors")}>Volunteers</Button>
+            <Button href={docUrl("volunteers")}>Volunteers</Button>
           </PromoSection>
           <PromoSection>
             <Button href={docUrl("cities/london/home")}>London</Button>
