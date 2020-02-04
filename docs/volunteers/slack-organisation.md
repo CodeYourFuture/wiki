@@ -50,21 +50,15 @@ Let’s imagine we have an urgent request to get volunteers to help with approvi
 
 Here is an example of a poorly made Slack Request:
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Code-Your0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/Code-Your0.png "image_tooltip")
+![alt_text](assets/slack-org/image2.png "Chat Message")
 
 Here is an example of a better Slack Request:
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Code-Your1.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/Code-Your1.png "image_tooltip")
+![alt_text](assets/slack-org/image3.png "Chat Message")
 
 Here is an example of a better, very urgent Slack Request:
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Code-Your2.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](images/Code-Your2.png "image_tooltip")
+![alt_text](assets/slack-org/image4.png "Chat Message")
 
 What does the second message do better than the first?
 
