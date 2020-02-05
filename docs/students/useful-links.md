@@ -30,6 +30,9 @@ and improving your skills.
   is a thorough guide on good programming practices to create quality code
 - [commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide)
   is a guide on good practices for writing commit messages
+  
+## Professionalism
+- [Don't Call Yourself A Programmer](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/) is a really excellent article which gives you advice on how to be professional and confident
 
 ## Algorithms and data structures
 
