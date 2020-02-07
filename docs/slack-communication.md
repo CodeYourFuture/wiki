@@ -33,6 +33,33 @@ Slack should be kept tidy and organised to maximise its usefulness.
 - Delete any failed group calls to keep the channel clear
 - Inform the class as soon as possible if you are not planning to come or able to come to class
 
+### Asking Questions
+
+In order to make is easy for people to answer your questions when asking for help it's important that you have the following information
+
+- The homework that you're working on
+- What isn't working in your code or what you don't understand
+- What you expect to happen
+- A link to your code on Github
+
+You should use this template:
+
+```markdown
+Homework: 
+Problem: 
+Expected: 
+Code:
+```
+
+For example
+
+```markdown
+Homework: Create a Website
+Problem: The Headings on my website don't look right. 
+Expected: The heading should be much bigger than the other text on the page. I've tried to use a H1 tag but it doesn't work
+Code: https://github.com/CodeYourFuture/my-website/pull/46
+```
+
 ## Volunteer communication
 
 - Make sure to tag students and graduates for events and create user groups for core volunteers

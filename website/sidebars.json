@@ -1,12 +1,6 @@
 {
   "students": {
-    "Students": [
-      "students",
-      "students/house-rules",
-      "students/useful-links",
-      "slack",
-      "git"
-    ],
+    "Students": ["students", "students/house-rules", "students/useful-links"],
     "Tech Guides": [
       "students/guides/making-a-pull-request",
       "students/guides/submitting-homework",
