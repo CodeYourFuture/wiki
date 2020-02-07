@@ -5,12 +5,7 @@ title: Contact information
 
 ## Email
 london@codeyourfuture.io
-
-#Germán Bencci
-german@codeyourfuture.io
-
-#Roberta Lifonso
-roberta@codeyourfuture.io
+candy@codeyourfuture.io
 
 ## Address
 The Green House, 244-254 Cambridge Heath Rd, London E2 9DA
