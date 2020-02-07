@@ -69,7 +69,7 @@ If they seem to fundamentally misunderstand a concept then it is best to refer t
 
 **Formatting**
 
-It never hurts to hammer home the importance of proper formatting and indentation
+It never hurts to remind the student of the importance of proper formatting and indentation
 
 ## Homework Grading
 
