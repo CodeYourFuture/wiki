@@ -82,3 +82,5 @@ If you suspect the wiki build/deploy process has failed you can dig into the log
 
 
 <iframe height='265' scrolling='no' title='Fancy Animated SVG Menu' src='http://codepen.io/jeangontijo/embed/OxVywj/?height=265&theme-id=0&default-tab=css,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jrQn8c6O3dE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
