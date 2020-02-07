@@ -25,7 +25,7 @@ If you do not have access to edit the wiki please speak to a staff member or vol
 
 If you are not a member of Code Your Future, you are welcome to make a change but we ask that you Fork this repository and open a pull request.
 
-## Editing a Page
+## Editing a Page on Github
 
 At the top of every page in this wiki there is a small `Edit` button. Clicking this button will take you to Github.
 
@@ -69,8 +69,16 @@ _e.g. You would add this line in the file_
        ...
 ```
 
+## Typora
+
+We recommend using https://typora.io/ to edit and make changes to files. It allows for each formatting of text and easy integration of images
+
 ## Trouble-shooting
 
 Your changes may take a couple of minutes to be made visible at the site.
 
 If you suspect the wiki build/deploy process has failed you can dig into the logs at https://github.com/CodeYourFuture/wiki/actions
+
+
+
+<iframe height='265' scrolling='no' title='Fancy Animated SVG Menu' src='http://codepen.io/jeangontijo/embed/OxVywj/?height=265&theme-id=0&default-tab=css,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'></iframe>
