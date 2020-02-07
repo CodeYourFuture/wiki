@@ -5,6 +5,7 @@ title: Contact information
 
 ## Email
 london@codeyourfuture.io
+Candy DeRoy
 candy@codeyourfuture.io
 
 ## Address
