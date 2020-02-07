@@ -1,6 +1,6 @@
-# CodeYourFuture Wiki
+# Code Your Future Docs
 
-This is the CYF Wiki. It contains useful information for students and mentors.
+This is the CYF Docs. It contains useful information for students and mentors.
 
 This is online here: https://docs.codeyourfuture.io
 
