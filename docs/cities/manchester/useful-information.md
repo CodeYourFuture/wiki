@@ -29,3 +29,13 @@ In Manchester, the main channels are listed below:
 - **\#manchester-outreach**: all members of the Manchester outreach team
 - **\#manchester-applicants**: all volunteers contributing to the student application process in Manchester
 - **\#cyf-general**: everyone from CYF - do not ping the whole channel!
+
+## Useful People
+
+- Lucy MacGlashan (@Lucy) - Outreach facilitator
+
+- Chris Perry (@Chris) - Education facilitator
+
+- Keith Bremer (@Keith Bremer) - Education facilitator
+
+- Gabriele Sapagovaite (@gabriele) - Personal Development facilitator/expenses
