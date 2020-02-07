@@ -1,7 +1,4 @@
----
-id: contribution-guide
-title: Contribution Guide
----
+
 
 ## Wiki Content
 
@@ -69,6 +66,20 @@ _e.g. You would add this line in the file_
        ...
 ```
 
+
+
+## Adding a YouTube Video and Embeds
+
+To embed a YouTube video (or other HTML embed) you can do the following. First take the embed code from YouTube
+
+![image-20200207143512693](assets/contribution-guide/image-20200207143512693.png)
+
+Then copy the code that is given to you
+
+![image-20200207143542429](assets/contribution-guide/image-20200207143542429.png)
+
+Go to your text editor and paste the embed as a block of code. When the website is online the content will be rendered as a video
+
 ## Typora
 
 We recommend using https://typora.io/ to edit and make changes to files. It allows for each formatting of text and easy integration of images
@@ -78,9 +89,3 @@ We recommend using https://typora.io/ to edit and make changes to files. It allo
 Your changes may take a couple of minutes to be made visible at the site.
 
 If you suspect the wiki build/deploy process has failed you can dig into the logs at https://github.com/CodeYourFuture/wiki/actions
-
-
-
-<iframe height='265' scrolling='no' title='Fancy Animated SVG Menu' src='http://codepen.io/jeangontijo/embed/OxVywj/?height=265&theme-id=0&default-tab=css,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jrQn8c6O3dE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
