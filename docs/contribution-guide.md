@@ -1,8 +1,11 @@
-
-
-## Wiki Content
+---
+id: contribution-guide
+title: Contribution Guide
+---
 
 ## Markdown
+
+All of the documents in this project use markdown to style the pages
 
 https://guides.github.com/features/mastering-markdown/
 
@@ -66,11 +69,9 @@ _e.g. You would add this line in the file_
        ...
 ```
 
-
-
 ## Adding a YouTube Video and Embeds
 
-To embed a YouTube video (or other HTML embed) you can do the following. First take the embed code from YouTube
+To embed a YouTube video (or other HTML embed) you can do the following. First take the embed code from Youube
 
 ![image-20200207143512693](assets/contribution-guide/image-20200207143512693.png)
 
