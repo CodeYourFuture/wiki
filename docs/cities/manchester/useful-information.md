@@ -39,3 +39,5 @@ In Manchester, the main channels are listed below:
 - Keith Bremer (@Keith Bremer) - Education facilitator
 
 - Gabriele Sapagovaite (@gabriele) - Personal Development facilitator/expenses
+
+- Barnaby Dathan (@Barnaby Dathan) - Program Coordinator
