@@ -39,7 +39,7 @@ Above all else be positive and be kind. Our students want to learn and want to u
 
 You should pull out small wins from bad code and encourage them to continue and try again. Many of our students suffer from low confidence and a well timed comment of motivation can be all it takes to push them to success. 
 
-If in doubt, consult our [key rules](volunteers/education/teaching-rules). 
+If in doubt, consult our [key rules](/volunteers/education/teaching-rules). 
 
 **Directing to Resources**
 
