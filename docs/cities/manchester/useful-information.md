@@ -8,10 +8,11 @@ title: Useful information
   2 Federation St, 
   Manchester 
   M4 4BF
+  
+  Usually on the Lower Ground Floor unless advised otherwise
 
 ## When do we teach?
   Saturdays 11am - 4 pm
-  Usually on the Lower Ground Floor unless advised otherwise
 
 ## Where is our office?
   Federation House, 
