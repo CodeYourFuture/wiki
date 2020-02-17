@@ -13,10 +13,12 @@ Welcome to the CodeYourFuture North-West page, as the course is currently held i
   2 Federation St, 
   Manchester 
   M4 4BF
+  
+  Usually on the Lower Ground Floor unless advised otherwise
 
 ## When do we teach?
 
-  Saturdays 11am - 4 pm Usually on the Lower Ground Floor unless advised otherwise
+  Saturdays 11am - 4 pm
 
 ## Where is our office?
 
