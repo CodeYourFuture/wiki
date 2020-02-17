@@ -38,10 +38,10 @@ In Manchester, the main channels are listed below:
 
 - Lucy MacGlashan (@Lucy) - Outreach facilitator
 
-- Chris Perry (@Chris) - Education facilitator
+- Chris Perry (@Chris Perry) - Education facilitator
 
 - Keith Bremer (@Keith Bremer) - Education facilitator
 
-- Gabriele Sapagovaite (@gabriele) - Personal Development facilitator/expenses
+- Gabriele Sapagovaite (Gabrielė) - Personal Development facilitator/expenses
 
 - Barnaby Dathan (@Barnaby Dathan) - Program Coordinator
