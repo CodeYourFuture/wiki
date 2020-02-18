@@ -15,7 +15,8 @@
     "Organisation": [
       "volunteers/history",
       "volunteers/the-course",
-      "volunteers/teams"
+      "volunteers/teams",
+      "volunteers/interviews"
     ],
     "Tools": [
       "volunteers/cyf-dashboard",
