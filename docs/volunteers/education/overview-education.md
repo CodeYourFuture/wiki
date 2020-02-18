@@ -11,7 +11,7 @@ In this section you'll find all the information to do with the education team.
 - Assess and give feedback on student homework
 - Provide mentoring to students
 - Update and maintain the syllabus
-- Organise and deliver teacher training for other volunteers
+- Organize and deliver teacher training for other volunteers
 
 ## Teacher Training
 

@@ -28,9 +28,9 @@
     "Personal Development": ["volunteers/personaldevelopment/pd-roles"],
     "Education": [
       "volunteers/education/overview-education",
+      "volunteers/education/education-roles",
       "volunteers/education/teaching-rules",
       "volunteers/education/teaching-tips",
-      "volunteers/education/education-roles",
       "volunteers/education/homework-feedback",
       "volunteers/education/google-classroom",
       "volunteers/education/git-repos"

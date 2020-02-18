@@ -25,7 +25,7 @@ Simply navigate to the Branch tab at the top of the screen then select the Pull 
 
 ## Giving Feedback
 
-Feedback should be given directly on the Pull Request that the students create on the exercise repository. 
+Feedback should be given directly on the Pull Request that the students create on the exercise repository.
 
 When you have given the student feedback it is useful if you tag the Pull Request as having been `Reviewed`
 
@@ -35,23 +35,23 @@ If the homework has not been completed or if there is a major problem with the h
 
 **Be Positive**
 
-Above all else be positive and be kind. Our students want to learn and want to understand. 
+Above all else be positive and be kind. Our students want to learn and want to understand.
 
-You should pull out small wins from bad code and encourage them to continue and try again. Many of our students suffer from low confidence and a well timed comment of motivation can be all it takes to push them to success. 
+You should pull out small wins from bad code and encourage them to continue and try again. Many of our students suffer from low confidence and a well timed comment of motivation can be all it takes to push them to success.
 
-If in doubt, consult our [key rules](volunteers/education/teaching-rules). 
+If in doubt, consult our [key rules](volunteers/education/teaching-rules).
 
 **Directing to Resources**
 
-If you can tell that a student has been struggling with a particular area of the homework one key way that you can help is to 
+If you can tell that a student has been struggling with a particular area of the homework one key way that you can help is to
 
-1. Acknowledge that they have struggled 
+1. Acknowledge that they have struggled
 2. Re-assure them that many people struggle with such problems
 3. Direct them to an online resource that will help them understand the problem better
 
 We should try to shy away from writing long, complex explanations to students problems. This can be a time sink, especially when great resources already exist.
 
-*Please note*: Do not just link to documentation! Link to a tutorial or guide that explains the documentation.
+_Please note_: Do not just link to documentation! Link to a tutorial or guide that explains the documentation.
 
 **Fixing Bugs**
 
@@ -63,13 +63,13 @@ Make every error a teaching moment, mention that you see other students struggli
 
 **Explaining an Obvious Mental Model Issue**
 
-When a student implements code in a way that seems nonsensical the root cause can often be a misconception in how they have built their [mental model](https://teachtogether.tech/#s:models). If you can obviously tell from their homework what their misunderstanding is then you are encouraged to correct them. 
+When a student implements code in a way that seems nonsensical the root cause can often be a misconception in how they have built their [mental model](https://teachtogether.tech/#s:models). If you can obviously tell from their homework what their misunderstanding is then you are encouraged to correct them.
 
 If they seem to fundamentally misunderstand a concept then it is best to refer them back to the source material.
 
 **Formatting**
 
-It never hurts to remind the student of  the importance of proper formatting and indentation
+It never hurts to remind the student of the importance of proper formatting and indentation
 
 ## Homework Grading
 
@@ -87,7 +87,7 @@ Grades should be given on the follow criteria
 - How much you believe the student understands the content
 - How well executed the homework is
 
-This is, above all else, an indicator of the students abilities and is not comprehensive. Different teachers will grade homework at different levels and we should be aware of this. 
+This is, above all else, an indicator of the students abilities and is not comprehensive. Different teachers will grade homework at different levels and we should be aware of this.
 
 ## Suspicion of Copying
 
