@@ -1,0 +1,98 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>Student Interviews · Code Your Future Docs</title><meta name="viewport" content="width=device-width"/><meta name="generator" content="Docusaurus"/><meta name="description" content="Before every class we make sure to interview our potential students as a final step before acceptence on to the course."/><meta name="docsearch:language" content="en"/><meta property="og:title" content="Student Interviews · Code Your Future Docs"/><meta property="og:type" content="website"/><meta property="og:url" content="https://docs.codeyourfuture.io/"/><meta property="og:description" content="Before every class we make sure to interview our potential students as a final step before acceptence on to the course."/><meta name="twitter:card" content="summary"/><link rel="shortcut icon" href="/img/favicon.png"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><script src="/js/scrollSpy.js"></script><link rel="stylesheet" href="/css/main.css"/><script src="/js/codetabs.js"></script></head><body class="sideNavVisible separateOnPageNav"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/"><img class="logo" src="/img/logo.png" alt="Code Your Future Docs"/><h2 class="headerTitleWithLogo">Code Your Future Docs</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class=""><a href="https://syllabus.codeyourfuture.io" target="_self">Syllabus</a></li><li class=""><a href="/students" target="_self">Students</a></li><li class="siteNavGroupActive"><a href="/volunteers" target="_self">Volunteers</a></li><li class=""><a href="/code-of-conduct" target="_self">Code of Conduct</a></li><li class=""><a target="_self"></a></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="docsNavContainer" id="docsNav"><nav class="toc"><div class="toggleNav"><section class="navWrapper wrapper"><div class="navBreadcrumb wrapper"><div class="navToggle" id="navToggler"><div class="hamburger-menu"><div class="line1"></div><div class="line2"></div><div class="line3"></div></div></div><h2><i>›</i><span>Organisation</span></h2><div class="tocToggler" id="tocToggler"><i class="icon-toc"></i></div></div><div class="navGroups"><div class="navGroup"><h3 class="navGroupCategoryTitle">Volunteers</h3><ul class=""><li class="navListItem"><a class="navItem" href="/volunteers">Introduction</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Organisation</h3><ul class=""><li class="navListItem"><a class="navItem" href="/volunteers/history">History of Code Your Future</a></li><li class="navListItem"><a class="navItem" href="/volunteers/the-course">Full Stack Web Development Course</a></li><li class="navListItem"><a class="navItem" href="/volunteers/teams">Volunteer Teams</a></li><li class="navListItem navListItemActive"><a class="navItem" href="/volunteers/interviews">Student Interviews</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Tools</h3><ul class=""><li class="navListItem"><a class="navItem" href="/volunteers/cyf-dashboard">CYF Dashboard</a></li><li class="navListItem"><a class="navItem" href="/slack">Slack</a></li><li class="navListItem"><a class="navItem" href="/volunteers/slack-organisation">Effective Organisation on Slack</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">New Volunteers</h3><ul class=""><li class="navListItem"><a class="navItem" href="/volunteers/joining">Joining as a volunteer</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Outreach</h3><ul class=""><li class="navListItem"><a class="navItem" href="/volunteers/outreach/outreach-roles">Outreach Team Roles</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Personal Development</h3><ul class=""><li class="navListItem"><a class="navItem" href="/volunteers/personaldevelopment/pd-roles">Personal Development Team Roles</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Education</h3><ul class=""><li class="navListItem"><a class="navItem" href="/volunteers/education/overview-education">Overview</a></li><li class="navListItem"><a class="navItem" href="/volunteers/education/teaching-rules">The Ten Rules for Teaching at Code Your Future</a></li><li class="navListItem"><a class="navItem" href="/volunteers/education/teaching-tips">Coaching Guidelines, Tips and Tricks</a></li><li class="navListItem"><a class="navItem" href="/volunteers/education/education-roles">Education Team Roles</a></li><li class="navListItem"><a class="navItem" href="/volunteers/education/homework-feedback">Homework Feedback</a></li><li class="navListItem"><a class="navItem" href="/volunteers/education/google-classroom">Google Classroom</a></li><li class="navListItem"><a class="navItem" href="/volunteers/education/git-repos">Useful Git Repositories</a></li></ul></div></div></section></div><script>
+            var coll = document.getElementsByClassName('collapsible');
+            var checkActiveCategory = true;
+            for (var i = 0; i < coll.length; i++) {
+              var links = coll[i].nextElementSibling.getElementsByTagName('*');
+              if (checkActiveCategory){
+                for (var j = 0; j < links.length; j++) {
+                  if (links[j].classList.contains('navListItemActive')){
+                    coll[i].nextElementSibling.classList.toggle('hide');
+                    coll[i].childNodes[1].classList.toggle('rotate');
+                    checkActiveCategory = false;
+                    break;
+                  }
+                }
+              }
+
+              coll[i].addEventListener('click', function() {
+                var arrow = this.childNodes[1];
+                arrow.classList.toggle('rotate');
+                var content = this.nextElementSibling;
+                content.classList.toggle('hide');
+              });
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+              createToggler('#navToggler', '#docsNav', 'docsSliderActive');
+              createToggler('#tocToggler', 'body', 'tocActive');
+
+              var headings = document.querySelector('.toc-headings');
+              headings && headings.addEventListener('click', function(event) {
+                var el = event.target;
+                while(el !== headings){
+                  if (el.tagName === 'A') {
+                    document.body.classList.remove('tocActive');
+                    break;
+                  } else{
+                    el = el.parentNode;
+                  }
+                }
+              }, false);
+
+              function createToggler(togglerSelector, targetSelector, className) {
+                var toggler = document.querySelector(togglerSelector);
+                var target = document.querySelector(targetSelector);
+
+                if (!toggler) {
+                  return;
+                }
+
+                toggler.onclick = function(event) {
+                  event.preventDefault();
+
+                  target.classList.toggle(className);
+                };
+              }
+            });
+        </script></nav></div><div class="container mainContainer docsContainer"><div class="wrapper"><div class="post"><header class="postHeader"><a class="edit-page-link button" href="https://github.com/CodeYourFuture/wiki/tree/master/docs/volunteers/interviews.md" target="_blank" rel="noreferrer noopener">Edit</a><h1 id="__docusaurus" class="postHeaderTitle">Student Interviews</h1></header><article><div><span><p>Before every class we make sure to interview our potential students as a final step before acceptence on to the course.</p>
+<h3><a class="anchor" aria-hidden="true" id="aims"></a><a href="#aims" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Aims</h3>
+<ul>
+<li>Get to the know the students
+<ul>
+<li>This is the first time we've ever met them! We have to be sure we can work with them for the next eight months</li>
+</ul></li>
+<li>Assess that the students have retained the knowledge then learnt in the previous steps
+<ul>
+<li>We should also confirm that the students actually did the work themselves</li>
+</ul></li>
+<li>Assess the students have a good level of spoken English
+<ul>
+<li>Students can get help from friends and family for written work</li>
+</ul></li>
+</ul>
+<h2><a class="anchor" aria-hidden="true" id="interview-days"></a><a href="#interview-days" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Interview Days</h2>
+<p>Interview days generally run the whole day and require a large number of both technical and non-technical volunteers.</p>
+<p>As students arrive they should be taken to a quiet space with one technical volunteer (someone who understands code) and one non-technical volunteer.</p>
+<p>Together they should complete this form:</p>
+<p><a href="https://docs.google.com/forms/d/1Ps6CEPPr_50hBmmXBPKwogAGRwnGnJr7GccUekdHqjM/edit">Student Interview Form</a>
+(The class coordinator should duplicate this form for each Class)</p>
+<p>Aim to be as objective and fair as possible. Be mindful of your biases. If in doubt, record more information than you think is necessary.</p>
+<h2><a class="anchor" aria-hidden="true" id="student-selection"></a><a href="#student-selection" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Student Selection</h2>
+<h3><a class="anchor" aria-hidden="true" id="upper-bounds--lower-bounds"></a><a href="#upper-bounds--lower-bounds" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Upper Bounds &amp; Lower Bounds</h3>
+<p>When choosing which students it is important to keep in mind that a student can be of too high ability as well as too low.</p>
+<p>A student with too low ability may</p>
+<ul>
+<li>Not understand English to a sufficient level</li>
+<li>Not be able to explain their code well enough</li>
+<li>They may not show a particularly great drive to be a programmer</li>
+</ul>
+<p>A student with too high ability may</p>
+<ul>
+<li>Already know how to program to an advanced level</li>
+<li>Have studied programming for a prolonged period of time</li>
+<li>May be capable of getting a programming job already</li>
+</ul>
+<p>It's important to spot both lower and upper bound students as our course may not be best serve them at this time.</p>
+<p>For lower bound students, a referral to a less intense programming course or further English lessons may be a better solution. Our course can be very challenging for people and if we're not sure that they're ready then we should endeavour to be upfront and supportive where ever possible.</p>
+<p>For upper bound students, it may be preferable to give them the skills they need to be able to get a job and have them start applying. This could take this form of personal development lessons or some sessions working on our tech projects. We're in the business of finding people jobs and if the most efficient way to do that is by <strong>not</strong> joining our case then that is the best outcome.</p>
+</span></div></article></div><div class="docs-prevnext"><a class="docs-prev button" href="/volunteers/teams"><span class="arrow-prev">← </span><span>Volunteer Teams</span></a><a class="docs-next button" href="/volunteers/cyf-dashboard"><span>CYF Dashboard</span><span class="arrow-next"> →</span></a></div></div></div><nav class="onPageNav"><ul class="toc-headings"><li><a href="#interview-days">Interview Days</a></li><li><a href="#student-selection">Student Selection</a><ul class="toc-headings"><li><a href="#upper-bounds--lower-bounds">Upper Bounds &amp; Lower Bounds</a></li></ul></li></ul></nav></div><footer class="nav-footer" id="footer"><div class="wrapper"><section class="sitemap"><h5>CodeYourFuture</h5><nav><ul><li><a href="https://codeyourfuture.io" target="_blank" rel="noreferrer noopener">Website</a></li><li><a href="https://github.com/CodeYourFuture" target="_blank" rel="noreferrer noopener">GitHub</a></li><li><a href="https://twitter.com/CodeYourFuture_" target="_blank" rel="noreferrer noopener">Twitter</a></li><li><a href="https://www.facebook.com/codeyourfuture.io" target="_blank" rel="noreferrer noopener">Facebook</a></li><i><a href="https://github.com/CodeYourFuture/wiki">This website is open source. Click here to make a change.</a></i></ul></nav></section><section class="copyright">Copyright © 2020 CodeYourFuture</section></div></footer></div></body></html>
