@@ -25,8 +25,28 @@ Together they should complete this form:
 [Student Interview Form](https://docs.google.com/forms/d/1Ps6CEPPr_50hBmmXBPKwogAGRwnGnJr7GccUekdHqjM/edit)
 (The class coordinator should duplicate this form for each Class)
 
-Aim to be as objective and fair as possible. Be mindful of your biases. If in doubt, record more information than you think is neccessary.
+Aim to be as objective and fair as possible. Be mindful of your biases. If in doubt, record more information than you think is necessary.
 
 ## Student Selection
 
 ### Upper Bounds & Lower Bounds
+
+When choosing which students it is important to keep in mind that a student can be of too high ability as well as too low.
+
+A student with too low ability may
+
+- Not understand English to a sufficient level
+- Not be able to explain their code well enough
+- They may not show a particularly great drive to be a programmer
+
+A student with too high ability may
+
+- Already know how to program to an advanced level
+- Have studied programming for a prolonged period of time
+- May be capable of getting a programming job already
+
+It's important to spot both lower and upper bound students as our course may not be best serve them at this time.
+
+For lower bound students, a referral to a less intense programming course or further English lessons may be a better solution. Our course can be very challenging for people and if we're not sure that they're ready then we should endeavour to be upfront and supportive where ever possible.
+
+For upper bound students, it may be preferable to give them the skills they need to be able to get a job and have them start applying. This could take this form of personal development lessons or some sessions working on our tech projects. We're in the business of finding people jobs and if the most efficient way to do that is by **not** joining our case then that is the best outcome.
