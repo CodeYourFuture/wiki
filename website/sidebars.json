@@ -26,6 +26,7 @@
     "Outreach": ["volunteers/outreach/outreach-roles"],
     "Personal Development": ["volunteers/personaldevelopment/pd-roles"],
     "Education": [
+      "volunteers/education/overview-education",
       "volunteers/education/teaching-rules",
       "volunteers/education/teaching-tips",
       "volunteers/education/education-roles",
