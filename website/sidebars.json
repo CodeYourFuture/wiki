@@ -8,7 +8,7 @@
       "students/guides/node",
       "students/guides/cors"
     ],
-    "Soft Skills Guides": ["students/getting-a-job", "slack"]
+    "Soft Skills Guides": ["students/getting-a-job", "students/slack-students"]
   },
   "volunteers": {
     "Volunteers": ["volunteers"],
@@ -20,7 +20,7 @@
     ],
     "Tools": [
       "volunteers/cyf-dashboard",
-      "slack",
+      "volunteers/slack-volunteers",
       "volunteers/slack-organisation"
     ],
     "New Volunteers": ["volunteers/joining"],

@@ -1,5 +1,5 @@
 ---
-id: slack
+id: slack-students
 title: Slack
 ---
 
@@ -45,9 +45,9 @@ In order to make is easy for people to answer your questions when asking for hel
 You should use this template:
 
 ```markdown
-Homework: 
-Problem: 
-Expected: 
+Homework:
+Problem:
+Expected:
 Code:
 ```
 
@@ -55,10 +55,12 @@ For example
 
 ```markdown
 Homework: Create a Website
-Problem: The Headings on my website don't look right. 
+Problem: The Headings on my website don't look right.
 Expected: The heading should be much bigger than the other text on the page. I've tried to use a H1 tag but it doesn't work
 Code: https://github.com/CodeYourFuture/my-website/pull/46
 ```
+
+You can read more about asking good questions [here](/students/guides/asking-questions)
 
 ## Volunteer communication
 
