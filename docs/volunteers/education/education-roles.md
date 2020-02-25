@@ -1,6 +1,6 @@
 ---
 id: education-roles
-title: Education Team Roles
+title: Roles
 ---
 
 There are several roles that you can take when volunteering with the Education Team which have varying levels of time commitment and planning.
