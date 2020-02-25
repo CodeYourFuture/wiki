@@ -34,7 +34,7 @@ const siteConfig = {
   },
   copyright: `Copyright © ${new Date().getFullYear()} CodeYourFuture`,
   cleanUrl: true,
-  docsSideNavCollapsible: false,
+  docsSideNavCollapsible: true,
   docsUrl: "",
   highlight: {
     theme: "default"
