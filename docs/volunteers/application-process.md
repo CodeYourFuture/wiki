@@ -35,19 +35,17 @@ Next step of the application process is Product Landing Page. This is the most i
 
 ## Step 7: Product Landing Page Iteration Review and Feedback
 
-In order to carry out this step, set up a Trello Board for class applicants and create a Product Landing Review Card with the checklists from the following file: [Link](https://docs.google.com/document/d/1H-rLPBWYXt7nO47iyU6PWB6egdOTvssoQGhlNJdWsIM/edit). Copy this card for each applicant - changing a name and adding a relevant Codepen link.
+In order to carry out this step, navigate to the Dashboard and view the Step 3 & Step 4 panels for each student.
 
-Figure 2: Applicant Product Landing Page Review Card
+![image-20200225161303081](../docs/assets/application-process/image-20200225161303081.png)
 
-Once complete, ask one of the mentors to review the codepen page against the checklist - ticking points where requirements have been met. Checklist includes 28 points, but 6 of them are optional and relate to JavaScript that is not necessarily covered as part of the application process. Thus, on average the highest expected outcome is 22 points. Upon completing the review, please ask reviewing mentor to leave some feedback for the student on how they can improve the page and elements that were missing and need to be added.
-
-Organise your Trello to have these general columns: To Review => Reviewed 1st Time => First Iteration Complete => Reviewed 2nd Time => etc. When cards are being reviewed and new cards are submitted - move them accordingly so it is clear what has been reviewed and what needs to be reviewed.
+All applicants should complete all the of the checkboxes before they can complete the step
 
 ## Step 8: Product Landing Page Iteration (Step 5)
 
 Iteration is a crucial part of the CYF culture - we want to ensure that students continually learn and strive to improve whatever it is they are doing and developing. Hence why it is important to start building this habit from the very beginning. The ways in which applicants respond to feedback can also serve as an indicator of their aptitude for the course.
 
-Once Step 7 is complete, you can send feedback to the student along with some general guidelines captured in an applicant guide: [here](https://docs.google.com/document/d/1-xXNRjxKPYOnuYzRQaE67XgrGNqgIXHx0WwGYF1QUBA/edit).
+![image-20200225161338547](../docs/assets/application-process/image-20200225161338547.png)
 
 ## Step 9: Interview Scheduling and Invites
 
@@ -79,23 +77,21 @@ CYF Template Interview form: [Link](https://drive.google.com/open?id=1Ps6CEPPr_5
 
 Interview form consists of three sections:
 
-1.  General Questions and Information
+### 1. General Questions and Information
 
-        These section assesses the motivation of the student, their experience throughout the application process, their attitude to problem solving and team-work etc. Instruct interviewers to make general brief notes throughout so they can reference these in Section 3.
+These section assesses the motivation of the student, their experience throughout the application process, their attitude to problem solving and team-work etc. Instruct interviewers to make general brief notes throughout so they can reference these in Section 3.
 
+When asking questions regarding availability for sessions and homework, look for evidence of proper planning and forethought. CYF offers a very intensive course that required a lot of time. Thus, applicants who are already lacking for time (i.e. working and studying at the same time already) are unlikely to have sufficient time for CYF course.
 
-        When asking questions regarding availability for sessions and homework, look for evidence of proper planning and forethought. CYF offers a very intensive course that required a lot of time. Thus, applicants who are already lacking for time (i.e. working and studying at the same time already) are unlikely to have sufficient time for CYF course.
+### 2. Technical Review
 
-2.  Technical Review
+This section acts as both the Second Product Landing Review (carrying on from Step 9) and an opportunity to assess candidates knowledge. Ask mentors to assess Product Landing Page for evidence of improvement following the first round of feedback. This should be done against the remaining checklists on the applicant’s Trello Card. At the same time, mentors can ask applicants questions on how they approached the Product Landing Page challenge and their response to feedback.
 
-        This section acts as both the Second Product Landing Review (carrying on from Step 9) and an opportunity to assess candidates knowledge. Ask mentors to assess Product Landing Page for evidence of improvement following the first round of feedback. This should be done against the remaining checklists on the applicant’s Trello Card. At the same time, mentors can ask applicants questions on how they approached the Product Landing Page challenge and their response to feedback.
+Following the questions, ask the applicant to explain some aspects of their code, why they used it and its functionality. Look for evidence of comprehension and understanding of the purpose of the code. In special cases, look for evidence of code copying - where there is evidence of coping without understanding, interviewers can challenge the origin of the code. Some copying can be permissible though will need to be fixed by rewriting the code, but outright plagiarism cannot be tolerated.
 
+### 3. Interviewer Feedback
 
-        Following the questions, ask the applicant to explain some aspects of their code, why they used it and its functionality. Look for evidence of comprehension and understanding of the purpose of the code. In special cases, look for evidence of code copying - where there is evidence of coping without understanding, interviewers can challenge the origin of the code. Some copying can be permissible though will need to be fixed by rewriting the code, but outright plagiarism cannot be tolerated.
-
-3.  Interviewer Feedback
-
-        At this time the interviewee can be allowed to go. In Section 3, interviewers are asked to rate an applicant against a number of statements on a 1 to 10 scale. They are also asked to provide feedback on interviewees as a statement.
+At this time the interviewee can be allowed to go. In Section 3, interviewers are asked to rate an applicant against a number of statements on a 1 to 10 scale. They are also asked to provide feedback on interviewees as a statement.
 
 ## Step 14: Collating Interview Data
 
