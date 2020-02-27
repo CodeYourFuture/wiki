@@ -1,6 +1,6 @@
 ---
 id: cyf-dashboard
-title: CYF Dashboard
+title: Dashboard
 ---
 
 //TODO
