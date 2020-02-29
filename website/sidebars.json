@@ -62,8 +62,8 @@
   "glasgow": {
     "Glasgow": [
       "cities/glasgow/home",
-      "cities/glasgow/useful-information",
-      "cities/glasgow/contact"
+      "cities/glasgow/mentors",
+      "cities/glasgow/retrospectives"
     ]
   },
   "birmingham": {

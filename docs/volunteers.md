@@ -13,3 +13,13 @@ We aim to constantly listen to our mentor's and student's feedback and adapt the
 ## Data protection
 
 For a copy of our data protection policy, please request access to: <https://drive.google.com/file/d/1BsCK3H6sqNDJiT-J21GPwcchHexRuiN3/view>
+
+## City information
+
+Information about specific cities can be found below.
+
+- [London](cities/london/home.md)
+- [Glasgow](cities/glasgow/home.md)
+- [Manchester](cities/manchester/home.md)
+- [Rome](cities/rome/home.md)
+- [Birmingham](cities/birmingham/home.md)
