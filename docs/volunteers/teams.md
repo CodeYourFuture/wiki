@@ -7,11 +7,10 @@ Here are general tasks to be fulfilled by respective Education, Outreach and Per
 
 ## Education
 
-- Provide technical assistance to students on Saturday classes
+- Provide technical assistance to students on weekly classes
 - Provide technical assistance to students during weekly homework clubs
 - Provide homework code reviews
 - Provide general code reviews remotely
-- Provide technical assistance remotely to students
 - Provide technical assistance remotely to students
 - Provide general technical guidance to students
 - Lead/instruct a module
