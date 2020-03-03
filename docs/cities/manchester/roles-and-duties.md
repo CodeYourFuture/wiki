@@ -1,0 +1,111 @@
+---
+id: roles-and-duties
+title: Roles & Duties
+---
+
+Under the main trinity of [Voluneteer teams](volunteers/teams.md),namely Outreach, Education & Personal Development,
+generally, we need to act and fulfill different roles in order to run the course smoothly and effectively.
+These roles also help to keep each member being engadged and organised.
+
+A volunteer can wear different hats on the way depending on the schedule and agenda, or maybe special circumstances.
+Everything is optional, there is no force if someone does not feel being comfortable to be responsible or to do something.
+
+Any help is welcomed :) 
+
+## Roles
+Mostly, we need the following roles as below.
+Each role is charged of duties and requires different skill set.
+
+**Note:** This list is only a general advise, does not have to be strictly followed.
+
+### Meeting Manager
+ - Run the kick-off meeting at the start of the day with all volunteers
+ - Run retrospective at the end of the class
+ - Moderator the discussions in these meetings
+
+**Requirements**
+ - Good timekeeping
+ - Organised
+
+### Time keeper
+ - Keeps classes running on schedule
+ - Coordinates with module lead when tasks over run
+ - Gives heads up towards end of sessions
+
+**Requirements**
+ - Strict with time keeping
+ - Good time keeper
+ - Good coordination
+
+### Lead Instructor
+ - Create module content
+ - Deliver content during the lesson
+ - Lead the rest of the instructors
+
+**Requirements**
+ - Good programming knowledge
+ - Some teaching experience
+ - Leadership qualities
+
+### Assistant Instructors
+ - Assist the main instructor
+ - Provide 1-on-1 support for the students
+ - Provide tech support for the students
+
+**Requirements**
+ - Some programming knowledge
+ - Supportive and empathetic
+
+### Training Assistants
+ - Supports instructors through class 
+ - Assists students where needed
+
+**Requirements**
+ - Some programming knowledge
+ - Supportive and empathetic
+
+### Homework Tsar
+ - Manages homework efforts for the week
+ - Overseas volunteer homework rota to make sure that enough support is offered
+ - Makes sure homework is completed by students/ talks with and supports those who are struggling
+
+**Requirements**
+ - Good organisation
+ - Delegates well
+ - Knows the students
+
+### Energiser
+ - Monitor the energy levels in the class
+ - Suggest when to take breaks 
+ - Run energisers with the students when natural breaks occur
+
+ - Lots of energy
+ - Good emotional intelligence
+
+### Housekeeping
+ - Make sure people get in and out of the building easily
+ - Run the clean-up after class
+ - Setup class before the lesson
+ - Make sure we have lunch arranged
+
+**Requirements**
+ - Good at delegation
+ - Good at corralling people
+ - Eye for detail and organisation
+
+### Lunch Crew
+ - Buy lunch before lessons start
+ - Set up lunch before lunch time	
+ - Work with housekeeping to tidy up after lunch
+ - (if applicable) arrange with students on who is bringing lunch next week.
+
+**Requirements**
+ - Can arrive before lessons start
+
+### Paparazzi
+ - Takes pictures and catches moments throughout the day
+ - Gives pictures to Outreach team for publication
+
+**Requirements**
+ - Takes a nice photo
+ - Has camera/phone
