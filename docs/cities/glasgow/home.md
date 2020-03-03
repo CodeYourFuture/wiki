@@ -3,19 +3,18 @@ id: home
 title: CodeYourFuture Scotland
 ---
 
+## Quick links
+
+- [Syllabus](https://codeyourfuture.github.io/syllabus-scotland/) for the course content
+- [Calendar](https://calendar.google.com/calendar?cid=Y29kZXlvdXJmdXR1cmUuaW9fYmswNDFocTNkdm9zdjBidmdkN2wwb2lwY2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) ([calendar in iCal format](https://calendar.google.com/calendar/ical/codeyourfuture.io_bk041hq3dvosv0bvgd7l0oipck%40group.calendar.google.com/private-6eb101d8a2bc2ef98073e6875d9c0216/basic.ics)) for class times
+
 ## Class structure
 
 Our Saturday class is normally held at [Collabor8te](https://collabor8te.co.uk/) ([22 Montrose Street, G1 1RE](https://goo.gl/maps/C6aFxhqyvqz)) between 11am and 5pm, including a 1 hour lunch break.
 We get a donation from [Pret a Manger](https://www.pret.co.uk/) for each Saturday class but we also very much welcome mentors and students bringing along their own food!
-Food is brought by those mentors and students who wish to do so and shared amongst everyone—there is no requirement to bring food, but it’s a nice way to contribute.
+Food is brought by mentors and students who wish to do so and shared amongst everyone—there is no requirement to bring food, but it’s a nice way to contribute.
 
 Please understand and follow the [house rules](../../students/house-rules.md) for the classes.
-
-## Calendar
-
-We are currently working against this [CYF Scotland calendar](https://calendar.google.com/calendar?cid=Y29kZXlvdXJmdXR1cmUuaW9fYmswNDFocTNkdm9zdjBidmdkN2wwb2lwY2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) to track sessions and events.
-Here’s the same [calendar in iCal format](https://calendar.google.com/calendar/ical/codeyourfuture.io_bk041hq3dvosv0bvgd7l0oipck%40group.calendar.google.com/private-6eb101d8a2bc2ef98073e6875d9c0216/basic.ics).
-Make sure you tick CYF Scotland on the sidebar of your desktop calendar app to see it.
 
 ## Module structure
 
@@ -31,6 +30,19 @@ Students receive around 15-20 hours of homework every week.
 
 Mid-week face to face meetings and online sessions are also regularly organised between mentors and students to help with homework.
 This is done on an ad-hoc basis and on days, times and venues arranged between those taking part in the arrangement.
+
+## Graduation project
+
+The graduation projects take place at the end of the course and are real-life projects that we attempt to pair with an external organisation such as another [NGO](https://en.wikipedia.org/wiki/Non-governmental_organization).
+For example, in the first Glasgow cohort students built an app for a sustainable food map of Glasgow in collaboration with [Kinning Park Complex](https://www.kinningparkcomplex.org/), and a Glasgow welcome pack in collaboration with [Refuweegee](https://www.refuweegee.co.uk/).
+
+The purpose of the graduation project is to get students working in an environment that is similar to the workplace.
+This will get them familiar with various methodologies that real world software teams work in, such as:
+
+- [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development) (as opposed to a [waterfall model](https://en.wikipedia.org/wiki/Waterfall_model))
+- Working in a [scrum framework](https://en.wikipedia.org/wiki/Scrum_(software_development) which involves:
+  - A [product owner](https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_owner), [scrum master](https://en.wikipedia.org/wiki/Scrum_(software_development)#Scrum_master) and development team
+  - A daily stand-up
 
 ## Communication
 

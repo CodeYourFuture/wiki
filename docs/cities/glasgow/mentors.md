@@ -11,7 +11,7 @@ Once you join, you should be added to:
   - \#scotland channel
   - \#scotland-mentors channel
   - \#scotland-class-4 channel
-  - \#scotland-education / \#scotland-development-and-outreach channel
+  - \#scotland-education and/or \#scotland-development-and-outreach channel
   - @scotlandmentors user list
 - GitHub
   - Scotland Mentors group, so that you can review PRs and collaborate on the syllabus
@@ -34,12 +34,12 @@ We are always trying to consolidate and grow our impact.
 Developing ideas and strategies aimed towards this, though, can be time-and-resource-heavy.
 Therefore, we appreciate people who are willing to help us in this type of role and contribute to planning around funding, organisation and our vision for the future.
 
-You can find out more information on the [Teams section](../../volunteers/teams.md)
+You can find out more information on the [global Teams section](../../volunteers/teams.md)
 
 ## Module leads
 
 Mentors can volunteer as module leads, where they lead a module (e.g. JavaScript I).
-Module leads do not necessarily need to be an expert in the subject or even be the one doing the teaching — their main role is ensuring the module runs.
+Module leads do not necessarily need to be an expert in the subject or even be the one doing the teaching—their main role is ensuring the module runs.
 It is also possible to have multiple mentor leads for a single module to share the responsibilities.
 
 The responsibilities and duties of a module lead are listed below.
@@ -63,7 +63,7 @@ The responsibilities and duties of a module lead are listed below.
 - Make sure there are enough mentors to run the class each week (at least 3)
 - Show up 30 minutes before class to open Collaborate, arrange desks and make sure the class can start on time
 - Make sure food is available at lunch
-- Make sure the course runs to time — that lunch breaks happen at appropriate times, that it ends on time, that group presentations are kept to time, etc.
+- Make sure the course runs to time—that lunch breaks happen at appropriate times, that it ends on time, that group presentations are kept to time, etc.
 - Run a retrospective on the final session of the module
 - Compile the top outcomes of the retrospective and determine actions to take. Share with mentors and students
 - Make sure learning outcomes are achieved during the class. If a teacher is floundering or a concept explanation didn't land, make sure it is revisited
