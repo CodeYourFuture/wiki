@@ -63,7 +63,8 @@
     "Glasgow": [
       "cities/glasgow/home",
       "cities/glasgow/mentors",
-      "cities/glasgow/retrospectives"
+      "cities/glasgow/retrospectives",
+      "cities/glasgow/history"
     ]
   },
   "birmingham": {
