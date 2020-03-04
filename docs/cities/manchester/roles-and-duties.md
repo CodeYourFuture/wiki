@@ -14,7 +14,7 @@ Any help is welcomed :)
 
 ## Roles
 Mostly, we need the following roles as below.
-Each role is charged of duties and requires different skill set.
+Each role is charged of duties and demands various skill set.
 
 **Note:** This list is only a general advise, does not have to be strictly followed.
 
