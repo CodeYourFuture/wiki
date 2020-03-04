@@ -3,12 +3,12 @@ id: roles-and-duties
 title: Roles & Duties
 ---
 
-Under the main trinity of [Voluneteer teams](volunteers/teams.md),namely Outreach, Education & Personal Development,
+Under the main trinity of [Volunteer teams](volunteers/teams.md),namely Outreach, Education & Personal Development,
 generally, we need to act and fulfill different roles in order to run the course smoothly and effectively.
-These roles also help to keep each member being engadged and organised.
+These roles also help to keep each member being engaged and organised.
 
 A volunteer can wear different hats on the way depending on the schedule and agenda, or maybe special circumstances.
-Everything is optional, there is no force if someone does not feel being comfortable to be responsible or to do something.
+All roles and tasks are optional, and no one is forced, or coerced into to doing things that they do not feel comfortable with.
 
 Any help is welcomed :) 
 
@@ -66,7 +66,7 @@ Each role is charged of duties and requires different skill set.
 
 ### Homework Tsar
  - Manages homework efforts for the week
- - Overseas volunteer homework rota to make sure that enough support is offered
+ - Oversees volunteer homework rota to make sure that enough support is offered
  - Makes sure homework is completed by students/ talks with and supports those who are struggling
 
 **Requirements**
