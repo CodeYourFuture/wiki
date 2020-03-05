@@ -18,11 +18,13 @@ An outreach volunteer uses their communication or organisational skills to help 
 
 You don’t have to be a professional content creator - just organised and pro-active - we’ll provide necessary training.
 
-**The following roles require an ongoing commitment of a few hours a week**
+**The following roles require an ongoing commitment of 1 or 2 hours a week**
 
 - Social Media posting and analysis
 - Running events
 - Partner outreach for employment opportunities, etc.
+
+Note: more time may be requested in the weeks leading up to the start of a course
 
 **The following roles are occasionally required in a one-off capacity**
 
