@@ -14,7 +14,7 @@
     "Volunteers": ["volunteers"],
     "Organisation": [
       "volunteers/history",
-      "volunteers/working-principles"
+      "volunteers/working-principles",
       "volunteers/the-course",
       "volunteers/fundamentals",
       "volunteers/application-process",
@@ -31,7 +31,13 @@
       {
         "type": "subcategory",
         "label": "Outreach",
-        "ids": ["volunteers/outreach/outreach-roles, volunteers/outreach/volunteer-outreach", "volunteers/outreach/ngo-outreach", "volunteers/outreach/applicant-outreach"]
+        "ids": [
+          "volunteers/outreach/outreach-roles",
+          "volunteers/outreach/volunteer-outreach",
+          "volunteers/outreach/ngo-outreach",
+          "volunteers/outreach/applicant-outreach",
+          "volunteers/outreach/hiring-outreach"
+        ]
       },
       {
         "type": "subcategory",
