@@ -18,15 +18,12 @@
       "volunteers/working-principles",
       "volunteers/course-eligibility",
       "volunteers/application-process",
-      "volunteers/interviews"
+      "volunteers/interviews",
       {
         "type": "subcategory",
         "label": "Courses",
-        "ids": [
-          "volunteers/the-course",
-          "volunteers/fundamentals"
-        ]
-      },
+        "ids": ["volunteers/the-course", "volunteers/fundamentals"]
+      }
     ],
     "Tools": [
       "volunteers/cyf-dashboard",
