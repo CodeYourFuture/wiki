@@ -39,7 +39,7 @@ It depends on your goals. Most graduates seek employment, some seek further stud
 
 We recommend you to attend all of the Saturday sessions in order to not miss the content we are teaching, but we understand that you may become ill, go on holiday, or need to take time off for things like childcare or emergencies. If you need to miss a Saturday class, this is okay, but understand that we will expect you to study to catch up. We will contact you if you miss a class and explain what you have missed, but we won’t have time to teach the whole class again the next week, as the rest of the class will need to keep progressing. We trust that you will attend unless there’s a good reason you can’t come. If you miss many classes, you are likely to start falling behind, in which case we will talk with you about whether you are taking the course seriously.
 
-## Will I be able to use Khan academy after the course finishes?
+### Will I be able to use Khan academy after the course finishes?
 
 Yes, all online course sites we will use through the course will be free including (Coursera, CodeAcademy, etc)
 
