@@ -13,7 +13,7 @@ During his job he had the chance to travel all around Europe meeting founders of
 
 CYF is heavily influenced by the work of [HackYourFuture](https://www.hackyourfuture.net/) (HYF) that was training refugees in tech skills through volunteer developers and help them find employment in the industry. The idea is inspirational, so we went to find an equivalent organisation in the UK that was offering a similar program for refugees. We didn't find any. We reached out to the founder of HYF and he became a guide through the early stages of the process. He brought a focus on testing the demand to find applicants. Germán then started compiling a list of around hundred NGOs/organisations that worked with asylum seekers and refugees and started reaching out to all of them.
 
-In mid-October in 2016 we had our first class with ten students from Syria, Afghanistan, India, Ethiopia and a stateless person, setting the foundations for London. In January 2017 Mozafar, one of our London mentors, relocated to Glasgow and started CYF Scotland.
+In mid-October in 2016 we had our first class with ten students from Syria, Afghanistan, India, Ethiopia and a stateless person, setting the foundations for London. An article that describes that first class was published in [Refugees Deeply](https://www.newsdeeply.com/refugees/articles/2016/10/19/welcome-to-londons-refugee-coding-school). In January 2017 Mozafar, one of our London mentors, relocated to Glasgow and started CYF Scotland. 
 
 In the summer of 2017 CYF Manchester was set up by a student and number of volunteers. The first class took place at the end of October that year and by summer 2019 two cohorts of students have successfully graduated from there.
 
