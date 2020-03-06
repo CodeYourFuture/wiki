@@ -31,7 +31,7 @@
       {
         "type": "subcategory",
         "label": "Outreach",
-        "ids": ["volunteers/outreach/outreach-roles"]
+        "ids": ["volunteers/outreach/outreach-roles, volunteers/outreach/volunteer-outreach", "volunteers/outreach/ngo-outreach", "volunteers/outreach/applicant-outreach"]
       },
       {
         "type": "subcategory",
