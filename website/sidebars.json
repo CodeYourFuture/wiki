@@ -30,7 +30,13 @@
       "volunteers/slack-volunteers",
       "volunteers/slack-organisation"
     ],
-    "New Volunteers": ["volunteers/joining"],
+    "New Volunteers": [
+      "volunteers/joining",
+      "volunteers/onboarding/onboarding-one",
+      "volunteers/onboarding/onboarding-two",
+      "volunteers/onboarding/onboarding-three",
+      "volunteers/onboarding/onboarding-four"
+    ],
     "Teams": [
       "volunteers/teams",
       {
