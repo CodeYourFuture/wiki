@@ -1,15 +1,11 @@
 ---
-id: teams-list
+id: teams
 title: Volunteer Teams
 ---
 
 // TODO
 
-
-
-CYF local leadership team is divided in four teams: *Outreach, Personal Development, Education and Tech Projects*. The main responsibilities are:
-
-
+CYF local leadership team is divided in four teams: _Outreach, Personal Development, Education and Tech Projects_. The main responsibilities are:
 
 - **Outreach**
   - Share social updates on every CYF event and class
@@ -28,23 +24,15 @@ CYF local leadership team is divided in four teams: *Outreach, Personal Developm
   - Oversee tech content in final presentation (graduation)
   - Train graduates in tech interviews
 
-
-
-Each team member in PD & Education is in charge of overseeing up to 5 students per class. 
-
-
+Each team member in PD & Education is in charge of overseeing up to 5 students per class.
 
 **Brief Overview in the life of a local chapter**
-
-
 
 **Outreach**
 
 - The team start the year by reaching out to different organisations, attending events to promote volunteering opportunities at CYF and social media campaigns. The idea will be to renew the leadership teams and find new core members to lead the program locally. A priority will be given to Education team.
 - The team will then start finding new students by contacting a number of organisations working with refugees and disadvantaged groups with the goal of getting them to promote our program to their clients. The team will also start social media campaigns (particularly Facebook) to get new applicants.
 - The team will organise volunteering and drop-in sessions to welcome people interested in joining the program. In the drop-in sessions the applicants start working together to support each other in their process.
-
-
 
 **Education**
 
@@ -53,16 +41,12 @@ Each team member in PD & Education is in charge of overseeing up to 5 students p
 - The team collects the feedback from classes and weekly homework review and discusses weekly the performance of the students
 - The team members work together with PD team to exchange feedback on students and find ways to increase support of those that are underperforming
 
-
-
 **Personal Development**
 
 - The team is in charge of ensuring that applicants are eligible to apply to the program based on their personal situation. They decide with the education team who gets accepted
 - The team meets weekly and discuss the emotional and situation of the most vulnerable students and general soft-skill progress of the class
-- The team partners with and health, legal, coach and other practitioners to support the students most in needs. 
+- The team partners with and health, legal, coach and other practitioners to support the students most in needs.
 - They organise the Introductory module and coordinate the other soft-skill sessions that take place throughout the program
-
-
 
 **Tech Projects**
 
@@ -71,4 +55,3 @@ Each team member in PD & Education is in charge of overseeing up to 5 students p
 - The team ensures the delivery of the project for the final presentation
 - The team support the students after graduation to ensure they keep working on tech projects as preparation for interview
 - The team organises interview practice days to give guidance and confidence to the graduates when applying for job
-

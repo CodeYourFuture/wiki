@@ -1,5 +1,5 @@
 ---
-id: teams
+id: teams-list
 title: Volunteer Teams
 ---
 
