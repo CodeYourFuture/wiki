@@ -66,3 +66,8 @@ When considering a student we look at the following areas
 - Some technical abilities
 - Brings valuable contributions to technical projects
 - Confident about learning
+
+
+
+
+
