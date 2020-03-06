@@ -8,15 +8,17 @@
       "students/guides/node",
       "students/guides/cors"
     ],
-    "Soft Skills Guides": ["students/getting-a-job", "students/slack-students"]
+    "Soft Skills Guides": ["students/getting-a-job", "students/slack-students"],
+    "FAQs": ["students/faqs"]
   },
   "volunteers": {
     "Volunteers": ["volunteers"],
     "Organisation": [
       "volunteers/history",
-      "volunteers/working-principles"
+      "volunteers/working-principles",
       "volunteers/the-course",
       "volunteers/fundamentals",
+      "volunteers/course-eligibility",
       "volunteers/application-process",
       "volunteers/interviews"
     ],
@@ -31,7 +33,15 @@
       {
         "type": "subcategory",
         "label": "Outreach",
-        "ids": ["volunteers/outreach/outreach-roles"]
+        "ids": [
+          "volunteers/outreach/outreach-roles",
+          "volunteers/outreach/volunteer-outreach",
+          "volunteers/outreach/ngo-outreach",
+          "volunteers/outreach/applicant-outreach",
+          "volunteers/outreach/hiring-outreach",
+          "volunteers/outreach/social-media-guide",
+          "volunteers/outreach/partnership-options"
+        ]
       },
       {
         "type": "subcategory",
@@ -50,12 +60,14 @@
           "volunteers/education/git-repos"
         ]
       }
-    ]
+    ],
+    "FAQs": ["volunteers/faqs"]
   },
   "london": {
     "London": [
       "cities/london/home",
       "cities/london/useful-information",
+      "cities/london/alternative-resources",
       "cities/london/class-6",
       "cities/london/contact"
     ]
@@ -65,13 +77,15 @@
       "cities/glasgow/home",
       "cities/glasgow/mentors",
       "cities/glasgow/retrospectives",
-      "cities/glasgow/history"
+      "cities/glasgow/history",
+      "cities/glasgow/alternative-resources"
     ]
   },
   "birmingham": {
     "Birmingham": [
       "cities/birmingham/home",
       "cities/birmingham/useful-information",
+      "cities/birmingham/alternative-resources",
       "cities/birmingham/contact"
     ]
   },
@@ -79,6 +93,7 @@
     "Manchester": [
       "cities/manchester/home",
       "cities/manchester/useful-information",
+      "cities/manchester/alternative-resources",
       "cities/manchester/contact"
     ]
   },
