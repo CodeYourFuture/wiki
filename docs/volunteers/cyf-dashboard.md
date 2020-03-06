@@ -3,6 +3,12 @@ id: cyf-dashboard
 title: Dashboard
 ---
 
-//TODO
+## Where is this?
 
-https://dashboard.codeyourfuture.io/
+https://docs.codeyourfuture.io/
+
+## What is this?
+
+The dashboard is the key organisation tool
+
+## What
