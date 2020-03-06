@@ -39,7 +39,7 @@ git remote -v
 
 Firstly you need to click the "Fork" button:
 
-![Fork Button](docs/assets/making-a-pull-request/fork-button.png)
+![Fork Button](assets/making-a-pull-request/fork-button.png)
 
 Then you should be brought to your new fork (notice how the repo title changes):
 
