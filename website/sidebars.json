@@ -57,7 +57,8 @@
           "volunteers/education/git-repos"
         ]
       }
-    ]
+    ],
+    "FAQs": ["volunteers/faqs"]
   },
   "london": {
     "London": [
