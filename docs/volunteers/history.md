@@ -5,7 +5,7 @@ title: History of Code Your Future
 
 ## History
 
-[CodeYourFuture](https://codeyourfuture.io/) is a non-profit (charity no. 1174929) that trains determined disadvantaged people to become web developers and helps them to find work. Our students are trained in full-stack web development by professional developers from the industry, putting a strong emphasis on collaboration and product development through tech projects. Our graduates work in companies like FT, BBC, STV, Ticketmaster and startups like Adzuna, Sensible Object, tlr and WeGotPop.
+[CodeYourFuture](https://codeyourfuture.io/) is a UK non-profit organisation (charity no. 1174929) that trains determined refugees and disadvantaged people to become web developers and helps them to find work. Our students are trained in full-stack web development by professional developers from the industry, putting a strong emphasis on collaboration and product development through tech projects. Our graduates work in companies like FT, BBC, STV, Ticketmaster and startups like Adzuna, Sensible Object, tlr and WeGotPop.
 
 The idea behind CodeYourFuture started brewing during the summer of 2016 when Germán, while working in the tech industry, was looking for a way to create a positive impact in people's lives through technology.
 
@@ -13,11 +13,11 @@ During his job he had the chance to travel all around Europe meeting founders of
 
 CYF is heavily influenced by the work of [HackYourFuture](https://www.hackyourfuture.net/) (HYF) that was training refugees in tech skills through volunteer developers and help them find employment in the industry. The idea is inspirational, so we went to find an equivalent organisation in the UK that was offering a similar program for refugees. We didn't find any. We reached out to the founder of HYF and he became a guide through the early stages of the process. He brought a focus on testing the demand to find applicants. Germán then started compiling a list of around hundred NGOs/organisations that worked with asylum seekers and refugees and started reaching out to all of them.
 
-In mid-October in 2016 we had our first class with ten students from Syria, Afghanistan, India, Ethiopia and a stateless person, setting the foundations for London. In January 2017 Mozafar, one of our mentors, relocated to Glasgow and started CYF Scotland.
+In mid-October in 2016 we had our first class with ten students from Syria, Afghanistan, India, Ethiopia and a stateless person, setting the foundations for London. In January 2017 Mozafar, one of our London mentors, relocated to Glasgow and started CYF Scotland.
 
-In the summer of 2017 CYF Manchester was set up by a student and number of volunteers. The first class took place at the end of October that year and by summer 2019 two cohorts of students have successfully graduated from there..
+In the summer of 2017 CYF Manchester was set up by a student and number of volunteers. The first class took place at the end of October that year and by summer 2019 two cohorts of students have successfully graduated from there.
 
-In 2019 classes have also begun in Rome, Italy and Medellin, Colombia. There are also plans to possibly open further branches in Birmingham, UK and Cape Town, South Africa.
+In 2019 Hannah together with a group of volunteers founded the chapter in Rome, Italy. That year we also started running a pilot in Medellin, Colombia. Our goals is to create a grassroots movement that can be replicated in any city around the world.
 
 ## Mission
 
@@ -34,13 +34,11 @@ Our organisation values are as follows:
 - We **empower** our students, and **they represent us** 
 - Everything we do creates an **impact** in the world
 
-## Key People
 
-CYF’s core and strategy team is based in London. All prominent figures are listed below. You may see their names pop up in our Slack channels from time to time!
+## People supporting the core structure of the organisation
 
-- German Bencci (@german): CodeYourFuture Founder
 
-- Nima Kamiri (@nima): CTO
+- German Bencci (@german): General Strategy, Expansion, Partnerships
 
 - Chris Owen (@Chris Owen): Education and Pedagogy
 
@@ -48,4 +46,15 @@ CYF’s core and strategy team is based in London. All prominent figures are lis
 
 - Alec McCrindle (@Alec): Design and Marketing
 
-- Roberta Lifonso (@Roberta): Operations and Finances
+- Roberta Lifonso (@Roberta): Operations 
+
+- Nima Kamiri (@nima): CTO
+
+- Gianluca (@gianluca): Glasgow
+
+- Barnaby (@barnaby): Manchester
+
+- Claire (@claire) + Aaishah (@aaishah): Birmingham
+
+
+You may see their names pop up in our Slack channels from time to time!
