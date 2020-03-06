@@ -16,11 +16,17 @@
     "Organisation": [
       "volunteers/history",
       "volunteers/working-principles",
-      "volunteers/the-course",
-      "volunteers/fundamentals",
       "volunteers/course-eligibility",
       "volunteers/application-process",
       "volunteers/interviews"
+      {
+        "type": "subcategory",
+        "label": "Courses",
+        "ids": [
+          "volunteers/the-course",
+          "volunteers/fundamentals"
+        ]
+      },
     ],
     "Tools": [
       "volunteers/cyf-dashboard",
