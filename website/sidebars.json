@@ -8,7 +8,8 @@
       "students/guides/node",
       "students/guides/cors"
     ],
-    "Soft Skills Guides": ["students/getting-a-job", "students/slack-students"]
+    "Soft Skills Guides": ["students/getting-a-job", "students/slack-students"],
+    "FAQs": ["students/faqs"]
   },
   "volunteers": {
     "Volunteers": ["volunteers"],
