@@ -35,8 +35,6 @@ As we've grown, we've found that this has become a a bottleneck for the organisa
 
 ## What does it look like?
 
-<img src="../assets/cyf-dashboard/image-20200306163329606.png" alt="image-20200306163329606" style="zoom:50%;" />
-
 ## How do I get access?
 
 You can sign up on the website and then talk to a city coordinator to be accepted. 
