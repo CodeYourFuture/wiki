@@ -1,6 +1,6 @@
 ---
 id: faqs
-title: FAQs
+title: Frequently Asked Questions
 ---
 
 // TODO
