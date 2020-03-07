@@ -16,6 +16,8 @@ const siteConfig = {
   organizationName: "codeyourfuture",
   projectName: "Wiki",
   users: users,
+  gaGtag: true,
+  gaTrackingId: "UA-159979458-1",
   headerLinks: [
     {
       label: "Syllabus",
