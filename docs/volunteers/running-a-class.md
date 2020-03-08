@@ -7,16 +7,16 @@ title: Running A Class
 
 Here is an example schedule of a day events at a normal class
 
-10:30 - Students and Volunteers Arrive
-11:00 - [Arrange Classroom](#arrange-classroom) & [Morning Energiser](#energisers)
-11:15 - Students Retrospective // Volunteers Kick-off
-11:45 - Morning Teaching
-14:00 - Lunch
-14:45 - [Afternoon Energiser](#energisers)
-15:00 - Afternoon Teaching
-17:00 - Homework Briefing
-17:15 - Students Tidy Up // Volunteers Retrospective
-18:00 - Hometime
+- 10:30 - Students and Volunteers Arrive
+- 11:00 - [Arrange Classroom](#arrange-classroom) & [Morning Energiser](#energisers)
+- 11:15 - [Students Retrospective](#student-retrospective) // [Volunteers Kick-off](#volunteer-kick-off)
+- 11:45 - [Morning Teaching](#teaching)
+- 14:00 - [Lunch](#lunch)
+- 14:45 - [Afternoon Energiser](#energisers)
+- 15:00 - [Afternoon Teaching](#teaching)
+- 17:00 - [Homework Briefing](#homework-briefing)
+- 17:15 - [Tidy Up](#tidy-up) // [Volunteers Retrospective](#volunteers-retrospective)
+- 18:00 - Hometime
 
 ## Activity Breakdown
 
@@ -94,15 +94,7 @@ In this afternoon, this helps to pick up the mood after lunch and get people rea
 
 **Why do we do this?**
 
-### Students Tidy Up
-
-**What is this?**
-
-**Who runs this?**
-
-**Why do we do this?**
-
-### Hometime
+### Tidy Up
 
 **What is this?**
 
