@@ -19,12 +19,12 @@
       "volunteers/course-eligibility",
       "volunteers/application-process",
       "volunteers/interviews",
+      "volunteers/running-a-class",
       {
         "type": "subcategory",
         "label": "Courses",
         "ids": ["volunteers/the-course", "volunteers/fundamentals"]
-      },
-      "volunteers/running-a-class"
+      }
     ],
     "Tools": [
       "volunteers/cyf-dashboard",
