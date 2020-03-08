@@ -26,6 +26,8 @@ Here is an example schedule of a day events at a normal class
 
 Before every class we need to layout the classroom so that it's ready for the day. This ussually means arranging the classroom into small groups of 4 or 5 per table so that people can work together easily.
 
+**Who runs this?**
+
 It is normally the responsibility of the students to make sure the classroom is ready for class.
 
 **Why do we do this?**
@@ -34,3 +36,76 @@ We strongly believe that 'We Are All Crew' and it is important that the students
 
 ### Energisers
 
+**What is this?**
+
+Energisers are important to help break the ice at the begining of each day and allow our volunteers and students to get to know each other.
+
+In this afternoon, this helps to pick up the mood after lunch and get people ready to learn. 
+
+**Who runs this?**
+
+**Why do we do this?**
+
+### Student Retrospective
+
+**What is this?**
+
+**Who runs this?**
+
+**Why do we do this?**
+
+### Volunteer Kick-off
+
+**What is this?**
+
+**Who runs this?**
+
+**Why do we do this?**
+
+### Teaching
+
+**What is this?**
+
+**Who runs this?**
+
+**Why do we do this?**
+
+### Lunch
+
+**What is this?**
+
+**Who runs this?**
+
+**Why do we do this?**
+
+### Homework Briefing
+
+**What is this?**
+
+**Who runs this?**
+
+**Why do we do this?**
+
+### Volunteer Retrospective
+
+**What is this?**
+
+**Who runs this?**
+
+**Why do we do this?**
+
+### Students Tidy Up
+
+**What is this?**
+
+**Who runs this?**
+
+**Why do we do this?**
+
+### Hometime
+
+**What is this?**
+
+**Who runs this?**
+
+**Why do we do this?**
