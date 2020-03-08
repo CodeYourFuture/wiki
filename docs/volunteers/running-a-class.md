@@ -38,7 +38,7 @@ We strongly believe that 'We Are All Crew' and it is important that the students
 
 **What is this?**
 
-Energisers are short - often physical - games that are used to energise our student to be ready for the day. They will normally take 10-15 minutes to run and are fairly informal in structure. 
+Energisers are short - often physical - games that are used to energise our student to be ready for the day. They will normally take 10-15 minutes to run and are fairly informal in structure.
 
 **Who runs this?**
 
@@ -46,9 +46,9 @@ Usually a Personal Development volunteer will run the energisers but it can be r
 
 **Why do we do this?**
 
-Energisers are important to help break the ice at the begining of each day and allow our volunteers and students to get to know each other.
+Energisers are important to help break the ice at the beginning of each day and allow our volunteers and students to get to know each other.
 
-In this afternoon, this helps to pick up the mood after lunch and get people ready to learn. 
+In this afternoon, this helps to pick up the mood after lunch and get people ready to learn.
 
 ### Student Retrospective
 
@@ -60,25 +60,40 @@ At the start of each day we have our students look back on the weeks homework an
 
 **Why do we do this?**
 
-As well as simulating a real life work environment it is helpful for the students to understand that they are not alone in not understanding the homework. They will all - at different times - struggle with the homework and so they should be open to sharing their difficulties. 
+As well as simulating a real life work environment it is helpful for the students to understand that they are not alone in not understanding the homework. They will all - at different times - struggle with the homework and so they should be open to sharing their difficulties.
 
 ### Volunteer Kick-off
 
 **What is this?**
 
+At the beginning of each day it is important that all of our volunteers understand the objectives of the day. This meeting ussually includes
+
+- Introducing new volunteers to the group
+- Discussing what will be  taught in todays lesson
+- Students we should be giving particular help to
+- Thanking the volunteers for attending!
+
 **Who runs this?**
 
-The Class Coordinator will normally chair the kick off but anyway can offer agenda points throughout the meeting. 
+The Class Coordinator will normally chair the kick off but anyway can offer agenda points throughout the meeting.
 
 **Why do we do this?**
+
+It is important at CodeYourFuture for all volunteers to feel engaged throughout the day and this starts with introductions. Too often, we are so excited to start teaching we forget to make our volunteers feel welcome and appreciated at the start of the day. This really does set the basis for the day and helps grow our community.
 
 ### Morning Teaching
 
 **What is this?**
 
+The teaching section of the day is the core part of our classes. 
+
+In particular the morning session should
+
+- 
+
 **Who runs this?**
 
-This is coodinated and delivered by the Education Team. More information about the classroom roles can be found [here](/volunteers/education/education-roles).
+This is coordinated and delivered by the Education Team. More information about the classroom roles can be found [here](/volunteers/education/education-roles).
 
 **Why do we do this?**
 
@@ -88,7 +103,7 @@ This is coodinated and delivered by the Education Team. More information about t
 
 **Who runs this?**
 
-This is coodinated and delivered by the Education Team. More information about the classroom roles can be found [here](/volunteers/education/education-roles).
+This is coordinated and delivered by the Education Team. More information about the classroom roles can be found [here](/volunteers/education/education-roles).
 
 **Why do we do this?**
 
@@ -98,7 +113,7 @@ This is coodinated and delivered by the Education Team. More information about t
 
 **Who runs this?**
 
-This either provided by CodeYourFuture, by a partner organisation or by the students themselves. Please speak to your city coordinator to find our more. 
+This either provided by CodeYourFuture, by a partner organisation or by the students themselves. Please speak to your city coordinator to find our more.
 
 **Why do we do this?**
 
@@ -118,7 +133,7 @@ This is run by an Education Team Volunteer (preferrably one of the Classroom Ass
 
 **Who runs this?**
 
-This meeting is chaired by the Class Coordinator but also person can add agenda points during the meeting. 
+This meeting is chaired by the Class Coordinator but also person can add agenda points during the meeting.
 
 **Why do we do this?**
 
@@ -127,5 +142,7 @@ This meeting is chaired by the Class Coordinator but also person can add agenda 
 **What is this?**
 
 **Who runs this?**
+
+This is coordinated and completed by the students
 
 **Why do we do this?**
