@@ -3,7 +3,7 @@ id: applicant-outreach
 title: Applicant Outreach
 ---
 
-**Contacting NGOS and other referral organiations
+**Contacting NGOS and other referral organiations**
 
 Research and collate contact details of a significant number of charities, NGOs, educational establishments for adults, training centres, and community groups that work with refugees, asylum seekers, and other disadvantaged (i.e. low-income, disabilities etc.) 
 
@@ -22,10 +22,11 @@ Then, call the NGOs back within a month! NGOs are often busy doing other things,
 
 **Emails to use and flyers will be posted here shortly!**
 
-**Drop ins
+**Drop ins**
+
 Check the calendar for the next Drop-in date. Create an eventbrite and invite applicants to drop in sessions. 
 
-**Facebook Groups
+**Facebook Groups**
 
 Research relevant Facebook groups. A lot of disadvantaged people join communities on Facebook for their geographical location i.e. Iraqi Refugees in London etc. These are great sources of applicants.
 
