@@ -9,7 +9,7 @@ title: Frequently Asked Questions
 
 Most jobs don't ask for a degree, however, more and more companies recognize the CYF course as a Full Stack Development bootcamp. Bootcamps in general are becoming a more popular way to study as a developer.
 
-### Do we have any Saturdays off during school half term break, Easter or during the summer?
+### Do we have any days off during school half term break, Easter or during the summer?
 
 Yes, we have some time off for holidays. You should speak to your course coordinator or teachers to find our when they are.
 
@@ -40,7 +40,7 @@ It depends on your goals. Most graduates seek employment, some seek further stud
 
 #### Also: Can we request a day off in advance if needed?
 
-We recommend you to attend all of the Saturday sessions in order to not miss the content we are teaching, but we understand that you may become ill, go on holiday, or need to take time off for things like childcare or emergencies. If you need to miss a Saturday class, this is okay, but understand that we will expect you to study to catch up. We will contact you if you miss a class and explain what you have missed, but we won’t have time to teach the whole class again the next week, as the rest of the class will need to keep progressing. We trust that you will attend unless there’s a good reason you can’t come. If you miss many classes, you are likely to start falling behind, in which case we will talk with you about whether you are taking the course seriously.
+We recommend you to attend all of the sessions in order to not miss the content we are teaching, but we understand that you may become ill, go on holiday, or need to take time off for things like childcare or emergencies. If you need to miss a class, this is okay, but understand that we will expect you to study to catch up. We will contact you if you miss a class and explain what you have missed, but we won’t have time to teach the whole class again the next week, as the rest of the class will need to keep progressing. We trust that you will attend unless there’s a good reason you can’t come. If you miss many classes, you are likely to start falling behind, in which case we will talk with you about whether you are taking the course seriously.
 
 ### Will I be able to use Khan Academy after the course finishes?
 
@@ -51,6 +51,10 @@ You should not be trying to memorize all the information you take in over the co
 
 ### When I get stuck, what questions can I ask myself to figure out what the problem is?
 It will be hard at first to know what to ask yourself, but one way around this is to use pseudo code. Psuedo code refers to readable instructions and notes that help guide the developer through their code as they create each function or part of the code. When looking back over your code, this pseudo code can be helpful in finding out what your problem is. For example, let's say you build a calculator and one instruction you wrote for yourself is 'add two numbers together'. When you look back and realize you maybe used '-' instead of '+' between the two numbers, that instruction you left for yourself might give you a hint on what to look for. As you progress through the course, you will also learn how to 'debug' code in an effective way. Debugging simply means to fix a problem in your code.
+
+Another super effective way to get through difficulties is to explain your problem to a friend or colleague. It is a very typical issue in coding that youspend lots of time trying to solve something in vain, you become frustrated and finally cannot see the forest for the trees.  Explaining your problem to somebody else forces your mind to think the whole code through again line by line from top to bottom. This can help you understand the problem and spot where the mistake is hiding.
+
+If you don't have somebody on hand to talk to, talk through all the problems to your dedicated [Rubber Duck](https://www.youtube.com/watch?v=IBYrQs38gQo) who acts as your debugging mate. No duck? Don't worry! It can be anything, like a doll or even your pet. [Here is another example](https://www.youtube.com/watch?v=fdaqudiSo5c). 
 
 ### Can you give tips on asking great questions when seeking help getting unstuck?
 Great questions are clear, detailed and contextual. Avoid asking general questions that don't provide the person you're asking with any information. A great example we covered in class was looking up on Google how to find the child element in CSS. If we search something more general like 'how to get a child', we will end up with some pretty unusual results not related to code!
