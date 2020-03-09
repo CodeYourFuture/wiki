@@ -1,6 +1,6 @@
 ---
-id: roles-and-duties
-title: Roles & Duties
+id: roles-and-duties-for-class
+title: Roles & Duties for class
 ---
 Roles are given to [three teams][1], namely Outreach, Education and Personal Development - with a 4th team, Technical Project
 Management which is created nearing the end of a class cohort. Each and every team fulfils different roles in order to
