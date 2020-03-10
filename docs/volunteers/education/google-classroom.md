@@ -7,7 +7,7 @@ title: Google Classroom
 
 In most cases, one of the mentors, or perhaps the course co-ordinator, will have access to the Classroom. They may even be the person who set it up. For you to have access, they will need to invite you via email. Once you receive the email, simply follow the invite's instructions.
 
-If you are the person in charge of the Classroom and need to invite mentors as teachers, you can do this by going to the **People** tab, clicking the plus under **Teachers**, then entering their email. Notice that you can also add students on this tab with their email. In our experience, it is easier and more effective to add mentors/teachers by email and share the class code with students to get them to join. This can also avoid people ending up in the wrong roles on the  Classroom. If you click the cogs at the top of the page to open **Settings**, you will see the class code listed.
+If you are the person in charge of the Classroom and need to invite mentors as teachers, you can do this by going to the **People** tab, clicking the plus under **Teachers**, then entering their email. Notice that you can also add students on this tab with their email. In our experience, it is easier and more effective to add mentors/teachers by email and share the class code with students to get them to join. This can also avoid people ending up in the wrong roles on the Classroom. If you click the cogs at the top of the page to open **Settings**, you will see the class code listed.
 
 ### How Google Classroom works
 
