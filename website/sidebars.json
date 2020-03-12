@@ -76,6 +76,7 @@
   "london": {
     "London": [
       "cities/london/home",
+      "cities/london/playbook",
       "cities/london/useful-information",
       "cities/london/alternative-resources",
       "cities/london/class-6",
