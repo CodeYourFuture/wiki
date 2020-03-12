@@ -1,3 +1,8 @@
+---
+id: screencasting
+title: Live-streaming and recording resources
+---
+
 # Resources on live-streaming and recording
 
 ### How-tos:
