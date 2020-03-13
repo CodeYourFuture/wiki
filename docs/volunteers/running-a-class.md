@@ -69,7 +69,7 @@ As well as simulating a real life work environment it is helpful for the student
 At the beginning of each day it is important that all of our volunteers understand the objectives of the day. This meeting ussually includes
 
 - Introducing new volunteers to the group
-- Discussing what will be  taught in todays lesson
+- Discussing what will be taught in todays lesson
 - Students we should be giving particular help to
 - Thanking the volunteers for attending!
 
@@ -85,11 +85,11 @@ It is important at CodeYourFuture for all volunteers to feel engaged throughout 
 
 **What is this?**
 
-The teaching section of the day is the core part of our classes. 
+The teaching section of the day is the core part of our classes.
 
 In particular the morning session should
 
-- 
+-
 
 **Who runs this?**
 

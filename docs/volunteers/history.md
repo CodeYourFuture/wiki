@@ -13,7 +13,7 @@ During his job he had the chance to travel all around Europe meeting founders of
 
 CYF is heavily influenced by the work of [HackYourFuture](https://www.hackyourfuture.net/) (HYF) that was training refugees in tech skills through volunteer developers and help them find employment in the industry. The idea is inspirational, so we went to find an equivalent organisation in the UK that was offering a similar program for refugees. We didn't find any. We reached out to the founder of HYF and he became a guide through the early stages of the process. He brought a focus on testing the demand to find applicants. Germán then started compiling a list of around hundred NGOs/organisations that worked with asylum seekers and refugees and started reaching out to all of them.
 
-In mid-October in 2016 we had our first class with ten students from Syria, Afghanistan, India, Ethiopia and a stateless person, setting the foundations for London. An article that describes that first class was published in [Refugees Deeply](https://www.newsdeeply.com/refugees/articles/2016/10/19/welcome-to-londons-refugee-coding-school). In January 2017 Mozafar, one of our London mentors, relocated to Glasgow and started CYF Scotland. 
+In mid-October in 2016 we had our first class with ten students from Syria, Afghanistan, India, Ethiopia and a stateless person, setting the foundations for London. An article that describes that first class was published in [Refugees Deeply](https://www.newsdeeply.com/refugees/articles/2016/10/19/welcome-to-londons-refugee-coding-school). In January 2017 Mozafar, one of our London mentors, relocated to Glasgow and started CYF Scotland.
 
 In the summer of 2017 CYF Manchester was set up by a student and number of volunteers. The first class took place at the end of October that year and by summer 2019 two cohorts of students have successfully graduated from there.
 
@@ -31,12 +31,10 @@ Our organisation values are as follows:
 - Everything we do, we do with **kindness and respect**
 - We believe in the **equality of all voices**
 - We firmly believe that through **challenge**, people can achieve their best
-- We **empower** our students, and **they represent us** 
+- We **empower** our students, and **they represent us**
 - Everything we do creates an **impact** in the world
 
-
 ## People supporting the core structure of the organisation
-
 
 - German Bencci (@german): General Strategy, Expansion, Partnerships
 
@@ -46,7 +44,7 @@ Our organisation values are as follows:
 
 - Alec McCrindle (@Alec): Design and Marketing
 
-- Roberta Lifonso (@Roberta): Operations 
+- Roberta Lifonso (@Roberta): Operations
 
 - Nima Kamiri (@nima): CTO
 
@@ -55,6 +53,5 @@ Our organisation values are as follows:
 - Barnaby (@barnaby): Manchester
 
 - Claire (@claire) + Aaishah (@aaishah): Birmingham
-
 
 You may see their names pop up in our Slack channels from time to time!

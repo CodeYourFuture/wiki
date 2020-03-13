@@ -3,12 +3,6 @@ id: the-course
 title: Full Stack Web Development Course
 ---
 
-## Syllabus
-
-You can find our sylabuss online here:
-
-https://syllabus.codeyourfuture.io/
-
 ## Aims
 
 The aim of this course is to provide the student with enough programming knowledge to be able to get a job as a programmer. Everything else is details.
@@ -17,15 +11,29 @@ A student who completes our Full Stack Web Development course will:
 
 - Have the ability to build a basic modern full-stack web application (using NodeJS, MySQL and React)
 - Get experience with working in teams using Agile principles
-- Knowing how to learn and self-teach new programming concepts
-- How to use third-party libraries/APIs
+- Know how to learn and self-teach new programming concepts
+- Know how to use third-party libraries/APIs
 - Have a basic understanding of what it means to work on digital products
 
 ## Delivery
 
 Our course is split in to modules each consisting of three weeks. It is the responsibility of a pair of Lead Teachers to deliver the module to the students supported by a team of teaching assistants.
 
-## Content
+We teach one day per week in a physical location and then support the students during the week while they complete their coursework. This is primarily a self-taught course with a rigorous support structure in place to guide our students on their journey to becoming developers.
+
+Out-of-classroom support is given in the form of a Slack Channel where students can collaborate and ask questions to their peers and teachers. We encourage online collaboration in the form of video calls and screensharing. We also support our students with online drop-in sessions with volunteers, homework clubs and mentoring.
+
+## Syllabus
+
+You can find our syllabus online here:
+
+https://syllabus.codeyourfuture.io/
+
+## Personal Development
+
+Just a essential as the programming side of the course 
+
+## Programming Content
 
 ### HTML/CSS
 
@@ -63,7 +71,7 @@ Any software application consists of at least 2 parts: a frontend, which is what
 
 ## Project
 
-At the end of our course we work on a single large group project that pulls together everything the student  have learnt on the course.
+At the end of our course we work on a single large group project that pulls together everything the student have learnt on the course.
 
 Added to this they'll learn some more cutting-edge technologies that will prepare them for a great start in a modern software company. We will start out with the basics and incrementally add more complexity. This way they'll learn how all the pieces of a RESTful API fit together, thereby gaining a deeper understanding of where the backend stops and frontend starts.
 

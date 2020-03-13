@@ -9,23 +9,23 @@ https://docs.codeyourfuture.io/
 
 ## What is this?
 
-The dashboard is the key organisation tool that we use to coodinate CodeYourFuture. It is mainted and developed by our graduates. 
+The dashboard is the key organisation tool that we use to coodinate CodeYourFuture. It is mainted and developed by our graduates.
 
 ## What does it do?
 
 Currently it supports the following features:
 
-* [Application Process](volunteers/application-process.md)
-  * Including managing the steps that applicants have to complete to join the course
-* Volunteer Sign Ups
-* Cities
-* Teams
+- [Application Process](volunteers/application-process.md)
+  - Including managing the steps that applicants have to complete to join the course
+- Volunteer Sign Ups
+- Cities
+- Teams
 
 We also have these feature in development
 
-* Volunteer CRM
-* Events
-* Expenses
+- Volunteer CRM
+- Events
+- Expenses
 
 ## What problem does it solve?
 
@@ -37,4 +37,4 @@ As we've grown, we've found that this has become a a bottleneck for the organisa
 
 ## How do I get access?
 
-You can sign up on the website and then talk to a city coordinator to be accepted. 
+You can sign up on the website and then talk to a city coordinator to be accepted.
