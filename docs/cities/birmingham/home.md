@@ -32,3 +32,7 @@ We'll be up on the first floor.
 
 Saturdays - 11am-5:30pm
 
+## How can I apply?
+
+Our next class will be launching over the summer. To register your interest please visit <a href=https://application-process.codeyourfuture.io>click here</a>.
+
