@@ -11,9 +11,9 @@ In this section you'll find all the information specific to Birmingham and the W
 
 Our Fundamentals Module will be running from:
 Aston University<br>
-Student Union
-8 Coleshill Street
-Birmingham
+Student Union<br>
+8 Coleshill Street<br>
+Birmingham<br>
 B4 7BX
 
 We'll be up on the first floor.
