@@ -5,7 +5,7 @@ title: Overview
 
 ## Birmingham Information
 
-In this section you'll find all the information specific to <strong>Birmingham</strong> and the <strong>West Midlands</strong>. We use both Birmingham and West Midlands as we cover areas beyond Birmingham including Coventry, Dudley, Sandwell, Solihull, Walsall and Wolverhampton.
+In this section you'll find all the information specific to <strong>Birmingham</strong> and the <strong>West Midlands</strong>. We say both Birmingham and West Midlands as we cover areas beyond Birmingham including Coventry, Dudley, Sandwell, Solihull, Walsall and Wolverhampton.
 
 ## Where is our office?
 
