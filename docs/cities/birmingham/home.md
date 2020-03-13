@@ -26,9 +26,9 @@ Saturdays - 11am-5:30pm
 
 We're based at Melting Pot usually on Tuesdays, Wednesdays and Thursdays.
 The address is:
-Smithfield Garage
-Meriden Street
-Digbeth
-Birmingham
+Smithfield Garage<br>
+Meriden Street<br>
+Digbeth<br>
+Birmingham<br>
 B5 5LS
 
