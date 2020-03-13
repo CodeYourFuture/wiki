@@ -26,7 +26,7 @@ Student Union<br>
 Birmingham<br>
 B4 7BX
 
-We'll be up on the first floor.
+We'll be on the first floor.
 
 ## When do we teach?
 
