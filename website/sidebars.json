@@ -28,7 +28,11 @@
       {
         "type": "subcategory",
         "label": "Courses",
-        "ids": ["volunteers/the-course", "volunteers/fundamentals"]
+        "ids": [
+          "volunteers/the-course",
+          "volunteers/final-project",
+          "volunteers/fundamentals"
+        ]
       }
     ],
     "Tools": [
