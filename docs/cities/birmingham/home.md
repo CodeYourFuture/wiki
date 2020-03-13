@@ -24,7 +24,7 @@ Saturdays - 11am-5:30pm
 
 ## Where is our office?
 
-We're based at Melting Pot usually on Tuesdays, Wednesdays and Thursdays.
+We're based at Melting Pot usually on Tuesdays, Wednesdays and Thursdays.<br>
 The address is:<br>
 Smithfield Garage<br>
 Meriden Street<br>
