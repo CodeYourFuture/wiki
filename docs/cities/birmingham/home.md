@@ -10,7 +10,7 @@ In this section you'll find all the information specific to Birmingham and the W
 ## Where do we teach?
 
 Our Fundamentals Module will be running from:
-Aston University
+Aston University<br>
 Student Union
 8 Coleshill Street
 Birmingham
