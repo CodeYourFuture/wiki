@@ -5,4 +5,30 @@ title: Overview
 
 ## Birmingham Information
 
-In this section you'll find all the information specific to Birmingham
+In this section you'll find all the information specific to Birmingham and the West Midlands. We use both Birmingham and West Midlands as we cover areas beyond Birmingham including Coventry, Dudley, Sandwell, Solihull, Walsall and Wolverhampton.
+
+## Where is our office?
+
+We're based at Melting Pot usually on Tuesdays, Wednesdays and Thursdays.<br>
+The address is:<br>
+Smithfield Garage<br>
+Meriden Street<br>
+Digbeth<br>
+Birmingham<br>
+B5 5LS
+
+## Where do we teach?
+
+Our Fundamentals Module will be running from:<br>
+Aston University<br>
+Student Union<br>
+8 Coleshill Street<br>
+Birmingham<br>
+B4 7BX
+
+We'll be up on the first floor.
+
+## When do we teach?
+
+Saturdays - 11am-5:30pm
+
