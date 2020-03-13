@@ -12,3 +12,5 @@ email: claire@codeyourfuture.io
 <strong>Aaishah Khan - Programme Manager</strong><br>
 call: 07305 253804<br>
 email: aaishah@codeyourfuture.io
+
+you can also email <strong>birmingham@codeyourfuture.io</strong>
