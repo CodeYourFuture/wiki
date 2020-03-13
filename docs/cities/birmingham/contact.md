@@ -13,4 +13,4 @@ email: claire@codeyourfuture.io
 call: 07305 253804<br>
 email: aaishah@codeyourfuture.io
 
-you can also email <strong>birmingham@codeyourfuture.io</strong>
+You can also email <strong>birmingham@codeyourfuture.io</strong>
