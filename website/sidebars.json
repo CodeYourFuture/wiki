@@ -1,6 +1,11 @@
 {
   "students": {
-    "Students": ["students", "students/house-rules", "students/useful-links"],
+    "Students": [
+      "students",
+      "students/house-rules",
+      "students/useful-links",
+      "students/getting-setup"
+    ],
     "Tech Guides": [
       "students/guides/making-a-pull-request",
       "students/guides/submitting-homework",
