@@ -39,6 +39,20 @@ We use VS Code to write all of our code in the course. It is known as an Integra
 
 [Download and install here](https://code.visualstudio.com/)
 
+#### Extensions
+
+We also recommend that you install the follow extensions in Visual Studio Code.
+
+- Prettier - Code formatter (format your code automatically)
+- Visual Studio IntelliCode (AI tool that gives code suggestions)
+- Babel JavaScript (highlighting your JS code)
+- Code Runner (Run your JS code inside VS Code output)
+- GitLens — Git supercharged (connect with GitHub/Git)
+- Live Server (Run your code in the browser )
+- Live Share (Share your project with a team live)
+
+A guide to installing extiontions [can be found here](https://code.visualstudio.com/docs/editor/extension-gallery).
+
 ### Node.js
 
 We use this tool to run our code and later in the course to help us make websites.
@@ -58,6 +72,12 @@ We use this tool to make it easier to use Git since it can be quite hard for a b
 [Download and install here](https://desktop.github.com/)
 
 ## Websites
+
+## Gmail
+
+We use a lot of Google products in the class so it's essential that everyone has a Gmail address. If you do not already have one then please register below.
+
+[Create email address here](https://accounts.google.com/SignUp)
 
 ## Github
 
