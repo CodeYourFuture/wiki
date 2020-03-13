@@ -34,5 +34,5 @@ Saturdays - 11am-5:30pm
 
 ## How can I apply?
 
-Our next class will be launching over the summer. To register your interest please visit <a href=https://application-process.codeyourfuture.io target="_blank">click here</a>.
+Our next class will be launching over the summer. To register your interest please visit <a href="https://application-process.codeyourfuture.io" target="_blank">click here</a>.
 
