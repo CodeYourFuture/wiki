@@ -25,6 +25,12 @@ If you're using Windows we ask that you install this program to make it easier f
 
 ## Software
 
+### Chrome
+
+Chrome is one of the best browsers for web developers with a great set of tools for testing and building websites
+
+[Download and install here](https://www.google.com/chrome/)
+
 ### Slack
 
 We use Slack to communicate with each other easily, to share files and to have video calls. You'll find all of your other students on here!
