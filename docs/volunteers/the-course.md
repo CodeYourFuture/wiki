@@ -31,7 +31,13 @@ https://syllabus.codeyourfuture.io/
 
 ## Personal Development
 
-Just a essential as the programming side of the course
+Just a essential as the programming side of the course is that our students have the soft skills required to get and hold a job. This contains essential skills such as 
+
+- Timekeeping
+- Planning
+- Communications
+- Teamwork
+- Public Speaking
 
 ## Programming Content
 
