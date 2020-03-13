@@ -24,7 +24,6 @@ CYF local leadership team is divided in four teams: _Outreach, Personal Developm
 
 Each team member in PD & Education is in charge of overseeing up to 5 students per class.
 
-
 ## Brief Overview in the life of a local chapter
 
 **Outreach**

@@ -31,7 +31,7 @@ https://syllabus.codeyourfuture.io/
 
 ## Personal Development
 
-Just a essential as the programming side of the course 
+Just a essential as the programming side of the course
 
 ## Programming Content
 
