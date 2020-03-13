@@ -9,7 +9,7 @@ In this section you'll find all the information specific to Birmingham and the W
 
 ## Where do we teach?
 
-Our Fundamentals Module will be running from:
+Our Fundamentals Module will be running from:<br>
 Aston University<br>
 Student Union<br>
 8 Coleshill Street<br>
@@ -25,7 +25,7 @@ Saturdays - 11am-5:30pm
 ## Where is our office?
 
 We're based at Melting Pot usually on Tuesdays, Wednesdays and Thursdays.
-The address is:
+The address is:<br>
 Smithfield Garage<br>
 Meriden Street<br>
 Digbeth<br>
