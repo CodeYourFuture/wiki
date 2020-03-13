@@ -65,7 +65,10 @@
       {
         "type": "subcategory",
         "label": "Personal Development",
-        "ids": ["volunteers/personaldevelopment/pd-roles"]
+        "ids": [
+          "volunteers/personaldevelopment/pd-roles",
+          "volunteers/personaldevelopment/template-agenda"
+        ]
       },
       {
         "type": "subcategory",
