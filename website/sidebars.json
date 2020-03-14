@@ -104,6 +104,14 @@
       "cities/glasgow/alternative-resources"
     ]
   },
+  "southafrica": {
+    "southafrica": [
+      "cities/southafrica/home",
+      "cities/southafrica/useful-information",
+      "cities/southafrica/alternative-resources",
+      "cities/southafrica/contact"
+    ]
+  },
   "birmingham": {
     "Birmingham": [
       "cities/birmingham/home",
