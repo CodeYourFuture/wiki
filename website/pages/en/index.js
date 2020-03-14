@@ -58,9 +58,7 @@ class HomeSplash extends React.Component {
             <Button href={docUrl("cities/manchester/home")}>Manchester</Button>
             <Button href={docUrl("cities/birmingham/home")}>Birmingham</Button>
             <Button href={docUrl("cities/rome/home")}>Rome</Button>
-            <Button href={docUrl("cities/southafrica/home")}>
-              South Africa
-            </Button>
+            <Button href={docUrl("cities/capetown/home")}>Cape Town</Button>
           </PromoSection>
         </div>
       </SplashContainer>

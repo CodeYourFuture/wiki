@@ -3,9 +3,9 @@ id: home
 title: Overview
 ---
 
-## South Africa Information
+## Cape Town Information
 
-In this section you'll find all the information specific to <strong> South Africa</strong>.
+In this section you'll find all the information specific to <strong> Cape Town</strong>.
 
 ## Where is our office?
 

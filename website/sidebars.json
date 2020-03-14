@@ -104,12 +104,12 @@
       "cities/glasgow/alternative-resources"
     ]
   },
-  "southafrica": {
-    "South Africa": [
-      "cities/southafrica/home",
-      "cities/southafrica/useful-information",
-      "cities/southafrica/alternative-resources",
-      "cities/southafrica/contact"
+  "capetown": {
+    "Cape Town": [
+      "cities/capetown/home",
+      "cities/capetown/useful-information",
+      "cities/capetown/alternative-resources",
+      "cities/capetown/contact"
     ]
   },
   "birmingham": {

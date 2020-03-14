@@ -7,6 +7,6 @@ title: Useful information
 
 Accessible at https://codeyourfuture.slack.com/
 
-In South Africa, the main channels are listed below:
+In Cape Town, the main channels are listed below:
 
 ## Useful People

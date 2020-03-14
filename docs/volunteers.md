@@ -23,4 +23,4 @@ Information about specific cities can be found below.
 - [Manchester](cities/manchester/home.md)
 - [Rome](cities/rome/home.md)
 - [Birmingham](cities/birmingham/home.md)
-- [South Africa](cities/southafrica/home.md)
+- [Cape Town](cities/capetown/home.md)
