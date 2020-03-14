@@ -30,7 +30,7 @@ and improving your skills.
   is a thorough guide on good programming practices to create quality code
 - [commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide)
   is a guide on good practices for writing commit messages
-  
+
 ## Professionalism
 - [Don't Call Yourself A Programmer](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/) is a really excellent article which gives you advice on how to be professional and confident
 
@@ -64,6 +64,7 @@ and improving your skills.
 
 - [CSS Diner](https://flukeout.github.io/) — practice CSS selectors
 - [Flexbox Froggy](https://flexboxfroggy.com/) — practice CSS flexbox
+- [Flexbox Defence](http://www.flexboxdefense.com/) — practice CSS flexbox
 - [Grid Garden](http://cssgridgarden.com/) — practice CSS grid
 - [SQL Zoo](https://sqlzoo.net/) — practice SQL
 - [SQL Bolt](https://sqlbolt.com/) — practice SQL
