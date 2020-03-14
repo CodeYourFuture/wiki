@@ -16,4 +16,4 @@ The schedule for Class 6 can be found [here](https://docs.google.com/spreadsheet
 
 ## Agenda
 
-All of our classroom agendas can be found [here](https://docs.google.com/document/d/1Xj-JuTZLgozgIqpYlSQR1bziQ9Ljna-olwlQ6bS7lgw/edit?usp=sharing)
+All of our classroom agendas can be found [here](https://drive.google.com/drive/u/1/folders/1XF8pO1m0UBLnknaY0sNodEM_TMCX1IAF)
