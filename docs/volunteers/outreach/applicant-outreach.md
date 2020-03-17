@@ -20,7 +20,10 @@ If CYF is already established in your city, this list may already exist. Contact
 
 - Then, call the NGOs back within a month! NGOs are often busy doing other things, so a second call, especailly to big referrers, is critical. 
 
-Applicant Flyers can be found on the CYF G-drive in the Outreach > Flyers. For G-drive access, ask your coordinator. 
+**Material**
+- Applicant Flyers can be found on the CYF G-drive in the Outreach > Flyers
+- Emails can be found on the CYF G-drive in Outreach > Emails
+- For G-drive access, ask your coordinator. 
 
 **Drop ins**
 
