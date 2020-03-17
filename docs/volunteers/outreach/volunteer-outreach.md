@@ -16,7 +16,7 @@ Like the applicant process, it's a funnel. Some volunteers will sign up for a re
 - Make a list of organisations to contact, prioritise and start contacting them
 - Create and run volunteer recruitment events **<see this guide on running events>**. Ask your organiser for the volunteer decks.
 - Start your social media campaign - using the social media guide: http://bit.ly/cyf-social-media-guide 
-- Check the dashboard, email volunteers and invite them
+- Check the dashboard, email volunteers and invite them to the events
 - If you have existing volunteers, ask them to refer a friend via Slack. WOM is CYF's most significant source of volunteers. See the data below for more sources. 
 
 **Top Referral sources** 
