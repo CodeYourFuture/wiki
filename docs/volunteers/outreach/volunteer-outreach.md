@@ -27,6 +27,6 @@ Like the applicant process, it's a funnel. For example, some volunteers will sig
 - 2% through news articles
 
 **Notes**
-- Corporates are good at providing structured volunteering experiences, but not core volunteers. WOM is best for active. 
+- Corporates are good at providing structured, low-time volunteering experiences, like 1:1 mentoring or workshops, but not active core volunteers. WOM is best for active volunteers. 
 - Keep running events! Continue after the class starts - get the numbers and roles needed from the other teams
 
