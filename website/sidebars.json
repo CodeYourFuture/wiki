@@ -7,6 +7,7 @@
       "students/getting-setup"
     ],
     "Tech Guides": [
+      "students/guides/online-lessons",
       "students/guides/making-a-pull-request",
       "students/guides/submitting-homework",
       "students/guides/hosting-netlify",
@@ -25,6 +26,7 @@
       "volunteers/application-process",
       "volunteers/interviews",
       "volunteers/running-a-class",
+      "volunteers/online-teaching",
       {
         "type": "subcategory",
         "label": "Courses",
