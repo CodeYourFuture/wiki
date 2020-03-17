@@ -9,14 +9,14 @@ Finding new volunteers while you are looking for applicants can be daunting. It'
 
 So, you source applicants while sourcing students. At least with volunteers, can you continue to source them after the class starts (and you need to!)
 
-Like the applicant process, it's a funnel. Some volunteers will sign up for a recruitment event, but not attend. So your goal is around 250 signups for 25 active volunteers. 
+Like the applicant process, it's a funnel. For example, some volunteers will sign up for a recruitment event, but not attend. So your goal is around 250 signups for 25 active volunteers. 
 
 **How to proceed**
 
 - Make a list of organisations to contact, prioritise and start contacting them
 - Create and run volunteer recruitment events **<see this guide on running events>**. Ask your organiser for the volunteer decks.
 - Start your social media campaign - using the social media guide: http://bit.ly/cyf-social-media-guide 
-- Check the dashboard, email volunteers and invite them to the events
+- Check the dashboard, email volunteers and invite them to the events (CYF Dashboard overview coming, ask a fellow volunteer in the meanwhile)
 - If you have existing volunteers, ask them to refer a friend via Slack. WOM is CYF's most significant source of volunteers. See the data below for more sources. 
 
 **Top Referral sources** 
