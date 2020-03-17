@@ -1,6 +1,6 @@
 ---
-id: online-teaching-settings
-title: Online Teaching Settings
+id: online-teaching-config
+title: Online Teaching Config
 ---
 
 ## Recommended Zoom Settings for classroom hosts
@@ -31,7 +31,7 @@ Link: [Settings](https://zoom.us/profile/setting)
 - Display end-of-meeting experience feedback survey - `ON`
 - Co-host - `ON`
 - Polling - `ON`
-  - Allow host to put attendee on hold - `ON` 
+  - Allow host to put attendee on hold - `ON`
     - As a workaround for better breakout auto-distribution (see recommendations)
 - Who can share? - `All participants`
 - Annotation - `ON`
@@ -42,13 +42,13 @@ Link: [Settings](https://zoom.us/profile/setting)
   - Breakout room - `ON`
 - Allow host to assign participants to breakout rooms when scheduling: `ON`
   - I like randomisation, but this will have its uses
-- Virtual background - `OFF` 
+- Virtual background - `OFF`
   - Fun but may slow old laptops down without students understanding why
 - Attention tracking - `ON`
-- Waiting room -  `OFF`
+- Waiting room - `OFF`
 - Show a "Join from your browser" lin - `ON`
   - The browser experience is very good
 - Email notification... When attendees join meeting before host: `OFF`
-  - probably, if you're just doing classrooms. - You'll get 40 emails even if you're a minute late.
+  - Otherwise you'll get 40 emails even if you're a minute late.
 - Allow removed participants to rejoin- `ON`
   - https://support.zoom.us/hc/en-us/articles/360021851371-Allowing-Removed-Participants-or-Panelists-to-Rejoin
