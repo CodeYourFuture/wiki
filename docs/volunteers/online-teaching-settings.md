@@ -3,6 +3,12 @@ id: online-teaching-config
 title: Online Teaching Config
 ---
 
+## Download
+
+You can download the desktop software here:
+
+https://zoom.us/download
+
 ## Recommended Zoom Settings for classroom hosts
 
 There are two pages of settings to configure, with some duplication.
