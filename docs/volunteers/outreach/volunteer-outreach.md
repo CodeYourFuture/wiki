@@ -20,7 +20,7 @@ Like the applicant process, it's a funnel. For example, some volunteers will sig
 - If you have existing volunteers, ask them to refer a friend via Slack. WOM is CYF's most significant source of volunteers. See the data below for more sources. 
 
 **Top Referral sources** 
-- 25% colleague for friend
+- 25% colleague or friend
 - 20% through search engines
 - 17% through social media
 - 5% through conferences
