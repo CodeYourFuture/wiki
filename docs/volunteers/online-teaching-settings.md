@@ -5,7 +5,7 @@ title: Online Teaching Config
 
 ## Recommended Zoom Settings for classroom hosts
 
-There are two pages of settings to configure, with some duplication. I haven't quite grokked the difference.
+There are two pages of settings to configure, with some duplication.
 
 Link: [Scheduling a new meeting](https://zoom.us/meeting/schedule)
 
