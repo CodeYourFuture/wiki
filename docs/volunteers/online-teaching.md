@@ -103,3 +103,7 @@ Some rough ideas for what might be helpful to do in-person or pre-class. None of
 - learn how to "ask host for help" from a breakout room
 - Engage some students who already know how to do this to assist in demonstrating to their colleagues.
   - Students can also use [this guide](https://support.zoom.us/hc/en-us/articles/360031043292-Testing-Computer-or-Device-Audio) to test their audio/video
+
+## Training calls
+
+[zoom training call overview](zoom-training-call-overview)
