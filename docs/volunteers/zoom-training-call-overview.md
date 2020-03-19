@@ -5,6 +5,8 @@ title: Zoom training call overview
 
 ## Zoom Training Call - Student version
 
+- Hello! :)
+- This list is at http://bit.ly/cyfzoomtest
 - Put your webcam on. It is required!
 - Enable closed-captions
 - Find out which slack channel you should use
@@ -32,7 +34,8 @@ title: Zoom training call overview
 
 ## Zoom Training Call - Teacher/TA version
 
-- Say hi!
+- Say Hi!
+- This list is at http://bit.ly/cyfzoomtest
 - Identify yourself as a volunteer to the training-call host
 - let them know if you have used zoom before
 - learn everything the students are learning!
