@@ -3,17 +3,13 @@ id: online-teaching-config
 title: Online Teaching Config
 ---
 
-## Download
+# Recommended Zoom Settings for classroom hosts
 
-You can download the desktop software here:
+These settings are made via the zoom web portal.
 
-https://zoom.us/download
+## Settings for ["Scheduling a new meeting"](https://zoom.us/meeting/schedule)
 
-## Recommended Zoom Settings for classroom hosts
-
-There are two pages of settings to configure, with some duplication.
-
-Link: [Scheduling a new meeting](https://zoom.us/meeting/schedule)
+Link https://zoom.us/meeting/schedule
 
 Pay particular attention to the following Meeting options:
 
@@ -25,7 +21,7 @@ Pay particular attention to the following Meeting options:
 
 ## General settings in profile
 
-Link: [Settings](https://zoom.us/profile/setting)
+Link: https://zoom.us/profile/setting
 
 - Join before host - `ON`
 - Mute participants upon entry - `ON`
@@ -34,11 +30,11 @@ Link: [Settings](https://zoom.us/profile/setting)
   - However, be aware zoom chat is inferior, and you might want to encourage important chat messages to go elsewhere
 - Play sound when participants join or leave - `ON`
   - To the host at least. This can be turned off during the meeting (at least with desktop client)
-- Display end-of-meeting experience feedback survey - `ON`
 - Co-host - `ON`
 - Polling - `ON`
   - Allow host to put attendee on hold - `ON`
     - As a workaround for better breakout auto-distribution (see recommendations)
+- Always show meeting control toolbar - `ON`
 - Who can share? - `All participants`
 - Annotation - `ON`
 - Auto-save whiteboard when meeting is stopped: `ON`
@@ -47,14 +43,26 @@ Link: [Settings](https://zoom.us/profile/setting)
 - In Meeting (advanced)
   - Breakout room - `ON`
 - Allow host to assign participants to breakout rooms when scheduling: `ON`
-  - I like randomisation, but this will have its uses
-- Virtual background - `OFF`
-  - Fun but may slow old laptops down without students understanding why
+- Group HD video: `OFF` (requires extra bandwidth)
+- Virtual background - `ON`
 - Attention tracking - `ON`
 - Waiting room - `OFF`
-- Show a "Join from your browser" lin - `ON`
-  - The browser experience is very good
+- Show a "Join from your browser" link - `ON`
 - Email notification... When attendees join meeting before host: `OFF`
   - Otherwise you'll get 40 emails even if you're a minute late.
-- Allow removed participants to rejoin- `ON`
-  - https://support.zoom.us/hc/en-us/articles/360021851371-Allowing-Removed-Participants-or-Panelists-to-Rejoin
+- [Allow removed participants to rejoin](https://support.zoom.us/hc/en-us/articles/360021851371-Allowing-Removed-Participants-or-Panelists-to-Rejoin)- `ON`
+
+## Settings for _Recording_
+
+Link: https://zoom.us/profile/setting?tab=recording
+
+- Cloud recording - `ON`
+- Record active speaker with shared screen - `ON`
+- Record gallery view with shared screen - `OFF`
+- Record active speaker, gallery view and shared screen separately - `OFF`
+- Record an audio only file - `ON`
+- Save chat messages from the meeting / webinar - `ON`
+- Display participants' names in the recording - `OFF` (more private)
+- Automatic recording - `OFF`
+- Recording Consent - `ON`
+- Multiple audio notifications of recorded meeting - `ON`
