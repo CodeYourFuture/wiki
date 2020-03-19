@@ -25,7 +25,9 @@ If you're using Windows we ask that you install this program to make it easier f
 
 ## Software
 
-### Chrome
+Although you *can* install some of the following software onto a phone, it is required you install it onto your *laptop*.
+
+## Chrome
 
 Chrome is one of the best browsers for web developers with a great set of tools for testing and building websites
 
@@ -38,6 +40,12 @@ We use Slack to communicate with each other easily, to share files and to have v
 You'll need to login when you've download this. Speak to your teachers to get invited when you start the course.
 
 [Download and install here](https://slack.com/intl/en-gb/downloads)
+
+### Zoom
+
+We use Zoom for bigger video calls such as weekend classrooms when they are remote.
+
+[Download and install here](https://zoom.us/download)
 
 ### Visual Studio Code
 
