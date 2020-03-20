@@ -82,7 +82,21 @@ Students should be directed to ask questions in the Slack Channel. We suggest cr
 
 ## Tips & Techniques
 
+- Above all else remember that you are _"You are fighting against boredom and disengagement"_ when teaching online. It is so easy for student to stop listening when they're not physically in the room.
+- Enforce all students to have their webcams on - this helps with keeping the students engaged
 - We recommend using `Gallery` mode to view all of the students at once. You change this from the top right of your school
+- Use _Popcorning_ when asking an open question
+  - This technique is where a student gives an answer and then selects another to give their answer.
+  - This helps keep students engaged
+- Use emoji's tell if students don't understand something
+  - For example in this Slack post the teacher uses a confused emoji to tell if some students don't understand the question
+  - Its important that you add the emoji first yourself so that it's easy for students
+
+![image-20200320142026383](../assets/online-teaching/image-20200320142026383.png)
+
+- Use the webcam to your advantage
+  - To tell if students are understanding ask them to nod or shake their head to tell you the answer
+  - This introduces some student accountability
 
 ## Student Training
 
