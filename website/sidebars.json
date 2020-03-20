@@ -126,9 +126,10 @@
     "Manchester": [
       "cities/manchester/home",
       "cities/manchester/useful-information",
+      "cities/manchester/roles-and-duties-for-class",
+      "cities/manchester/teaching-resources",
       "cities/manchester/alternative-resources",
-      "cities/manchester/contact",
-      "cities/manchester/roles-and-duties-for-class"
+      "cities/manchester/contact"
     ]
   },
   "rome": {
