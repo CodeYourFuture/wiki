@@ -9,12 +9,11 @@ During the CYF course you will be requested to make an account with various onli
 
 CYF recognises some students may wish for anonymity, and it is of course acceptable not to use your real name (or profile photo) when creating these accounts.
 
-However, it is VERY helpful to our volunteer teachers when they are reviewing your work, if you use the *same account name* (and ideally the same profile pic/avatar) throughout these accounts (even if it is imaginary).
+However, it is VERY helpful to our volunteer teachers when they are reviewing your work, if you use the _same account name_ (and ideally the same profile pic/avatar) throughout these accounts (even if it is imaginary).
 
-If you don't want to do this, that's fine.  Let us know.
+If you don't want to do this, that's fine. Let us know.
 
 # Summary
 
-* it is OK to use made-up usernames and profile pics when creating online accounts
-* it is *very* helpful to us if you use the **same** username and profile pic across all accounts used in your CYF course.
-
+- it is OK to use made-up usernames and profile pics when creating online accounts
+- it is _very_ helpful to us if you use the **same** username and profile pic across all accounts used in your CYF course.
