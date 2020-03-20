@@ -18,7 +18,7 @@ We suggest that everyone [downloads the client now](https://zoom.us/download).
 
 Broadly, the setup of our class rooms is the same as our physical classroom. This means as closely as possible it should [keep to the structure of our physical classes as outlined hre](https://docs.codeyourfuture.io/volunteers/running-a-class).
 
-Each classroom room should have no more than 25 students and then enough breakout rooms to accommodate 3 -4 students per room. Each breakout room should have a teaching assistant who is there to help and mentor the students during the exercise.
+Each classroom room should have no more than 25 students and then enough breakout rooms to accommodate 3-4 students per room. Each breakout room should have a teaching assistant who is there to help and mentor the students during the exercise.
 
 ### Classroom Setup
 
@@ -78,7 +78,7 @@ Students should be directed to ask questions in the Slack Channel. We suggest cr
 
 #### Energiser
 
-- Coorindate the morning and afternoon energisers
+- Coordinate the morning and afternoon energisers
 
 ## Tips & Techniques
 
@@ -106,4 +106,6 @@ Some rough ideas for what might be helpful to do in-person or pre-class. None of
 
 ## Training calls
 
-[zoom training call overview](zoom-training-call-overview)
+We use zoom training calls to up-skill our volunteers and students. You can find details here:
+
+[Zoom training call overview](zoom-training-call-overview)
