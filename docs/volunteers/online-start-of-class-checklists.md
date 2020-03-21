@@ -34,6 +34,18 @@ Here are some ways you should communicate if you have technical problems
 
 Most importantly, listen to your teachers for the ways *they* want you to communicate problems.
 
+## Start-of-class checklist - For Host
+1. Start the scheduled call 30 minutes early
+1. Share the meeting invite on slack (if not already done)
+1. Assign Teacher and TAs as co-hosts
+1. monitor the teacher & TA slack channel: e.g. [#london-teachers-during-class](https://app.slack.com/client/T2H71EFLK/C0109KRLYTS/thread/C010D1C41K2-1584699383.012200)
+1. open and monitor the zoom chat (redirect to slack)
+1. Set up breakout room assignments
+1. If teacher wants, run open breakout rooms for soundchecks
+1. minor: Enable "multiple participants can share screens"
+1. TODO: more...
+
+
 ## Start-of-class checklist - For TAs
 1. As above.  Also...
 1. Name yourself "myname **(TA)**" to help the teacher
@@ -41,14 +53,6 @@ Most importantly, listen to your teachers for the ways *they* want you to commun
 1. Ask for co-host permissions from host (if they forget)
 1. Help students with zoom issues (but not homework questions!)
 
-## Start-of-class checklist - For Host
-1. Start the scheduled call 30 minutes early
-1. Share the meeting invite on slack (if not already done)
-1. Assign Teacher and TAs as co-hosts
-1. monitor the teacher & TA slack channel: e.g. [#london-teachers-during-class](https://app.slack.com/client/T2H71EFLK/C0109KRLYTS/thread/C010D1C41K2-1584699383.012200)
-1. open and monitor the zoom chat
-1. minor: Enable "multiple participants can share screens"
-1. TODO: more...
 
 ## Start-of-class checklist - For Teacher
 1. As above.  Also...
@@ -56,8 +60,9 @@ Most importantly, listen to your teachers for the ways *they* want you to commun
 1. Have your host on speeddial!
 1. Gallery view
 1. Tell students the way you want them to report tech problems (see "Getting attention")
-1. Big class?  Run Breakout rooms for soundcheck (4 per room)
+1. Big class?  Run breakout rooms to soundcheck (e.g. 4 per room)
 1. TODO: ... so many more things...
+
 
 [Online-teaching: Home](online-teaching.md)
 | [Start-of-class checklists](online-start-of-class-checklists.md)
