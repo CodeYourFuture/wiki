@@ -9,19 +9,19 @@ title: Start-of-class checklists (for online classes)
 
 
 ## Start-of-class checklist - For Everybody
-1. have a notebook beside you
-1. Open slack & monitor the correct **slack channel**
-1. Problems?  Say on slack, if possible on zoom in "participants" click "No")
-1. **close programs** and unnecessary browser tabs and apps
+1. Have a notebook beside you
+1. **close unwanted programs** and browser tabs
+1. Open slack and the correct **slack channel**
+1. Problems?  Say on slack (If possible, on Zoom in "participants" click "No")
 1. **start zoom** (the desktop client, not phone or web, if possible).  [Download is here](https://zoom.us/download)
-1. **join** the zoom call
-1. set your **name** clearly (not "phone" or "coder")
-1. put your **webcam on**
-1. check your **mic** is working
+1. **Join** the zoom call
+1. Set your **name** clearly (not "phone" or "coder")
+1. Put your **webcam on**
+1. Check your **mic** is working
 1. **mute** your mic
-1. check you can **screenshare**
+1. Check you can **screenshare**
 1. **Switch on CC** - "closed captions"
-1. check you can switch between **"gallery view"** and "speaker view"
+1. Check you can switch between **"gallery view"** and "speaker view"
 1. Go to "participants" and click "YES" (this tells the teacher you are ready!)
 1. **Help other students** to complete their checklist
 
@@ -38,11 +38,11 @@ Most importantly, listen to your teachers for the ways *they* want you to commun
 1. Start the scheduled call 30 minutes early
 1. Share the meeting invite on slack (if not already done)
 1. Assign Teacher and TAs as co-hosts
-1. monitor the teacher & TA slack channel: e.g. [#london-teachers-during-class](https://app.slack.com/client/T2H71EFLK/C0109KRLYTS/thread/C010D1C41K2-1584699383.012200)
-1. open and monitor the zoom chat (redirect to slack)
+1. Monitor the teacher & TA slack channel: e.g. [#london-teachers-during-class](https://app.slack.com/client/T2H71EFLK/C0109KRLYTS/thread/C010D1C41K2-1584699383.012200)
+1. Open and monitor the zoom chat (redirect to slack)
 1. Set up breakout room assignments
 1. If teacher wants, run open breakout rooms for soundchecks
-1. minor: Enable "multiple participants can share screens"
+1. Minor: Enable "multiple participants can share screens"
 1. Watch participants view: A red "No" from students = problem.
 1. TODO: more...
 
