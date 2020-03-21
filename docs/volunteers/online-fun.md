@@ -420,7 +420,24 @@ https://nbogie.github.io/impostor/
 If someone can play an instrument or can sing, perhaps they'd give us a performance.
 
 
-# To try / needs adaptation
+### Game: [Crambo](https://www.classicgamesandpuzzles.com/Crambo.html)
+
+P1 thinks of a word and keeps it secret.
+
+* P1: I know a word that rhymes with "card"
+* P2: "is it... difficult?"
+* P1: "no, it's not 'hard'"
+* P5: "ooh is it shakespeare?"
+* P1: "no, not the 'bard'"
+...
+* P3: "is it protection?"
+* P1: "yes, it is `guard`!"
+
+"Dumb crambo" will also work, where mime is done.
+
+
+# To consider (probably needs adaptation)
+
 
 ### Game: [Snake Oil](https://www.boardgamegeek.com/boardgame/113289/snake-oil) / [The Big Idea](https://boardgamegeek.com/boardgame/696/big-idea) (neill has [a tool to generate client and cards](https://nbogie.github.io/salesman/) for this game.
 ### Game: Wits & Wagers
