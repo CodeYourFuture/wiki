@@ -2,6 +2,12 @@
 
 Ice-breakers, Energizers, Fun, Silliness
 
+# Work needed on this page:
+I'll move the activities into sections (or otherwise tag them) so that it's clear which activities have been tested and are recommended.
+
+Other data are: group size (min, ideal, max), new-class suitability, run time, EnlishLanguagePractice, GoodEnglishLanguageRequirement, 
+
+
 # Fun activities for the remote classroom
 
 ## Game and activity ideas which are ready now - tested, trusted
@@ -342,12 +348,52 @@ https://boardgamegeek.com/boardgame/135779/fake-artist-goes-new-york
 
 https://nbogie.github.io/impostor/
 
+### Einstein five-house puzzle, or similar
+
+Here as a placeholder for logic puzzles.  Find some easier ones to start with.
+
+I have doubts about this one for mixed-ability class. 
+
+Main problem is how to prevent quarterbacking.  One or two minds will dominate and that will snowball.
+
+In a similar ability group, makes for good practice explaining your logic to each other.
+
+Breakout rooms of suitable sizes.  Don't assign competitively (one group will finish much faster than the other - demoralising).
+
+Also, these are much easier once you've learned how to do them.
+
+"
+In a street there are five houses, painted five different colours. In each house lives a person of different nationality.
+These five home-owners each drink a different kind of beverage, smoke different brand of cigar and keep a different pet.
+
+1. The British man lives in a red house.
+2. The Swedish man keeps dogs as pets.
+3. The Danish man drinks tea.
+4. The Green house is next to, and on the left of the White house.
+5. The owner of the Green house drinks coffee.
+6. The person who smokes Pall Mall rears birds.
+7. The owner of the Yellow house smokes Dunhill.
+8. The man living in the center house drinks milk.
+9. The Norwegian lives in the first house.
+10. The man who smokes Blends lives next to the one who keeps cats.
+11. The man who keeps horses lives next to the man who smokes Dunhill.
+12. The man who smokes Blue Master drinks beer.
+13. The German smokes Prince.
+14. The Norwegian lives next to the blue house.
+15. The Blends smoker lives next to the one who drinks water.
+"
 
 # To try / needs adaptation
 * zip zap boing - using gallery view?  "zip zap... Zoom (TM)"?  (sorry)
 
 * [Snake Oil](https://www.boardgamegeek.com/boardgame/113289/snake-oil) / [The Big Idea](https://boardgamegeek.com/boardgame/696/big-idea) (neill has [a tool to generate client and cards](https://nbogie.github.io/salesman/) for this game.
+* Wits & Wagers - needs adaptation & simple app for placing bets.  Small-group quick voice comms is the hard part - Breakout room to discuss could work but it's a bit clunky for the tempo, and we really want to keep everyone together rather than suddenly dampen the vibe.  Could accomodate big groups.  Game show feel.
 
+* [mastermind](https://boardgamegeek.com/boardgame/2392/mastermind): logical thinking.  probably smaller group 6-8?, teams.  Slow, cerebral.  Good practice in teams explaining to each other the rules, and the logic, etc. (e.g. add a rule: your entire team must be able agree before you take a move. (Or better, a randomly picked player from your team must explain the logic of your move)).
+
+* "CYF jeopardy": just jeopardy with tech questions: "a programming language that can run in the web browser": "What is JavaScript?"
+
+* [codenames](https://boardgamegeek.com/boardgame/178900/codenames) / [codenames pictures](https://boardgamegeek.com/boardgame/198773/codenames-pictures): needs a fixed webcam on the pictures, or web version.  Better to know your team-mates. Shared cultural references also help.  Worth experimenting, as it's a hugely popular modern game.  Slower, more cerebral. Would work as a remote games-night social, perhaps.
 
 # Meta: types of game
 * Drawing with a mouse is hard (pictionary, fake artist, drawful)
@@ -359,5 +405,5 @@ https://nbogie.github.io/impostor/
 * [Improv Encyclopedia](http://improvencyclopedia.org/games/)
 * [Youth Group Games (one example site)](https://youthgroupgames.com.au/)
 * [HyperIsland Toolbox: Energizers](https://toolbox.hyperisland.com/)
-
-[Online-teaching: Home](online-teaching.md)
+* Look at actual tv gameshows (jeopardy, pointless, etc)
+* [Online-teaching: Home](online-teaching.md)
