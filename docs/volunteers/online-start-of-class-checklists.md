@@ -5,6 +5,7 @@ title: Start-of-class checklists (for online classes)
 
 [Online-teaching: Home](online-teaching.md)
 | [Start-of-class checklists](online-start-of-class-checklists.md)
+| [Online fun](online-fun.md)
 | [Zoom training call overview](zoom-training-call-overview)
 
 
@@ -89,4 +90,5 @@ Most importantly, listen to your teachers for the ways *they* want you to commun
 
 [Online-teaching: Home](online-teaching.md)
 | [Start-of-class checklists](online-start-of-class-checklists.md)
-| [Zoom training call overview](zoom-training-call-overview) | 
+| [Online fun](online-fun.md)
+| [Zoom training call overview](zoom-training-call-overview)
