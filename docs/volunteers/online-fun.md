@@ -26,6 +26,7 @@ Notes, ideas:
 * This is not recommended for a new class or any other students who might feel awkward - that's counter-productive.
 * Larger classes can do this in breakout rooms
 * Can be done in breakout rooms for more turns per player, less waiting
+* students might be interested in [22 rules of storytelling according to pixar](https://io9.gizmodo.com/the-22-rules-of-storytelling-according-to-pixar-5916970)
 
 Variant:
 * word-at-a-time: This is great but requires the students know the running order or is too slow.  That order can come from...
@@ -35,8 +36,18 @@ Variant:
 * prep: prepare a slide with a list of the students names, to be followed during the word-at-a-time variant
 
 ### Selfies
-* gallery view.  on a better processor you can get up to 50 faces.
+
+Take a selfie with everyone in it (who wants to be)
+
+* Give plenty of notice for those who don't want to be in it to leave the shot or turn off their cameras
+* choose a photographer: someone who knows how to screenshot
+* Use the gallery view (On faster computers you can get up to 50 faces per screen)
 * "photographer" should turn off "always show names" in their client settings, for more privacy.
+* ask for cheesey smiles [here are some "dad jokes"](https://www.livin3.com/100-bad-dad-jokes-that-will-make-you-laugh-or-cringe)
+* photographer should give clear countdown
+
+Variants:
+* everyone shows an object, or [fingerspells](http://www.british-sign.co.uk/fingerspelling-alphabet-charts/) something ("Coding", "CYF"?)
 
 ### Present an important object
 * everyone goes and fetches an important/interesting object
@@ -45,6 +56,8 @@ Variant:
 * optional: 1/2 way, reflect what made a good presentation (perhaps energy, personalisation, the WHY, humour, object close-up view & lighting)
 
 This can be done in breakout rooms, for big classes.
+
+### Madlibs
 
 ### Articulate (tag: LanguagePractice)
 [BGG](https://www.boardgamegeek.com/boardgame/6541/articulate)
@@ -56,6 +69,10 @@ PD are building lists of technical concepts to use in this game
 Most times you just want to play articulate
 
 ### Charades (tag: LanguagePractice)
+
+### Telestrations / Eat poop you cat
+
+My favourite game IRL.  Looks like there's a free implementation here https://drawception.com/register/ but I haven't tried it.
 
 ### Psychiatrist / Off Your Rocker
 [BGG](https://boardgamegeek.com/boardgame/120814/your-rocker)
@@ -109,9 +126,17 @@ Or an online collab website
 
 * Beware not everyone has access to annotations. not inclusive.
 
+### Keep talking and nobody explodes
+Stressful, but excellent teamwork exercise likely to generate a situation for study very quickly.
+
+For some people, this shouldn't be in the "fun" category
+
+Website: [keep talking and nobody explodes](https://keeptalkinggame.com/) - 
+
+Extra thoughts: With students' permission, videoing these exercises in small groups, and watching them back (after cool-down), while perhaps painful, can quickly show comms breakdown or good practices.  Be careful to burn the videos after watching, agent!
+
 # To elaborate
 
-* [keep talking and nobody explodes](https://keeptalkinggame.com/) - stressful, but excellent exercise to study teamworking
 * jackbox.tv e.g. drawful 2 (most games limited to 10)
 * 
 
