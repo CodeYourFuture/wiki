@@ -16,7 +16,7 @@ We recommend using [Zoom](https://zoom.us) for online classes because
 
 We suggest that everyone [downloads the client now](https://zoom.us/download).
 
-**Please follow the instructions for pre-class setup [here](/volunteers/online-teaching-config).**
+**Zoom account owners should follow the instructions for pre-class setup [here](/volunteers/online-teaching-config).**
 
 ## Classes
 
@@ -39,11 +39,12 @@ It is the responsibility of the Assistant Lead teacher to `Host` the Online Clas
 
 We recommend you use slack - make and use a custom channel or group chat especially to communicate between teachers not in the same call. This is important so messages don't get lost and all teachers are kept in the loop.
 
-For teachers and TAs in the same virtual classroom you can also:
+London, for example, will use [#london-teachers-during-class](https://app.slack.com/client/T2H71EFLK/C0109KRLYTS/thread/C010D1C41K2-1584699383.012200)
 
-- Audio right in the main room (not if we split into two classrooms)
-- Use a teachers' breakout room
-- Use DMs in Zoom chat
+For teachers and TAs in the same virtual classroom you can also use:
+
+- Audio in the main room!  Simple works!
+- A dedicated breakout room for teachers' & TAs - normally the main room is fine
 
 ### Communication between Students
 
@@ -66,8 +67,8 @@ Students should be directed to ask questions in the Slack Channel. We suggest cr
 
 - Host and administer the video call
   - Start the video call
-  - Mute noisy people who are not speaking
-  - Bring questions to the teachers attention
+  - Mute noisy people who are not speaking ("mute all" is useful and temporary)
+  - Bring important questions to the teacher's attention
   - Assign people to Breakout rooms
 - Manage the timing for the day
   - Make sure that parts of the lesson start and finish on time.
@@ -75,10 +76,10 @@ Students should be directed to ask questions in the Slack Channel. We suggest cr
 
 #### Assistant Teachers
 
-- Guide exercises in the breakout rooms
-- Answer questions the students have
-- Debug students code as they are programming
-- Moderate and guide the students discussions during exercises
+- Support the teacher
+- Listen for the teachers' instructions to students
+- Guide exercises in the breakout rooms (if necessary)
+- Moderate and guide the students' discussions during exercises
 
 #### Energiser
 
@@ -104,29 +105,8 @@ Students should be directed to ask questions in the Slack Channel. We suggest cr
 
 ## Student Training
 
-Some rough ideas for what might be helpful to do in-person or pre-class. None of this is crucial but will potentially make a big difference for those who are less-tech-savvy
-
-- Get the desktop client installed if they're on a slow laptop - it seems to be more performant.
-  - The web client has sufficient functionality for students to participate in a class, so this is not a must.
-- Demonstrate how to initiate screen-share etc in classroom (and any other aspects of zoom that can't be presented BY zoom).
-- Check and debug mic/webcam issues (inc quality) (even if we think we're not using camera).
-  - Commonly, may be accidentally disabled in browser for zoom.us.
-- Have everyone do one test screenshare, checking performance
-- Practice "raise hands" and other feedback mechanism
-- Practice some breakout room skills, and etiquette
-  re-joining your breakout room if you accidentally leave, or if the call drops
-- Discuss muting etiquette
-- Alert to issues of candid webcam mistakes!
-- Health-check slow laptops. Test screensharing from them (I think choppy audio and video is often CPU before it is network). Ensure students aren't running more than they need to.
-- learn how to "ask host for help" from a breakout room
-- Engage some students who already know how to do this to assist in demonstrating to their colleagues.
-  - Students can also use [this guide](https://support.zoom.us/hc/en-us/articles/360031043292-Testing-Computer-or-Device-Audio) to test their audio/video
-
-## Training calls
-
-We use zoom training calls to up-skill our volunteers and students. You can find details here:
+We use Zoom training calls to up-skill our volunteers and students. You can find details here:
 [Zoom training call overview](zoom-training-call-overview)
-
 
 [Online-teaching: Home](online-teaching.md)
 | [Start-of-class checklists](online-start-of-class-checklists.md)
