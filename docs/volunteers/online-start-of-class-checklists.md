@@ -35,6 +35,7 @@ Here are some ways you should communicate if you have technical problems
 Most importantly, listen to your teachers for the ways *they* want you to communicate problems.
 
 ## Start-of-class checklist - For Host
+1. Have the class schedule handy [London](https://drive.google.com/drive/u/1/folders/1e5ZqOQDeuHQRw7ytCKzmbtc4n4VOWutf)|[Glasgow]()|[Manchester]()|[Birmingham]()
 1. Start the scheduled call 30 minutes early
 1. Share the meeting invite on slack (if not already done)
 1. Assign Teacher and TAs as co-hosts
@@ -56,6 +57,8 @@ Most importantly, listen to your teachers for the ways *they* want you to commun
 1. Watch participants view: A red "No" from students = problem.
 1. If the teacher is busy, welcome the students as they join! [Got jokes?](https://dadjokegenerator.com/)
 
+
+
 ## Start-of-class checklist - For Teacher
 1. As above.  Also...
 1. Check your team are all attentive on slack
@@ -66,6 +69,20 @@ Most importantly, listen to your teachers for the ways *they* want you to commun
 1. Big class?  Ask host to breakout rooms for faster "soundcheck" (e.g. 4 per room)
 1. TODO: ... so many more things...
 
+## Start-of-class checklist - For PD
+1. As above.  Also...
+1. Name yourself "myname **(PD)**" to help the teacher
+1. Join & monitor the correct **two slack channels** (teacher-specific, and for all)
+1. Open the expected attendance (e.g. tracker sheet)
+1. Open "Participants" panel
+1. Contact those missing from class (e.g. via slack)
+
+
+## Misc resources:
+
+* Class schedules [London](https://drive.google.com/drive/u/1/folders/1e5ZqOQDeuHQRw7ytCKzmbtc4n4VOWutf)|[Glasgow]()|[Manchester]()|[Birmingham]()
+* [Dad jokes](https://dadjokegenerator.com/)
+
 [Online-teaching: Home](online-teaching.md)
 | [Start-of-class checklists](online-start-of-class-checklists.md)
-| [Zoom training call overview](zoom-training-call-overview)
+| [Zoom training call overview](zoom-training-call-overview) | 
