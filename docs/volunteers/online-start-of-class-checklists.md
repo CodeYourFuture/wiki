@@ -28,11 +28,12 @@ title: Start-of-class checklists (for online classes)
 
 ## Getting attention when you have a problem
 
-Here are some ways you should communicate if you have technical problems
+Here are some ways you can communicate if you have technical problems:
+ * Unmute your microphone, and ask!
+ * Write your problem on Slack
  * Open "participants" and click the "No" button
  * Raise your hand on camera or make a "thumbs down", on camera.  Hold it there.
- * Write your problem on Slack
-
+ 
 Most importantly, listen to your teachers for the ways *they* want you to communicate problems.
 
 ## Start-of-class checklist - For Host
@@ -65,7 +66,7 @@ Most importantly, listen to your teachers for the ways *they* want you to commun
 1. Gallery view
 1. Tell students the way you want them to report tech problems (see "Getting attention")
 1. Welcome your students as they join
-1. Big class?  Ask host to breakout rooms for faster "soundcheck" (e.g. 4 per room)
+1. Big class?  Ask the host to run breakout rooms for faster "soundcheck" (e.g. 4 per room)
 1. TODO: ... so many more things...
 
 ## Start-of-class checklist - For PD
