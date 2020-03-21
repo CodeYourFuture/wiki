@@ -1,3 +1,5 @@
+[Online-teaching: Home](online-teaching.md)
+
 Ice-breakers, Energizers, Fun, Silliness
 
 # Fun activities for the remote classroom
@@ -32,7 +34,6 @@ Variant:
 * the gallery view (but they may not all be able to see it, and get lost paginating)
 * prep: prepare a slide with a list of the students names, to be followed during the word-at-a-time variant
 
-
 ### Selfies
 * gallery view.  on a better processor you can get up to 50 faces.
 * "photographer" should turn off "always show names" in their client settings, for more privacy.
@@ -45,14 +46,25 @@ Variant:
 
 This can be done in breakout rooms, for big classes.
 
+### Articulate (tag: LanguagePractice)
+[BGG](https://www.boardgamegeek.com/boardgame/6541/articulate)
 
-### Articulate
+PD are building lists of technical concepts to use in this game
 
+### Taboo (tag: LanguagePractice)
+[BGG](https://boardgamegeek.com/boardgame/1111/taboo)
+Most times you just want to play articulate
+
+### Charades (tag: LanguagePractice)
+
+### Psychiatrist / Off Your Rocker
+[BGG](https://boardgamegeek.com/boardgame/120814/your-rocker)
+
+* needs a class who are ready for silliness and trust each other
 
 ### Pictionary
 * Use the share: whiteboard feature
 * Have "players" use annotation to draw on the whiteboard ("`view options`: `annotate`, next to "viewing jo smith's screen"
-
 
 ### Snapchat faces: silly
 Well-known volunteers present their face distorted by snapchat "lenses", perhaps apparently while attempting to lecture seriously.
@@ -102,3 +114,6 @@ Or an online collab website
 * [keep talking and nobody explodes](https://keeptalkinggame.com/) - stressful, but excellent exercise to study teamworking
 * jackbox.tv e.g. drawful 2 (most games limited to 10)
 * 
+
+
+[Online-teaching: Home](online-teaching.md)
