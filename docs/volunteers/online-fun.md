@@ -451,8 +451,6 @@ just jeopardy with tech questions: "a programming language that can run in the w
 
 logical thinking.  probably smaller group 6-8?, teams.  Slow, cerebral, potentially exclusive.  Good practice in relatively similar-ability teams explaining to each other the rules, and the logic, etc. (e.g. add a rule: your entire team must be able agree before you take a move. (Or better, a randomly picked player from your team must explain the logic of your move)).
 
-### Game: Spyfall
-
 
 ### Game: [codenames](https://boardgamegeek.com/boardgame/178900/codenames) / [codenames pictures](https://boardgamegeek.com/boardgame/198773/codenames-pictures)
 
@@ -476,10 +474,6 @@ Failing that, make/find a custom app for remote play.
 
 breakout rooms, mixed.
 
-### spit it out
-### Madlibs
-### balderdash (difficult)
-### concept: needs online impl
 
 ### zip zap boing
 
@@ -524,12 +518,45 @@ These five home-owners each drink a different kind of beverage, smoke different 
 "
 
 
+### Game: Hive Mind
+
+see also sixes
+
+
+### Game: Monikers
+see charades
+
+### Game: Tapple
+speed scategories - needs online impl.
+
+### Game: Scattergories app
+### Game: Drawful 2
+see jackbox games
+### Game: Werewords
+see also Insider
+### Game: Liar dice / perudo
+needs online impl
+### Game: Skull - with beer mats
+### Game: The Quiet Year
+story gaming in general.  this one can use the whiteboard.  advanced.
+### Game: Spinergy
+### Game: Overcooked - any multiplayer?  one person is the manager - voice only
+### Game: Spyfall
+### Game: spit it out
+### Game: Madlibs
+### Game: balderdash (needs good players to be funny)
+### Game: Gooseberry
+### Game: Cross Talk
+### Game: Huh?
+### Game: concept: needs online impl
 
 # Meta: types of game
 
-* Drawing with a mouse is hard (pictionary, fake artist, drawful)
-* Language games are great as the students want and need to practice language and articulation.
-* Watching someone play any game (video game)
+* Drawing games: Drawing with a mouse is hard (pictionary, fake artist, drawful)
+* Language games: words, stories are great as the students want and need to practice language and articulation.
+* Trivia games: 
+* Any game!: Any game we can play remotely has value if it is fun, accessible, inclusive, and has some logic to be explained and choices that can be discussed.
+* Video Games: Watching and commenting on some people playing any video game - this is entertainment.
 
 # Potential sources for games
 
@@ -538,3 +565,17 @@ These five home-owners each drink a different kind of beverage, smoke different 
 * [HyperIsland Toolbox: Energizers](https://toolbox.hyperisland.com/)
 * Look at actual tv gameshows (jeopardy, pointless, etc)
 * [Online-teaching: Home](online-teaching.md)
+* TODO: bookmarks...
+
+# Equipment and software:
+### basic assumed equipment
+
+* zoom
+
+### optional:
+* more electronic-y  
+  * [rolld20](https://roll20.net/)
+* online drawing tools
+* online voting systems
+* spreadsheets
+* mini apps to support certain games
