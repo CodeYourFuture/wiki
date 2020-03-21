@@ -5,6 +5,7 @@ title: Online Teaching
 
 [Online-teaching: Home](online-teaching.md)
 | [Start-of-class checklists](online-start-of-class-checklists.md)
+| [Online fun](online-fun.md)
 | [Zoom training call overview](zoom-training-call-overview)
 
 ## Zoom Setup
@@ -84,6 +85,8 @@ Students should be directed to ask questions in the Slack Channel. We suggest cr
 #### Energiser
 
 - Coordinate the morning and afternoon energisers
+- [Online fun](online-fun.md) - an under construction list of fun, silly, energizers, games, and non-technical exercises, suitable for remote classroom.
+
 
 ## Tips & Techniques
 
@@ -113,4 +116,5 @@ We use Zoom training calls to up-skill our volunteers and students.
 
 [Online-teaching: Home](online-teaching.md)
 | [Start-of-class checklists](online-start-of-class-checklists.md)
+| [Online fun](online-fun.md)
 | [Zoom training call overview](zoom-training-call-overview)
