@@ -13,8 +13,7 @@ title: Start-of-class checklists (for online classes)
 1. Open slack & monitor the correct **slack channel**
 1. Problems?  Say on slack, if possible on zoom in "participants" click "No")
 1. **close programs** and unnecessary browser tabs and apps
-1. **start zoom** (desktop client)
-1. **sign in**
+1. **start zoom** (the desktop client, not phone or web, if possible).  [Download is here](https://zoom.us/download)
 1. **join** the zoom call
 1. set your **name** clearly (not "phone" or "coder")
 1. check your **mic** is working
@@ -41,8 +40,12 @@ Most importantly, listen to your teachers for the ways *they* want you to commun
 1. join & monitor the correct **two slack channels** (teacher-specific, and for all)
 
 ## Start-of-class checklist - For Host
+1. Start the scheduled call 30 minutes early
+1. Share the meeting invite on slack (if not already done)
 1. Assign Teacher and TAs as co-hosts
-1. Enable multiple participants can share screens
+1. monitor the teacher&TA slack channel: e.g. [#london-teachers-during-class](https://app.slack.com/client/T2H71EFLK/C0109KRLYTS/thread/C010D1C41K2-1584699383.012200)
+1. open and monitor the zoom chat
+1. minor: Enable "multiple participants can share screens"
 1. TODO: more
 
 ## Start-of-class checklist - For Teacher
