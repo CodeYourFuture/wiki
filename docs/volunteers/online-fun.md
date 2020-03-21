@@ -4,7 +4,10 @@
 
 Ice-breakers, Energizers, puzzles, entertainments, Fun, Silliness
 
-# Work needed on this page:
+# Warning: Work in Progress
+
+Many of these are incomplete or untested.  You can search for `QuickWin` to find what is ready now and what should just work (assuming you stick to the limitations mentioned in the activity description.)
+
 I'll move the activities into sections (or otherwise tag them) so that it's clear which activities have been tested and are recommended.
 
 Other data are: group size (min, ideal, max), new-class suitability, run time, EnlishLanguagePractice, GoodEnglishLanguageRequirement, 
@@ -32,12 +35,12 @@ Example of play:
 * and so on
 
 Notes, ideas:
-* It is VERY ok to pass, offer the possibility if someone is choking
-* This is not recommended for a new class or any other students who might feel awkward - that's counter-productive.
+* **GM must inject energy**
+* This is **not recommended for a new class** or any other students who might feel awkward - that's counter-productive.
+* It is VERY ok for players to "pass", offer the possibility if someone is choking
 * Can also be done in breakout rooms for more turns per player, less waiting, particularly for larger classes
 * Students might be interested in [22 rules of storytelling according to pixar](https://io9.gizmodo.com/the-22-rules-of-storytelling-according-to-pixar-5916970)
 * Ask one or two volunteers or extrovert students first, to get the game rolling.
-* GM must maintain an energy
 * GM can repeat/recap the story at points if it's suspected forgotten
 * GM be careful to set expectation that the story probably won't make ANY sense and that is fine!
 
@@ -59,7 +62,6 @@ Variants:
 
 **Fortunately/Unfortunately**
 
-
 ### Activity: Selfies (feel-good)
 
 (tag: QuickWin)
@@ -75,15 +77,18 @@ Take a selfie with everyone in it (who wants to be)
 * optional: collect the selfies, to make a book through the course. (simple website)
 
 Variants:
-* everyone shows an object, or [fingerspells](http://www.british-sign.co.uk/fingerspelling-alphabet-charts/) something ("Coding", "CYF"?)
+* everyone shows an object
+  * (something blue?  A favourite book?)
+* everyone [fingerspells](http://www.british-sign.co.uk/fingerspelling-alphabet-charts/) something ("Coding", "CYF"?) - researched and practiced in groups.
+* (video-selfies record a section of the meeting for this one, make it into gif)
 
 Privacy
 * Give people a quiet, easy way out of the selfie
 * Don't take photos with participant names on them 
 
 work-needed:
-volunteer to identify / design a good place for all the selfies
 
+volunteer to identify / design a good place for all the selfies to be collected (think: multiple cohorts of selfies).  Google photos?
 
 ### Activity: Present an object
 
@@ -101,7 +106,7 @@ This can be done in breakout rooms, for big classes.
 
 ### Game: Articulate 
 
-(tag: LanguagePractice)
+(tag: quickWin) (tag: LanguagePractice)
 
 [BGG](https://www.boardgamegeek.com/boardgame/6541/articulate)
 
@@ -116,7 +121,7 @@ Most times you can just play articulate
 
 ### Game: Charades 
 
-(tag: LanguagePractice)
+(tag: LanguagePractice)(tag: quickWin)
 
 ### Game: Pictionary
 * Use the share: whiteboard feature
@@ -140,12 +145,16 @@ This is essentially twenty-questions but one person already knows the answer but
 
 ### Entertainment: Snapchat faces: silly
 
+(tag: quickWin)
+
 Functions as equipment test (if the students copy and try to do same)
 
 Well-known volunteers present their face distorted by snapchat "lenses", perhaps apparently while attempting to lecture seriously.
 
-prep:
+##### prep:
+
 One or more well-known volunteers:
+
 * install zoom on phone
 * install snapchat on phone
 * join the zoom call on phone (mute laptop to avoid feedback squeal, unmute on phone)
@@ -157,6 +166,8 @@ One or more well-known volunteers:
 This is a good time for natural selfies: the photographer can use `gallery view` and `side-by-side` from view options
 
 ### Game: Empires / Families / Chappie Tomato
+
+
 https://youthgroupgames.com.au/games/698/empires/
 
 To allow for the grouping that happens (normally physically), an assistant to edit a shared google doc with everyone's name on it to show the empire statuses:
@@ -206,11 +217,14 @@ This simple warm-up / equipment test activity just gives a simple task to focus 
 
 In simplest form, this doesn't need to be done in breakout groups, but with 20 students, the same few people will dominate the conversation. In breakout groups (I suggest random groups) it gives more people a chance to chat.
 
+seed differences in the starting conditions or everyone comes back with the same first hit for "cute animal"
+
 Variants: 
 * find a song you love on youtube (collect into a playlist)
 * find a picture of a work of art you love
 * find a poem you love
 * ...
+
 
 
 ### Game: Telestrations / Eat poop you cat
