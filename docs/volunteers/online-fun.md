@@ -14,7 +14,9 @@ Other data are: group size (min, ideal, max), new-class suitability, run time, E
 
 Generally, gallery-view is best for these, or if also screensharing, gallery-view with `view-options`: `side-by-side`
 
-### "Sound-check Story-time" (word at a time / phrase at a time) (Tag: EnglishPractice)
+### Activity: "Sound-check Story-time" 
+
+(word at a time / phrase at a time) (Tag: EnglishPractice, tag: QuickWin)
 
 Tell a silly story a phrase at a time, or a word at a time.
 
@@ -35,8 +37,9 @@ Notes, ideas:
 * Can also be done in breakout rooms for more turns per player, less waiting, particularly for larger classes
 * Students might be interested in [22 rules of storytelling according to pixar](https://io9.gizmodo.com/the-22-rules-of-storytelling-according-to-pixar-5916970)
 * Ask one or two volunteers or extrovert students first, to get the game rolling.
-* MC must maintain an energy
-* MC can repeat/recap the story at points if it's suspected forgotten
+* GM must maintain an energy
+* GM can repeat/recap the story at points if it's suspected forgotten
+* GM be careful to set expectation that the story probably won't make ANY sense and that is fine!
 
 Extra: use [rory's story cubes](https://www.storycubes.com/en/) or similar online story prompts, as lubricant.  You can use the storycubes app and screenshare it from phone to the zoom call. 
 
@@ -54,7 +57,12 @@ Variants:
   * prep: prepare a slide with a list of the students names, to be followed during the word-at-a-time variant
   * Kick-start the game with: "once"
 
-### Selfies (feel-good)
+**Fortunately/Unfortunately**
+
+
+### Activity: Selfies (feel-good)
+
+(tag: QuickWin)
 
 Take a selfie with everyone in it (who wants to be)
 
@@ -77,7 +85,9 @@ work-needed:
 volunteer to identify / design a good place for all the selfies
 
 
-### Present an object
+### Activity: Present an object
+
+(tag: QuickWin)
 
 This activity is of a pattern: **Find, process, present, collect**
 
@@ -89,32 +99,49 @@ This activity is of a pattern: **Find, process, present, collect**
 
 This can be done in breakout rooms, for big classes.
 
-### Articulate (tag: LanguagePractice)
+### Game: Articulate 
+
+(tag: LanguagePractice)
+
 [BGG](https://www.boardgamegeek.com/boardgame/6541/articulate)
 
 PD are building lists of technical concepts to use in this game
 
-### Taboo (tag: LanguagePractice)
+### Game: Taboo 
+(tag: LanguagePractice)
+
 [BGG](https://boardgamegeek.com/boardgame/1111/taboo)
-Most times you just want to play articulate
 
-### Charades (tag: LanguagePractice)
+Most times you can just play articulate
 
-### Twenty-questions / animal/mineral/vegetable
+### Game: Charades 
 
-Variants: see: "The Insider"
+(tag: LanguagePractice)
 
-### The Insider
-
-This is essentially twenty-questions but one person already knows the answer but wants to stay undercover.
-
-[The Insider on BGG](https://boardgamegeek.com/boardgame/206051/insider)
-
-### Pictionary
+### Game: Pictionary
 * Use the share: whiteboard feature
 * Have "players" use annotation to draw on the whiteboard ("`view options`: `annotate`, next to "viewing jo smith's screen"
 
-### Snapchat faces: silly
+### Game: Twenty-questions / animal/mineral/vegetable
+
+(tag: QuickWin)
+
+This will work fine in large group (control the dominant voices) or in breakouts
+
+Variants: see: "The Insider"
+
+### Game: The Insider
+
+This is essentially twenty-questions but one person already knows the answer but wants to stay undercover.  An assistant co-host can DM the roles and proxy the secret word from the "Master" to the insider.  Be careful to also DM something to the other players so that everyone is seen on video to receive a DM.
+
+[The Insider on BGG](https://boardgamegeek.com/boardgame/206051/insider)
+
+
+
+### Entertainment: Snapchat faces: silly
+
+Functions as equipment test (if the students copy and try to do same)
+
 Well-known volunteers present their face distorted by snapchat "lenses", perhaps apparently while attempting to lecture seriously.
 
 prep:
@@ -159,7 +186,9 @@ Barney remembers what candy must be and wins:
 
 * Barney, Daniel, Candy, Ahmad
 
-### Find the cutest animal on google images (equipment-test, Screen-sharing, training search & image-saving)
+### Exercise: Find the cutest animal on google images
+
+(equipment-test, Screen-sharing, training search & image-saving)
 
 This activity is of a pattern: **Find, process, present, collect**
 
@@ -184,23 +213,19 @@ Variants:
 * ...
 
 
-### Madlibs
-
-
-
-### Telestrations / Eat poop you cat
+### Game: Telestrations / Eat poop you cat
 
 My favourite game IRL.  Two free untested online impls: 
 * https://drawception.com/register/
 * https://drawphone.tannerkrewson.com/
 
 
-### Psychiatrist / Off Your Rocker
+### Game: Psychiatrist / Off Your Rocker
 [BGG](https://boardgamegeek.com/boardgame/120814/your-rocker)
 
 * needs a class who are ready for silliness and trust each other
 
-### Make a recipe book:
+### Exercise: Make a recipe book:
 
 Collect a recipe book together with all our favourite recipes (ideally, 2 each)
 
@@ -211,7 +236,10 @@ Collect a recipe book together with all our favourite recipes (ideally, 2 each)
 
 The trouble with the later stages of this is the (relative) complexity of the (ideal) data model for real recipes, but we can keep it simple.
 
-### Find a funny joke, come back and tell it
+### Activity: Find and present funny jokes
+
+Another of the pattern: find, process, present, collect
+
 * Breakout rooms, say 4 ppl each.
 * Individually find one joke each, and share them with each other in the 4
 * Decide the best 1-2 jokes
@@ -220,14 +248,21 @@ The trouble with the later stages of this is the (relative) complexity of the (i
     * perhaps the students put them into a webpage (codepen/glitch) or hosted on ghpages/netlify (~ CYF-best-jokes.com). another github repo...
 
 
-### Walk around - tour by phone (breakout suitable)
+### Entertainment: Phone tour
+
 * Join the call on your phones and give a tour of your house
 * can be assigned in advance to those students who want to try it
 * never mandatory: students might not want to show their conditions, or perhaps even their location
+* might work nicely in break outs of 6-7 per room, to shorten the activity
 
-### 5-minute Photo competition
+### Activity: 5-minute Photo competition
+
+(tag: quickWin... untested)
+
 Everyone has 5-10 minutes to take and share a photo of something (according to a prompt)
+
 some prompts: 
+
 view from your window | favourite book | a toy/game |  sunset | something the colour [orange]
 
 More detail:
@@ -241,16 +276,9 @@ variants:
   * draw pixel art (e.g. with [piskel](https://www.piskelapp.com/)
     * use a collab drawing tool
 
-### Drawing together (breakout-suitable)
+Might need more time. Lunchtime activity?
 
-Everyone collaborates to draw a picture, based on a prompt
-
-Use Zoom's share:whiteboard, and annotations.
-Or an online collab website
-
-* Beware not everyone has access to annotations. not inclusive.
-
-### Keep talking and nobody explodes
+### Game: Activity: Keep talking and nobody explodes
 Stressful, but excellent teamwork exercise likely to generate a situation for study very quickly.
 
 For some people, this shouldn't be in the "fun" category
@@ -259,14 +287,17 @@ Website: [keep talking and nobody explodes](https://keeptalkinggame.com/) -
 
 Extra thoughts: With students' permission, videoing these exercises in small groups, and watching them back (after cool-down), while perhaps painful, can quickly show comms breakdown or good practices.  Be careful to burn the videos after watching, agent!
 
-### Google Quick-Draw (Fun, one at a time, smaller groups, tests-screen-sharing)
+### Entertainment: Google Quick-Draw (Fun, one at a time, smaller groups, tests-screen-sharing)
+
+(tag: QuickWin)
+
 One person at a time plays [Google QuickDraw](https://quickdraw.withgoogle.com/) while the others watch (passively) or perhaps give advice.
 
 * One game takes 2 minutes, it's fun to watch.
 * Can work in big group when people are relaxing - (e.g. on lunch)
 
 
-### Sixes
+### Game: Sixes
 
 [Sixes on BGG](https://boardgamegeek.com/boardgame/177877/sixes)
 
@@ -340,17 +371,27 @@ Variant: play some variant rounds where players are looking for uncommon items (
 
 # Possibilities to elaborate
 
+### Activity: Drawing together (breakout-suitable)
 
-### jackbox games
+Everyone collaborates to draw a picture, based on a prompt
+
+Use Zoom's share:whiteboard, and annotations.
+
+Or an online collab website
+
+* Beware not everyone has access to annotations. not inclusive.
+
+
+### Game (collection): jackbox games
 (most games limited to 10)
 
-### drawful 2
+### Game: drawful 2
 limited to 10 ppl 
- 
-### Spyfall
 
-### Fake artist goes to new york
+
+### Game: Fake artist goes to new york
 Max 8
+
 Can work with annotation (but that may exclude)
 
 Needs detailing
@@ -359,21 +400,39 @@ https://boardgamegeek.com/boardgame/135779/fake-artist-goes-new-york
 https://nbogie.github.io/impostor/
 
 
-* talent shows - a music performance.  If someone can play an instrument or can sing, perhaps they'd give us a performance.
+### Activity: talent shows
+### Activity: music performance
+
+If someone can play an instrument or can sing, perhaps they'd give us a performance.
 
 
 # To try / needs adaptation
-* zip zap boing - using gallery view?  "zip zap... Zoom (TM)"?  (sorry)
 
-* [Snake Oil](https://www.boardgamegeek.com/boardgame/113289/snake-oil) / [The Big Idea](https://boardgamegeek.com/boardgame/696/big-idea) (neill has [a tool to generate client and cards](https://nbogie.github.io/salesman/) for this game.
-* Wits & Wagers - needs adaptation & simple app for placing bets.  Small-group quick voice comms is the hard part - Breakout room to discuss could work but it's a bit clunky for the tempo, and we really want to keep everyone together rather than suddenly dampen the vibe.  Could accomodate big groups.  Game show feel.
+### Game: [Snake Oil](https://www.boardgamegeek.com/boardgame/113289/snake-oil) / [The Big Idea](https://boardgamegeek.com/boardgame/696/big-idea) (neill has [a tool to generate client and cards](https://nbogie.github.io/salesman/) for this game.
+### Game: Wits & Wagers
+- needs adaptation & simple app for placing bets.  Small-group quick voice comms is the hard part - Breakout room to discuss could work but it's a bit clunky for the tempo, and we really want to keep everyone together rather than suddenly dampen the vibe.  Could accomodate big groups.  Game show feel.
 
-* [mastermind](https://boardgamegeek.com/boardgame/2392/mastermind): logical thinking.  probably smaller group 6-8?, teams.  Slow, cerebral, potentially exclusive.  Good practice in relatively similar-ability teams explaining to each other the rules, and the logic, etc. (e.g. add a rule: your entire team must be able agree before you take a move. (Or better, a randomly picked player from your team must explain the logic of your move)).
+### Game: "CYF jeopardy"
+just jeopardy with tech questions: "a programming language that can run in the web browser": "What is JavaScript?"
 
-* "CYF jeopardy": just jeopardy with tech questions: "a programming language that can run in the web browser": "What is JavaScript?"
 
-* [codenames](https://boardgamegeek.com/boardgame/178900/codenames) / [codenames pictures](https://boardgamegeek.com/boardgame/198773/codenames-pictures): needs a fixed webcam on the pictures, or web version.  Better to know your team-mates. Shared cultural references also help.  Worth experimenting, as it's a hugely popular modern game.  Slower, more cerebral. Would work as a remote games-night social, perhaps.
+### Game: [mastermind](https://boardgamegeek.com/boardgame/2392/mastermind)
 
+logical thinking.  probably smaller group 6-8?, teams.  Slow, cerebral, potentially exclusive.  Good practice in relatively similar-ability teams explaining to each other the rules, and the logic, etc. (e.g. add a rule: your entire team must be able agree before you take a move. (Or better, a randomly picked player from your team must explain the logic of your move)).
+
+### Game: Spyfall
+
+
+### Game: [codenames](https://boardgamegeek.com/boardgame/178900/codenames) / [codenames pictures](https://boardgamegeek.com/boardgame/198773/codenames-pictures)
+
+needs a fixed webcam on the pictures, or web version.  Better to know your team-mates. Shared cultural references also help.  Worth experimenting, as it's a hugely popular modern game.  Slower, more cerebral. Would work as a remote games-night social, perhaps.
+
+
+### [Duplik (BGG)](https://www.boardgamegeek.com/boardgame/22348/duplik) 
+
+(tag: LanguagePractice)
+
+Drawing game where you must listen and articulate carefully.  Easy to homebrew.  The original artwork seems to be clipart-y anyway.  The only part that might be tricky is the reveal and peer review of each other's drawings - You'd all have to take photos of paper drawings, or draw online (much harder).  Worth pursuing.  Online impl exists / build?
 
 ### coyote / pow-wow / who am i?
 [Pow-wow BGG](https://boardgamegeek.com/boardgame/31545/pow-wow)
@@ -386,10 +445,19 @@ Failing that, make/find a custom app for remote play.
 
 breakout rooms, mixed.
 
-* spit it out
-* balderdash (difficult)
-* concept: needs online impl
-### Einstein five-house puzzle, or similar
+### spit it out
+### Madlibs
+### balderdash (difficult)
+### concept: needs online impl
+
+### zip zap boing
+
+using gallery view?  "zip zap... Zoom (TM)"?  (sorry).
+
+Would need some reworking, and all open mics. Interesting to try. Laggy?  
+
+
+### Activity: Einstein five-house puzzle (or similar)
 
 Here as a placeholder for logic puzzles.  Find some easier ones to start with.
 
@@ -427,6 +495,7 @@ These five home-owners each drink a different kind of beverage, smoke different 
 
 
 # Meta: types of game
+
 * Drawing with a mouse is hard (pictionary, fake artist, drawful)
 * Language games are great as the students want and need to practice language and articulation.
 * Watching someone play any game (video game)
