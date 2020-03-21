@@ -43,6 +43,7 @@ Most importantly, listen to your teachers for the ways *they* want you to commun
 1. Set up breakout room assignments
 1. If teacher wants, run open breakout rooms for soundchecks
 1. minor: Enable "multiple participants can share screens"
+1. Watch participants view: A red "No" from students = problem.
 1. TODO: more...
 
 
@@ -52,7 +53,8 @@ Most importantly, listen to your teachers for the ways *they* want you to commun
 1. Join & monitor the correct **two slack channels** (teacher-specific, and for all)
 1. Ask for co-host permissions from host (if they forget)
 1. Help students with zoom issues (but not homework questions!)
-
+1. Watch participants view: A red "No" from students = problem.
+1. If the teacher is busy, welcome the students as they join! [Got jokes?](https://dadjokegenerator.com/)
 
 ## Start-of-class checklist - For Teacher
 1. As above.  Also...
@@ -60,9 +62,9 @@ Most importantly, listen to your teachers for the ways *they* want you to commun
 1. Have your host on speeddial!
 1. Gallery view
 1. Tell students the way you want them to report tech problems (see "Getting attention")
-1. Big class?  Run breakout rooms to soundcheck (e.g. 4 per room)
+1. Welcome your students as they join
+1. Big class?  Ask host to breakout rooms for faster "soundcheck" (e.g. 4 per room)
 1. TODO: ... so many more things...
-
 
 [Online-teaching: Home](online-teaching.md)
 | [Start-of-class checklists](online-start-of-class-checklists.md)
