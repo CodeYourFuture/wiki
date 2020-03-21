@@ -3,6 +3,10 @@ id: online-teaching
 title: Online Teaching
 ---
 
+[Online-teaching: Home](online-teaching.md)
+| [Start-of-class checklists](online-start-of-class-checklists.md)
+| [Zoom training call overview](zoom-training-call-overview)
+
 ## Zoom Setup
 
 We recommend using [Zoom](https://zoom.us) for online classes because
@@ -121,5 +125,9 @@ Some rough ideas for what might be helpful to do in-person or pre-class. None of
 ## Training calls
 
 We use zoom training calls to up-skill our volunteers and students. You can find details here:
-
 [Zoom training call overview](zoom-training-call-overview)
+
+
+[Online-teaching: Home](online-teaching.md)
+| [Start-of-class checklists](online-start-of-class-checklists.md)
+| [Zoom training call overview](zoom-training-call-overview)
