@@ -1,6 +1,8 @@
 [Online-teaching: Home](online-teaching.md)
 
-Ice-breakers, Energizers, Fun, Silliness
+# Fun activities for the remote classroom
+
+Ice-breakers, Energizers, puzzles, entertainments, Fun, Silliness
 
 # Work needed on this page:
 I'll move the activities into sections (or otherwise tag them) so that it's clear which activities have been tested and are recommended.
@@ -8,7 +10,6 @@ I'll move the activities into sections (or otherwise tag them) so that it's clea
 Other data are: group size (min, ideal, max), new-class suitability, run time, EnlishLanguagePractice, GoodEnglishLanguageRequirement, 
 
 
-# Fun activities for the remote classroom
 
 ## Game and activity ideas which are ready now - tested, trusted
 
@@ -89,8 +90,6 @@ This activity is of a pattern: **Find, process, present, collect**
 
 This can be done in breakout rooms, for big classes.
 
-### Madlibs
-
 ### Articulate (tag: LanguagePractice)
 [BGG](https://www.boardgamegeek.com/boardgame/6541/articulate)
 
@@ -101,15 +100,6 @@ PD are building lists of technical concepts to use in this game
 Most times you just want to play articulate
 
 ### Charades (tag: LanguagePractice)
-
-### Telestrations / Eat poop you cat
-
-My favourite game IRL.  Looks like there's a free implementation here https://drawception.com/register/ but I haven't tried it.
-
-### Psychiatrist / Off Your Rocker
-[BGG](https://boardgamegeek.com/boardgame/120814/your-rocker)
-
-* needs a class who are ready for silliness and trust each other
 
 ### Twenty-questions / animal/mineral/vegetable
 
@@ -170,7 +160,6 @@ Barney remembers what candy must be and wins:
 
 * Barney, Daniel, Candy, Ahmad
 
-
 ### Find the cutest animal on google images (equipment-test, Screen-sharing, training search & image-saving)
 
 This activity is of a pattern: **Find, process, present, collect**
@@ -194,8 +183,30 @@ Variants:
 * find a picture of a work of art you love
 * find a poem you love
 * ...
-### Recipe book:
 
+
+### Madlibs
+
+
+### Telestrations / Eat poop you cat
+
+My favourite game IRL.  Looks like there's a free implementation here https://drawception.com/register/ but I haven't tried it.
+
+### Psychiatrist / Off Your Rocker
+[BGG](https://boardgamegeek.com/boardgame/120814/your-rocker)
+
+* needs a class who are ready for silliness and trust each other
+
+### Make a recipe book:
+
+Collect a recipe book together with all our favourite recipes (ideally, 2 each)
+
+* Into plain text in github
+* later into json, **validated!**
+* later rendered in react app (react module)
+* later into an [API in node module](https://cyf-recipes-reading-exercise.glitch.me/recipes/1)
+
+The trouble with the later stages of this is the (relative) complexity of the (ideal) data model for real recipes, but we can keep it simple.
 
 ### Find a funny joke, come back and tell it
 * Breakout rooms, say 4 ppl each.
@@ -252,9 +263,9 @@ One person at a time plays [Google QuickDraw](https://quickdraw.withgoogle.com/)
 * Can work in big group when people are relaxing - (e.g. on lunch)
 
 
-# Possibilities to elaborate
-
 ### Sixes
+
+[Sixes on BGG](https://boardgamegeek.com/boardgame/177877/sixes)
 
 A mellow pen and paper game which can encourage light discussion.  
 
@@ -276,7 +287,6 @@ Doesn't have to be six things.  but agree before.
 * Manolito has written: 1) london eye 2) tower of london 3) big ben 4) trafalgar sq
 
 (continued below)
-
 ##### Scoring:
 
 Everyone keeps their own score.  You get more points when more players have written the same things as you:
@@ -325,11 +335,8 @@ See also: [Hive Mind (BGG)](https://boardgamegeek.com/boardgame/201308/hive-mind
 Variant: play some variant rounds where players are looking for uncommon items (see tv game "Pointless") which no-one else has chosen.  So that nonsense isn't offered, at least one other player has to agree that the proferred answer IS in fact of the given category.
 
 
+# Possibilities to elaborate
 
-
-
-
-[Sixes on BGG](https://boardgamegeek.com/boardgame/177877/sixes)
 
 ### jackbox games
 (most games limited to 10)
@@ -348,6 +355,25 @@ https://boardgamegeek.com/boardgame/135779/fake-artist-goes-new-york
 
 https://nbogie.github.io/impostor/
 
+
+* talent shows - a music performance.  If someone can play an instrument or can sing, perhaps they'd give us a performance.
+
+
+# To try / needs adaptation
+* zip zap boing - using gallery view?  "zip zap... Zoom (TM)"?  (sorry)
+
+* [Snake Oil](https://www.boardgamegeek.com/boardgame/113289/snake-oil) / [The Big Idea](https://boardgamegeek.com/boardgame/696/big-idea) (neill has [a tool to generate client and cards](https://nbogie.github.io/salesman/) for this game.
+* Wits & Wagers - needs adaptation & simple app for placing bets.  Small-group quick voice comms is the hard part - Breakout room to discuss could work but it's a bit clunky for the tempo, and we really want to keep everyone together rather than suddenly dampen the vibe.  Could accomodate big groups.  Game show feel.
+
+* [mastermind](https://boardgamegeek.com/boardgame/2392/mastermind): logical thinking.  probably smaller group 6-8?, teams.  Slow, cerebral, potentially exclusive.  Good practice in relatively similar-ability teams explaining to each other the rules, and the logic, etc. (e.g. add a rule: your entire team must be able agree before you take a move. (Or better, a randomly picked player from your team must explain the logic of your move)).
+
+* "CYF jeopardy": just jeopardy with tech questions: "a programming language that can run in the web browser": "What is JavaScript?"
+
+* [codenames](https://boardgamegeek.com/boardgame/178900/codenames) / [codenames pictures](https://boardgamegeek.com/boardgame/198773/codenames-pictures): needs a fixed webcam on the pictures, or web version.  Better to know your team-mates. Shared cultural references also help.  Worth experimenting, as it's a hugely popular modern game.  Slower, more cerebral. Would work as a remote games-night social, perhaps.
+
+* spit it out
+* balderdash (difficult)
+* concept: needs online impl
 ### Einstein five-house puzzle, or similar
 
 Here as a placeholder for logic puzzles.  Find some easier ones to start with.
@@ -383,17 +409,7 @@ These five home-owners each drink a different kind of beverage, smoke different 
 15. The Blends smoker lives next to the one who drinks water.
 "
 
-# To try / needs adaptation
-* zip zap boing - using gallery view?  "zip zap... Zoom (TM)"?  (sorry)
 
-* [Snake Oil](https://www.boardgamegeek.com/boardgame/113289/snake-oil) / [The Big Idea](https://boardgamegeek.com/boardgame/696/big-idea) (neill has [a tool to generate client and cards](https://nbogie.github.io/salesman/) for this game.
-* Wits & Wagers - needs adaptation & simple app for placing bets.  Small-group quick voice comms is the hard part - Breakout room to discuss could work but it's a bit clunky for the tempo, and we really want to keep everyone together rather than suddenly dampen the vibe.  Could accomodate big groups.  Game show feel.
-
-* [mastermind](https://boardgamegeek.com/boardgame/2392/mastermind): logical thinking.  probably smaller group 6-8?, teams.  Slow, cerebral.  Good practice in teams explaining to each other the rules, and the logic, etc. (e.g. add a rule: your entire team must be able agree before you take a move. (Or better, a randomly picked player from your team must explain the logic of your move)).
-
-* "CYF jeopardy": just jeopardy with tech questions: "a programming language that can run in the web browser": "What is JavaScript?"
-
-* [codenames](https://boardgamegeek.com/boardgame/178900/codenames) / [codenames pictures](https://boardgamegeek.com/boardgame/198773/codenames-pictures): needs a fixed webcam on the pictures, or web version.  Better to know your team-mates. Shared cultural references also help.  Worth experimenting, as it's a hugely popular modern game.  Slower, more cerebral. Would work as a remote games-night social, perhaps.
 
 # Meta: types of game
 * Drawing with a mouse is hard (pictionary, fake artist, drawful)
