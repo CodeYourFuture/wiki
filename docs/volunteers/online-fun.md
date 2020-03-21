@@ -10,7 +10,6 @@ I'll move the activities into sections (or otherwise tag them) so that it's clea
 Other data are: group size (min, ideal, max), new-class suitability, run time, EnlishLanguagePractice, GoodEnglishLanguageRequirement, 
 
 
-
 ## Game and activity ideas which are ready now - tested, trusted
 
 Generally, gallery-view is best for these, or if also screensharing, gallery-view with `view-options`: `side-by-side`
@@ -188,9 +187,13 @@ Variants:
 ### Madlibs
 
 
+
 ### Telestrations / Eat poop you cat
 
-My favourite game IRL.  Looks like there's a free implementation here https://drawception.com/register/ but I haven't tried it.
+My favourite game IRL.  Two free untested online impls: 
+* https://drawception.com/register/
+* https://drawphone.tannerkrewson.com/
+
 
 ### Psychiatrist / Off Your Rocker
 [BGG](https://boardgamegeek.com/boardgame/120814/your-rocker)
@@ -370,6 +373,18 @@ https://nbogie.github.io/impostor/
 * "CYF jeopardy": just jeopardy with tech questions: "a programming language that can run in the web browser": "What is JavaScript?"
 
 * [codenames](https://boardgamegeek.com/boardgame/178900/codenames) / [codenames pictures](https://boardgamegeek.com/boardgame/198773/codenames-pictures): needs a fixed webcam on the pictures, or web version.  Better to know your team-mates. Shared cultural references also help.  Worth experimenting, as it's a hugely popular modern game.  Slower, more cerebral. Would work as a remote games-night social, perhaps.
+
+
+### coyote / pow-wow / who am i?
+[Pow-wow BGG](https://boardgamegeek.com/boardgame/31545/pow-wow)
+
+Classic parlour game, everyone gets assigned a name or item, normally written on a card stuck to their forehead.  
+
+We could perhaps do this in Zoom by having all participants except GM & assistants (host + cohosts) CLOSE the participants view.  host and assistants rename everyone quickly to be the item, and no one looks at their own name.  Enable in client  settings: always show name above video, and enable gallery view. 
+
+Failing that, make/find a custom app for remote play.
+
+breakout rooms, mixed.
 
 * spit it out
 * balderdash (difficult)
