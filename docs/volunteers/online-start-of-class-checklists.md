@@ -11,9 +11,10 @@ title: Start-of-class checklists (for online classes)
 ## Start-of-class checklist - For Everybody
 1. Have a notebook beside you
 1. **close unwanted programs** and browser tabs
-1. Open slack and the correct **slack channel**
-1. Problems?  Say on slack (If possible, on Zoom in "participants" click "No")
-1. **start zoom** (the desktop client, not phone or web, if possible).  [Download is here](https://zoom.us/download)
+1. Open slack and the correct **Slack channel**
+1. If you have problems, Say on **Slack** (If possible, on Zoom in "participants" click "No", too)
+1. Open the syllabus
+1. **start Zoom** (the desktop client, not phone or web, if possible).  [Download is here](https://zoom.us/download)
 1. **Join** the zoom call
 1. Set your **name** clearly (not "phone" or "coder")
 1. Put your **webcam on**
@@ -57,8 +58,6 @@ Most importantly, listen to your teachers for the ways *they* want you to commun
 1. Watch participants view: A red "No" from students = problem.
 1. If the teacher is busy, welcome the students as they join! [Got jokes?](https://dadjokegenerator.com/)
 
-
-
 ## Start-of-class checklist - For Teacher
 1. As above.  Also...
 1. Check your team are all attentive on slack
@@ -80,8 +79,12 @@ Most importantly, listen to your teachers for the ways *they* want you to commun
 
 ## Misc resources:
 
+* [Syllabus](https://syllabus.codeyourfuture.io/)
 * Class schedules [London](https://drive.google.com/drive/u/1/folders/1e5ZqOQDeuHQRw7ytCKzmbtc4n4VOWutf)|[Glasgow]()|[Manchester]()|[Birmingham]()
+* [master syllabus](https://syllabus.codeyourfuture.io/)
+* [repl.it](https://repl.it/) - "multiplayer" IDE
 * [Dad jokes](https://dadjokegenerator.com/)
+
 
 [Online-teaching: Home](online-teaching.md)
 | [Start-of-class checklists](online-start-of-class-checklists.md)
