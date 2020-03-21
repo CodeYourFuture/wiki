@@ -17,7 +17,7 @@ Other data are: group size (min, ideal, max), new-class suitability, run time, E
 
 Generally, gallery-view is best for these, or if also screensharing, gallery-view with `view-options`: `side-by-side`
 
-### Activity: "Sound-check Story-time" 
+### Game: "Sound-check Story-time" 
 
 (word at a time / phrase at a time) (Tag: EnglishPractice, tag: QuickWin)
 
@@ -62,48 +62,6 @@ Variants:
 
 **Fortunately/Unfortunately**
 
-### Activity: Selfies (feel-good)
-
-(tag: QuickWin)
-
-Take a selfie with everyone in it (who wants to be)
-
-* Give plenty of notice for those who don't want to be in it to leave the shot or turn off their cameras
-* choose a photographer: someone who knows how to screenshot
-* Use the gallery view (On faster computers you can get up to 50 faces per screen)
-* "photographer" should turn off "always show names" in their client settings, for more privacy.
-* ask for cheesey smiles [here are some "dad jokes"](https://www.livin3.com/100-bad-dad-jokes-that-will-make-you-laugh-or-cringe)
-* photographer should give clear countdown
-* optional: collect the selfies, to make a book through the course. (simple website)
-
-Variants:
-* everyone shows an object
-  * (something blue?  A favourite book?)
-* everyone [fingerspells](http://www.british-sign.co.uk/fingerspelling-alphabet-charts/) something ("Coding", "CYF"?) - researched and practiced in groups.
-* (video-selfies record a section of the meeting for this one, make it into gif)
-
-Privacy
-* Give people a quiet, easy way out of the selfie
-* Don't take photos with participant names on them 
-
-work-needed:
-
-volunteer to identify / design a good place for all the selfies to be collected (think: multiple cohorts of selfies).  Google photos?
-
-### Activity: Present an object
-
-(tag: QuickWin)
-
-This activity is of a pattern: **Find, process, present, collect**
-
-* everyone goes and fetches an important/interesting object
-* presents on it for 10-30 seconds
-* intersperse student presentations with volunteer presentations
-* optional: 1/2 way, reflect what made a good presentation (perhaps energy, personalisation, the WHY, humour, object close-up view & lighting)
-* optional: collection of photos for everyone's object, as a memento?
-
-This can be done in breakout rooms, for big classes.
-
 ### Game: Articulate 
 
 (tag: quickWin) (tag: LanguagePractice)
@@ -142,29 +100,6 @@ This is essentially twenty-questions but one person already knows the answer but
 [The Insider on BGG](https://boardgamegeek.com/boardgame/206051/insider)
 
 
-
-### Entertainment: Snapchat faces: silly
-
-(tag: quickWin)
-
-Functions as equipment test (if the students copy and try to do same)
-
-Well-known volunteers present their face distorted by snapchat "lenses", perhaps apparently while attempting to lecture seriously.
-
-##### prep:
-
-One or more well-known volunteers:
-
-* install zoom on phone
-* install snapchat on phone
-* join the zoom call on phone (mute laptop to avoid feedback squeal, unmute on phone)
-* share screen
-* start snapchat
-* tap once on your face to scan it
-* choose lens
-
-This is a good time for natural selfies: the photographer can use `gallery view` and `side-by-side` from view options
-
 ### Game: Empires / Families / Chappie Tomato
 
 
@@ -197,36 +132,6 @@ Barney remembers what candy must be and wins:
 
 * Barney, Daniel, Candy, Ahmad
 
-### Exercise: Find the cutest animal on google images
-
-(equipment-test, Screen-sharing, training search & image-saving)
-
-This activity is of a pattern: **Find, process, present, collect**
-
-This simple warm-up / equipment test activity just gives a simple task to focus on rather than only asking the students "test your screen-share".  The choice can allow for some expression, too.
-
-* go to breakouts
-* say hi to each other
-* individually find something as requested
-  * e.g. All find a cute (or interesting) animal picture on google images
-* (optional) as a group do some processing on it (e.g. add it to a gallery / playlist)
-* help each other make sure everyone has managed to find a thing and do the optional processing
-* return to main
-* share with the class
-* (optionally) class collect the works, with attribution, to make permanent artifacts
-
-In simplest form, this doesn't need to be done in breakout groups, but with 20 students, the same few people will dominate the conversation. In breakout groups (I suggest random groups) it gives more people a chance to chat.
-
-seed differences in the starting conditions or everyone comes back with the same first hit for "cute animal"
-
-Variants: 
-* find a song you love on youtube (collect into a playlist)
-* find a picture of a work of art you love
-* find a poem you love
-* ...
-
-
-
 ### Game: Telestrations / Eat poop you cat
 
 My favourite game IRL.  Two free untested online impls: 
@@ -238,59 +143,6 @@ My favourite game IRL.  Two free untested online impls:
 [BGG](https://boardgamegeek.com/boardgame/120814/your-rocker)
 
 * needs a class who are ready for silliness and trust each other
-
-### Exercise: Make a recipe book:
-
-Collect a recipe book together with all our favourite recipes (ideally, 2 each)
-
-* Into plain text in github
-* later into json, **validated!**
-* later rendered in react app (react module)
-* later into an [API in node module](https://cyf-recipes-reading-exercise.glitch.me/recipes/1)
-
-The trouble with the later stages of this is the (relative) complexity of the (ideal) data model for real recipes, but we can keep it simple.
-
-### Activity: Find and present funny jokes
-
-Another of the pattern: find, process, present, collect
-
-* Breakout rooms, say 4 ppl each.
-* Individually find one joke each, and share them with each other in the 4
-* Decide the best 1-2 jokes
-* Back at main, one team-member tells the joke on mic, another team-member types it into a list in text chat.
-* Two students volunteer to collect the jokes and send them to the other cities on slack after.  Action one TA to check it gets done.
-    * perhaps the students put them into a webpage (codepen/glitch) or hosted on ghpages/netlify (~ CYF-best-jokes.com). another github repo...
-
-
-### Entertainment: Phone tour
-
-* Join the call on your phones and give a tour of your house
-* can be assigned in advance to those students who want to try it
-* never mandatory: students might not want to show their conditions, or perhaps even their location
-* might work nicely in break outs of 6-7 per room, to shorten the activity
-
-### Activity: 5-minute Photo competition
-
-(tag: quickWin... untested)
-
-Everyone has 5-10 minutes to take and share a photo of something (according to a prompt)
-
-some prompts: 
-
-view from your window | favourite book | a toy/game |  sunset | something the colour [orange]
-
-More detail:
-Sharing on slack would work: in a specific thread.
-
-variants: 
-* instead of photos:
-  * draw a picture 
-    * in real life, and photo it
-    * online using zoom annotations
-  * draw pixel art (e.g. with [piskel](https://www.piskelapp.com/)
-    * use a collab drawing tool
-
-Might need more time. Lunchtime activity?
 
 ### Game: Activity: Keep talking and nobody explodes
 Stressful, but excellent teamwork exercise likely to generate a situation for study very quickly.
@@ -385,16 +237,6 @@ Variant: play some variant rounds where players are looking for uncommon items (
 
 # Possibilities to elaborate
 
-### Activity: Drawing together (breakout-suitable)
-
-Everyone collaborates to draw a picture, based on a prompt
-
-Use Zoom's share:whiteboard, and annotations.
-
-Or an online collab website
-
-* Beware not everyone has access to annotations. not inclusive.
-
 
 ### Game (collection): jackbox games
 (most games limited to 10)
@@ -413,11 +255,6 @@ https://boardgamegeek.com/boardgame/135779/fake-artist-goes-new-york
 
 https://nbogie.github.io/impostor/
 
-
-### Activity: talent shows
-### Activity: music performance
-
-If someone can play an instrument or can sing, perhaps they'd give us a performance.
 
 
 ### Game: [Crambo](https://www.classicgamesandpuzzles.com/Crambo.html)
@@ -550,6 +387,172 @@ story gaming in general.  this one can use the whiteboard.  advanced.
 ### Game: Huh?
 ### Game: concept: needs online impl
 
+
+### Activity: Selfies (feel-good)
+
+(tag: QuickWin)
+
+Take a selfie with everyone in it (who wants to be)
+
+* Give plenty of notice for those who don't want to be in it to leave the shot or turn off their cameras
+* choose a photographer: someone who knows how to screenshot
+* Use the gallery view (On faster computers you can get up to 50 faces per screen)
+* "photographer" should turn off "always show names" in their client settings, for more privacy.
+* ask for cheesey smiles [here are some "dad jokes"](https://www.livin3.com/100-bad-dad-jokes-that-will-make-you-laugh-or-cringe)
+* photographer should give clear countdown
+* optional: collect the selfies, to make a book through the course. (simple website)
+
+Variants:
+* everyone shows an object
+  * (something blue?  A favourite book?)
+* everyone [fingerspells](http://www.british-sign.co.uk/fingerspelling-alphabet-charts/) something ("Coding", "CYF"?) - researched and practiced in groups.
+* (video-selfies record a section of the meeting for this one, make it into gif)
+
+Privacy
+* Give people a quiet, easy way out of the selfie
+* Don't take photos with participant names on them 
+
+work-needed:
+
+volunteer to identify / design a good place for all the selfies to be collected (think: multiple cohorts of selfies).  Google photos?
+
+### Activity: Present an object
+
+(tag: QuickWin)
+
+This activity is of a pattern: **Find, process, present, collect**
+
+* everyone goes and fetches an important/interesting object
+* presents on it for 10-30 seconds
+* intersperse student presentations with volunteer presentations
+* optional: 1/2 way, reflect what made a good presentation (perhaps energy, personalisation, the WHY, humour, object close-up view & lighting)
+* optional: collection of photos for everyone's object, as a memento?
+
+This can be done in breakout rooms, for big classes.
+
+### Exercise: Find the cutest animal on google images
+
+(equipment-test, Screen-sharing, training search & image-saving)
+
+This activity is of a pattern: **Find, process, present, collect**
+
+This simple warm-up / equipment test activity just gives a simple task to focus on rather than only asking the students "test your screen-share".  The choice can allow for some expression, too.
+
+* go to breakouts
+* say hi to each other
+* individually find something as requested
+  * e.g. All find a cute (or interesting) animal picture on google images
+* (optional) as a group do some processing on it (e.g. add it to a gallery / playlist)
+* help each other make sure everyone has managed to find a thing and do the optional processing
+* return to main
+* share with the class
+* (optionally) class collect the works, with attribution, to make permanent artifacts
+
+In simplest form, this doesn't need to be done in breakout groups, but with 20 students, the same few people will dominate the conversation. In breakout groups (I suggest random groups) it gives more people a chance to chat.
+
+seed differences in the starting conditions or everyone comes back with the same first hit for "cute animal"
+
+Variants: 
+* find a song you love on youtube (collect into a playlist)
+* find a picture of a work of art you love
+* find a poem you love
+* ...
+
+
+
+### Activity: Make a recipe book:
+
+Collect a recipe book together with all our favourite recipes (ideally, 2 each)
+
+* Into plain text in github
+* later into json, **validated!**
+* later rendered in react app (react module)
+* later into an [API in node module](https://cyf-recipes-reading-exercise.glitch.me/recipes/1)
+
+The trouble with the later stages of this is the (relative) complexity of the (ideal) data model for real recipes, but we can keep it simple.
+
+### Activity: Find and present funny jokes
+
+Another of the pattern: find, process, present, collect
+
+* Breakout rooms, say 4 ppl each.
+* Individually find one joke each, and share them with each other in the 4
+* Decide the best 1-2 jokes
+* Back at main, one team-member tells the joke on mic, another team-member types it into a list in text chat.
+* Two students volunteer to collect the jokes and send them to the other cities on slack after.  Action one TA to check it gets done.
+    * perhaps the students put them into a webpage (codepen/glitch) or hosted on ghpages/netlify (~ CYF-best-jokes.com). another github repo...
+
+
+### Activity: 5-minute Photo competition
+
+(tag: quickWin... untested)
+
+Everyone has 5-10 minutes to take and share a photo of something (according to a prompt)
+
+some prompts: 
+
+view from your window | favourite book | a toy/game |  sunset | something the colour [orange]
+
+More detail:
+Sharing on slack would work: in a specific thread.
+
+variants: 
+* instead of photos:
+  * draw a picture 
+    * in real life, and photo it
+    * online using zoom annotations
+  * draw pixel art (e.g. with [piskel](https://www.piskelapp.com/)
+    * use a collab drawing tool
+
+Might need more time. Lunchtime activity?
+
+
+
+### Activity: Drawing together (breakout-suitable)
+
+Everyone collaborates to draw a picture, based on a prompt
+
+Use Zoom's share:whiteboard, and annotations.
+
+Or an online collab website
+
+* Beware not everyone has access to annotations. not inclusive.
+
+### Activity: talent shows
+### Activity: music performance
+
+If someone can play an instrument or can sing, perhaps they'd give us a performance.
+
+### Entertainment: Snapchat faces: silly
+
+(tag: quickWin)
+
+Functions as equipment test (if the students copy and try to do same)
+
+Well-known volunteers present their face distorted by snapchat "lenses", perhaps apparently while attempting to lecture seriously.
+
+##### prep:
+
+One or more well-known volunteers:
+
+* install zoom on phone
+* install snapchat on phone
+* join the zoom call on phone (mute laptop to avoid feedback squeal, unmute on phone)
+* share screen
+* start snapchat
+* tap once on your face to scan it
+* choose lens
+
+This is a good time for natural selfies: the photographer can use `gallery view` and `side-by-side` from view options
+
+### Entertainment: Phone tour
+
+* Join the call on your phones and give a tour of your house / park
+* can be assigned in advance to those students who want to try it
+* never mandatory: students might not want to show their conditions, or perhaps even their location
+* might work nicely in break outs of 6-7 per room, to shorten the activity
+
+
 # Meta: types of game
 
 * Drawing games: Drawing with a mouse is hard (pictionary, fake artist, drawful)
@@ -566,6 +569,8 @@ story gaming in general.  this one can use the whiteboard.  advanced.
 * Look at actual tv gameshows (jeopardy, pointless, etc)
 * [Online-teaching: Home](online-teaching.md)
 * TODO: bookmarks...
+
+
 
 # Equipment and software:
 ### basic assumed equipment
