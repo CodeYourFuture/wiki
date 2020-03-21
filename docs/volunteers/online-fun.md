@@ -6,7 +6,7 @@ Ice-breakers, Energizers, Fun, Silliness
 
 Generally, gallery-view is best for these, or if also screensharing, gallery-view with `view-options`: `side-by-side`
 
-### "Story-time sound-check" (word at a time / phrase at a time) (Tag: EnglishPractice)
+### "Sound-check Story-time" (word at a time / phrase at a time) (Tag: EnglishPractice)
 
 Tell a silly story a phrase at a time, or a word at a time.
 
@@ -28,12 +28,24 @@ Notes, ideas:
 * Can be done in breakout rooms for more turns per player, less waiting
 * students might be interested in [22 rules of storytelling according to pixar](https://io9.gizmodo.com/the-22-rules-of-storytelling-according-to-pixar-5916970)
 
-Variant:
-* word-at-a-time: This is great but requires the students know the running order or is too slow.  That order can come from...
-* the participants view
-* a screen-share of a text doc with everyone's name on it
-* the gallery view (but they may not all be able to see it, and get lost paginating)
-* prep: prepare a slide with a list of the students names, to be followed during the word-at-a-time variant
+Extras: Choose a setting: 
+  * I'd love if we happen to meet a shark
+  * Or three elements: "Nima, Martyna, Laurie - what would you like to be mentioned in this story? a place?  a thing? a desire?... " (wait as all three think of a topic each) announced simultaneously... "pirates" "paris" "accountants"
+    * you can assign them individually to these categories so that we get one of each (e.g. adjective noun verb, or thing, place, desire)
+
+Extra: use [rory's story cubes](https://www.storycubes.com/en/) or similar, as lubricant.  You can use the app and screenshare it from phone to the zoom call. 
+
+Variants:
+**Word-at-a-time**: This is great but requires the students know the running order or is too slow.  
+  * That order can come from...
+    * the participants view
+    * a screen-share of a text doc with everyone's name on it
+    * the gallery view (but they may not all be able to see it, and get lost paginating)
+  * prep: prepare a slide with a list of the students names, to be followed during the word-at-a-time variant
+  * Kick-start the game with: "once"
+
+ 
+
 
 ### Selfies
 
