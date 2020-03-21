@@ -115,5 +115,9 @@ Or an online collab website
 * jackbox.tv e.g. drawful 2 (most games limited to 10)
 * 
 
+# Potential sources for games
+
+* [Improv Encyclopedia](http://improvencyclopedia.org/games/)
+* [HyperIsland Toolbox: Energizers](https://toolbox.hyperisland.com/)
 
 [Online-teaching: Home](online-teaching.md)
