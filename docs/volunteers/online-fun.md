@@ -346,6 +346,8 @@ https://nbogie.github.io/impostor/
 # To try / needs adaptation
 * zip zap boing - using gallery view?  "zip zap... Zoom (TM)"?  (sorry)
 
+* [Snake Oil](https://www.boardgamegeek.com/boardgame/113289/snake-oil) / [The Big Idea](https://boardgamegeek.com/boardgame/696/big-idea) (neill has [a tool to generate client and cards](https://nbogie.github.io/salesman/) for this game.
+
 
 # Meta: types of game
 * Drawing with a mouse is hard (pictionary, fake artist, drawful)
@@ -355,6 +357,7 @@ https://nbogie.github.io/impostor/
 # Potential sources for games
 
 * [Improv Encyclopedia](http://improvencyclopedia.org/games/)
+* [Youth Group Games (one example site)](https://youthgroupgames.com.au/)
 * [HyperIsland Toolbox: Energizers](https://toolbox.hyperisland.com/)
 
 [Online-teaching: Home](online-teaching.md)
