@@ -4,7 +4,7 @@ Ice-breakers, Energizers, Fun, Silliness
 
 # Fun activities for the remote classroom
 
-## Game ideas which are ready now - tested, trusted
+## Game and activity ideas which are ready now - tested, trusted
 
 Generally, gallery-view is best for these, or if also screensharing, gallery-view with `view-options`: `side-by-side`
 
@@ -48,7 +48,7 @@ Variants:
   * prep: prepare a slide with a list of the students names, to be followed during the word-at-a-time variant
   * Kick-start the game with: "once"
 
-### Selfies
+### Selfies (feel-good)
 
 Take a selfie with everyone in it (who wants to be)
 
@@ -58,15 +58,28 @@ Take a selfie with everyone in it (who wants to be)
 * "photographer" should turn off "always show names" in their client settings, for more privacy.
 * ask for cheesey smiles [here are some "dad jokes"](https://www.livin3.com/100-bad-dad-jokes-that-will-make-you-laugh-or-cringe)
 * photographer should give clear countdown
+* optional: collect the selfies, to make a book through the course. (simple website)
 
 Variants:
 * everyone shows an object, or [fingerspells](http://www.british-sign.co.uk/fingerspelling-alphabet-charts/) something ("Coding", "CYF"?)
 
+Privacy
+* Give people a quiet, easy way out of the selfie
+* Don't take photos with participant names on them 
+
+work-needed:
+volunteer to identify / design a good place for all the selfies
+
+
 ### Present an object
+
+This activity is of a pattern: **Find, process, present, collect**
+
 * everyone goes and fetches an important/interesting object
 * presents on it for 10-30 seconds
 * intersperse student presentations with volunteer presentations
 * optional: 1/2 way, reflect what made a good presentation (perhaps energy, personalisation, the WHY, humour, object close-up view & lighting)
+* optional: collection of photos for everyone's object, as a memento?
 
 This can be done in breakout rooms, for big classes.
 
@@ -121,7 +134,7 @@ One or more well-known volunteers:
 
 This is a good time for natural selfies: the photographer can use `gallery view` and `side-by-side` from view options
 
-### Empires / Families / Chappie Tomato
+### Game: Empires / Families / Chappie Tomato
 https://youthgroupgames.com.au/games/698/empires/
 
 To allow for the grouping that happens (normally physically), an assistant to edit a shared google doc with everyone's name on it to show the empire statuses:
@@ -152,14 +165,31 @@ Barney remembers what candy must be and wins:
 * Barney, Daniel, Candy, Ahmad
 
 
+### Find the cutest animal on google images (equipment-test, Screen-sharing, training search & image-saving)
 
+This activity is of a pattern: **Find, process, present, collect**
 
+This simple warm-up / equipment test activity just gives a simple task to focus on rather than only asking the students "test your screen-share".  The choice can allow for some expression, too.
 
-### Silly: Find the cutest animal on google images (Screen-sharing, trains search & image-saving)
-
-* All find a cute (or interesting) animal picture on google images
+* go to breakouts
+* say hi to each other
+* individually find something as requested
+  * e.g. All find a cute (or interesting) animal picture on google images
+* (optional) as a group do some processing on it (e.g. add it to a gallery / playlist)
+* help each other make sure everyone has managed to find a thing and do the optional processing
 * return to main
-* share them
+* share with the class
+* (optionally) class collect the works, with attribution, to make permanent artifacts
+
+In simplest form, this doesn't need to be done in breakout groups, but with 20 students, the same few people will dominate the conversation. In breakout groups (I suggest random groups) it gives more people a chance to chat.
+
+Variants: 
+* find a song you love on youtube (collect into a playlist)
+* find a picture of a work of art you love
+* find a poem you love
+* ...
+### Recipe book:
+
 
 ### Find a funny joke, come back and tell it
 * Breakout rooms, say 4 ppl each.
@@ -320,6 +350,7 @@ https://nbogie.github.io/impostor/
 # Meta: types of game
 * Drawing with a mouse is hard (pictionary, fake artist, drawful)
 * Language games are great as the students want and need to practice language and articulation.
+* Watching someone play any game (video game)
 
 # Potential sources for games
 
