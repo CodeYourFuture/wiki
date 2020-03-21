@@ -4,6 +4,8 @@ Ice-breakers, Energizers, Fun, Silliness
 
 # Fun activities for the remote classroom
 
+## Game ideas which are ready now - tested, trusted
+
 Generally, gallery-view is best for these, or if also screensharing, gallery-view with `view-options`: `side-by-side`
 
 ### "Sound-check Story-time" (word at a time / phrase at a time) (Tag: EnglishPractice)
@@ -22,18 +24,20 @@ Example of play:
 * and so on
 
 Notes, ideas:
-* It is VERY ok to pass
+* It is VERY ok to pass, offer the possibility if someone is choking
 * This is not recommended for a new class or any other students who might feel awkward - that's counter-productive.
-* Larger classes can do this in breakout rooms
-* Can be done in breakout rooms for more turns per player, less waiting
-* students might be interested in [22 rules of storytelling according to pixar](https://io9.gizmodo.com/the-22-rules-of-storytelling-according-to-pixar-5916970)
+* Can also be done in breakout rooms for more turns per player, less waiting, particularly for larger classes
+* Students might be interested in [22 rules of storytelling according to pixar](https://io9.gizmodo.com/the-22-rules-of-storytelling-according-to-pixar-5916970)
+* Ask one or two volunteers or extrovert students first, to get the game rolling.
+* MC must maintain an energy
+* MC can repeat/recap the story at points if it's suspected forgotten
+
+Extra: use [rory's story cubes](https://www.storycubes.com/en/) or similar online story prompts, as lubricant.  You can use the storycubes app and screenshare it from phone to the zoom call. 
 
 Extras: Choose a setting: 
   * I'd love if we happen to meet a shark
   * Or three elements: "Nima, Martyna, Laurie - what would you like to be mentioned in this story? a place?  a thing? a desire?... " (wait as all three think of a topic each) announced simultaneously... "pirates" "paris" "accountants"
     * you can assign them individually to these categories so that we get one of each (e.g. adjective noun verb, or thing, place, desire)
-
-Extra: use [rory's story cubes](https://www.storycubes.com/en/) or similar, as lubricant.  You can use the app and screenshare it from phone to the zoom call. 
 
 Variants:
 **Word-at-a-time**: This is great but requires the students know the running order or is too slow.  
@@ -91,6 +95,16 @@ My favourite game IRL.  Looks like there's a free implementation here https://dr
 
 * needs a class who are ready for silliness and trust each other
 
+### Twenty-questions / animal/mineral/vegetable
+
+Variants: see: "The Insider"
+
+### The Insider
+
+This is essentially twenty-questions but one person already knows the answer but wants to stay undercover.
+
+[The Insider on BGG](https://boardgamegeek.com/boardgame/206051/insider)
+
 ### Pictionary
 * Use the share: whiteboard feature
 * Have "players" use annotation to draw on the whiteboard ("`view options`: `annotate`, next to "viewing jo smith's screen"
@@ -110,8 +124,10 @@ One or more well-known volunteers:
 
 This is a good time for natural selfies: the photographer can use `gallery view` and `side-by-side` from view options
 
-### Walk around - tour by phone
+### Walk around - tour by phone (breakout suitable)
 * Join the call on your phones and give a tour of your house
+* can be assigned in advance to those students who want to try it
+* never mandatory: students might not want to show their conditions, or perhaps even their location
 
 ### 5-minute Photo competition
 Everyone has 5-10 minutes to take and share a photo of something (according to a prompt)
@@ -129,7 +145,7 @@ variants:
   * draw pixel art (e.g. with [piskel](https://www.piskelapp.com/)
     * use a collab drawing tool
 
-### Drawing together
+### Drawing together (breakout-suitable)
 
 Everyone collaborates to draw a picture, based on a prompt
 
@@ -147,10 +163,117 @@ Website: [keep talking and nobody explodes](https://keeptalkinggame.com/) -
 
 Extra thoughts: With students' permission, videoing these exercises in small groups, and watching them back (after cool-down), while perhaps painful, can quickly show comms breakdown or good practices.  Be careful to burn the videos after watching, agent!
 
-# To elaborate
+### Google Quick-Draw (Fun, one at a time, smaller groups, tests-screen-sharing)
+One person at a time plays [Google QuickDraw](https://quickdraw.withgoogle.com/) while the others watch (passively) or perhaps give advice.
 
-* jackbox.tv e.g. drawful 2 (most games limited to 10)
-* 
+* One game takes 2 minutes, it's fun to watch.
+* Can work in big group when people are relaxing - (e.g. on lunch)
+
+
+# Possibilities to elaborate
+
+### Sixes
+
+A mellow pen and paper game which can encourage light discussion.  
+
+Best with 6 players (4-8 is fine.)
+
+This adaptation will benefit from everyone being visible on webcam for quick scoring.
+
+Everyone simultaneously and secretly has (say) 2 minutes to write down (on real paper) 6 things of an announced category, attempting to choose the things other players will also have written down.
+
+(*) They can write them on a piece of paper or in a local vscode doc.
+Doesn't have to be six things.  but agree before.
+
+##### Example of play:
+* GM: "Ok, write down 4 famous London tourist attractions that you think other people will also write.  No talking, and NO asking clarifying questions!  4 famous things that tourists go to see when they come to London....  You have two minutes!"
+... two minutes pass...
+
+* Cesar has written 1) london eye, 2) big ben, 3) houses of parliament 4) st paul's cathedral
+* Adalberto has written: 1) tower of london, 2) london eye 3) tussauds 4) buckingham palace
+* Manolito has written: 1) london eye 2) tower of london 3) big ben 4) trafalgar sq
+
+(continued below)
+
+##### Scoring:
+
+Everyone keeps their own score.  You get more points when more players have written the same things as you:
+
+```
+for each player:
+  for each item that player had listed:
+    announce item
+    let c = count how many people had written item (count by raising hands on cams or in participants view?)
+    if c > 1
+      each player who had it written awards themselves c points    
+```
+##### Example of play, continued:
+
+* Cesar: "London Eye... anyone?"
+* On video for gallery view, all 3 raise their hands (or on participants view)
+* Cesar: "great, give yourself 3 points, everyone!"
+* Cesar: "next... big ben!  anyone?"
+* On video, only Cesar and Manolito raise their hands
+* Cesar: "Whaaat, BIG BEN, Adalberto!"
+* Adalberto: "It's nothing special I've seen it"
+* Cesar: "exactly.  you went and saw it"
+* Cesar: "... 2 points to me and adalberto"
+* ... (cesar finishes scoring his other words.  0 points in both cases)
+* Adalberto: "Tower of london?  Yay 3 points..."
+* Adalberto: "London Eye - we already had that one... Madame Tussauds, the waxworks place?"
+* Manolito: "No.  That place is creepy"
+* Adalberto: "Cesar?  Madame Tussauds?"
+* Cesar: "no!  you've heard my four words already!"
+* Adalberto: "0 points.  ... Buckingham Palace!  no?  0 points.  I've got 6 points! Manolito what's left?"
+* Manolito: "So I had london eye (3) , tower of london (2), big ben (2 points, thanks for nothing adalberto)..."
+* Manolito: "... and trafalgar square! We went there last week, people!"
+
+Some possible topics to get you started: 
+
+* famous food from the UK
+* wild animals
+* Names of concepts or structures from fundamentals
+* famous websites
+
+Misc: 
+This could benefit from  a simple app/spreadsheet to aid quick scoring
+
+See also: [Hive Mind (BGG)](https://boardgamegeek.com/boardgame/201308/hive-mind)
+
+Variant: play some variant rounds where players are looking for uncommon items (see tv game "Pointless") which no-one else has chosen.  So that nonsense isn't offered, at least one other player has to agree that the proferred answer IS in fact of the given category.
+
+
+
+
+
+
+[Sixes on BGG](https://boardgamegeek.com/boardgame/177877/sixes)
+
+### jackbox games
+(most games limited to 10)
+
+### drawful 2
+limited to 10 ppl 
+ 
+### Spyfall
+
+### Fake artist goes to new york
+Max 8
+Can work with annotation (but that may exclude)
+
+Needs detailing
+https://boardgamegeek.com/boardgame/135779/fake-artist-goes-new-york
+
+https://nbogie.github.io/impostor/
+
+
+# To try / needs adaptation
+* zip zap boing - using gallery view?  "zip zap... Zoom (TM)"?  (sorry)
+
+
+# Meta: types of game
+* Drawing with a mouse is hard (pictionary, fake artist, drawful)
+* Language games are great as the students want and need to practice language and articulation.
 
 # Potential sources for games
 
