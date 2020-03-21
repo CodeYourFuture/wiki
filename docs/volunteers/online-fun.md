@@ -48,9 +48,6 @@ Variants:
   * prep: prepare a slide with a list of the students names, to be followed during the word-at-a-time variant
   * Kick-start the game with: "once"
 
- 
-
-
 ### Selfies
 
 Take a selfie with everyone in it (who wants to be)
@@ -65,7 +62,7 @@ Take a selfie with everyone in it (who wants to be)
 Variants:
 * everyone shows an object, or [fingerspells](http://www.british-sign.co.uk/fingerspelling-alphabet-charts/) something ("Coding", "CYF"?)
 
-### Present an important object
+### Present an object
 * everyone goes and fetches an important/interesting object
 * presents on it for 10-30 seconds
 * intersperse student presentations with volunteer presentations
@@ -123,6 +120,55 @@ One or more well-known volunteers:
 * choose lens
 
 This is a good time for natural selfies: the photographer can use `gallery view` and `side-by-side` from view options
+
+### Empires / Families / Chappie Tomato
+https://youthgroupgames.com.au/games/698/empires/
+
+To allow for the grouping that happens (normally physically), an assistant to edit a shared google doc with everyone's name on it to show the empire statuses:
+
+* Ahmad
+* Barney
+* Candy
+* Daniel
+
+Then if Barney guesses daniel's word, he becomes king of an empire of two:
+
+* Ahmad
+* Barney, Daniel
+* Candy
+
+He gets to guess again, but guesses candy's word wrong.
+
+Candy gets a turn and guesses Ahmad correctly. 
+
+* Candy, Ahmad
+* Barney, Daniel
+
+She can't remember the last word, and Ahmad (who is allowed to help her, can't rember either)
+GM times them out after 30 seconds.
+
+Barney remembers what candy must be and wins:
+
+* Barney, Daniel, Candy, Ahmad
+
+
+
+
+
+### Silly: Find the cutest animal on google images (Screen-sharing, trains search & image-saving)
+
+* All find a cute (or interesting) animal picture on google images
+* return to main
+* share them
+
+### Find a funny joke, come back and tell it
+* Breakout rooms, say 4 ppl each.
+* Individually find one joke each, and share them with each other in the 4
+* Decide the best 1-2 jokes
+* Back at main, one team-member tells the joke on mic, another team-member types it into a list in text chat.
+* Two students volunteer to collect the jokes and send them to the other cities on slack after.  Action one TA to check it gets done.
+    * perhaps the students put them into a webpage (codepen/glitch) or hosted on ghpages/netlify (~ CYF-best-jokes.com). another github repo...
+
 
 ### Walk around - tour by phone (breakout suitable)
 * Join the call on your phones and give a tour of your house
