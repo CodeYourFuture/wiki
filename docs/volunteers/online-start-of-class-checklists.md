@@ -68,6 +68,7 @@ Most importantly, listen to your teachers for the ways *they* want you to commun
 1. Tell students the way you want them to report tech problems (see "Getting attention")
 1. Welcome your students as they join
 1. Big class?  Ask the host to run breakout rooms for faster "soundcheck" (e.g. 4 per room)
+1. Consider turning off slack notifications temporarily: In Slack, type `/dnd for 8 hours` to turn off Slack notififcations for screen sharing (Thanks, Bex!)
 1. TODO: ... so many more things...
 
 ## Start-of-class checklist - For PD
