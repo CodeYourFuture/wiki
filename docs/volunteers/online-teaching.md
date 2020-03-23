@@ -17,7 +17,7 @@ We recommend using [Zoom](https://zoom.us) for online classes because
 
 We suggest that everyone [downloads the client now](https://zoom.us/download).
 
-**Zoom account owners should follow the instructions for pre-class setup [here](online-teaching-config.md).**
+**Zoom account owners should follow the instructions for pre-class setup [here](online-teaching-settings.md).**
 
 ## Classes
 
