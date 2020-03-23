@@ -572,6 +572,7 @@ This is a good time for natural selfies: the photographer can use `gallery view`
 # Potential sources for games
 
 * [Improv Encyclopedia](http://improvencyclopedia.org/games/)
+* [Warmups: Improv Resource Center](https://wiki.improvresourcecenter.com/index.php?title=Category:Warm_Ups)
 * [Team First Development](https://www.teamfirstdevelopment.com/warm-ups/)
 * [HyperIsland Toolbox: Energizers](https://toolbox.hyperisland.com/)
 * [Youth Group Games (one example site)](https://youthgroupgames.com.au/)
