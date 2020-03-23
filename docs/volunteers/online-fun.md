@@ -515,6 +515,13 @@ variants:
 Might need more time. Lunchtime activity?
 
 
+### Activity: Scavenger Hunt (with photo-proof)
+
+In teams. 10-15 minutes.
+
+Each team issued the same list of items that can hopefully be found around the house.
+
+Teams have to photograph those items (not just find an image on the web) and submit (e.g. to a slack thread).
 
 ### Activity: Drawing together (breakout-suitable)
 
