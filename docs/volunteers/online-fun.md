@@ -1,3 +1,8 @@
+---
+id: online-fun
+title: Fun activities for the remote class
+---
+
 [Online-teaching: Home](online-teaching.md)
 
 # Fun activities for the remote classroom
