@@ -8,7 +8,7 @@ title: Online Teaching
 | [Online fun](online-fun.md)
 | [Zoom training call overview](zoom-training-call-overview.md)
 
-## Zoom Setup
+## Zoom Client Setup (everyone)
 
 We recommend using [Zoom](https://zoom.us) for online classes because
 
@@ -17,7 +17,11 @@ We recommend using [Zoom](https://zoom.us) for online classes because
 
 We suggest that everyone [downloads the client now](https://zoom.us/download).
 
-**Zoom account owners should follow the instructions for pre-class setup [here](online-teaching-settings.md).**
+## Zoom hosting account setup (only admininstrators)
+
+Zoom account **owners** should follow [these config instructions](online-teaching-settings.md) one time to configure settings to be used for all future calls made from that account.  
+
+Account owners are currently Germán, Neill, Gianluca.
 
 ## Classes
 
