@@ -3,6 +3,8 @@ id: online-teaching-config
 title: Online Teaching Config
 ---
 
+[Back to Online-teaching: Home](online-teaching.md)
+
 # Recommended Zoom Settings for classroom hosts
 
 These settings are made via the zoom web portal.
@@ -66,3 +68,6 @@ Link: https://zoom.us/profile/setting?tab=recording
 - Automatic recording - `OFF`
 - Recording Consent - `ON`
 - Multiple audio notifications of recorded meeting - `ON`
+
+
+[Back to Online-teaching: Home](online-teaching.md)
