@@ -6,7 +6,7 @@ title: Online Teaching
 [Online-teaching: Home](online-teaching.md)
 | [Start-of-class checklists](online-start-of-class-checklists.md)
 | [Online fun](online-fun.md)
-| [Zoom training call overview](zoom-training-call-overview)
+| [Zoom training call overview](zoom-training-call-overview.md)
 
 ## Zoom Setup
 
@@ -117,4 +117,4 @@ We use Zoom training calls to up-skill our volunteers and students.
 [Online-teaching: Home](online-teaching.md)
 | [Start-of-class checklists](online-start-of-class-checklists.md)
 | [Online fun](online-fun.md)
-| [Zoom training call overview](zoom-training-call-overview)
+| [Zoom training call overview](zoom-training-call-overview.md)
