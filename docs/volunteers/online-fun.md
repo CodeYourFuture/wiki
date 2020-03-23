@@ -82,8 +82,16 @@ Most times you can just play articulate
 (tag: LanguagePractice)(tag: quickWin)
 
 ### Game: Pictionary
-* Use the share: whiteboard feature
-* Have "players" use annotation to draw on the whiteboard ("`view options`: `annotate`, next to "viewing jo smith's screen"
+
+London classes used google jamboard to great success.  Thanks to Beth.
+https://jamboard.google.com/d/1C-VMgQXKGiAj0Q2FrqTqo_3JdM5KjYfQSPKNJeQZvVo/viewer
+
+Beth also suggested this word-generator for those who blank.
+https://www.thegamegal.com/word-generator/
+
+When we all tried to load the jamboard, the page wouldn't load. (22/03/2020)  It was fine eventually.
+
+Consider simply using zoom's `share:whiteboard` and `view-options:annotation` features.
 
 ### Game: Twenty-questions / animal/mineral/vegetable
 
@@ -564,10 +572,11 @@ This is a good time for natural selfies: the photographer can use `gallery view`
 # Potential sources for games
 
 * [Improv Encyclopedia](http://improvencyclopedia.org/games/)
-* [Youth Group Games (one example site)](https://youthgroupgames.com.au/)
+* [Team First Development](https://www.teamfirstdevelopment.com/warm-ups/)
 * [HyperIsland Toolbox: Energizers](https://toolbox.hyperisland.com/)
+* [Youth Group Games (one example site)](https://youthgroupgames.com.au/)
+*
 * Look at actual tv gameshows (jeopardy, pointless, etc)
-* [Online-teaching: Home](online-teaching.md)
 * TODO: bookmarks...
 
 
@@ -576,11 +585,13 @@ This is a good time for natural selfies: the photographer can use `gallery view`
 ### basic assumed equipment
 
 * zoom
+* zoom whiteboard: `share:whiteboard` and annotations: `view options`: `annotate` (next to `viewing jo smith's screen`)
 
 ### optional:
 * more electronic-y  
   * [rolld20](https://roll20.net/)
 * online drawing tools
+  * [google jamboard](https://jamboard.google.com/)
 * online voting systems
 * spreadsheets
 * mini apps to support certain games
