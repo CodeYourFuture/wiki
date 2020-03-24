@@ -113,7 +113,7 @@ Students should be directed to ask questions in the Slack Channel. We suggest cr
 ## Student Training
 
 We use Zoom training calls to up-skill our volunteers and students. 
-* You can find the agenda for such a call here: [Zoom training call overview](zoom-training-call-overview)
+* You can find the agenda for such a call here: [Zoom training call overview](zoom-training-call-overview.md)
 * Teachers can request a training call from Neill Bogie on Slack or ask in #zoom-questions
 
 ## Who to ask for help
