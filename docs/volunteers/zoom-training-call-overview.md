@@ -50,9 +50,10 @@ title: Zoom training call overview
   - try clearing "raised hands"
   - try chatting with DMs on zoom (can be useful)
   - breakout rooms:
-    - go to your breakout room, then:
-    - move between rooms, saying hi & checking students know what to work on
-    - return to main room early to feed back to lead teacher
+    - Note: It is NOT possible to choose room from main
+    - First, go to your breakout room, then:
+      - move "sideways" between rooms, saying hi & checking students know what to work on
+    - return to main room periodically to feed back to lead teacher
 - try hosting:
   - ask to be made a host
   - create breakout rooms
