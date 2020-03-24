@@ -326,13 +326,27 @@ Failing that, make/find a custom app for remote play.
 
 breakout rooms, mixed.
 
-
 ### zip zap boing
 
-using gallery view?  "zip zap... Zoom (TM)"?  (sorry).
+"zip zap... Zoom (TM)"?  (sorry).
 
-Would need some reworking, and all open mics. Interesting to try. Laggy?  
+This would use gallery view, ideally, or a list of people (share a **screenshot** of the participants list -it changes and it presents differently for each user)
 
+* Zip (ok)
+* Boing - (ok)
+* Skipo - skip one person ([https://www.teamfirstdevelopment.com/warm-ups/#](source))
+* frisbee (with ducking) - (ok)
+* shlack/mine - (ok)
+* Zap - (no)
+* roll (no)
+* ...
+
+Alt-a to toggle mute
+
+#### TODO: 
+* Confirm gallery view shows the same ordering.
+* Would need some reworking.
+* Try it. Laggy?  Consider all open mics.
 
 ### Activity: Einstein five-house puzzle (or similar)
 
