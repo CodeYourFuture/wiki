@@ -40,7 +40,7 @@ Example of play:
 * and so on
 
 Notes, ideas:
-* **GM must inject energy**
+* **GM must inject energy** for some groups
 * This is **not recommended for a new class** or any other students who might feel awkward - that's counter-productive.
 * It is VERY ok for players to "pass", offer the possibility if someone is choking
 * Can also be done in breakout rooms for more turns per player, less waiting, particularly for larger classes
@@ -56,7 +56,7 @@ Extras: Choose a setting:
   * Or three elements: "Nima, Martyna, Laurie - what would you like to be mentioned in this story? a place?  a thing? a desire?... " (wait as all three think of a topic each) announced simultaneously... "pirates" "paris" "accountants"
     * you can assign them individually to these categories so that we get one of each (e.g. adjective noun verb, or thing, place, desire)
 
-Variants:
+#### Variants:
 **Word-at-a-time**: This is great but requires the students know the running order or is too slow.  
   * That order can come from...
     * the participants view
@@ -64,6 +64,8 @@ Variants:
     * the gallery view (but they may not all be able to see it, and get lost paginating)
   * prep: prepare a slide with a list of the students names, to be followed during the word-at-a-time variant
   * Kick-start the game with: "once"
+
+**Reverse story**: start with the last line and work backwards.  [Source](https://www.teamfirstdevelopment.com/warm-ups/)
 
 **Fortunately/Unfortunately**
 
