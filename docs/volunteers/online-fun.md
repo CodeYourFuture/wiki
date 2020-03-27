@@ -154,10 +154,32 @@ My favourite game IRL.  Two free untested online impls:
 * https://drawphone.tannerkrewson.com/
 
 
-### Game: Psychiatrist / Off Your Rocker
+### Game: Psychiatrist / Off Your Rocker / Whose line is it anyway
+
+Various themes in this game, all play the same way.
+
+Off your rocker / Psychiatrist
+
+One person leaves the room for 30 seconds while the others choose a shared **delusion**.  They then act it out verbally and physically when the psychiatrist returns (normally, the shrink will ask questions in turn, but it depends on group size).
+The shrink tries to guess the delusion:
+
+A delusion might be anything:
+* you're all scared of large objects.
+* you think you are superman
+* you think the shrink is actually a unicorn
+you can make them up.
+
 [BGG](https://boardgamegeek.com/boardgame/120814/your-rocker)
 
 * needs a class who are ready for silliness and trust each other
+
+### Simple charades (activity / profession) - Quick energiser
+
+As per the psychiatrist, one person leaves the room for 30 seconds while the others choose a shared activity or profession. 
+They then all **mime** it at once, while the returned volunteer tries to guess it. 
+
+Alec ran this with 35 participants - (rollercoaster-tester and pizza-chef worked well, but half the fun is coming up with the ridiculous activities).
+
 
 ### Game: Activity: Keep talking and nobody explodes
 Stressful, but excellent teamwork exercise likely to generate a situation for study very quickly.
