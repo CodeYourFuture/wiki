@@ -34,7 +34,8 @@ Please note, we have recently moved to a remote teaching model, we hope to retur
 
 We are currently teaching Birmingham Class 1. This will run from March 2020 until the end of the year.<br>
 We teach Saturdays - 11am-5:30pm<br>
-You can find our calendar at this <a href="https://calendar.google.com/calendar/embed?src=codeyourfuture.io_lek6qv1vngn32esgp1j552t8qc%40group.calendar.google.com&ctz=Europe%2FLondon">link</a>.
+You can find our calendar at this <a href="https://calendar.google.com/calendar/embed?src=codeyourfuture.io_lek6qv1vngn32esgp1j552t8qc%40group.calendar.google.com&ctz=Europe%2FLondon" target="_blank">link</a>.<br>
+iCal link is <a href="https://calendar.google.com/calendar/ical/codeyourfuture.io_lek6qv1vngn32esgp1j552t8qc%40group.calendar.google.com/public/basic.ics" target ="_blank">here</a>.
 
 ## How can I apply?
 
