@@ -72,6 +72,7 @@ Role: PD Workshop Facilitator 2- 4 days during Fundamentals course; 5-6 days dur
 Time commitment: 7-8 hours; no preparation needed. One off. 
 
 Description:
+
 Volunteer for the whole day to support the various PD activities being delivered 
 
 or
@@ -79,6 +80,7 @@ or
 Time commitment: 3-4 hours on the workshop day; some preparation needed to create content and communicate support needed before session day
 
 Description:
+
 Volunteer to lead on delivering a 1-2 hour session 
 
 Role: Career Mentor 
@@ -88,13 +90,22 @@ Time commitment: 3 hours per month for duration of the course
 Description:
 
 Support one student with help on their career journey for the duration of the course 6-8 months. No support with technical homework or questions. 
+
 Complete Lumina Spark questionnaire (15 - 20 mins)
+
 Attend mentoring induction workshop (One Saturday or Sunday, 7-8 hours) 
+
 Meet with mentee face to face (1 hour at start of mentoring program) 
+
 Meet with mentee via video call, Slack  (1-1.5 hours per month, can meet more if agreed with mentee)
+
 Fill in mentoring feedback form (15 mins once per month) 
+
 Join mentoring Slack group for support (ask questions and contribute suggestions when able) 
+
 Join mentoring feedback call (once every 3 months for 1 hour)
+
 Review student CVs
+
 Facilitate mock interviews for students
 
