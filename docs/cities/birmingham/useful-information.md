@@ -21,6 +21,10 @@ In West Midlands, the main channels are listed below:
 
 - Atanas Kozarev [@Atanas AK] - Education facilitator (Fundamentals Module)
 
+- Kevin Carmody [@Kevin] - Teaching Assistant
+
+- Tom Paine [@Tom Paine] - Teaching Assistant
+
 - Simon Whitehouse [@Simon Whitehouse] - Personal Development facilitator
 
 - Shukri Ali [@Shukri] - Personal Development facilitator
