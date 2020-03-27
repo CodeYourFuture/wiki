@@ -28,6 +28,8 @@ B4 7BX
 
 We'll be on the first floor.
 
+You can find a map <a href= "https://goo.gl/maps/ZF6yCRhCiXMLYbng7" target= "_blank">here</a>.
+
 ## When do we teach?
 
 Saturdays - 11am-5:30pm<br>
