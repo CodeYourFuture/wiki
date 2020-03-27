@@ -30,9 +30,10 @@ We'll be on the first floor.
 
 ## When do we teach?
 
-Saturdays - 11am-5:30pm
+Saturdays - 11am-5:30pm<br>
+You can find our teaching calendar at this <a href="https://docs.google.com/spreadsheets/d/1YLd8MQ3YRFfGpyw2wRku6YZeiVi0qTz-NNhFifGa9gM/edit?usp=sharing" target="_blank">link</a>.
 
 ## How can I apply?
 
-Our next class will be launching over the summer. To register your interest please visit <a href="https://application-process.codeyourfuture.io" target="_blank">click here</a>.
+Our next class will be launching over the summer. To register your interest please <a href="https://application-process.codeyourfuture.io" target="_blank">click here</a>.
 
