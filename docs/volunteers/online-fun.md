@@ -149,9 +149,20 @@ Barney remembers what candy must be and wins:
 
 ### Game: Telestrations / Eat poop you cat
 
-My favourite game IRL.  Two free untested online impls: 
-* https://drawception.com/register/
+My favourite game IRL.
+
+In the game telestrations, a group (i think best with ~10 players) all draw a picture for a given start word, then pass their pictures on.  The next person in the circle sees the drawing and writes an interpretation of it.  Then passes it on.  The next person sees the text (without seeing the previous drawing or original text) and draws a picture.  So on, alternating between drawing and writing, until the booklet has completed a circuit.
+
+There is a free implementation, drawphone, which works well on phone and laptop:
+
 * https://drawphone.tannerkrewson.com/
+
+
+
+Another implementation (untested) looks to be:
+
+* https://drawception.com/register/
+But i don't know if you can manage your own private group games on it.
 
 
 ### Game: Psychiatrist / Off Your Rocker / Whose line is it anyway
