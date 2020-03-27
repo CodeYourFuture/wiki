@@ -11,6 +11,50 @@ PD Core team - Organising group for each city's Personal Development team
 
 Time commitment: 4-10 hours per week for duration of course 
 
+Develop the strategy for student learning and support (overarching goals of removing barriers to student’s learning; supporting students development of soft skills)
+
+Meet weekly to plan, share student challenges and give support to each other (face to face video calls)
+
+One member supports on coordinating new volunteers and funnels them to appropriate roles in PD
+
+One member supports on coordinating the Mentoring Program
+
+As a team, assess each applicant shortlisted for the course by the Education Team to see if they qualify based on their personal circumstances
+
+Each member supports a group of 4-5 students for the duration of the course
+
+Team coordinates all the PD support for the course:
+
+PD workshop days (6 sessions throughout the course designed to develop skills needed in the workplace: communication, teamwork, time management, willingness to learn and get feedback)
+  
+Weekly online support (check in with students, encourage online communication skills)
+  
+Financial support (transport costs, childcare, lunch on class days)
+
+Laptops (donated from corporate partners, loaned until students get a job)
+
+Internet (home cost paid or dongle provided, paid until students get a job?)
+Emotional support (students are living in very stressful situations with little or no support)
+
+Language support (Really English online learning program provided through RefuAid, Code Your Future Language Exchange)
+
+Career Mentoring program (1-1 mentoring for 3 hours per month for the length of the course)
+
+Employment support (finding roles with employers interested in hiring CYF graduates, done on partnership with CYF strategy team)
+
+Workshops and events hosted by partners (CV writing, mock interviews, general recruitment talks, office visits)
+
+Signposting to other services (don’t need to be an expert in everything but need to know where to get additional support eg. housing or legal) 
+
+Design content and deliver PD workshop days
+
+Work with Outreach team to recruit other volunteers to deliver content on PD workshop days
+
+Work closely with the Education team to track student progress
+
+Support during the technical classes with the icebreaker/energiser; student expenses; meeting with and giving student’s feedback
+
+
 General PD Volunteer
 
 Time commitment: varies depending on the role
