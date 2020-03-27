@@ -7,7 +7,7 @@ title: Application Process
 
 ![img](https://lh6.googleusercontent.com/geKrU1dkQr56cyJ9ZCwU2jIhK6DEPNCJ-VO06aSnoNTNgjDtazUXZmttrT_zLg65rlc5L7TuEV-g4iLP5so3wgDXsOAzoNl5fjKUjs699rWLmi7hujXhZJNo8om5hDxsck9vPpIq)
 
-### Step 1: Register Online
+## Step 1: Register Online
 
 First the applicant must register on our [Application Process](https://application-process.codeyourfuture.io/) website. It is through this portal that we manage all student applications. See [Dashboard](/volunteers/tools/dashboard) for more details.
 
