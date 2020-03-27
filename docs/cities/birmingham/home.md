@@ -26,9 +26,7 @@ Student Union<br>
 Birmingham<br>
 B4 7BX
 
-We'll be on the first floor.
-
-You can find a map <a href= "https://goo.gl/maps/ZF6yCRhCiXMLYbng7" target= "_blank">here</a>.
+We'll be on the first floor. You can find a map <a href= "https://goo.gl/maps/ZF6yCRhCiXMLYbng7" target= "_blank">here</a>.
 
 Please note, we have recently moved to a remote teaching model, we hope to return to face to face classes very soon.
 
