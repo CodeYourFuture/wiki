@@ -30,9 +30,11 @@ We'll be on the first floor.
 
 You can find a map <a href= "https://goo.gl/maps/ZF6yCRhCiXMLYbng7" target= "_blank">here</a>.
 
+Please note, we have recently moved to a remote teaching model, we hope to return to face to face classes very soon.
+
 ## When do we teach?
 
-Saturdays - 11am-5:30pm<br>
+We are currently teaching Birmingham Class 1. This will run from March 2020 until the end of the year. We teach Saturdays - 11am-5:30pm<br>
 You can find our teaching calendar at this <a href="https://docs.google.com/spreadsheets/d/1YLd8MQ3YRFfGpyw2wRku6YZeiVi0qTz-NNhFifGa9gM/edit?usp=sharing" target="_blank">link</a>.
 
 ## How can I apply?
