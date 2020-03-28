@@ -45,7 +45,9 @@ title: Zoom training call overview
 - let them know if you have used zoom before
 - learn everything the students are learning!
 - try co-hosting:
+
   - ask to be made a co-host (check in participants panel)
+    - note: host cannot assign host/co-host roles unless the host and participant are in main room.
   - try muting participants with noisy microphones
   - try clearing "raised hands"
   - try chatting with DMs on zoom (can be useful)
@@ -56,6 +58,8 @@ title: Zoom training call overview
     - return to main room periodically to feed back to lead teacher
 - try hosting:
   - ask to be made a host
+  - assign the previous host to be a co-host
+  - note: host cannot assign host/co-host roles unless the host and participant are in **main room**.
   - create breakout rooms
     - randomly assign all to breakout rooms (3-4 per room)
     - ("recreate rooms" makes new rooms)
