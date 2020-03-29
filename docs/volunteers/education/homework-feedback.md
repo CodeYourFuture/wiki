@@ -5,36 +5,6 @@ title: Homework Feedback
 
 Giving effective, actionable feedback is one of the ways that we can best help our students learn and grow.
 
-## Quickly Giving Feedback
-
-**Visual Studio Github Plug-in**
-
-The VS Code studio plug-in can help speed up moving between pull requests and making comments.
-
-https://github.com/microsoft/vscode-pull-request-github
-
-It allows you to make comments from directly inside and VS Code and allows each comparision between Pull Requests.
-
-**Github Desktop**
-
-Using Github Desktop makes it easy to see all of the open pull requests for a Repository and move quickly between them.
-
-![Fork Button](assets/homework-feedback/pull-request.png)
-
-Simply navigate to the Branch tab at the top of the screen then select the Pull Request tab
-
-**Use the code review tool in GitHub**
-
-This not only get's the students used to using it, but also make it easier for other reviewers to know if work has been reviewed. [The process is documented here at point 7](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/reviewing-proposed-changes-in-a-pull-request).
-
-- If the work is good and doesn't require changes, select "Approve"
-- If the work needs work, select "Request changes"
-- If you've done a review, but don't have time to complete it, but the comments are valuable, select comment.
-
-You will then be able to filter the pull request list by what needs approving.
-<img width="353" alt="Screenshot 2020-02-28 at 13 58 24" src="https://user-images.githubusercontent.com/31692/75577343-bbf1da00-5a59-11ea-9608-b4b880585d25.png">
-
-
 ## 1. Giving Feedback
 
 Feedback should be given directly on the Pull Request that the students create on the exercise repository.
@@ -82,6 +52,36 @@ If they seem to fundamentally misunderstand a concept then it is best to refer t
 **Formatting**
 
 It never hurts to remind the student of the importance of proper formatting and indentation
+
+### Quickly Giving Feedback
+
+**Visual Studio Github Plug-in**
+
+The VS Code studio plug-in can help speed up moving between pull requests and making comments.
+
+https://github.com/microsoft/vscode-pull-request-github
+
+It allows you to make comments from directly inside and VS Code and allows each comparision between Pull Requests.
+
+**Github Desktop**
+
+Using Github Desktop makes it easy to see all of the open pull requests for a Repository and move quickly between them.
+
+![Fork Button](assets/homework-feedback/pull-request.png)
+
+Simply navigate to the Branch tab at the top of the screen then select the Pull Request tab
+
+**Use the code review tool in GitHub**
+
+This not only get's the students used to using it, but also make it easier for other reviewers to know if work has been reviewed. [The process is documented here at point 7](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/reviewing-proposed-changes-in-a-pull-request).
+
+- If the work is good and doesn't require changes, select "Approve"
+- If the work needs work, select "Request changes"
+- If you've done a review, but don't have time to complete it, but the comments are valuable, select comment.
+
+You will then be able to filter the pull request list by what needs approving.
+<img width="353" alt="Screenshot 2020-02-28 at 13 58 24" src="https://user-images.githubusercontent.com/31692/75577343-bbf1da00-5a59-11ea-9608-b4b880585d25.png">
+
 
 ## 2. Homework Grading
 
