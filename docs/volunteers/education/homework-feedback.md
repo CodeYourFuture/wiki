@@ -35,7 +35,7 @@ You will then be able to filter the pull request list by what needs approving.
 <img width="353" alt="Screenshot 2020-02-28 at 13 58 24" src="https://user-images.githubusercontent.com/31692/75577343-bbf1da00-5a59-11ea-9608-b4b880585d25.png">
 
 
-## Giving Feedback
+## 1. Giving Feedback
 
 Feedback should be given directly on the Pull Request that the students create on the exercise repository.
 
@@ -43,7 +43,7 @@ When you have given the student feedback it is useful if you tag the Pull Reques
 
 If the homework has not been completed or if there is a major problem with the homework then mark it as `Invalid`
 
-## Feedback Advice
+### Feedback Advice
 
 **Be Positive**
 
@@ -83,7 +83,7 @@ If they seem to fundamentally misunderstand a concept then it is best to refer t
 
 It never hurts to remind the student of the importance of proper formatting and indentation
 
-## Homework Grading
+## 2. Homework Grading
 
 For our records and to track student progress it is important that we track how well the student is progressing through our course. This can happen in a variety of places.
 
@@ -100,6 +100,13 @@ Grades should be given on the follow criteria
 - How well executed the homework is
 
 This is, above all else, an indicator of the students abilities and is not comprehensive. Different teachers will grade homework at different levels and we should be aware of this.
+
+## 3. Labelling the Pull Request
+
+When you have completed marking the homework you should set the label as `reviewed`.
+
+If the student has not completed the homework leave it as `to-review` but add the label `not completed.`
+
 
 ## Suspicion of Copying
 
