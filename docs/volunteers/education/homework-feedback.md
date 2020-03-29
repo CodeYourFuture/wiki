@@ -9,10 +9,6 @@ Giving effective, actionable feedback is one of the ways that we can best help o
 
 Feedback should be given directly on the Pull Request that the students create on the exercise repository.
 
-When you have given the student feedback it is useful if you tag the Pull Request as having been `Reviewed`
-
-If the homework has not been completed or if there is a major problem with the homework then mark it as `Invalid`
-
 ### Feedback Advice
 
 **Be Positive**
