@@ -78,7 +78,7 @@ This not only get's the students used to using it, but also make it easier for o
 You will then be able to filter the pull request list by what needs approving.
 <img width="353" alt="Screenshot 2020-02-28 at 13 58 24" src="https://user-images.githubusercontent.com/31692/75577343-bbf1da00-5a59-11ea-9608-b4b880585d25.png">
 
-## Suspicion of Copying
+### Suspicion of Copying
 
 We take attempts of plagiarisation very seriously at Code Your Future because it is a strong indicator that the student is out of their depth and do not understand key concepts.
 
