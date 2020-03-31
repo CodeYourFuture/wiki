@@ -1,3 +1,8 @@
+---
+id: tools-we-want
+title: Tools we want
+---
+
 # Tools we want
 
 Some of these will be really important, but also don't be afraid to write up something you'd like to see built even if it is a small quality of life improvement for students and volunteers. These can make excellent small project ideas for graduates, and even current students, sometimes with mentoring.
