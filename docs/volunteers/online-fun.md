@@ -599,7 +599,14 @@ At end of time, ask the participants to post the results on a slack thread.
 
 * Don't assume all students have a paint program installed or can find it.  Here's a free browser-based one - [JSPaint](https://jspaint.app/). Intentionally pretty terrible and works fine.
 
+* instead of using an open-ended brief, it was a relief for most students to simply have an artwork to try to copy.  those who wanted to get more interpretative did so without needing to be told.
+
 Ed ran this in London successfully, with a class who knew each other for 3 months.  Drawing time 7 minutes.
+
+variant - pixel art:
+
+pixel art: Alec had us using [https://www.pixilart.com/](pixilart.com (sic)) successfully in a tea break. Maybe wasn't working well on chromium in linux but that could have been neill p.e.b.k.a.c.
+
 
 
 ### Activity: talent shows
