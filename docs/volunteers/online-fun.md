@@ -581,11 +581,20 @@ Teams have to photograph those items (not just find an image on the web) and sub
 
 Everyone collaborates to draw a picture, based on a prompt
 
-Use Zoom's share:whiteboard, and annotations.
+Use Zoom's share:whiteboard, and annotations
+
+* Beware not everyone has access to annotations. not inclusive.
 
 Or an online collab website
 
-* Beware not everyone has access to annotations. not inclusive.
+### Activity: Drawing separately (7 minutes)
+
+Everyone gets a prompt (or a picture to copy) and has to draw it. 
+
+Don't assume they have a paint program installed.  Here's an online one - [JSPaint](https://jspaint.app/). Intentionally pretty terrible and works fine.
+
+Alternatively, use Zoom's share:whiteboard, and annotations, but **beware** not everyone has access to annotations.
+
 
 ### Activity: talent shows
 ### Activity: music performance
