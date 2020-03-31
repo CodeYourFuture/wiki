@@ -587,13 +587,19 @@ Use Zoom's share:whiteboard, and annotations
 
 Or an online collab website
 
-### Activity: Drawing separately (7 minutes)
+### Activity: Drawing separately then posting
 
-Everyone gets a prompt (or a picture to copy) and has to draw it. 
+Everyone gets a prompt (or a picture to copy) and has to draw it.  E.g. on [JSPaint](https://jspaint.app/)
 
-Don't assume they have a paint program installed.  Here's an online one - [JSPaint](https://jspaint.app/). Intentionally pretty terrible and works fine.
+At end of time, ask the participants to post the results on a slack thread. 
 
-Alternatively, use Zoom's share:whiteboard, and annotations, but **beware** not everyone has access to annotations.
+* Some volunteers should post first, and should be careful to set a low, low bar.  
+
+* Don't force the students to share.
+
+* Don't assume all students have a paint program installed or can find it.  Here's a free browser-based one - [JSPaint](https://jspaint.app/). Intentionally pretty terrible and works fine.
+
+Ed ran this in London successfully, with a class who knew each other for 3 months.  Drawing time 7 minutes.
 
 
 ### Activity: talent shows
