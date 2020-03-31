@@ -29,7 +29,7 @@ Glasgow Code Learning offer a number of free and accredited digital skills cours
 ## HNC/D software development
 https://www.cityofglasgowcollege.ac.uk/course-search?f%5B0%5D=field_template_reference%253Afield_lookup_coursesubject%3A3&f%5B1%5D=field_price_band%3A17
 
-City of Glasgow College provide a range of courses in digital technologies and they have access to funding from SAAS (Student Awards Association for Scotland).
+City of Glasgow College providing a range of courses in digital technologies and they have access to funding from SAAS (Student Awards Association for Scotland).
 
 ## CodeYourFuture
 
