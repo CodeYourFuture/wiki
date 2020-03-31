@@ -11,7 +11,7 @@ title: Live-streaming and recording resources
 * [Wes Bos: "How We Record, Edit, and Host Our Courses"](https://podcasts.apple.com/us/podcast/how-we-record-edit-and-host-our-courses/id1253186678?i=1000449376070) (mac-based, up-to-date (2019))
 * [Kent C. Dodds "Creating a Screencast: 1 - Equipment, Software, and knowledge validation"](https://www.youtube.com/watch?v=HJMEiyK7sEc) (2016, mac)  
 * [Article: "Recording a great coding screencast"](https://egghead.io/articles/recording-a-great-coding-screencast)
-
+* [A pattern language for Screencasting](https://dl.acm.org/doi/10.1145/1943226.1943234)
 ### Software:
 * https://obsproject.com/ A good free solution for streaming or video recording.
 
