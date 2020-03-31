@@ -69,6 +69,13 @@ Extras: Choose a setting:
 
 **Fortunately/Unfortunately**
 
+### Just One
+
+[BGG: Just One](https://boardgamegeek.com/boardgame/254640/just-one)
+
+TODO: elaborate
+
+
 ### Game: Articulate 
 
 (tag: quickWin) (tag: LanguagePractice)
@@ -424,6 +431,9 @@ see also sixes
 
 ### Game: Monikers
 see charades
+
+### Game: Guess the leader
+(send one person out, elect a leader.  outsider returns and tries to guess the leader.  all people try to mimic the leader.  Probably breaks due to it being possible to monitor all webcams at once, versus walking around a dinner table.)
 
 ### Game: Tapple
 speed scategories - needs online impl.
