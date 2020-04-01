@@ -12,7 +12,7 @@ Most tech companies use it at work, which offers an opportunity for CYF trainers
 
 Slack should be kept tidy and organised to maximise its usefulness.
 
-## Fundamentals
+### Fundamentals
 
 - Use threaded communication (replies to a topic should always be in a thread)
 - Edit your entries instead of adding extra information that you forgot in a message
@@ -22,7 +22,7 @@ Slack should be kept tidy and organised to maximise its usefulness.
 - Start a new thread if you are talking about a completely different topic
 - Know what channels to use to make posts and ask for questions
 
-## Student communication
+### Student communication
 
 - Learn to use thumbs up to confirm announcement has been read
 - Communicate in advance if you want to work with another classmate and specify time and topic (you can tag the class)
@@ -33,21 +33,21 @@ Slack should be kept tidy and organised to maximise its usefulness.
 - Delete any failed group calls to keep the channel clear
 - Inform the class as soon as possible if you are not planning to come or able to come to class
 
-## Volunteer communication
+### Volunteer communication
 
 - Make sure to tag students and graduates for events and create user groups for core volunteers
 - Share social meetings and pictures in public channels
 - Summarise meetings in minutes using assigned shared document
 
-# Effective Organisation on Slack
+## Effective Organisation on Slack
 
-## Brief
+### Brief
 
 In this guide, I want to give some high level tips about how to communicate and organise effectively on Slack.
 
 Most of this document is what I’ve gleaned from digital organising with other code schools and activist organisations.
 
-## Problems
+### Problems
 
 Using Slack as an organisational tool has several problems
 
@@ -62,7 +62,7 @@ Using Slack as an organisational tool has several problems
 
 However, I’ve noticed a few tricks that can help us cut through the noise.
 
-## Rules of Slack Organisation
+### Rules of Slack Organisation
 
 1. **Every message is a project**
 
@@ -76,7 +76,7 @@ People respond better when they know that the person sending the message has spe
 
 It is very easy to swamp Slack channels with requests. You shouldn’t send multiple requests within a few hours, especially if they are low quality.
 
-## Building a Slack Request
+### Building a Slack Request
 
 Every message should, at a glance, be able to answer these questions
 
