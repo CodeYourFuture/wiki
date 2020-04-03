@@ -3,7 +3,7 @@ id: onboarding-four
 title: 4. Beyond
 ---
 
-After a month or two volunteering, we'd like you to consider taking on more responsibility. 
+After a month or two of volunteering, you can consider taking on more responsibility. 
 
 We have general volunteer - folks who join and do occasional tasks. 
 
