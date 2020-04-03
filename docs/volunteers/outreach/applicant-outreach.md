@@ -20,13 +20,13 @@ Prioritise those that you believe to be the most likely source of applicants. Yo
 
 4. Making a call takes around 10mins, and is best done during the day when the NGOs are open. Lunch times work well. 
 
-- The process is email > call > email any requested information. We send flyers because it organisations can print them out or and pass them onto students directly - it is a physical manifestation of an opportunity.
+5. The process is email > call > email any requested information. We send flyers because it organisations can print them out or and pass them onto students directly - it is a physical manifestation of an opportunity.
 
-- The first email can be sent from a CYF email address - perhaps by an active member of the outreach team. Volunteers then follow up that email with a call - ensuring the right contact at the NGO is contacted. 
+6. The first email can be sent from a CYF email address - perhaps by an active member of the outreach team. Volunteers then follow up that email with a call - ensuring the right contact at the NGO is contacted. 
 
-- Volunteers update the list with the next steps, eg. Jo from Refuaid wants more details. The project organiser - with a CYF email address - can follow up on the info requests from the NGOs.
+7. Volunteers update the list with the next steps, eg. Jo from Refuaid wants more details. The project organiser - with a CYF email address - can follow up on the info requests from the NGOs.
 
-- Then, call the NGOs back within a month! NGOs are often busy doing other things, so a second call, especailly to big referrers, is critical. 
+8. Then, call the NGOs back within a month! NGOs are often busy doing other things, so a second call, especailly to big referrers, is critical. 
 
 **Material**
 - The NGO list can be found in the CYF General G-drive in Outreach > NGO - lists
