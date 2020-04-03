@@ -30,11 +30,10 @@ We send a flyer with the email, because organisations can print them out or and 
 
 As a volunteer, you are likely only to call NGOs once.
 
-**Material for calling NGOs**
-- The NGO list can be found in the CYF General G-drive in Outreach > NGO - lists
-- Applicant Flyers can be found on the CYF G-drive in the Outreach > Flyers
-- Emails can be found on the CYF G-drive in Outreach > Emails
-- For G-drive access, ask your induction coordinator!
+**Material for calling NGOs will be emailed to you**
+- The list of NGOs to call
+- The NGO script to use when calling
+- Emails and flyers to send to NGOs 
 
 ### Calling Applicants
 
@@ -51,7 +50,7 @@ Many applicants suffer from isolation and depression, so a call at this stage ca
 Once you have called an applicant, record this call on the dashboard and move onto the next one. 
 
 **Material for calling applicants**
-- Call scripts can be found on the CYF G-drive in Outreach > Scripts
+- Call scripts will be emailed to you
 
 ### Facebook Groups
 
