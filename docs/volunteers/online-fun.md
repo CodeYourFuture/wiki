@@ -43,6 +43,7 @@ Notes, ideas:
 * **GM must inject energy** for some groups
 * This is **not recommended for a new class** or any other students who might feel awkward - that's counter-productive.
 * It is VERY ok for players to "pass", offer the possibility if someone is choking
+* Give an easy out to reticent players - it's a short game and they'll likely find it amusing to just spectate.  (Perhaps some would like to draw some illustrations as we go along, instead.)  Normally once they've seen the game does not involve a stage and a booing audience they'll join in if you give them a way in.
 * Can also be done in breakout rooms for more turns per player, less waiting, particularly for larger classes
 * Students might be interested in [22 rules of storytelling according to pixar](https://io9.gizmodo.com/the-22-rules-of-storytelling-according-to-pixar-5916970)
 * Ask one or two volunteers or extrovert students first, to get the game rolling.
@@ -57,13 +58,29 @@ Extras: Choose a setting:
     * you can assign them individually to these categories so that we get one of each (e.g. adjective noun verb, or thing, place, desire)
 
 #### Variants:
-**Word-at-a-time**: This is great but requires the students know the running order or is too slow.  
-  * That order can come from...
-    * the participants view
-    * a screen-share of a text doc with everyone's name on it
-    * the gallery view (but they may not all be able to see it, and get lost paginating)
-  * prep: prepare a slide with a list of the students names, to be followed during the word-at-a-time variant
-  * Kick-start the game with: "once"
+**Word-at-a-time**: This is my preferred version but requires the students know the running order or is too slow.  
+
+Delegate to a student the task: "make a google doc with a list of everyone who is here, and screen-share it".
+ 
+That order can come from a screen-share of a text doc with everyone's name on it (best) or a quick screenshot of one person's participant view (the former is better as it can be updated as people join the session)
+ 
+Note that the order CAN'T come from the gallery view NOR the participant's view - those areordered differently for everyone!
+ 
+
+##### introducing the game:
+
+By preference I won't explain the game at all, I'll just demonstrate a quick 30-second round with 2 or 3 other experienced players.
+
+If I *have* to introduce the game verbally I'll normally mention as few as possible of the following as i think are necessary:
+
+* We're going to make up a silly story together, with everyone adding ONE WORD at a time. You don't have to play if you don't want to!
+* We'll go round everybody following this list which \[student X\] is kindly screensharing, with each person *quickly* adding one word ONLY.
+* Our story is almost certainly going to be absolutely rubbish, don't worry at all about making it good - leave that to Pixar or to authors who spend years writing their books.
+* Don't worry about making your word clever but hopefully it makes sense \[grammatically\].  
+* If you really can't think of any word, it is good to say pass rather than slow the game down.
+* It's going to start "once", "upon", "a", "time", ok?  
+* I'll start, then billie, then down the list...
+* I say "once"...
 
 **Reverse story**: start with the last line and work backwards.  [Source](https://www.teamfirstdevelopment.com/warm-ups/)
 
