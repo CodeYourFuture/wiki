@@ -33,7 +33,7 @@ Instructions will be emailed to you.
 
 Instructions will be emailed to you.
 
-**Meet two students from a currently running class in any city** 
+**6. Meet two students from a currently running class in any city** 
 
 You can meet them the class, in a coffee break (advertised via Slack) or in the general Slack channel in the workspace you first join.
 
