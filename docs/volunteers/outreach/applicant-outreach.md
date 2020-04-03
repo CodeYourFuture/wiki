@@ -28,15 +28,26 @@ Prioritise those that you believe to be the most likely source of applicants. Yo
 
 8. Then, call the NGOs back within a month! NGOs are often busy doing other things, so a second call, especailly to big referrers, is critical. 
 
-**Material**
+**Material for calling NGOs**
 - The NGO list can be found in the CYF General G-drive in Outreach > NGO - lists
 - Applicant Flyers can be found on the CYF G-drive in the Outreach > Flyers
 - Emails can be found on the CYF G-drive in Outreach > Emails
 - For G-drive access, ask your induction coordinator!
 
-**Drop ins**
+**Calling Applicants**
 
-- Check the calendar for the next Drop-in date. Create an eventbrite and invite applicants to drop in sessions. 
+There are three stages for an applicant:
+
+- An online course - tutorials and the creation of mini web projects. If they succeed in this, they are invited for an interview (if they pass the eligability criteria. These tutorials and mini projects usually take a few weeks - longer if people haven't coded before: https://docs.codeyourfuture.io/volunteers/application-process. 
+- A fundamentals intensive - a month long, with classes on the weekends: https://docs.codeyourfuture.io/volunteers/fundamentals
+- The full 8-month course: https://docs.codeyourfuture.io/volunteers/the-course
+
+While the applicants are working on the tutorials, it is important at this time to call an applicant and ensure that they are clear about the process, are receiving emails and are actively working on the tutorials. 
+
+Many applicants suffer from isolation and depression, so a call at this stage can provide a lot of motivation to students.
+
+**Material for calling applicants**
+- Call scripts can be found on the CYF G-drive in Outreach > Scripts
 
 **Facebook Groups**
 
@@ -47,4 +58,9 @@ Prioritise those that you believe to be the most likely source of applicants. Yo
 **Word of mouth**
 
 - Use the CYF Slack channels! Post in your city and general channels when the drop ins are due to start. Of the last 110 people who completed step 1 in London - 50% came from word of mouth! 
+
+**Workshops**
+
+- Make sure the events calendar on codeyourfuture has the next workshop dates. Create an eventbrites and invite applicants to these coding workshops.  
+
 
