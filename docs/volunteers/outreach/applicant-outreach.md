@@ -3,9 +3,9 @@ id: applicant-outreach
 title: Applicant Outreach
 ---
 
-## Contacting NGOS and other referral organiations
+### Contacting NGOS and other referral organiations
 
-Unless you are starting a new chapter of CYF Skip ahead to point 3.
+**Unless you are starting a new chapter of CYF Skip ahead to point 3.**
 
 1. Research and collate contact details of a significant number of charities, NGOs, educational establishments for adults, training centres, and community groups that work with refugees, asylum seekers, and other disadvantaged (i.e. low-income, disabilities etc.) 
 
@@ -36,7 +36,7 @@ As a volunteer, you are likely only to call NGOs once.
 - Emails can be found on the CYF G-drive in Outreach > Emails
 - For G-drive access, ask your induction coordinator!
 
-## Calling Applicants
+### Calling Applicants
 
 There are three stages for an applicant:
 
@@ -53,17 +53,17 @@ Once you have called an applicant, record this call on the dashboard and move on
 **Material for calling applicants**
 - Call scripts can be found on the CYF G-drive in Outreach > Scripts
 
-## Facebook Groups
+### Facebook Groups
 
 - Research relevant Facebook groups. A lot of disadvantaged people join communities on Facebook for their geographical location i.e. Iraqi Refugees in London etc. These are great sources of applicants.
 
 - Work with your local organisers to get access to the list of previously used Facebook Groups for your region / country.  
 
-## Word of mouth
+### Word of mouth
 
 - Use the CYF Slack channels! Post in your city and general channels when the drop ins are due to start. Of the last 110 people who completed step 1 in London - 50% came from word of mouth! 
 
-## Workshops
+### Workshops
 
 - Make sure the events calendar on codeyourfuture has the next workshop dates. Create an eventbrites and invite applicants to these coding workshops.  
 
