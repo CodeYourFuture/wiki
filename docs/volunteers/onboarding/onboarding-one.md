@@ -5,11 +5,11 @@ title: 1. Hello! Welcome to your first general tasks
 
 Once you have attended your first onboarding session, you should receive an invitation to a Slack workspace for new volunteers (also where new Applicants are). 
 
-During the training session, you will learn about the first volunteering tasks at CodeYourFuture. 
+During your first training session, you will learn about the first volunteering tasks at CodeYourFuture. 
 
 Here are details of your first general tasks at CodeYourFuture: 
 
-**1. Attend a class within 2 weeks of the onboarding session**
+**1. Attend a class within 2 weeks of the training session**
 
 Details on the next page.  
 
