@@ -7,22 +7,19 @@ title: Applicant Outreach
 
 **Unless you are starting a new chapter of CYF Skip ahead to point 3.**
 
-1. Research and collate contact details of a significant number of charities, NGOs, educational establishments for adults, training centres, and community groups that work with refugees, asylum seekers, and other disadvantaged (i.e. low-income, disabilities etc.) 
+1. Research and collate contact details of a significant number of charities, NGOs, educational establishments for adults, training centres, and community groups that work with refugees, asylum seekers, and other disadvantaged (i.e. low-income, disabilities etc.) As a starting point, we recommend at least 50 organisations, and ideally 100+ organisations. 
 
-As a starting point, we recommend at least 50 organisations, and ideally 100+ organisations. 
-If CYF is already established in your city, this list may already exist. Contact your local organiser to provide a list of NGOs to call.
+2. Upload these organisation into Google Spreadsheet in your city folder and organise them based on their relevance to the course - there will be signs to suggest that certain organisations or groups are more likely to provide suitable applicants for CYF than others. Prioritise those that you believe to be the most likely source of applicants. 
 
-2. Upload these organisation into Google Spreadsheet in your city folder and organise them based on their relevance to the course - there will be signs to suggest that certain organisations or groups are more likely to provide suitable applicants for CYF than others. 
+3. Start calling NGOs - you will get the NGO list emailed to you. 
 
-Prioritise those that you believe to be the most likely source of applicants. You can also check the top referrers in the applicant dashboard for this - by downloading referral data for your city. 
+4. Making a call takes around 10mins - best done during the day when the NGOs are open. Lunch times have worked well in the past. 
 
-3. Start calling NGOs - you should get the NGOs to call emailed to you. 
+5. The first email will be sent from by an volunteer or CYF staff member with a CYF email address. Your job is to follow up that email with a call. 
 
-4. Making a call takes around 10mins, and is best done during the day when the NGOs are open. Lunch times work well. 
+6. Try to speak to the right contact at the NGO - or if not, get their name for a follow up email. 
 
-5. The first email can be sent from a CYF email address - perhaps by an active member of the outreach team. You are following up that email with a call. Please ensure the right contact at the NGO received the right info. 
-
-We send a flyer with the email, because organisations can print them out or and pass them onto students directly - it is a physical manifestation of an opportunity. You will be sent the latest flyer. If you don't have one, ask CYF.  
+7. Send a flyer in a follow up email. Organisations can print them out or and pass them onto students directly - it is a physical manifestation of an opportunity. You will be sent the latest flyer via email. If you don't have a flyer, ask CYF.  
 
 6. Update the list with the next steps, eg. Jo from Refuaid wants more details. The project organiser - with a CYF email address - will follow up on the requests from the NGOs.
 
