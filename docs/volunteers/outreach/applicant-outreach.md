@@ -46,6 +46,8 @@ While the applicants are working on the tutorials, it is important at this time 
 
 Many applicants suffer from isolation and depression, so a call at this stage can provide a lot of motivation to students.
 
+Once you have called an applicant, record this call on the dashboard and move onto the next one. 
+
 **Material for calling applicants**
 - Call scripts can be found on the CYF G-drive in Outreach > Scripts
 
