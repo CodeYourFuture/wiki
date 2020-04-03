@@ -365,6 +365,7 @@ logical thinking.  probably smaller group 6-8?, teams.  Slow, cerebral, potentia
 
 needs a fixed webcam on the pictures, or web version.  Better to know your team-mates. Shared cultural references also help.  Worth experimenting, as it's a hugely popular modern game.  Slower, more cerebral. Would work as a remote games-night social, perhaps.
 
+Eddie Li points out this slack implementation https://codenames-slack.herokuapp.com/ 
 
 ### [Duplik (BGG)](https://www.boardgamegeek.com/boardgame/22348/duplik) 
 
