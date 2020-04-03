@@ -26,7 +26,7 @@ This is a non-exhaustive list of things you can help out with:
 
 Volunteers are not expected to come to every weekend Saturday class and to do all of the above, but you are more than welcome to if you would like!
 
-## What if I want to be involed in teaching, but I don't know JavaScript/React/Node?
+## What if I want to get involved in teaching, but don't know JavaScript/React/Node?
 
 In the first few months, the focus is on logical thinking and teaching programming concepts common across many languages such as variables, loops, and functions so you can definitely provide help to students despite not knowing JavaScript.
 
