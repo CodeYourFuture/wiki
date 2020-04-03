@@ -5,8 +5,6 @@ title: Applicant Outreach
 
 **Contacting NGOS and other referral organiations**
 
-Needed: 1 x project owner, several volunteers. 
-
 - Research and collate contact details of a significant number of charities, NGOs, educational establishments for adults, training centres, and community groups that work with refugees, asylum seekers, and other disadvantaged (i.e. low-income, disabilities etc.) 
 
 - As a starting point, we recommend at least 50 organisations, and ideally 100+ organisations. 
