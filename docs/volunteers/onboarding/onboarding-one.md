@@ -37,5 +37,5 @@ Instructions will be emailed to you.
 
 You can meet them the class, in a coffee break (advertised via Slack) or in the general Slack channel in the workspace you first join.
 
-Once you have completed these tasks - you rock! You will be invited to join your teams and onto your next stage of volunteering!
+Once you have completed these tasks - consider yourself awesome - and an inducted volunteer of CodeYourFuture. You will be invited to join your teams and onto your next stage of volunteering!
 
