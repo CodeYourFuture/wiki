@@ -17,7 +17,7 @@ Details on the next page.
 
 This will be emailed to you. 
 
-**3. Attend a workshop from any city (if available)**
+**3. Attend a workshop or study group from any city (if available)**
 
 COMING SOON. 
 
