@@ -5,16 +5,20 @@ title: Applicant Outreach
 
 **Contacting NGOS and other referral organiations**
 
-- If you don't have an NGO list in your city: research and collate contact details of a significant number of charities, NGOs, educational establishments for adults, training centres, and community groups that work with refugees, asylum seekers, and other disadvantaged (i.e. low-income, disabilities etc.) 
+If have an NGO list in your city (in the CYF General G-drive in Outreach > NGO - lists) - skip ahead to point 3. For G-drive access, ask your induction coordinator. 
+
+1. Research and collate contact details of a significant number of charities, NGOs, educational establishments for adults, training centres, and community groups that work with refugees, asylum seekers, and other disadvantaged (i.e. low-income, disabilities etc.) 
 
 As a starting point, we recommend at least 50 organisations, and ideally 100+ organisations. 
 If CYF is already established in your city, this list may already exist. Contact your local organiser to provide a list of NGOs to call.
 
-- Upload these organisation into Google Spreadsheet in your city folder and organise them based on their relevance to the course - there will be signs to suggest that certain organisations or groups are more likely to provide suitable applicants for CYF than others. 
+2. Upload these organisation into Google Spreadsheet in your city folder and organise them based on their relevance to the course - there will be signs to suggest that certain organisations or groups are more likely to provide suitable applicants for CYF than others. 
 
-- Once you have a list: prioritise those that you believe to be the most likely source of applicants. You can also check the top referrers in the applicant dashboard for this - by downloading referral data for your city. 
+Prioritise those that you believe to be the most likely source of applicants. You can also check the top referrers in the applicant dashboard for this - by downloading referral data for your city. 
 
-- Making a call takes around 10mins, and is best done during the day. Lunch times work well. 
+3. Start calling NGOs - based on those who referred before - if that data is available. 
+
+4. Making a call takes around 10mins, and is best done during the day when the NGOs are open. Lunch times work well. 
 
 - The process is email > call > email any requested information. We send flyers because it organisations can print them out or and pass them onto students directly - it is a physical manifestation of an opportunity.
 
