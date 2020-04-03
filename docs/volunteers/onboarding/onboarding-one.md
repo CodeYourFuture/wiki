@@ -21,15 +21,15 @@ This will be emailed to you.
 
 COMING SOON. 
 
-**4. Make 3 successful NGOs calls from any city (if available)**
+**4. Make 3 successful NGOs calls from any city**
 
-Instructions are on [the Applicant Outreach page](https://docs.codeyourfuture.io/volunteers/outreach/applicant-outreach). The NGOs to call will be emailed to you.
+If available. Instructions are on [the Applicant Outreach page](https://docs.codeyourfuture.io/volunteers/outreach/applicant-outreach). The NGOs to call will be emailed to you.
 
 You are welcome to call more than 3 NGOs!
 
-**5. Make 5 successful applicant calls for any city (if available)**
+**5. Make 5 successful applicant calls for any city**
 
-Instructions are on [the Applicant Outreach page](https://docs.codeyourfuture.io/volunteers/outreach/applicant-outreach). The applicants to call will be emailed to you. 
+If available. Instructions are on [the Applicant Outreach page](https://docs.codeyourfuture.io/volunteers/outreach/applicant-outreach). The applicants to call will be emailed to you. 
 
 You can call more than 5!
 
