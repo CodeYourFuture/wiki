@@ -9,7 +9,7 @@ During the training session, you will learn about the first volunteering tasks a
 
 Here are details of your first general tasks at CodeYourFuture: 
 
-**1. Attend a class within 2 weeks of info session**
+**1. Attend a class within 2 weeks of the onboarding session**
 
 Details on the next page.  
 
