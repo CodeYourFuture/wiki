@@ -11,7 +11,7 @@ Here are details of your first general tasks at CodeYourFuture:
 
 **1. Attend a class within 2 weeks of info session**
 
-Details in the next section 
+Details on the next page.  
 
 **2. Sign the CYF Volunteer Agreement**
 
