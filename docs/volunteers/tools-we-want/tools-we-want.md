@@ -53,6 +53,13 @@ Inputs: meeting id, list of expected user names (or email addrs, possibly)
 Outputs: list of user names who are currently not in the meeting, timestamp
 ```
 
+### Tool: timer for all zoom breakouts
+A way to communicate the remaining time in a breakout rooms task
+* should allow notification when more time is added
+* should allow a short title of the task at hand
+
+It's arguable that this would never be better than just doing it in slack.
+
 ### Tool: random student picker (very low priority, fun authentic task for a student project)
 
 - Something to randomly pick a participant from the current live list of participants
