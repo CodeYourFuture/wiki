@@ -124,6 +124,13 @@ When we all tried to load the jamboard, the page wouldn't load. (22/03/2020)  It
 
 Consider simply using zoom's `share:whiteboard` and `view-options:annotation` features.
 
+#### pictionary variant: Gartic.io
+
+Jon Sharpe recommends: https://gartic.io/ 
+
+(It seems to have 30 seconds of forced adverts at the time.)
+
+
 ### Game: Twenty-questions / animal/mineral/vegetable
 
 (tag: QuickWin)
