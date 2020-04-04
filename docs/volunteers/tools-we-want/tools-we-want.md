@@ -53,6 +53,36 @@ Inputs: meeting id, list of expected user names (or email addrs, possibly)
 Outputs: list of user names who are currently not in the meeting, timestamp
 ```
 
+### Tool: slack common response picker
+
+I envisage giving (primarily) the volunteers `slash` commands with autocomplete (or a form) in slack to quickly post pointers to stock responses.
+
+I have made a wiki directory for stock responses for some of them:
+https://github.com/CodeYourFuture/wiki/tree/master/docs/students/common-responses
+
+Consider url shortening, if necessary.
+
+How can the volunteer quickly select a stock response pointer?
+* slash commands with autocomplete
+* form with a picker
+* it's even possible a slack bot would recognise a long code post and offer the advice automatically. (especially if there's with no link to a repl.it / jsfiddle, codesandbox, etc in the thread.)
+
+Context:
+
+The most active volunteers write the same response to slack messages over and over
+
+"how to ask a good question", 
+"reply-in-thread", 
+"don't give the answer away for other students", 
+"post a link to your smallest repeatable example", 
+"read the error message", 
+"don't post screenshot of code",
+
+
+By using a fixed form of response, we can also track how often certain responses are needed, and if the same students are repeatedly being awarded those responses.
+
+
+
 ### Tool: timer for all zoom breakouts
 A way to communicate the remaining time in a breakout rooms task
 * should allow notification when more time is added
