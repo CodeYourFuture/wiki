@@ -1,3 +1,9 @@
+---
+id: create-a-minimal-reproducible-example.md
+title: Create a minimal, reproducible example
+---
+
+
 ## Create the smallest possible example that demonstrates the problem with your code, then post a link to it.
 
 ### Why have I been given this link?
