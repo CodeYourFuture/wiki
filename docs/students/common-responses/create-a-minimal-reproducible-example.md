@@ -1,5 +1,5 @@
 ---
-id: create-a-minimal-reproducible-example.md
+id: create-a-minimal-reproducible-example
 title: Create a minimal, reproducible example
 ---
 
