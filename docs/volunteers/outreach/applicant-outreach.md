@@ -14,7 +14,7 @@ title: Applicant Outreach
 
 ```
 
-3. Start calling NGOs - you will get the NGO list emailed to you. The list may need updating, please do so as you go.  
+3. Start calling NGOs - you will get the NGO list emailed to you. Some organisations may have undergone changes since we last called them, please update as you go.  
 
 4. Making a call takes around 10mins - best done during the day when the NGOs are open. Lunch times have worked well in the past. 
 
