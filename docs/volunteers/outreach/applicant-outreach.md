@@ -3,7 +3,7 @@ id: applicant-outreach
 title: Applicant Outreach
 ---
 
-### Contacting NGOS and other referral organiations
+### Contacting NGOS and other referral organisations
 
 ```
 **Unless you are starting new chapter of CYF - skip ahead to point 3.**
