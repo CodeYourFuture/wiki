@@ -5,13 +5,13 @@ title: Applicant Outreach
 
 ### Contacting NGOS and other referral organiations
 
-**Unless you are starting a new chapter of CYF Skip ahead to point 3.**
+**Skip ahead to point 3 if you are NOT starting a new chapter of CYF.**
 
 1. Research and collate contact details of a significant number of charities, NGOs, educational establishments for adults, training centres, and community groups that work with refugees, asylum seekers, and other disadvantaged (i.e. low-income, disabilities etc.) As a starting point, we recommend at least 50 organisations, and ideally 100+ organisations. 
 
 2. Upload these organisation into Google Spreadsheet in your city folder and organise them based on their relevance to the course - there will be signs to suggest that certain organisations or groups are more likely to provide suitable applicants for CYF than others. Prioritise those that you believe to be the most likely source of applicants. 
 
-3. Start calling NGOs - you will get the NGO list emailed to you. 
+3. Start calling NGOs - you will get the NGO list emailed to you. The list may need updating, please do so as you go.  
 
 4. Making a call takes around 10mins - best done during the day when the NGOs are open. Lunch times have worked well in the past. 
 
