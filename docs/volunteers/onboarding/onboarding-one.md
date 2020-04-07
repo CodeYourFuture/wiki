@@ -19,9 +19,9 @@ If you don't receive an invitation to Slack within 48 hours of your training ses
 
 **3. Attend a workshop or study group from any city** (COMING SOON). 
 
-**4. Make 3 successful NGOs calls from any city** (you can call more)
+**4. Make 3 successful NGOs calls from any city** (you are welcome to call more)
 
-**5. Make 5 successful applicant calls for any city** (you can call more)
+**5. Make 5 successful applicant calls for any city** (you are welcome to call more)
 
 **6. Meet two students from a currently running class in any city** 
 
