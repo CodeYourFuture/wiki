@@ -103,6 +103,20 @@ Grades should be given on the follow criteria
 
 This is, above all else, an indicator of the students abilities and is not comprehensive. Different teachers will grade homework at different levels and we should be aware of this.
 
+(This is a rough guide and should be taken with a pinch of salt)
+0	Work is not handed in
+1	Work has been handed in but does not meet the criteria/ demonstrates a lack of understanding
+2	
+3	
+4	Work is okay, demonstrate an understanding of this weeks’ material and the task.
+5	
+6	
+7	Work is good, the student demonstrates a strong understanding of this weeks’ material and the task and uses it with thought.
+8	
+9	
+10	Work is perfect, the student demonstrates a deep understanding of this week’s material and the task, a fluent use of code
+
+
 ## 3. Labelling the Pull Request
 
 When you have completed marking the homework you should set the label as `reviewed`.
