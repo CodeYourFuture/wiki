@@ -87,9 +87,7 @@ It is important at CodeYourFuture for all volunteers to feel engaged throughout 
 
 The teaching section of the day is the core part of our classes.
 
-In particular the morning session should
-
--
+In particular the morning session. 
 
 **Who runs this?**
 
@@ -120,6 +118,7 @@ This either provided by CodeYourFuture, by a partner organisation or by the stud
 ### Homework Briefing
 
 **What is this?**
+Giving the students a summary of their homework, and work they are expected to do throught the week.
 
 **Who runs this?**
 
