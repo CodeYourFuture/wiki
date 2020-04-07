@@ -15,7 +15,7 @@ Details on the next page.
 
 **2. Sign the CYF Volunteer Agreement**
 
-Found in the new volunteer slack. Lighting bolt icon > Sign Volunteer Agreement. You will receive a link in your Direct messages on Slack with the link. Once you sign the form, we will be notified. 
+Found in the new volunteer slack. Lighting bolt icon > Sign Volunteer Agreement. You will receive a link in your Direct messages on Slack (from the Slackbot) with the link to follow. Once you sign the form, we will be notified. 
 
 **3. Attend a workshop or study group from any city (if available)**
 
