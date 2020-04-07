@@ -9,7 +9,7 @@ title: Application Process
 
 ## Step 1: Register Online
 
-First the applicant must register on our [Application Process](https://application-process.codeyourfuture.io/) website. It is through this portal that we manage all student applications. See [Dashboard](/volunteers/tools/dashboard) for more details.
+First the applicant must register on our [Application Process](https://application-process.codeyourfuture.io/) website. It is through this portal that we manage all student applications. See [Dashboard](https://docs.codeyourfuture.io/volunteers/cyf-dashboard) for more details.
 
 ### (Optional) Step 2: SoloLearn Tutorials
 
