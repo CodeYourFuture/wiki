@@ -103,7 +103,8 @@ Grades should be given on the follow criteria
 
 This is, above all else, an indicator of the students abilities and is not comprehensive. Different teachers will grade homework at different levels and we should be aware of this.
 
-(This is a rough guide and should be taken with a pinch of salt)
+A rough guide (to be taken with a pinch of salt):
+
 0	Work is not handed in
 
 1, 2, 3	Work has been handed in but does not meet the criteria/ demonstrates a lack of understanding
