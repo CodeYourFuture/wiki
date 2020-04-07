@@ -11,7 +11,7 @@ To do a task, click the Lighting bolt button in the Fellowshop Slack channel. Yo
 
 If you haven't been invited to Slack within 48 hours of training, please email us at contact@codeyourfuture.io. 
 
-Details of your first general tasks at CodeYourFuture: 
+### Your first general tasks at CodeYourFuture: 
 
 **1. Attend a class within 2 weeks of the training session**
 
