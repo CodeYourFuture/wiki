@@ -17,7 +17,7 @@ Details of your first general tasks at CodeYourFuture:
 
 **2. Sign the CYF Volunteer Agreement**
 
-**3. Attend a workshop or study group from any city** COMING SOON. 
+**3. Attend a workshop or study group from any city** (COMING SOON). 
 
 **4. Make 3 successful NGOs calls from any city**
 
