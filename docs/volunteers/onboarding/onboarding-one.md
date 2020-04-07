@@ -23,15 +23,11 @@ COMING SOON.
 
 **4. Make 3 successful NGOs calls from any city**
 
-You can call more than three! Instructions are on [the Applicant Outreach page](https://docs.codeyourfuture.io/volunteers/outreach/applicant-outreach). 
-
 **5. Make 5 successful applicant calls for any city**
-
-You can call more than five! Instructions are on [the Applicant Outreach page](https://docs.codeyourfuture.io/volunteers/outreach/applicant-outreach). 
 
 **6. Meet two students from a currently running class in any city** 
 
-You can meet them the class (next page), in a coffee break (advertised via Slack) or in the general Slack channel in the workspace you first join.
+You can meet them the class, in a coffee break (advertised via Slack) or in the general Slack channel in the workspace you first join.
 
 Once you have completed these tasks - consider yourself awesome - and an inducted volunteer of CodeYourFuture. 
 
