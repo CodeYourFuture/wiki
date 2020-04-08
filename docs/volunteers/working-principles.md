@@ -10,7 +10,7 @@ title: Working Principles
 - Interactive events and physically active activities that encourages the participation of all students and attendees
 - Interaction with students and attendees is organized in smaller groups that promotes collaboration and discussion
 - Feedback is encouraged from all students and attendees by the end of the event
-- Social spaces are created and fostered where people can meet, discuss are essential in any class or event
+- Social spaces are created and fostered where people can meet, discussions are essential in any class or event
 
 **What we want to avoid having:**
 
