@@ -17,23 +17,21 @@ A student who completes our Full Stack Web Development course will:
 
 ## Delivery
 
-Our course is split in to modules each consisting of three weeks. It is the responsibility of a pair of Lead Teachers to deliver the module to the students supported by a team of teaching assistants.
+Our course is split into three-week modules. It is the responsibility of the Lead Teachers to deliver the module to the students supported by a team of teaching assistants.
 
 We teach one day per week in a physical location and then support the students during the week while they complete their coursework. This is primarily a self-taught course with a rigorous support structure in place to guide our students on their journey to becoming developers.
 
-Out-of-classroom support is given in the form of a Slack Channel where students can collaborate and ask questions to their peers and teachers. We encourage online collaboration in the form of video calls and screensharing. We also support our students with online drop-in sessions with volunteers, homework clubs and mentoring.
+Out-of-classroom support is given in a Slack Channel where students can collaborate and ask questions to their peers and teachers. We encourage online collaboration in the form of video calls and screensharing. We also support our students with online drop-in sessions with volunteers, homework clubs and mentoring.
 
 ## Syllabus
 
-You can find our syllabus online here:
-
-https://syllabus.codeyourfuture.io/
+You can find our syllabus online here: https://syllabus.codeyourfuture.io/
 
 ## Personal Development
 
-Just a essential as the programming side of the course is that our students have the soft skills required to get and hold a job. This contains essential skills such as 
+Just as essential as the programming side of the course is that our students have the soft skills required to get and hold a job. These include: 
 
-- Timekeeping
+- Time management
 - Planning
 - Communications
 - Teamwork
@@ -43,15 +41,15 @@ Just a essential as the programming side of the course is that our students have
 
 ### HTML/CSS
 
-In this module students learn will learn the basic building blocks of the web: HTML and CSS. HTML gives us the power to add text, images and videos to a page. CSS gives us the power to organize these parts and make it look nice.
+In this module students will learn the basic building blocks of the web: HTML and CSS. HTML gives us the power to add text, images and videos to a page. CSS enables us to organize these parts and make it look nice.
 
-The products of HTML and CSS comprise a two-thirds of what is called frontend (the final third is client-side JavaScript, which they will learn about in later modules). What is frontend? It's another word for the presentational part of a piece of software. In terms of web development we're talking about "what you see" when you go to any website.
+The products of HTML and CSS comprise two-thirds of what is called frontend (the final third is client-side JavaScript, which they will learn about in later modules). What is frontend? It's another word for the presentational part of a piece of software. In terms of web development we're talking about "what you see" when you go to any website.
 
 Think of it like this: if a webpage were a person, the HTML would be the skeleton and CSS the skin and clothing!
 
 ### JavaScript 1
 
-In this module our students make a start into wonderful world of programming. We will be using the programming language JavaScript to do so. Our students learn about the basic building blocks of programming: loops, functions, control flow and more. Consider these as the ABC's of programming, without them it's impossible to write working software.
+In this module our students make a start into the wonderful world of programming. We will be using JavaScript. Our students learn about the basic building blocks of programming: loops, functions, control flow and more. Consider these as the ABC of programming. Without them, it's impossible to write working software.
 
 ### JavaScript 2
 
@@ -81,8 +79,8 @@ At the end of our course we work on a single large group project that pulls toge
 
 Added to this they'll learn some more cutting-edge technologies that will prepare them for a great start in a modern software company. We will start out with the basics and incrementally add more complexity. This way they'll learn how all the pieces of a RESTful API fit together, thereby gaining a deeper understanding of where the backend stops and frontend starts.
 
-Along with practicing your programming skills they will also be working on your communication skills. This is just as important, because they need to be able to communicate your ideas and efforts in an easy-to-understand manner.
+Along with practicing their programming skills, they will also be working on improving their communication skills. This is just as important, because they need to be able to communicate ideas and concepts in an easy-to-understand manner.
 
-This project is used to form part of a students portfolio of work that they can take to employers to help them secure a job
+This project will form part of a student's portfolio that they can take to employers to help them secure a job.
 
 ## More Resources
