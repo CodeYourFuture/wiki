@@ -38,23 +38,23 @@ We strongly believe that 'We Are All Crew' and it is important that the students
 
 **What is this?**
 
-Energisers are short - often physical - games that are used to energise our student to be ready for the day. They will normally take 10-15 minutes to run and are fairly informal in structure.
+Energisers are short - often physical - games that are used to energise our students to be ready for the day. They will normally take 10-15 minutes to run and are fairly informal in structure.
 
 **Who runs this?**
 
-Usually a Personal Development volunteer will run the energisers but it can be run by anyone
+Usually a Personal Development volunteer will run the energisers but it can be run by anyone.
 
 **Why do we do this?**
 
 Energisers are important to help break the ice at the beginning of each day and allow our volunteers and students to get to know each other.
 
-In this afternoon, this helps to pick up the mood after lunch and get people ready to learn.
+In the afternoon, this helps to pick up the mood after lunch and get people ready to learn.
 
 ### Student Retrospective
 
 **What is this?**
 
-At the start of each day we have our students look back on the weeks homework and discuss what when well and what they struggled with.
+At the start of each day we have our students look back on the week's homework and discuss what went well and what they struggled with.
 
 **Who runs this?**
 
@@ -66,16 +66,16 @@ As well as simulating a real life work environment it is helpful for the student
 
 **What is this?**
 
-At the beginning of each day it is important that all of our volunteers understand the objectives of the day. This meeting ussually includes
+At the beginning of each day it is important that all of our volunteers understand the objectives of the day. This meeting ussually includes:
 
 - Introducing new volunteers to the group
 - Discussing what will be taught in todays lesson
 - Students we should be giving particular help to
-- Thanking the volunteers for attending!
+- Thanking the volunteers for attending
 
 **Who runs this?**
 
-The Class Coordinator will normally chair the kick off but anyway can offer agenda points throughout the meeting.
+The Class Coordinator will normally chair the kick off but anyone can suggest agenda points throughout the meeting.
 
 **Why do we do this?**
 
@@ -86,8 +86,6 @@ It is important at CodeYourFuture for all volunteers to feel engaged throughout 
 **What is this?**
 
 The teaching section of the day is the core part of our classes.
-
-In particular the morning session. 
 
 **Who runs this?**
 
@@ -111,28 +109,28 @@ This is coordinated and delivered by the Education Team. More information about 
 
 **Who runs this?**
 
-This either provided by CodeYourFuture, by a partner organisation or by the students themselves. Please speak to your city coordinator to find our more.
+This is provided by CodeYourFuture or by a partner organisation or by the students themselves. Please speak to your city coordinator to find out more.
 
 **Why do we do this?**
 
 ### Homework Briefing
 
 **What is this?**
-Giving the students a summary of their homework, and work they are expected to do throught the week.
+Giving the students a summary of their homework and work they are expected to do throught the week.
 
 **Who runs this?**
 
-This is run by an Education Team Volunteer (preferrably one of the Classroom Assistants)
+This is run by an Education Team Volunteer (preferrably one of the Classroom Assistants).
 
 **Why do we do this?**
 
-### Volunteer Retrospective
+### Volunteers Retrospective
 
 **What is this?**
 
 **Who runs this?**
 
-This meeting is chaired by the Class Coordinator but also person can add agenda points during the meeting.
+This meeting is chaired by the Class Coordinator but any participants can add agenda points during the meeting.
 
 **Why do we do this?**
 
@@ -142,6 +140,6 @@ This meeting is chaired by the Class Coordinator but also person can add agenda 
 
 **Who runs this?**
 
-This is coordinated and completed by the students
+This is coordinated and completed by the students.
 
 **Why do we do this?**
