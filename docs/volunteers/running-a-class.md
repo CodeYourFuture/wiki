@@ -130,7 +130,7 @@ This is run by an Education Team Volunteer (preferrably one of the Classroom Ass
 
 **Who runs this?**
 
-This meeting is chaired by the Class Coordinator but any participants can add agenda points during the meeting.
+This meeting is chaired by the Class Coordinator but any participant can add agenda points during the meeting.
 
 **Why do we do this?**
 
