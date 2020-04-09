@@ -105,15 +105,16 @@ This is, above all else, an indicator of the students abilities and is not compr
 
 A rough guide (to be taken with a pinch of salt):
 
-0	Work is not handed in
-
-1, 2, 3	Work has been handed in but does not meet the criteria/ demonstrates a lack of understanding
-
-4, 5, 6	Work is okay, demonstrate an understanding of this weeks’ material and the task.
-
-7, 8, 9	Work is good, the student demonstrates a strong understanding of this weeks’ material and the task and uses it with thought.
-
-10	Work is perfect, the student demonstrates a deep understanding of this week’s material and the task, a fluent use of code
+- 0	
+  - Work is not handed in
+- 1, 2, 3	
+  - Work has been handed in but does not meet the criteria/ demonstrates a lack of understanding
+- 4, 5, 6	
+  - Work is okay, demonstrate an understanding of this weeks’ material and the task.
+- 7, 8, 9	
+  - Work is good, the student demonstrates a strong understanding of this weeks’ material and the task and uses it with thought.
+- 10	
+  - Work is perfect, the student demonstrates a deep understanding of this week’s material and the task, a fluent use of code with very minimals errors or improvements
 
 
 ## 3. Labelling the Pull Request
