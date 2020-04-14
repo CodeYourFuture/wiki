@@ -6,6 +6,10 @@ title: Contact information
 ## Email
 London: london@codeyourfuture.io
 
+London Education Team: ldn-edu-core@codeyourfuture.io
+
+Chris Owen: chris.owen@codeyourfuture.io
+
 Candy DeRoy: candy@codeyourfuture.io
 
 
