@@ -1,6 +1,6 @@
 ---
 id: class-6
-title: Class 6 Overview
+title: Class Overview
 ---
 
 ## Overview
