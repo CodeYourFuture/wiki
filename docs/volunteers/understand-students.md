@@ -1,5 +1,5 @@
 ---
-id: understandstudents
+id: understand-students
 title: Understand our students' backgrounds
 ---
 
