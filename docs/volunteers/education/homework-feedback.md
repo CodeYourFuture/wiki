@@ -78,12 +78,17 @@ This not only get's the students used to using it, but also make it easier for o
 You will then be able to filter the pull request list by what needs approving.
 <img width="353" alt="Screenshot 2020-02-28 at 13 58 24" src="https://user-images.githubusercontent.com/31692/75577343-bbf1da00-5a59-11ea-9608-b4b880585d25.png">
 
+**Labelling the Pull Request**
+
+When you have completed marking the homework you should set the label as `reviewed`.
+
+If the student has not completed the homework leave it as `to-review` but add the label `not completed.`
+
 ### Suspicion of Copying
 
 We take attempts of plagiarisation very seriously at Code Your Future because it is a strong indicator that the student is out of their depth and do not understand key concepts.
 
 If you suspect a student has copied code please report this back to the Education Team and Course Coordinator on Slack. You should also highlight their homework as being `Invalid`.
-
 
 ## 2. Homework Grading
 
@@ -102,23 +107,37 @@ Grades should be given on the follow criteria
 - How well executed the homework is
 
 This is, above all else, an indicator of the students abilities and is not comprehensive. Different teachers will grade homework at different levels and we should be aware of this.
+ 
+Although grading makes the tracking easier, we aim to give students feedback rather than grades. 
 
 A rough guide (to be taken with a pinch of salt):
 
-- 0	
+- 0
   - Work is not handed in
-- 1, 2, 3	
+- 1, 2, 3
   - Work has been handed in but does not meet the criteria/ demonstrates a lack of understanding
-- 4, 5, 6	
+- 4, 5, 6
   - Work is okay, demonstrate an understanding of this weeks’ material and the task.
-- 7, 8, 9	
+- 7, 8, 9
   - Work is good, the student demonstrates a strong understanding of this weeks’ material and the task and uses it with thought.
-- 10	
+- 10
   - Work is perfect, the student demonstrates a deep understanding of this week’s material and the task, a fluent use of code with very minimals errors or improvements
 
+## 3. Mentor Responsibility
 
-## 3. Labelling the Pull Request
+Education volunteers are responsible for a group of students to track their progress through the course.
 
-When you have completed marking the homework you should set the label as `reviewed`.
+**They are responsible for**
+- Ensuring that students complete their homework each week
+- Giving them feedback
+- Recording the student progress for their assigned students
 
-If the student has not completed the homework leave it as `to-review` but add the label `not completed.`
+_Please consult your Class Coordinators for the best place to record this information as it will vary from class to class._
+
+**If you are unable**
+- You are responsible for communicating with other education team volunteers to find someone to cover these responsibilities
+- If you have completed your marking and you feel able to do more
+- Please offer your time to other volunteers to help them
+
+**If students haven’t completed their homework**
+- Please liaise with the student’s PD team lead to follow up with that student
