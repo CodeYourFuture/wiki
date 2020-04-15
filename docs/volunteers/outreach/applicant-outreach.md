@@ -14,21 +14,19 @@ Unless you are starting new chapter of CYF - skip ahead to point 3.
 
 ```
 
-3. Start calling NGOs - you will get the NGO list emailed to you. Some organisations may have undergone changes since we last called them, please update as you go.  
+3. Start calling NGOs - you will get the NGO in Slack. Some organisations may have undergone changes since we last called them, please update as you go.  
 
 4. Making a call takes around 10mins - best done during the day when the NGOs are open. Lunch times have worked well in the past. 
 
 5. The first email will be sent from by an volunteer or CYF staff member with a CYF email address. Your job is to follow up that email with a call. 
 
-6. Try to speak to the right contact at the NGO - or if not, get their name for a follow up email. 
+6. Try to speak to the right contact at the NGO - or if not, get their name for a follow up call. 
 
 7. Attached a flyer to the follow up email, copy a local codeyourfuture person (their name will be in your material) and send the email. Organisations can print flyers out or and pass them onto students directly - it is a physical manifestation of an opportunity. You will be sent the latest flyer. If you don't have a flyer, ask CYF.  
 
 8. Update the list with the next steps, eg. Jo from Refuaid was happy hear from us and is going to refer a student.  
 
-9. NGOs need to be called back within a month. NGOs are often busy doing other things, so a second call, especailly to big referrers, is critical. 
-
-As a volunteer, you are likely only to call NGOs once.
+9.  As a volunteer, you are likely only to call NGOs once. If you are a new CYF city, you may need to organise that other volunteers call the NGO back. NGOs are often busy doing other things, so a second call, especailly to big referrers, is critical.
 
 **Material for calling NGOs will be sent via Slack**
 - The list of NGOs to call
