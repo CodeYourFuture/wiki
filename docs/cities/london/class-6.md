@@ -22,6 +22,8 @@ We teach either in our physical location or online. Please contact a coordinator
 
 Please add your name and email address to the Schedule sheet below to confirm your attendence and email ldn-edu-core@codeyourfuture.io with the subject `New Volunteer at Class on [DATE_OF_CLASS]` and introduce yourself. We'll then guide you through the day!
 
+Before attending you should check out the rest of our documentation in the [volunteers section of this website](https://docs.codeyourfuture.io/volunteers)
+
 ## Schedule
 
 The schedule for Class 6 can be found [here](https://docs.google.com/spreadsheets/d/1sZNv9P6_cee8-0kG8sT83qkhZBPwL0z7hKqi03lGUTE/edit#gid=1718527320)
