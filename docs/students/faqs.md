@@ -4,7 +4,7 @@ title: Frequently Asked Questions
 ---
 
 ## New Question
-Please add questions below here and we will answer them in the future.
+Please add questions below here and we will answer them in the future. Click [here](https://github.com/CodeYourFuture/wiki/blob/master/docs/students/faqs.md) to edit this page and add your questions.
 
 ## Questions
 
