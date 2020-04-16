@@ -27,7 +27,7 @@ If you're using Windows we ask that you install this program to make it easier f
 
 Although you *can* install some of the following software onto a phone, it is required you install it onto your *laptop*.
 
-## Chrome
+### Chrome
 
 Chrome is one of the best browsers for web developers with a great set of tools for testing and building websites
 
@@ -87,13 +87,13 @@ We use this tool to make it easier to use Git since it can be quite hard for a b
 
 ## Websites
 
-## Gmail
+### Gmail
 
 We use a lot of Google products in the class so it's essential that everyone has a Gmail address. If you do not already have one then please register below.
 
 [Create email address here](https://accounts.google.com/SignUp)
 
-## Github
+### Github
 
 We use Github to submit our homework and to share code with each other. Please make sure that you have created an account and are logged in before you attend your first lesson.
 
