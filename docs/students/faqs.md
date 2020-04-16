@@ -3,6 +3,9 @@ id: faqs
 title: Frequently Asked Questions
 ---
 
+## New Question
+Please add questions below here and we will answer them in the future.
+
 ## Questions
 
 ### Is this course recognised by employers?
