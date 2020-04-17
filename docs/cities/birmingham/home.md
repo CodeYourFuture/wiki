@@ -11,7 +11,7 @@ In this section you'll find all the information specific to <strong>Birmingham</
 
 You can stay up to date with all of our events by adding this Google Calendar.
 
-[CYF Birmingham Calendar](https://calendar.google.com/calendar/b/1?cid=Y29kZXlvdXJmdXR1cmUuaW9fbGVrNnF2MXZuZ24zMmVzZ3AxajU1MnQ4cWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)([ical](https://calendar.google.com/calendar/ical/codeyourfuture.io_lek6qv1vngn32esgp1j552t8qc%40group.calendar.google.com/public/basic.ics))
+[CYF Birmingham Calendar](https://calendar.google.com/calendar/b/1?cid=Y29kZXlvdXJmdXR1cmUuaW9fbGVrNnF2MXZuZ24zMmVzZ3AxajU1MnQ4cWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) ([iCal](https://calendar.google.com/calendar/ical/codeyourfuture.io_lek6qv1vngn32esgp1j552t8qc%40group.calendar.google.com/public/basic.ics))
 
 For all other events you can follow the global calendar
 
