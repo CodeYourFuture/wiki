@@ -7,6 +7,16 @@ title: Overview
 
 In this section you'll find all the information specific to <strong>Birmingham</strong> and the <strong>West Midlands</strong>. We say both Birmingham and West Midlands as we cover areas beyond Birmingham including Coventry, Dudley, Sandwell, Solihull, Walsall and Wolverhampton.
 
+## Calendar
+
+You can stay up to date with all of our events by adding this Google Calendar.
+
+[CYF Birmingham Calendar](https://calendar.google.com/calendar/b/1?cid=Y29kZXlvdXJmdXR1cmUuaW9fMnVxYjhzaWxkNXU1ajIzNjJpOGloaHM4cGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+
+For all other events you can follow the global calendar
+
+[CYF Global Calendar](https://calendar.google.com/calendar/b/1?cid=Y29kZXlvdXJmdXR1cmUuaW9fdG00MDN0NTlmNWJzcjlocm10bGVyN2RiaThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+
 ## Where is our office?
 
 We're based at Melting Pot usually on Tuesdays, Wednesdays and Thursdays.<br>
@@ -40,4 +50,3 @@ iCal link is <a href="https://calendar.google.com/calendar/ical/codeyourfuture.i
 ## How can I apply?
 
 Our next class will be launching over the summer. To register your interest please <a href="https://application-process.codeyourfuture.io" target="_blank">click here</a>.
-

@@ -6,7 +6,16 @@ title: CodeYourFuture Scotland
 ## Quick links
 
 - [Syllabus](https://codeyourfuture.github.io/syllabus-scotland/) for the course content
-- [Calendar](https://calendar.google.com/calendar?cid=Y29kZXlvdXJmdXR1cmUuaW9fYmswNDFocTNkdm9zdjBidmdkN2wwb2lwY2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) ([calendar in iCal format](https://calendar.google.com/calendar/ical/codeyourfuture.io_bk041hq3dvosv0bvgd7l0oipck%40group.calendar.google.com/private-6eb101d8a2bc2ef98073e6875d9c0216/basic.ics)) for class times
+
+## Calendar
+
+You can stay up to date with all of our events by adding this Google Calendar.
+
+[CYF Scotland Calendar](https://calendar.google.com/calendar?cid=Y29kZXlvdXJmdXR1cmUuaW9fYmswNDFocTNkdm9zdjBidmdkN2wwb2lwY2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) ([calendar in iCal format](https://calendar.google.com/calendar/ical/codeyourfuture.io_bk041hq3dvosv0bvgd7l0oipck%40group.calendar.google.com/private-6eb101d8a2bc2ef98073e6875d9c0216/basic.ics)) for class times
+
+For all other events you can follow the global calendar
+
+[CYF Global Calendar](https://calendar.google.com/calendar/b/1?cid=Y29kZXlvdXJmdXR1cmUuaW9fdG00MDN0NTlmNWJzcjlocm10bGVyN2RiaThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
 ## Class structure
 
@@ -41,7 +50,7 @@ This will get them familiar with various methodologies that real world software 
 
 - [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development) (as opposed to a [waterfall model](https://en.wikipedia.org/wiki/Waterfall_model))
 - Working in a [scrum framework](https://en.wikipedia.org/wiki/Scrum_(software_development) which involves:
-  - A [product owner](https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_owner), [scrum master](https://en.wikipedia.org/wiki/Scrum_(software_development)#Scrum_master) and development team
+  - A [product owner](<https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_owner>), [scrum master](<https://en.wikipedia.org/wiki/Scrum_(software_development)#Scrum_master>) and development team
   - A daily stand-up
 
 ## Communication
@@ -56,18 +65,21 @@ Please read the [Slack page](../../volunteers/slack-volunteers.md) for informati
 - **\#cyf-general** - CYF-wide communication
 
 Fun and social:
+
 - **\#scotland-fun-stuff** - organising days out, meals, and celebrations
 - **\#scotland-football** - organising playing football
 - **\#glasgow-lunch** - organising lunch in Glasgow, usually during the week
 
 Relevant to mentors:
+
 - **\#scotland-mentors** - organising channel for mentors
 - **\#cyf-\<techmodule\>** - an open discussion among mentors on a tech module
 
 Channel prefixes:
-- **\#scotland-*** - Scotland-wide channels
-- **\#scot-*** - group projects done by the students
-- **\#cyf-*** - a number of CYF-wide channels that are used for different purposes
+
+- **\#scotland-\*** - Scotland-wide channels
+- **\#scot-\*** - group projects done by the students
+- **\#cyf-\*** - a number of CYF-wide channels that are used for different purposes
 
 ## Code of conduct
 

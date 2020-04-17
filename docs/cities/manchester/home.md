@@ -7,25 +7,35 @@ title: Overview
 
 Welcome to the CodeYourFuture North-West page, as the course is currently held in Manchester, 'North-West' and 'Manchester' are often used interchangeably. In this section you'll find all the information specific to the North-West
 
+## Calendar
+
+You can stay up to date with all of our events by adding this Google Calendar.
+
+[CYF Manchester Calendar](https://calendar.google.com/calendar/b/1?cid=Y29kZXlvdXJmdXR1cmUuaW9fb2U2OWNsb2piMHFzZm80dDNpMG1hNWpkamdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+
+For all other events you can follow the global calendar
+
+[CYF Global Calendar](https://calendar.google.com/calendar/b/1?cid=Y29kZXlvdXJmdXR1cmUuaW9fdG00MDN0NTlmNWJzcjlocm10bGVyN2RiaThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+
 ## Where do we teach?
 
-  Federation House, 
-  2 Federation St, 
-  Manchester 
-  M4 4BF
-  
-  Usually on the Lower Ground Floor unless advised otherwise
+Federation House,
+2 Federation St,
+Manchester
+M4 4BF
+
+Usually on the Lower Ground Floor unless advised otherwise
 
 ## When do we teach?
 
-  Saturdays 11am - 4 pm
+Saturdays 11am - 4 pm
 
 ## Where is our office?
 
-  Federation House, 
-  2 Federation St, 
-  Manchester 
-  M4 4BF
+Federation House,
+2 Federation St,
+Manchester
+M4 4BF
 
 ## Slack
 
