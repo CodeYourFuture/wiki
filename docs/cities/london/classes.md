@@ -1,5 +1,5 @@
 ---
-id: class-6
+id: classes
 title: Class Overview
 ---
 
@@ -12,13 +12,13 @@ title: Class Overview
 
 ## How to volunteer with this class
 
-If you're a new volunteer, joining as a teaching assistant is a great way to get to know our students and provide a really valuable service. 
+If you're a new volunteer, joining as a teaching assistant is a great way to get to know our students and provide a really valuable service.
 
-As a Teaching Assistant you'll be working closely with our students and helping our Lead Teachers in delivering our content. No teaching experience is required and you'll be supported throughout the day. 
+As a Teaching Assistant you'll be working closely with our students and helping our Lead Teachers in delivering our content. No teaching experience is required and you'll be supported throughout the day.
 
-We teach most Sundays the class will then start at 11:00am it'd be great if you could arrive a bit early - around 10:30am - for a quick onboarding. 
+We teach most Sundays the class will then start at 11:00am it'd be great if you could arrive a bit early - around 10:30am - for a quick onboarding.
 
-We teach either in our physical location or online. Please contact a coordinator to find out the correct place. 
+We teach either in our physical location or online. Please contact a coordinator to find out the correct place.
 
 Please add your name and email address to the Schedule sheet below to confirm your attendence and email ldn-edu-core@codeyourfuture.io with the subject `New Volunteer at Class on [DATE_OF_CLASS]` and introduce yourself. We'll then guide you through the day!
 
