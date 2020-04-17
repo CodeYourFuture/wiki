@@ -11,7 +11,7 @@ In this section you'll find all the information specific to <strong>Birmingham</
 
 You can stay up to date with all of our events by adding this Google Calendar.
 
-[CYF Birmingham Calendar](https://calendar.google.com/calendar/b/1?cid=Y29kZXlvdXJmdXR1cmUuaW9fMnVxYjhzaWxkNXU1ajIzNjJpOGloaHM4cGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+[CYF Birmingham Calendar](https://calendar.google.com/calendar/b/1?cid=Y29kZXlvdXJmdXR1cmUuaW9fbGVrNnF2MXZuZ24zMmVzZ3AxajU1MnQ4cWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)([ical](https://calendar.google.com/calendar/ical/codeyourfuture.io_lek6qv1vngn32esgp1j552t8qc%40group.calendar.google.com/public/basic.ics))
 
 For all other events you can follow the global calendar
 
@@ -44,8 +44,6 @@ Please note, we have recently moved to a remote teaching model, we hope to retur
 
 We are currently teaching Birmingham Class 1. This will run from March 2020 until the end of the year.<br>
 We teach Saturdays - 11am-5:30pm<br>
-You can find our calendar at this <a href="https://calendar.google.com/calendar/embed?src=codeyourfuture.io_lek6qv1vngn32esgp1j552t8qc%40group.calendar.google.com&ctz=Europe%2FLondon" target="_blank">link</a>.<br>
-iCal link is <a href="https://calendar.google.com/calendar/ical/codeyourfuture.io_lek6qv1vngn32esgp1j552t8qc%40group.calendar.google.com/public/basic.ics" target ="_blank">here</a>.
 
 ## How can I apply?
 
