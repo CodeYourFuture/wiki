@@ -24,11 +24,12 @@ Once you have completed your general onboarding tasks, you should be invited to 
 Please let us know either on Slack or through your cities contact information if you have not been added to any of the above.
 
 ## Calendars 
-### Global
+### Global Calendar
 All events that are not specific to any city
 
 https://calendar.google.com/calendar/b/1?cid=Y29kZXlvdXJmdXR1cmUuaW9fdG00MDN0NTlmNWJzcjlocm10bGVyN2RiaThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
 
+### City Specific Calendars
 - London
   - https://calendar.google.com/calendar/b/1?cid=Y29kZXlvdXJmdXR1cmUuaW9fbzdsNnY3aGd0bmQ4aHBmYWduazVmc2NrajRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
 - Birmingham
