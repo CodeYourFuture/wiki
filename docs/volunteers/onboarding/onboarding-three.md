@@ -37,6 +37,6 @@ https://calendar.google.com/calendar/b/1?cid=Y29kZXlvdXJmdXR1cmUuaW9fdG00MDN0NTl
   - https://calendar.google.com/calendar/b/1?cid=Y29kZXlvdXJmdXR1cmUuaW9fb2U2OWNsb2piMHFzZm80dDNpMG1hNWpkamdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
 - Scotland
   - https://calendar.google.com/calendar?cid=Y29kZXlvdXJmdXR1cmUuaW9fYmswNDFocTNkdm9zdjBidmdkN2wwb2lwY2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
-Other
+- Other
   - Please contact your city coordinator
   
