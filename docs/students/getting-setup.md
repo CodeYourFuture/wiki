@@ -61,19 +61,19 @@ A guide to installing extentions [can be found here](https://code.visualstudio.c
 
 **Essential** 
 
-- Prettier - Code formatter (format your code automatically)
+- Prettier - Code formatter - Format your code automatically
   - https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
-- ESLint - Linter
+- ESLint - Linter - Tells you when your code is wrong
   - https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-- Code Spell Checker
+- Code Spell Checker - Tells you when you've spelt something wrong
   - https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
   
 **Helpful**
-- GitLens — Git supercharged (connect with GitHub/Git)
+- GitLens — Git supercharged - Connect with GitHub/Git
   - https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
-- Live Server (Run your code in the browser )
+- Live Server - Run your code in the browser 
   - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-- Live Share (Share your project with a team live)
+- Live Share - Share your project with a team
   - https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 
 ### Node.js
