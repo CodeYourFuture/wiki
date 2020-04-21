@@ -23,6 +23,43 @@ If you're using Windows we ask that you install this program to make it easier f
 
 [Enable and install here](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
+## Visual Studio Code
+
+We use VS Code to write all of our code in the course. It is known as an Integrated Developer Environment and really helps you write great code!
+
+[Download and install here](https://code.visualstudio.com/)
+
+### Extensions
+
+We also recommend that you install the follow extensions in Visual Studio Code.
+
+A guide to installing extentions [can be found here](https://code.visualstudio.com/docs/editor/extension-gallery).
+
+**Essential** 
+
+- Prettier - Code formatter - Format your code automatically
+  - https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+- ESLint - Linter - Tells you when your code is wrong
+  - https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+- Code Spell Checker - Tells you when you've spelt something wrong
+  - https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
+  
+**Helpful**
+- GitLens — Git supercharged - Connect with GitHub/Git
+  - https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+- Live Server - Run your code in the browser 
+  - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+- Live Share - Share your project with a team
+  - https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
+  
+### Enable formatting on save
+
+We also suggest that you enable format on save so that your code stays formatted
+
+1. In Visual Studio open the settings file (see [here](https://code.visualstudio.com/docs/getstarted/settings#_creating-user-and-workspace-settings))
+2. Search for `editor format`
+3. Set `editor.formatOnSave` and `editor.formatOnPaste` to true
+
 ## Software
 
 Although you *can* install some of the following software onto a phone, it is required you install it onto your *laptop*.
@@ -46,43 +83,6 @@ You'll need to login when you've download this. Speak to your teachers to get in
 We use Zoom for bigger video calls such as weekend classrooms when they are remote.
 
 [Download and install here](https://zoom.us/download)
-
-### Visual Studio Code
-
-We use VS Code to write all of our code in the course. It is known as an Integrated Developer Environment and really helps you write great code!
-
-[Download and install here](https://code.visualstudio.com/)
-
-#### Extensions
-
-We also recommend that you install the follow extensions in Visual Studio Code.
-
-A guide to installing extentions [can be found here](https://code.visualstudio.com/docs/editor/extension-gallery).
-
-**Essential** 
-
-- Prettier - Code formatter - Format your code automatically
-  - https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
-- ESLint - Linter - Tells you when your code is wrong
-  - https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-- Code Spell Checker - Tells you when you've spelt something wrong
-  - https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
-  
-**Helpful**
-- GitLens — Git supercharged - Connect with GitHub/Git
-  - https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
-- Live Server - Run your code in the browser 
-  - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-- Live Share - Share your project with a team
-  - https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
-  
-#### Enable formatting on save
-
-We also suggest that you enable format on save so that your code stays formatted
-
-1. In Visual Studio open the settings file (see [here](https://code.visualstudio.com/docs/getstarted/settings#_creating-user-and-workspace-settings))
-2. Search for `editor format`
-3. Set `editor.formatOnSave` and `editor.formatOnPaste` to true
 
 ### Node.js
 
