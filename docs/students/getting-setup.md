@@ -57,15 +57,24 @@ We use VS Code to write all of our code in the course. It is known as an Integra
 
 We also recommend that you install the follow extensions in Visual Studio Code.
 
-- Prettier - Code formatter (format your code automatically)
-- Visual Studio IntelliCode (AI tool that gives code suggestions)
-- Babel JavaScript (highlighting your JS code)
-- Code Runner (Run your JS code inside VS Code output)
-- GitLens — Git supercharged (connect with GitHub/Git)
-- Live Server (Run your code in the browser )
-- Live Share (Share your project with a team live)
+A guide to installing extentions [can be found here](https://code.visualstudio.com/docs/editor/extension-gallery).
 
-A guide to installing extiontions [can be found here](https://code.visualstudio.com/docs/editor/extension-gallery).
+**Essential** 
+
+- Prettier - Code formatter (format your code automatically)
+  - https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+- ESLint - Linter
+  - https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+- Code Spell Checker
+  - https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
+  
+**Helpful**
+- GitLens — Git supercharged (connect with GitHub/Git)
+  - https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+- Live Server (Run your code in the browser )
+  - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+- Live Share (Share your project with a team live)
+  - https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 
 ### Node.js
 
