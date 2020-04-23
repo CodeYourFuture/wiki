@@ -5,7 +5,7 @@ title: Dashboard
 
 ## Where is this?
 
-https://docs.codeyourfuture.io/
+https://dashboard.codeyourfuture.io/
 
 ## What is this?
 
