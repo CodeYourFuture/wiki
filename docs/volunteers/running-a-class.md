@@ -107,6 +107,8 @@ This is coordinated and delivered by the Education Team. More information about 
 
 **What is this?**
 
+It's time to eat, unwind and digest what we've been learning about over the past two hours. Also, it's a time that we can all get to know each other!
+
 **Who runs this?**
 
 This is provided by CodeYourFuture or by a partner organisation or by the students themselves. Please speak to your city coordinator to find out more.
@@ -138,8 +140,19 @@ This meeting is chaired by the Class Coordinator but any participant can add age
 
 **What is this?**
 
+When we're in a physical classroom (i.e. not an online lesson) we need to make sure everything is clean and tidy for when the next people use the space. This is important as we're normally hosted in another companies office!
+
+We need to make sure that 
+
+- All tables are back to where they should be
+- All washing up is clean and put away
+- Teaching space is tiday
+- Projectors and lights are turned off
+
 **Who runs this?**
 
 This is coordinated and completed by the students.
 
 **Why do we do this?**
+
+To be respectful of the space that we're using to run our classes
