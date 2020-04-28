@@ -32,6 +32,7 @@ Unless you are starting new chapter of CYF - skip ahead to point 3.
 - The list of NGOs to call
 - The NGO script to use when calling
 - Emails and flyers to send to NGOs 
+- F.A.Q. - especailly useful when calling NGOs and Applicants: https://codeyourfuture.io/faq/
 
 ### Calling Applicants
 
@@ -49,6 +50,7 @@ Once you have called an applicant, record this call on the dashboard and move on
 
 **Material for calling applicants**
 - Call scripts will be emailed to you
+- F.A.Q. - especailly useful when calling NGOs and Applicants: https://codeyourfuture.io/faq/
 
 ### Facebook Groups
 
