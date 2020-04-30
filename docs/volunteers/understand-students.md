@@ -47,7 +47,7 @@ There are lots of incredible foundations and groups out there making information
 
 There are many local groups with that we work with or and that you can get involved with to help your community. We will continue to add to this section to make these known.
 
-### What other groups does CYF teach?
+## What other groups does CYF teach?
 Currently, CYF currently considers applications from the following groups, most of which are self-explanatory:
 - Single parents with low income
 - Individuals experiencing mental health issues
