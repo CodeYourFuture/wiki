@@ -5,7 +5,7 @@ title: Running A Class
 
 ## Pre-Class Checklist
 
-- [ ] Lead Teachers understand the content that they will be teaching
+- [x] Lead Teachers understand the content that they will be teaching
   - This includes the teaching for the day and the homework
 - [ ] All volunteers know when and where they should be attending
 - [ ] Volunteers attending for this first time have somebody to greet them and show them how CYF works
