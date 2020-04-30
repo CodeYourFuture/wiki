@@ -3,6 +3,14 @@ id: running-a-class
 title: Running A Class
 ---
 
+## Pre-Class Checklist
+
+- [ ] Lead Teachers understand the content that they will be teaching
+- [ ] All volunteers know when and where they should be attending
+- [ ] Students know when and where they will be attending the class
+- [ ] Somebody has been chosen to run energisers during the day 
+- [ ] If lunch is being provided - somebody is in charge of coorinating it
+
 ## Schedule
 
 Here is an example schedule of a day events at a normal class
