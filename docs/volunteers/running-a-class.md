@@ -10,6 +10,7 @@ title: Running A Class
 - [ ] Students know when and where they will be attending the class
 - [ ] Somebody has been chosen to run energisers during the day 
 - [ ] If lunch is being provided - somebody is in charge of coorinating it
+  - This includes expenses
 
 ## Schedule
 
