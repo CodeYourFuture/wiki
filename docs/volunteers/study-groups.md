@@ -3,8 +3,6 @@ id: study-groups
 title: Study Groups
 ---
 
-## Online Homework Club Agenda
-
 ## Problem
 
 At CodeYourFuture, we have a very limited amount of time with our students - only one day per week - and so the amount of time that our students spend with teachers is limited. In particular, our teachers time is split between 15-30 students depending on the size of the class meaning it is hard to tailor our lessons to any student.
@@ -29,11 +27,13 @@ By running weekly Study groups we give the student a safe space to explore ideas
   </tr>
   <tr>
    <td>Coordinator</td>
-   <td>The coordinator should be the host of the Zoom call and work to make the event go smoothly for all involved. Does not need to be technical but it helps. They also make sure that the students know when and where study group is happening.</td>
+   <td>The coordinator should be the host of the Zoom call and work to make the event go smoothly for all involved. Does not need to be technical but it helps. 
+   
+   They also make sure that the students know when and where study group is happening.</td>
   </tr>
   <tr>
-   <td>Mentor</td>
-   <td>Work directly with the students to answer their questions</td>
+   <td>Technical Mentor</td>
+   <td>Work directly with the students to answer their questions during the session. Explaining key concepts that the students do not understand. Reassuring and coaching students.</td>
   </tr>
 </table>
 
