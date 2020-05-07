@@ -12,7 +12,8 @@
       "students/guides/submitting-homework",
       "students/guides/hosting-netlify",
       "students/guides/node",
-      "students/guides/cors"
+      "students/guides/cors",
+      "students/guides/creating-a-react-app"
     ],
     "Soft Skills Guides": ["students/getting-a-job", "students/slack-students"],
     "FAQs": ["students/faqs"]
