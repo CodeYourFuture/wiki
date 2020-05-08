@@ -41,8 +41,13 @@ npm start
 
 This does two things:
 
-1. Run a program on your computer that *watches* your files and updates your application when you make changes. It also runs some checks for common bugs or problems in your code. An error message will be shown in your browser if it detects that there is a problem
-2. Opens a web browser with a link to your React app so that you can develop and test the changes you made. You should see a big rotating React logo
+1. Run a program on your computer that *watches* your files and updates your application when you make changes. It also runs some checks for common bugs or problems in your code. An error message will be shown in your browser if it detects that there is a problem. When it has started it looks like this:
+
+![Create-React-App started in the terminal](../../assets/students/create-react-app-started-terminal.png)
+
+2. Opens a web browser with a link to your React app so that you can develop and test the changes you made. You should see a big rotating React logo:
+
+![Create-React-App started in the browser](../../assets/students/create-react-app-started-browser.png)
 
 ## Stopping the app
 
