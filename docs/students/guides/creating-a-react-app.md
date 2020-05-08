@@ -69,3 +69,22 @@ To install it, follow these steps:
 4. Once this has this finished, open the `src/index.js` file in your editor. Don't worry about understanding the code in this file, we'll learn about it later.
 5. Add an extra line **at the top of the file** with this code: `import 'stop-runaway-react-effects/hijack';`. If it is not on **line 1** of the file, it will **not** work
 6. Start the app again (by following the instructions above) to check that it still works
+
+# Bonus
+
+You're done!  You don't have to read more - you can now develop React apps, locally.
+
+But what about deployment?
+
+## Deployment with Netlify
+
+If you have already learned to [deploy your apps from github using Netlify](https://github.com/CodeYourFuture/syllabus/blob/master/others/deployment/1-for-html-module/instructions-for-automatic-deployment-with-netlify-and-github.md), you can use the same process to deploy any React apps you created initially with create-react-app.  
+
+You may notice that Netlify automatically sets the following two config settings:
+
+* Build command: `npm run build`
+* Publish directory: `build/`
+
+These are correct and necessary - don't change them.  
+
+(You should expect deployment of your react apps to be slower than your old "vanilla JS" apps, due to the build process that takes place.)
