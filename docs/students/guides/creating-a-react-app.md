@@ -47,6 +47,8 @@ This does two things:
 
 ![Create-React-App started in the browser](../../assets/students/create-react-app-started-browser.png)
 
+**Don't** try to use "Open with Live Server" (in VSCode) as you have done previously. Your app will automatically reload the browser just like Live Server does.
+
 ## Stopping the app
 
 You might notice that once you have run `npm start` your terminal will look different. This is because it is running the *watcher* program. If you have a slower computer we recommend that you *stop* the program when you are not using your React app.
