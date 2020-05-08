@@ -62,5 +62,5 @@ To install it, follow these steps:
 2. Open your terminal and ensure that you are within the `pokedex` folder
 3. Then run in your terminal: `npm install stop-runaway-react-effects`
 4. Once this has this finished, open the `src/index.js` file in your editor. Don't worry about understanding the code in this file, we'll learn about it later.
-5. Add an extra line **at the top of the file** with this code: `import 'stop-runaway-react-effecthijack';`. If it is not on **line 1** of the file, it will **not** work
+5. Add an extra line **at the top of the file** with this code: `import 'stop-runaway-react-effects/hijack';`. If it is not on **line 1** of the file, it will **not** work
 6. Start the app again (by following the instructions above) to check that it still works
