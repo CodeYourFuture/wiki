@@ -10,7 +10,7 @@ The Facebook team behind React have created a tool to help you create and set up
 Install & set up a Create React App by following the steps below:
 
 1. Open your terminal and `cd` to where you keep your projects
-2. In your terminal, run:
+2. In your terminal, run (this may take several minutes to complete):
 
 ```
 npx create-react-app pokedex
@@ -24,7 +24,7 @@ npx create-react-app pokedex
 cd pokedex
 ```
 
-4. Open the `pokedex` folder in your editor. Notice that create-react-app has created a bunch of folders for you.
+4. Open the `pokedex` folder in your editor. Notice that create-react-app has created a bunch of folders for you. It has even made a new git repo in the folder and committed the files for you.
 
 ## Starting the app
 
