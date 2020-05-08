@@ -7,12 +7,10 @@ title: Creating a React app
 
 The Facebook team behind React have created a tool to help you create and set up React projects. It is called [Create React App](https://create-react-app.dev/). The official documentation is available [here](https://create-react-app.dev/docs/getting-started).
 
-It sets up files like we saw in the previous example, so that you don't have to.
-
 Install & set up a Create React App by following the steps below:
 
 1. Open your terminal and `cd` to where you keep your projects
-2. In your terminal, run:
+2. In your terminal, run (this may take several minutes to complete):
 
 ```
 npx create-react-app pokedex
@@ -26,7 +24,7 @@ npx create-react-app pokedex
 cd pokedex
 ```
 
-4. Open the `pokedex` folder in your editor. Notice that create-react-app has created a bunch of folders for you.
+4. Open the `pokedex` folder in your editor. Notice that create-react-app has created a bunch of folders for you. It has even made a new git repo in the folder and committed the files for you.
 
 ## Starting the app
 
@@ -48,6 +46,8 @@ This does two things:
 2. Opens a web browser with a link to your React app so that you can develop and test the changes you made. You should see a big rotating React logo:
 
 ![Create-React-App started in the browser](../../assets/students/create-react-app-started-browser.png)
+
+**Don't** try to use "Open with Live Server" (in VSCode) as you have done previously. Your app will automatically reload the browser just like Live Server does.
 
 ## Stopping the app
 
