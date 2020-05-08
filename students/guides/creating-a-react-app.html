@@ -61,11 +61,10 @@
             });
         </script></nav></div><div class="container mainContainer docsContainer"><div class="wrapper"><div class="post"><header class="postHeader"><a class="edit-page-link button" href="https://github.com/CodeYourFuture/wiki/tree/master/docs/students/guides/creating-a-react-app.md" target="_blank" rel="noreferrer noopener">Edit</a><h1 id="__docusaurus" class="postHeaderTitle">Creating a React app</h1></header><article><div><span><h1><a class="anchor" aria-hidden="true" id="creating-a-react-app"></a><a href="#creating-a-react-app" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Creating a React app</h1>
 <p>The Facebook team behind React have created a tool to help you create and set up React projects. It is called <a href="https://create-react-app.dev/">Create React App</a>. The official documentation is available <a href="https://create-react-app.dev/docs/getting-started">here</a>.</p>
-<p>It sets up files like we saw in the previous example, so that you don't have to.</p>
 <p>Install &amp; set up a Create React App by following the steps below:</p>
 <ol>
 <li>Open your terminal and <code>cd</code> to where you keep your projects</li>
-<li>In your terminal, run:</li>
+<li>In your terminal, run (this may take several minutes to complete):</li>
 </ol>
 <pre><code class="hljs"><span class="hljs-string">npx </span><span class="hljs-built_in">create-react-app</span> <span class="hljs-string">pokedex
 </span></code></pre>
@@ -76,7 +75,7 @@
 <pre><code class="hljs"><span class="hljs-built_in">cd</span> pokedex
 </code></pre>
 <ol start="4">
-<li>Open the <code>pokedex</code> folder in your editor. Notice that create-react-app has created a bunch of folders for you.</li>
+<li>Open the <code>pokedex</code> folder in your editor. Notice that create-react-app has created a bunch of folders for you. It has even made a new git repo in the folder and committed the files for you.</li>
 </ol>
 <h2><a class="anchor" aria-hidden="true" id="starting-the-app"></a><a href="#starting-the-app" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Starting the app</h2>
 <p>To start running your application follow the steps below:</p>
@@ -95,6 +94,7 @@
 <li>Opens a web browser with a link to your React app so that you can develop and test the changes you made. You should see a big rotating React logo:</li>
 </ol>
 <p><img src="../../assets/students/create-react-app-started-browser.png" alt="Create-React-App started in the browser"></p>
+<p><strong>Don't</strong> try to use &quot;Open with Live Server&quot; (in VSCode) as you have done previously. Your app will automatically reload the browser just like Live Server does.</p>
 <h2><a class="anchor" aria-hidden="true" id="stopping-the-app"></a><a href="#stopping-the-app" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Stopping the app</h2>
 <p>You might notice that once you have run <code>npm start</code> your terminal will look different. This is because it is running the <em>watcher</em> program. If you have a slower computer we recommend that you <em>stop</em> the program when you are not using your React app.</p>
 <p>To stop the program, open your terminal and press <code>Ctrl-C</code> (it's the same on Windows, Mac &amp; Linux). Unfortunately, closing your terminal will <strong>not</strong> stop the program from running.</p>
