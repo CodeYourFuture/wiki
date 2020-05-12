@@ -31,17 +31,28 @@ Mentors are not expected to come every weekend, although advanced absence notifi
 
 **Time Commitment**: Flexible
 
-Some mentors can't commit their Saturdays but they are able to meet students midweek to help with homework, provide group project support, or help them get a better understanding of the concepts they're learning. This is evolving into a parallel stream of work that is just as valued and important as the main Saturday class.
+Some mentors can't commit their weekends but they are able to meet students midweek to help with homework, provide group project support, or help them get a better understanding of the concepts they're learning. This is evolving into a parallel stream of work that is just as valued and important as the main Saturday class.
 Normally, volunteer mentors offer help on a certain day of the week (few hours after work for example) and students respond if they can join.
 This can also be requested by the students by asking if there are mentors available to help on specific day(s).
 All communication is done via the cohort's Slack channel.
 
-## Student-Mentor pairing
+## Education Buddy
 
-**Time Commitment**: A few hours a week, long term
+**Time Commitment**: A few hours a week, one essential meeting, - long term commitment
 
-This is a new role we are trialing at the moment.
-It consists of pairing one student with one mentor for a few weeks. The mentor becomes the student's first point of contact and is responsible of reviewing their homework (or delegating the review to other mentors) and escalating if they feel the student need extra help.
+This role is an ongoing commitment where a volunteer is paired with between three and five students for a period of a few months. It is this volunteers responsibility to be the first point of contact for help with their students problems for anything on the technical education side of the course.
+
+They should also attend a weekly meeting to feedback on their students progress and if their students need any additional support.
+
+Each week they should:
+
+- Send messages on Slack catching up with their students
+- If required, have one-to-one phone calls with students to track their progress
+- Answer problems the students are having or direct them to someone who can help
+
+Additionally - depending on your city - Education buddies may also be required to
+
+- Give feedback and grade homework
 
 ## General online help
 
