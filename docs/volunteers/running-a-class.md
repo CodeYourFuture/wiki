@@ -5,13 +5,13 @@ title: Running A Class
 
 ## Pre-Class Checklist
 
-- [x] Lead Teachers understand the content that they will be teaching
+- Lead Teachers understand the content that they will be teaching
   - This includes the teaching for the day and the homework
-- [ ] All volunteers know when and where they should be attending
-- [ ] Volunteers attending for this first time have somebody to greet them and show them how CYF works
-- [ ] Students know when and where they will be attending the class
-- [ ] Somebody has been chosen to run energisers during the day 
-- [ ] If lunch is being provided - somebody is in charge of coorinating it
+- All volunteers know when and where they should be attending
+- Volunteers attending for this first time have somebody to greet them and show them how CYF works
+- Students know when and where they will be attending the class
+- Somebody has been chosen to run energisers during the day 
+- If lunch is being provided - somebody is in charge of coorinating it
 
 ## Schedule
 
