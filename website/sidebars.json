@@ -13,7 +13,8 @@
       "students/guides/hosting-netlify",
       "students/guides/node",
       "students/guides/cors",
-      "students/guides/creating-a-react-app"
+      "students/guides/creating-a-react-app",
+      "students/guides/react-cheatsheet"      
     ],
     "Soft Skills Guides": ["students/getting-a-job", "students/slack-students"],
     "FAQs": ["students/faqs"]
