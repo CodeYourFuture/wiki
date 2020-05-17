@@ -103,16 +103,6 @@ This is coordinated and delivered by the Education Team. More information about 
 
 **Why do we do this?**
 
-### Afternoon Teaching
-
-**What is this?**
-
-**Who runs this?**
-
-This is coordinated and delivered by the Education Team. More information about the classroom roles can be found [here](/volunteers/education/education-roles).
-
-**Why do we do this?**
-
 ### Lunch
 
 **What is this?**
@@ -123,11 +113,20 @@ It's time to eat, unwind and digest what we've been learning about over the past
 
 This is provided by CodeYourFuture or by a partner organisation or by the students themselves. Please speak to your city coordinator to find out more.
 
-**Why do we do this?**
+### Afternoon Teaching
+
+**What is this?**
+
+Teaching is what we're here to do! Normally this section of the day will expand on information that is introduced in the first half the lesson.
+
+**Who runs this?**
+
+This is coordinated and delivered by the Education Team. More information about the classroom roles can be found [here](/volunteers/education/education-roles).
 
 ### Homework Briefing
 
 **What is this?**
+
 Giving the students a summary of their homework and work they are expected to do throught the week.
 
 **Who runs this?**
@@ -136,15 +135,26 @@ This is run by an Education Team Volunteer (preferrably one of the Classroom Ass
 
 **Why do we do this?**
 
+So that the students understand what homework they have got to do by the next week of class. Any questions about the homework can also be covered in this section.
+
 ### Volunteers Retrospective
 
 **What is this?**
+
+We run a short retrospective where we dicuss:
+
+- Which students did well
+- Which students struggled in this lesson
+- What went well with our teaching and delivery
+- What could be improved for our next lesson
 
 **Who runs this?**
 
 This meeting is chaired by the Class Coordinator but any participant can add agenda points during the meeting.
 
 **Why do we do this?**
+
+It's important that students are tracked as they move through the course so that we can better support them. Retrospectives are also important so volunteers can improve their teaching.
 
 ### Tidy Up
 
