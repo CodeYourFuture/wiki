@@ -70,7 +70,7 @@ You can read more about asking good questions [here](/students/guides/asking-que
 
 ## Effective Slack for Beginners
 
-Slack is a powerful messaging platform, rich in features not to mention the myriads of available extensions.
+Slack is a powerful messaging platform, rich in features and lots of additional extensions.
 Here we collected some basic tips and hints for new users how to use it effectively and utilize its capabilities.
 
 **Take note**: The description is based on the user interface in desktop Slack. It varies on different platforms.
@@ -94,7 +94,9 @@ Sometimes you’ll need to get the attention of another member when having a con
 When you send a message and include an _@mention_, the person you mention will be notified. 📣
 
 To mention a member or a group, start typing the @ symbol followed by a member’s name that will give you a list of members to choose from.
-When you find the member you want to mention, select their name from the list.
+To mention a member or a group, start typing the @ symbol followed by a member’s or group's name.
+You will see a list of matching members or groups to choose from.
+When you find the name you want to mention, select it from the list.
 
 You can also mention user groups if you would like to reach a whole group.
 
@@ -113,7 +115,7 @@ See for more [how to about calls](https://slack.com/intl/en-hu/help/articles/216
 
 ### Bookmarking messages
 You can save messages and files in Slack to bookmark them and reference them later.
-It helps to revisit them later without delving in the comment tsunami.
+This helps you to find them later, without having to delve into the comment tsunami!
 
 To bookmark a post, hover over the post and click the “_Save_" bookmark icon.
 
@@ -226,8 +228,7 @@ Here are some example.
 Same emoji can have different meaning depending on the context.
 
 ### Adjust zoom level
-If the text size strains your eyes to read it, you can adjust your zoom leve
-to make the app and text display larger or even smaller.
+If the text size strains your eyes to read it, adjust the zoom level to make the app and text display larger or even smaller.
 
 To adjust zoom level, click your workspace name, choose "_Preferences_" then click "_Click Accessibility_" and finally select your zoom level.
 
