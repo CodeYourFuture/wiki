@@ -8,13 +8,20 @@
     ],
     "Tech Guides": [
       "students/guides/online-lessons",
-      "students/guides/making-a-pull-request",
-      "students/guides/submitting-homework",
       "students/guides/hosting-netlify",
       "students/guides/node",
       "students/guides/cors",
       "students/guides/creating-a-react-app",
-      "students/guides/react-cheatsheet"      
+      "students/guides/react-cheatsheet",
+      {
+        "type": "subcategory",
+        "label": "Git",
+        "ids": [
+          "students/guides/git/git-troubleshooting",
+          "students/guides/git/making-a-pull-request",
+          "students/guides/git/submitting-homework"
+        ]
+      }
     ],
     "Soft Skills Guides": ["students/getting-a-job", "students/slack-students"],
     "FAQs": ["students/faqs"]
