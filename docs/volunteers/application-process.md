@@ -7,33 +7,37 @@ title: Application Process
 
 ![img](https://lh6.googleusercontent.com/geKrU1dkQr56cyJ9ZCwU2jIhK6DEPNCJ-VO06aSnoNTNgjDtazUXZmttrT_zLg65rlc5L7TuEV-g4iLP5so3wgDXsOAzoNl5fjKUjs699rWLmi7hujXhZJNo8om5hDxsck9vPpIq)
 
-## Step 1: Register Online
+## 1: Register Online
 
 First, the applicant must register on our [Application Process](https://application-process.codeyourfuture.io/) website. It is through this portal that we manage all student applications. See [Dashboard](/volunteers/tools/dashboard) for more details.
 
-### (Optional) Step 2: SoloLearn Tutorials
+### (Optional) 2: SoloLearn Tutorials _(Applicants’ Step 1)_
 
 Where the applicant does not have a laptop, ask them to complete first a basic tutorial on HTML/CSS/JavaScript using SoloLearn app on their smartphone. Upon completion, we can provide the applicant with a laptop so that they can continue studying further.
 
-You can find the tutorials at [SoloLearn](https://www.sololearn.com/Course/HTML/)
+You can find the tutorials at [SoloLearn](https://www.sololearn.com/Course/HTML/).
 
-## Step 3: FreeCodeCamp Tutorials
+To complete this step the student must submit a link to their SoloLearn Certificate
 
-Where the applicant does have a laptop, ask them to complete the Responsive Web Design Certification (excluding CSS Grid and Responsive Web Design Projects). It is a comprehensive tutorial that covers the basics of web design in a simple and digestible manner. Upon completing the tutorial, applicants are asked to make their FCC profile public and share a link to their profile to assess completion.
+## 3: FreeCodeCamp Tutorials _(Applicants’ Step 2)_
 
-## Step 4: First Phone Call
+Where the applicant does have a laptop, ask them to complete the Responsive Web Design Certification (excluding CSS Grid and Responsive Web Design Projects). It is a comprehensive tutorial that covers the basics of web design in a simple and digestible manner. 
+
+To complete this step the applicants are asked to make their FCC profile public and share a link to their profile to assess completion.
+
+## 4: First Phone Call
 
 While the applicants are working on the tutorials, it is important at this time to call an applicant and ensure that the application process is clear, have received an email and are actively working on it. A lot of applicants suffer from isolation and depression, so a call at this stage can provide a lot of motivation to students.
 
-## Step 5: Tribute Page Challenge (Applicants’ Step 2)
+## 5: Tribute Page Challenge _(Applicants’ Step 3)_
 
 Upon completing the tutorials, applicants are asked to create from scratch a Tribute Page Challenge on Codepen. This is the first opportunity for applicants to implement some of the skills they have acquired through tutorials. Once done, the applicants are asked to share a link to their Tribute Page on Codepen for assessment.
 
-## Step 6: Product Landing Page Challenge (Applicants Step 3)
+## 6: Product Landing Page Challenge _(Applicants Step 4.1)_
 
 Next step of the application process is the Product Landing Page Challenge. This is the most intensive stage as we expect applicants to apply all the skills they have learnt so far and research additional skills independently in order to successfully complete the challenge. This page will be assessed as part of the selection process and therefore applicants should spend a lot of time iterating the page. Upon completing the first iteration, applicants are asked to share a link to the Product Landing Page on Codepen for assessment.
 
-## Step 7: Product Landing Page Iteration Review and Feedback
+## 7: Product Landing Page Iteration Review and Feedback _(Applicants’ Step 4.2)_
 
 In order to carry out this step, navigate to the Dashboard and view the Step 3 & Step 4 panels for each student.
 
@@ -41,19 +45,19 @@ In order to carry out this step, navigate to the Dashboard and view the Step 3 &
 
 All applicants should tick all the of the checkboxes before they can complete the step.
 
-## Step 8: Product Landing Page Iteration (Step 5)
+## 8: Product Landing Page Iteration  _(Applicants’ Step 4.2)_
 
 Iteration is a crucial part of the CYF culture - we want to ensure that students continually learn and strive to improve whatever it is they are doing and developing. That's why it is important to start building this habit from the very beginning. The ways in which applicants respond to feedback can also serve as an indicator of their aptitude for the course.
 
 ![image-20200225161338547](../assets/application-process/image-20200225161338547.png)
 
-## Step 9: Interview Scheduling and Invites
+## 9: Interview Scheduling and Invites
 
 Schedule a few interview days at least 3 weeks before the course start date to give yourself sufficient time to assess the candidates and make final preparations for the course. It will also help applicants, as they won’t all be available on just one interview day. Once applicants complete at least their first iteration of the Product Landing Page based on the Feedback in Step 7, invite them to an interview day.
 
 Reach out to mentors and volunteers who can act as interviewers on the day. The average interview will take around 30 minutes. We advise having a pair of interviewers conducting each interview - this way you can get two points of feedback for each interview. For a group of 15 interviewers, we recommend having at least 5 interview pairs - this way you can complete interviews within a 3-hour window with some breaks in between.
 
-## Step 10: Motivational Letter
+## 10: Motivational Letter _(Applicants’ Step 5)_
 
 Running up to the interview, ask an applicant to write a 300-word motivation letter discussing in detail why they would like to join CYF, what they would like to do with what they learn at CYF, and where they see themselves in 5 years. From our experience, asking for a motivational letter works best with our target group as a lot of them find this requirement intimidating and are a lot more likely to undertake it later on in the process.
 
@@ -61,11 +65,18 @@ Encourage the applicants to research answers to these questions using search eng
 
 This letter can also help to assess the level of English of an applicant – the course is delivered in English and places significant emphasis on the students' verbal and written communication skills. The earlier we can identify the potential problems with English, the sooner we can address them and suggest learning resources to applicants.
 
-## Step 11: Applicant Needs Survey
+The motivation letter must:
+
+- Show why they want to be a programmer
+- Show why they are committed to our course
+- Use good English
+- Be longer than 300 words
+
+## 11: Applicant Needs Survey
 
 At this stage it is important to carry out an applicant survey to make sure that we are well aware of their support needs well in advance. Some applicants (and later students) will need help with travel, childcare, and/or internet expenses. Some won’t have laptops of their own. Some of them will not have bank accounts - making remote money transfers complicated. These need to be flagged early on to ensure that applicants who are invited to the interview days are able to attend and are not kept out of the course because they are unable to afford to travel to an interview or because they have caring responsibilities and are unable to cover childcare expenses.
 
-## Step 12: Interviews
+## 12: Interviews
 
 Interviews combine personal and technical assessment, with the goal of evaluating current circumstances, effort put into the application process and potential of the candidate. It is important to highlight that interviews intend to ascertain a candidate's potential. CYF are not looking for people who are developers already, instead we are looking for people who have the potential to become developers in 8 months’ time with our support.
 
@@ -93,7 +104,7 @@ Following the questions, ask the applicant to explain some aspects of their code
 
 At this time the interviewee can be allowed to go. In Section 3, interviewers are asked to rate an applicant against a number of statements on a 1 to 10 scale. They are also asked to provide feedback on interviewees as a statement.
 
-## Step 14: Collating Interview Data
+## 14: Collating Interview Data
 
 Collate data from the interviews into a format shown in the template file [here](https://docs.google.com/spreadsheets/d/1KZqDX7oxFEv17WDEkg87q5c7HAVlw62F-IayOksvgNA/edit?usp=sharing).
 
@@ -109,7 +120,7 @@ Collate data from the interviews into a format shown in the template file [here]
 - Interviewer Feedback - interviewer statement from Section 3.
 - Applicant Team Feedback - feedback from the team that worked with an applicants with regards to personal circumstances and constraints not mentioned elsewhere, communication, feedback response, general motivation etc.
 
-## Step 15: Selection
+## 15: Selection
 
 Once all data is collected, you can make suggestions for applicant offers or next steps. These are:
 
