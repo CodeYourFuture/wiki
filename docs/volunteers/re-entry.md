@@ -21,6 +21,8 @@ In the case of students' english skill not being sufficient the student must com
 
 ## Re-entry Requirements
 
+Re-entry will not be offered to students that were removed from the course because of Code of Conduct violations under any circumstance.
+
 In order to gain re-entry to the course students must:
 
 1. Complete the entire application process from the start
