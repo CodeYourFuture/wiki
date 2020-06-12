@@ -26,7 +26,7 @@ Re-entry will not be offered to students that were removed from the course becau
 In order to gain re-entry to the course students must:
 
 1. Complete the entire application process from the start
-   1.1 They must show significant improvement from the first time they applied for the course
+ 1.1 They must show significant improvement from the first time they applied for the course
 2. Complete the coursework set by the Education team
 3. Show significant evidence that they will be able to complete the full course this year
 4. (If required) show significant increase in their reading, written and spoken english skill
