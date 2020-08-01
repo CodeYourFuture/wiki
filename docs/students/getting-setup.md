@@ -33,6 +33,8 @@ We use VS Code to write all of our code in the course. It is known as an Integra
 
 We also recommend that you install the follow extensions in Visual Studio Code.
 
+You can install them all in one go with our [extension pack](https://marketplace.visualstudio.com/items?itemName=CodeYourFuture.cyf-extension-pack) or select individual extensions below.
+
 A guide to installing extentions [can be found here](https://code.visualstudio.com/docs/editor/extension-gallery).
 
 **Essential** 
