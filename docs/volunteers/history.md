@@ -56,7 +56,7 @@ Our organisation values are as follows:
 
 - Roberta Lifonso (@Roberta): Operations
 
-- Nima Kamiri (@nima): CTO
+- Nima Karimi (@nima): CTO
 
 - Gianluca (@gianluca): Glasgow
 
