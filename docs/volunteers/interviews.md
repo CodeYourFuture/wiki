@@ -42,6 +42,21 @@ Both technical and non-technical volunteers should:
 - Be mindful of their biases
 - If in doubt, record more information than you think is necessary
 
+#### Technical Interviewers
+
+Technical interviewers should focus on questions surrounding
+
+- The applicant's work that they have submitted
+- Assessing the applicant current understanding of programming (none is required but it's good to know)
+
+#### Personal Interviewers
+
+Technical interviewers should focus on questions surrounding
+
+- Why the applicant wants to be a programmer
+- How the applicant will find time to do the course
+- Any support that the applicant may need during the course
+
 ## Student Selection
 
 ### Guide
