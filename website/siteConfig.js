@@ -3,8 +3,8 @@ const users = [
     caption: "User1",
     image: "/test-site/img/docusaurus.svg",
     infoLink: "https://www.example.com",
-    pinned: true
-  }
+    pinned: true,
+  },
 ];
 
 const siteConfig = {
@@ -21,27 +21,30 @@ const siteConfig = {
   headerLinks: [
     {
       label: "Syllabus",
-      href: "https://syllabus.codeyourfuture.io"
+      href: "https://syllabus.codeyourfuture.io",
     },
     { label: "Students", doc: "students" },
     { label: "Volunteers", doc: "volunteers" },
-    { label: "Code of Conduct", page: "code-of-conduct" },
-    { search: true }
+    {
+      label: "Code of Conduct",
+      href: "https://codeyourfuture.io/about/code-of-conduct/",
+    },
+    { search: true },
   ],
   headerIcon: "img/logo.png",
   favicon: "img/favicon.png",
   colors: {
     primaryColor: "#20232a",
-    secondaryColor: "#999"
+    secondaryColor: "#999",
   },
   copyright: `Copyright © ${new Date().getFullYear()} CodeYourFuture`,
   cleanUrl: true,
   docsSideNavCollapsible: true,
   docsUrl: "",
   highlight: {
-    theme: "default"
+    theme: "default",
   },
-  onPageNav: "separate"
+  onPageNav: "separate",
 };
 
 module.exports = siteConfig;
