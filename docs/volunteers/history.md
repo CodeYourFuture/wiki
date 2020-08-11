@@ -56,12 +56,14 @@ Our organisation values are as follows:
 
 - Roberta Lifonso (@Roberta): Operations
 
+- Liliana Bermudes (@Liliana): Community Building & Partnerships
+
 - Nima Karimi (@nima): CTO
 
 - Gianluca (@gianluca): Glasgow
 
 - Barnaby (@barnaby): Manchester
 
-- Claire (@claire) + Aaishah (@aaishah): Birmingham
+- Claire (@claire) + Aaishah (@aaishah): West Midlands
 
 You may see their names pop up in our Slack channels from time to time!
