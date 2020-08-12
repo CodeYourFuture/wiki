@@ -65,7 +65,7 @@ When selecting students your primary aim should be to answer this statement.
 
     I can imagine working with this student over the next eight months and I believe that they show the potential and drive to complete the course.
 
-Everything outside of this is nice to have.
+You can read our outline of what an ideal student might look like [here](https://docs.codeyourfuture.io/volunteers/course-eligibility#our-ideal-student)
 
 ### Upper Bounds & Lower Bounds
 
