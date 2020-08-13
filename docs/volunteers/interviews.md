@@ -45,6 +45,10 @@ Take time to explain that the interviews are to get to know them better and that
 
 ### Interviewers
 
+In this context a technical interviewer is somehow who is comfortable asking questions about code and programming skill. Personal (or non-technical) interviewers should access student soft skills and motivations to do the course. It is encouraged for interviewers to justify their decisions to each other.
+
+Interviewers will typically have thirty minutes to conduct each interview.
+
 Both technical and non-technical volunteers should:
 
 - Aim to be as objective and fair as possible
@@ -75,7 +79,7 @@ This will mostly be the second section of the form.
 
 Our applicants come from a wide variety of backgrounds. You can see the full eligibility criteria [here](/volunteers/course-eligibility)
 
-## Student Selection
+## The Interview
 
 When selecting applicants your primary aim should be to answer this statement.
 
