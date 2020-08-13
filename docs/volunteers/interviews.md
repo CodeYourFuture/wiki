@@ -5,7 +5,7 @@ title: Student Interviews
 
 Before every new class, we make sure to interview our potential students as a final step before acceptance into the course.
 
-### Aims
+## Aims
 
 - Get to the know the applicants
   - This is the first time we've ever met them! We have to be sure we can work with them for the next eight months
@@ -14,18 +14,6 @@ Before every new class, we make sure to interview our potential students as a fi
 - Assess the applicants have a good level of spoken English
   - Students might have got help from friends and family for written work
 
-## Interview Days
-
-Interview days generally run the whole day and require a large number of both technical and non-technical volunteers.
-
-As applicants arrive they should be taken to a quiet space with one technical volunteer (someone who understands code) and one non-technical volunteer.
-
-Together they should complete this form:
-
-[Student Interview Form](https://docs.google.com/forms/d/1Ps6CEPPr_50hBmmXBPKwogAGRwnGnJr7GccUekdHqjM/edit)
-
-The class coordinator should duplicate this form for each Class. Please contact your class coordinator for access to this Google form.
-
 ## Getting Setup
 
 Make sure you have all of this information before you have your first interview
@@ -33,7 +21,7 @@ Make sure you have all of this information before you have your first interview
 1. You have access to [the Dashboard](https://dashboard.codeyourfuture.io) (or alternative way of getting information about the applicants)
    - If you do not have access, speak to your coordinator
 2. Read this document fully
-3. Make sure you have access to the interview form mentioned above
+3. Make sure you have access to the interview form mentioned in the `Interview Days` section
 
 ## Roles
 
@@ -79,15 +67,25 @@ This will mostly be the second section of the form.
 
 Our applicants come from a wide variety of backgrounds. You can see the full eligibility criteria [here](/volunteers/course-eligibility)
 
-## The Interview
+## Interview Days
+
+Interview days generally run the whole day and require a large number of both technical and non-technical volunteers.
+
+As applicants arrive they should be taken to a quiet space with one technical volunteer (someone who understands code) and one non-technical volunteer.
+
+Together they should complete this form:
+
+[Student Interview Form](https://docs.google.com/forms/d/1Ps6CEPPr_50hBmmXBPKwogAGRwnGnJr7GccUekdHqjM/edit)
+
+The class coordinator should duplicate this form for each Class. Please contact your class coordinator for access to this Google form.
+
+### Ideal Student
 
 When selecting applicants your primary aim should be to answer this statement.
 
 ```
 I believe that the applicant shows the potential and drive to complete the course and get the job as a developer.
 ```
-
-### Ideal Student
 
 You can read our outline of what an ideal applicant might look like [here](https://docs.codeyourfuture.io/volunteers/course-eligibility#our-ideal-student)
 
