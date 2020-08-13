@@ -7,18 +7,18 @@ Before every new class, we make sure to interview our potential students as a fi
 
 ### Aims
 
-- Get to the know the students
+- Get to the know the applicants
   - This is the first time we've ever met them! We have to be sure we can work with them for the next eight months
-- Assess that the students have retained the knowledge they have learnt in the previous steps
-  - We should also confirm that the students actually did the work themselves
-- Assess the students have a good level of spoken English
+- Assess that the applicants have retained the knowledge they have learnt in the previous steps
+  - We should also confirm that the applicants actually did the work themselves
+- Assess the applicants have a good level of spoken English
   - Students might have got help from friends and family for written work
 
 ## Interview Days
 
 Interview days generally run the whole day and require a large number of both technical and non-technical volunteers.
 
-As students arrive they should be taken to a quiet space with one technical volunteer (someone who understands code) and one non-technical volunteer.
+As applicants arrive they should be taken to a quiet space with one technical volunteer (someone who understands code) and one non-technical volunteer.
 
 Together they should complete this form:
 
@@ -30,7 +30,7 @@ The class coordinator should duplicate this form for each Class. Please contact 
 
 Make sure you have all of this information before you have your first interview
 
-1. You have access to [the Dashboard](https://dashboard.codeyourfuture.io) (or alternative way of getting information about the student)
+1. You have access to [the Dashboard](https://dashboard.codeyourfuture.io) (or alternative way of getting information about the applicants)
    - If you do not have access, speak to your coordinator
 2. Read this document fully
 3. Make sure you have access to the interview form mentioned above
@@ -73,19 +73,19 @@ This will mostly be the second section of the form.
 
 ## Who are our applicants?
 
-Our students come from a wide variety of backgrounds. You can see the full eligibility criteria [here](/volunteers/course-eligibility)
+Our applicants come from a wide variety of backgrounds. You can see the full eligibility criteria [here](/volunteers/course-eligibility)
 
 ## Student Selection
 
-When selecting students your primary aim should be to answer this statement.
+When selecting applicants your primary aim should be to answer this statement.
 
-```txt
+```
 I believe that the applicant shows the potential and drive to complete the course and get the job as a developer.
 ```
 
 ### Ideal Student
 
-You can read our outline of what an ideal student might look like [here](https://docs.codeyourfuture.io/volunteers/course-eligibility#our-ideal-student)
+You can read our outline of what an ideal applicant might look like [here](https://docs.codeyourfuture.io/volunteers/course-eligibility#our-ideal-student)
 
 Previous programming experience is not required to join the course however it is a good determinant of a person showing passion for coding.
 
@@ -104,28 +104,28 @@ A strong candidate for our course should
 
 When completing the form you should endeavour to write as much as you can for each candidate as this will be our primary resource for deciding who will get a place on the course.
 
-It is important to be firm but fair in grading students. Do not give a student 10/10 for everything just because you like them.
+It is important to be firm but fair in grading applicants. Do not give a applicant 10/10 for everything just because you like them.
 
-We will be cross-referencing scores against feedback recorded so it is important to always
+We will be cross-referencing scores against feedback recorded so it is important to always give a full description of how applicants responded to questions in the interview.
 
 ### Upper Bounds & Lower Bounds
 
-When selecting students it is important to keep in mind that a student can be of too high ability as well as too low.
+When selecting applicants it is important to keep in mind that a applicant can be of too high ability as well as too low.
 
-A student with too low ability may
+A applicant with too low ability may
 
 - not understand English to a sufficient level
 - not be able to explain their code well enough
 - not show a particularly great drive to be a programmer
 
-A student with too high ability may
+A applicant with too high ability may
 
 - already know how to program to an advanced level
 - have studied programming for a prolonged period of time
 - be capable of getting a programming job already
 
-It's important to spot both lower and upper bound students as our course may not be the right fit for them at this time.
+It's important to spot both lower and upper bound applicants as our course may not be the right fit for them at this time.
 
-For lower bound students, a referral to a less intense programming course or further English lessons may be a better solution. Our course can be very challenging for people and if we're not sure that they're ready then we should endeavour to be upfront and supportive wherever possible.
+For lower bound applicants, a referral to a less intense programming course or further English lessons may be a better solution. Our course can be very challenging for people and if we're not sure that they're ready then we should endeavour to be upfront and supportive wherever possible.
 
-For upper bound students, it may be preferable to give them the skills they need to be able to get a job and have them start applying. This could take the form of personal development lessons or some sessions working on our tech projects. We're in the business of finding jobs for the people and if the most efficient way to do that is by **not** joining our course then that is the best outcome.
+For upper bound applicants, it may be preferable to give them the skills they need to be able to get a job and have them start applying. This could take the form of personal development lessons or some sessions working on our tech projects. We're in the business of finding jobs for the people and if the most efficient way to do that is by **not** joining our course then that is the best outcome.
