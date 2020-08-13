@@ -41,13 +41,7 @@ Both technical and non-technical volunteers should:
 - Aim to be as objective and fair as possible
 - Be mindful of their biases
 - If in doubt, record more information than you think is necessary
-
-#### Technical Interviewers
-
-Technical interviewers should focus on questions surrounding
-
-- The applicant's work that they have submitted
-- Assessing the applicant current understanding of programming (none is required but it's good to know)
+- Take notes on the applicant when they the other interviewer is talking
 
 #### Personal Interviewers
 
@@ -57,16 +51,27 @@ Technical interviewers should focus on questions surrounding
 - How the applicant will find time to do the course
 - Any support that the applicant may need during the course
 
+This will mostly be the first section of the form.
+
+#### Technical Interviewers
+
+Technical interviewers should focus on questions surrounding
+
+- The applicant's work that they have submitted
+- Assessing the applicant current understanding of programming (none is required but it's good to know)
+
+This will mostly be the second section of the form.
+
 ## Who are our applicants?
 
-Our students come from a variety of
+Our students come from a wide variety of backgrounds. You can see the full eligibility criteria [here](/volunteers/course-eligibility)
 
 ## Student Selection
 
 When selecting students your primary aim should be to answer this statement.
 
 ```txt
-I believe that the applicant shows the potential and drive to complete the course.
+I believe that the applicant shows the potential and drive to complete the course and get the job as a developer.
 ```
 
 ### Ideal Student
@@ -91,6 +96,8 @@ A strong candidate for our course should
 When completing the form you should endeavour to write as much as you can for each candidate as this will be our primary resource for deciding who will get a place on the course.
 
 It is important to be firm but fair in grading students. Do not give a student 10/10 for everything just because you like them.
+
+We will be cross-referencing scores against feedback recorded so it is important to always
 
 ### Upper Bounds & Lower Bounds
 
