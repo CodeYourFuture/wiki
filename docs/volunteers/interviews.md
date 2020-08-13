@@ -12,7 +12,7 @@ Before every new class, we make sure to interview our potential students as a fi
 - Assess that the students have retained the knowledge they have learnt in the previous steps
   - We should also confirm that the students actually did the work themselves
 - Assess the students have a good level of spoken English
-  - Students can get help from friends and family for written work
+  - Students might have got help from friends and family for written work
 
 ## Interview Days
 
@@ -57,15 +57,40 @@ Technical interviewers should focus on questions surrounding
 - How the applicant will find time to do the course
 - Any support that the applicant may need during the course
 
-## Student Selection
+## Who are our applicants?
 
-### Guide
+Our students come from a variety of
+
+## Student Selection
 
 When selecting students your primary aim should be to answer this statement.
 
-    I can imagine working with this student over the next eight months and I believe that they show the potential and drive to complete the course.
+```txt
+I believe that the applicant shows the potential and drive to complete the course.
+```
+
+### Ideal Student
 
 You can read our outline of what an ideal student might look like [here](https://docs.codeyourfuture.io/volunteers/course-eligibility#our-ideal-student)
+
+Previous programming experience is not required to join the course however it is a good determinant of a person showing passion for coding.
+
+A strong candidate for our course should
+
+- show that they are passionate about programming
+- show potential or current experience of being a self-learner
+- show a good to very good grasp of the English language
+- show they are open to feedback
+- show they understand the scale of the challenge
+- show that they are ready to undertake such a large challenge
+- show that they are focussing on our course
+- be somebody who would fit into our community
+
+### Feeding Back on Students
+
+When completing the form you should endeavour to write as much as you can for each candidate as this will be our primary resource for deciding who will get a place on the course.
+
+It is important to be firm but fair in grading students. Do not give a student 10/10 for everything just because you like them.
 
 ### Upper Bounds & Lower Bounds
 
@@ -85,6 +110,6 @@ A student with too high ability may
 
 It's important to spot both lower and upper bound students as our course may not be the right fit for them at this time.
 
-For lower bound students, a referral to a less intense programming course or further English lessons may be a better solution. Our course can be very challenging for people and if we're not sure that they're ready then we should endeavour to be upfront and supportive whereever possible.
+For lower bound students, a referral to a less intense programming course or further English lessons may be a better solution. Our course can be very challenging for people and if we're not sure that they're ready then we should endeavour to be upfront and supportive wherever possible.
 
 For upper bound students, it may be preferable to give them the skills they need to be able to get a job and have them start applying. This could take the form of personal development lessons or some sessions working on our tech projects. We're in the business of finding jobs for the people and if the most efficient way to do that is by **not** joining our course then that is the best outcome.
