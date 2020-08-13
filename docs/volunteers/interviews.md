@@ -87,7 +87,7 @@ When selecting applicants your primary aim should be to answer this statement.
 I believe that the applicant shows the potential and drive to complete the course and get the job as a developer.
 ```
 
-You can read our outline of what an ideal applicant might look like [here](https://docs.codeyourfuture.io/volunteers/course-eligibility#our-ideal-student)
+You can read our outline of what an ideal graduate of our course might look like [here](https://docs.codeyourfuture.io/volunteers/course-eligibility#our-ideal-student)
 
 Previous programming experience is not required to join the course however it is a good determinant of a person showing passion for coding.
 
