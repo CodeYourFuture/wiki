@@ -26,6 +26,15 @@ Together they should complete this form:
 
 The class coordinator should duplicate this form for each Class. Please contact your class coordinator for access to this Google form.
 
+## Getting Setup
+
+Make sure you have all of this information before you have your first interview
+
+1. You have access to [the Dashboard](https://dashboard.codeyourfuture.io) (or alternative way of getting information about the student)
+   - If you do not have access, speak to your coordinator
+2. Read this document fully
+3. Make sure you have access to the interview form mentioned above
+
 ## Roles
 
 ### Greeters
@@ -45,7 +54,7 @@ Both technical and non-technical volunteers should:
 
 #### Personal Interviewers
 
-Technical interviewers should focus on questions surrounding
+Personal Interviewers should focus on questions surrounding
 
 - Why the applicant wants to be a programmer
 - How the applicant will find time to do the course
