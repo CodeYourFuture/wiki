@@ -16,11 +16,12 @@ Each of the questions will be banded into the following sections
 
 ### Poor Answer (1-3)
 
-- The applicant said they were excited to learn
+- The applicant did not seem excited or motivated to learn
 
 ### Good Answer (3-6)
 
 - The applicant gave examples of what they have learnt in the past
+- The applicant said they were excited to learn
 
 ### Excellent Answer (7-10)
 
@@ -49,6 +50,8 @@ Each of the questions will be banded into the following sections
 
 ### Poor Answer (1-3)
 
+- The applicant was impatient and tried to rush through the interview
+
 ### Good Answer (3-6)
 
 ### Excellent Answer (7-10)
@@ -56,6 +59,8 @@ Each of the questions will be banded into the following sections
 ## The applicant listen attentively to questions
 
 ### Poor Answer (1-3)
+
+- The student was obviously not listened to questions asked
 
 ### Good Answer (3-6)
 
@@ -102,6 +107,9 @@ Each of the questions will be banded into the following sections
 
 ### Poor Answer (1-3)
 
+- If the applicant ran into problems, they instantly gave up
+- The applicant could not give an example of overcoming a challenge
+
 ### Good Answer (3-6)
 
 ### Excellent Answer (7-10)
@@ -122,6 +130,9 @@ Each of the questions will be banded into the following sections
 
 ### Poor Answer (1-3)
 
+- The applicant did not mention having a career as a developer
+- The applicant seemed to be unsure about starting a career as a developer
+
 ### Good Answer (3-6)
 
 - The student seemed excited about becoming a developer
@@ -135,6 +146,8 @@ Each of the questions will be banded into the following sections
 
 ### Poor Answer (1-3)
 
+- The applicant spoke about many other prior commitments that they have during the week and could not explain how they would amnage their time
+
 ### Good Answer (3-6)
 
 ### Excellent Answer (7-10)
@@ -146,6 +159,8 @@ Each of the questions will be banded into the following sections
 ## The applicant will be a good fit for CodeYourFuture
 
 ### Poor Answer (1-3)
+
+- The applicant was actively aggressive or impolite
 
 ### Good Answer (3-6)
 
