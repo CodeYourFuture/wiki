@@ -71,7 +71,7 @@ Each of the questions will be banded into the following sections
 
 ### Good Answer (3-6)
 
-- The applicant
+- The applicant listened attentively and gave good answers
 
 ### Excellent Answer (7-10)
 
