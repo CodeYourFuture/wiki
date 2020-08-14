@@ -51,6 +51,8 @@ Each of the questions will be banded into the following sections
 ### Poor Answer (1-3)
 
 - The applicant was impatient and tried to rush through the interview
+- The applicant was often distracted when answering questions
+  - Note: Being distracted by children, environment, etc is fine!
 
 ### Good Answer (3-6)
 
@@ -122,6 +124,8 @@ Each of the questions will be banded into the following sections
 
 ### Good Answer (3-6)
 
+- The applicant
+
 ### Excellent Answer (7-10)
 
 - A strong candidate should have shown a specific interest in the particulars of the challenges they've completed.
@@ -139,7 +143,7 @@ Each of the questions will be banded into the following sections
 
 ### Excellent Answer (7-10)
 
-- The applicant could give specific reasons for wanting to be a developer
+- The applicant gave specific reasons for wanting to be a developer
 - The applicant showed some understanding of what a developer does
 
 ## The applicant has enough time available during the week
@@ -147,6 +151,7 @@ Each of the questions will be banded into the following sections
 ### Poor Answer (1-3)
 
 - The applicant spoke about many other prior commitments that they have during the week and could not explain how they would amnage their time
+- The applicant did not give any explanation of how they would fit in their time
 
 ### Good Answer (3-6)
 
@@ -161,8 +166,12 @@ Each of the questions will be banded into the following sections
 ### Poor Answer (1-3)
 
 - The applicant was actively aggressive or impolite
+- The applicant was actively not interested in community or making connections
 
 ### Good Answer (3-6)
+
+- The applicant was pleasant to speak to
+- The applicant come with a good attitude
 
 ### Excellent Answer (7-10)
 
@@ -177,7 +186,7 @@ Each of the questions will be banded into the following sections
 - It was often hard to understand the applicant
 - It was often hard to judge what a applicant meant
 - The applicant struggled to create full sentences
-- The applicant could not
+- The applicant could not properly answer questions because of their language skills
 
 ### Good Answer (3-6)
 
@@ -187,4 +196,4 @@ Each of the questions will be banded into the following sections
 ### Excellent Answer (7-10)
 
 - It was easy to understand what the applicant was trying to say
-- It was easy to judge what a applicant meant
+- It was easy to judge what an applicant meant
