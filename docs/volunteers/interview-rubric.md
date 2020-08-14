@@ -5,8 +5,6 @@ title: Applicant Interview Rubric
 
 In this rubric you will find a marking guide to the questions found in the interview form.
 
-This rubric will give you indications towards if
-
 Each of the questions will be banded into the following sections
 
 - 0 - applicant could not give any kind of adequate answer
@@ -161,6 +159,7 @@ Each of the questions will be banded into the following sections
 
 - The applicant gave specific reasons for wanting to be a developer
 - The applicant showed some understanding of what a developer does
+- The applicant learnt about programming before apply for the course
 
 ## The applicant has enough time available during the week
 
@@ -172,6 +171,7 @@ Each of the questions will be banded into the following sections
 ### Good Answer (3-6)
 
 - The applicant gave an adequate answer to how they will find the time to work
+- The applicant seemed to have a good amount of free time
 
 ### Excellent Answer (7-10)
 
