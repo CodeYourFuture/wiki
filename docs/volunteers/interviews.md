@@ -131,3 +131,37 @@ It's important to spot both lower and upper bound applicants as our course may n
 For lower bound applicants, a referral to a less intense programming course or further English lessons may be a better solution. Our course can be very challenging for people and if we're not sure that they're ready then we should endeavour to be upfront and supportive wherever possible.
 
 For upper bound applicants, it may be preferable to give them the skills they need to be able to get a job and have them start applying. This could take the form of personal development lessons or some sessions working on our tech projects. We're in the business of finding jobs for the people and if the most efficient way to do that is by **not** joining our course then that is the best outcome.
+
+## Frequently Asked Questions
+
+Most of the students you are interviewing are part of the `Intro To Coding Slack Channel` - most students can ask questions there.
+
+### What do you teach at CodeYourFuture?
+
+You can direct the student to [this website](https://syllabus.codeyourfuture.io/).
+
+### When is the class starting?
+
+Our volunteers are working hard to get the class started as soon as possible - keep an eye on your emails for the exact start date.
+
+### When do classes run?
+
+We teach once per week and then the student has coursework to do in the time between lessons
+
+### How long does the course last?
+
+The course will run for roughly eight months, depending on the speed that the class moves at and when holidays happen (e.g. Summer & Christmas)
+
+### All other questions
+
+For any other questions they can direct them to their city email address
+
+- london@codeyourfuture.io
+- west-midlands@codeyourfuture.io
+- north-west@codeyourfuture.io
+- scotland@codeyourfuture.io
+- rome@codeyourfuture.io
+- capetown@codeyourfuture.io
+- etc
+
+You're also welcome to share this documentation website with them.
