@@ -65,7 +65,7 @@ This will mostly be the second section of the form.
 
 ## Who are our applicants?
 
-Our applicants come from a wide variety of backgrounds. You can see the full eligibility criteria [here](/volunteers/course-eligibility)
+Our applicants come from a wide variety of backgrounds. You can see lots of background information on our students [here](/volunteers/understand-students)
 
 ## Interview Days
 
@@ -140,7 +140,7 @@ Most of the students you are interviewing are part of the `Intro To Coding Slack
 
 You can direct the student to [this website](https://syllabus.codeyourfuture.io/).
 
-### When is the class starting?
+### When is the class starting? // When will I find our my results?
 
 Our volunteers are working hard to get the class started as soon as possible - keep an eye on your emails for the exact start date.
 
@@ -151,6 +151,10 @@ We teach once per week and then the student has coursework to do in the time bet
 ### How long does the course last?
 
 The course will run for roughly eight months, depending on the speed that the class moves at and when holidays happen (e.g. Summer & Christmas)
+
+### I need a laptop/wifi/childcare/expenses
+
+All of that will be sorted if you are accepted onto the course.
 
 ### All other questions
 
