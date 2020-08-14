@@ -61,6 +61,8 @@ Each of the questions will be banded into the following sections
 
 ### Excellent Answer (7-10)
 
+- The stu
+
 ## The applicant is open to feedback
 
 ### Poor Answer (1-3)
@@ -99,7 +101,12 @@ Each of the questions will be banded into the following sections
 
 ### Good Answer (3-6)
 
+- The student seemed excited about becoming a developer
+
 ### Excellent Answer (7-10)
+
+- The applicant could give specific reasons for wanting to be a developer
+- The applicant showed some understanding of what a developer does
 
 ## The applicant has enough time available during the week
 
