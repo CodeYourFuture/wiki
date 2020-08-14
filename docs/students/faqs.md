@@ -11,7 +11,7 @@ Please add questions below here and we will answer them in the future. Click [he
 
 ### What do you teach at CodeYourFuture?
 
-You can direct the student to [this website](https://syllabus.codeyourfuture.io/).
+You can find everything we teach on [this website](https://syllabus.codeyourfuture.io/).
 
 ### When is the class starting? // When will I find our my results?
 
@@ -72,7 +72,7 @@ We do but it is not certified by are third party. We focus on skills and project
 
 Yes! We support you all the way through the course through to getting a job if we think you are ready.
 
-### Is this course mostly self taught or mostly classroom time?
+### Is this course mostly self taught or mostly classroom based?
 
 We teach once per week and have a lot of self study in between. You are encouraged to work in teams in the time that you're not in class.
 
