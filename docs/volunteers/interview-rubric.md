@@ -56,13 +56,14 @@ Each of the questions will be banded into the following sections
 
 ### Good Answer (3-6)
 
-- The applicant
+- The applicant was patient and focussed throughout the interview
 
 ### Excellent Answer (7-10)
 
+- The applicant gave succinct, on topic answers to questions
 - The applicant spent time thinking about answers to technical questions being starting to answer
 
-## The applicant listen attentively to questions
+## The applicant listens attentively to questions
 
 ### Poor Answer (1-3)
 
@@ -170,11 +171,13 @@ Each of the questions will be banded into the following sections
 
 ### Good Answer (3-6)
 
+- The applicant gave an adequate answer to how they will find the time to work
+
 ### Excellent Answer (7-10)
 
 - The applicant gave a detailed answer to how they would structure their time
-- The applicant should show they understand what 20 hours a week actually means.
-- The applicant should show that they are giving the course a priority.
+- The applicant showed they understand what 20 hours a week actually means.
+- The applicant showed that they are giving the course a priority.
 
 ## The applicant will be a good fit for CodeYourFuture
 
