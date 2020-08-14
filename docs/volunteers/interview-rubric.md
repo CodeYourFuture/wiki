@@ -5,6 +5,8 @@ title: Applicant Interview Rubric
 
 In this rubric you will find a marking guide to the questions found in the interview form.
 
+This rubric will give you indications towards if
+
 Each of the questions will be banded into the following sections
 
 - 0 - applicant could not give any kind of adequate answer
@@ -51,27 +53,30 @@ Each of the questions will be banded into the following sections
 ### Poor Answer (1-3)
 
 - The applicant was impatient and tried to rush through the interview
-- The applicant was often distracted when answering questions
-  - Note: Being distracted by children, environment, etc is fine!
 
 ### Good Answer (3-6)
 
+- The applicant
+
 ### Excellent Answer (7-10)
+
+- The applicant spent time thinking about answers to technical questions being starting to answer
 
 ## The applicant listen attentively to questions
 
 ### Poor Answer (1-3)
 
-- The student was obviously not listened to questions asked
+- The applicant was obviously not listening to questions asked
+- The applicant often gave answers unrelated to the question
 
 ### Good Answer (3-6)
 
--
+- The applicant
 
 ### Excellent Answer (7-10)
 
 - The applicant answered questions correctly and accurately with little prompting
-- The applicant candidate might ask clarifying questions before answering
+- The applicant asked clarifying questions before answering
 
 ## The applicant is open to feedback
 
@@ -83,25 +88,28 @@ Each of the questions will be banded into the following sections
 ### Good Answer (3-6)
 
 - The applicant accepted the feedback in a positive way
+- The applicant grateful the feedback they are given
 
 ### Excellent Answer (7-10)
 
 - The applicant was able to interpret feedback that interviewers give
 - The applicant seemed keen to implement the feedback
-- The applicant appreciate the feedback they are given
 
 ## The applicant is ready to challenge themselves
 
 ### Poor Answer (1-3)
 
-- The candidate was seemed unprepared to challenge themselves
+- The applicant seemed unprepared to challenge themselves
+- The applicant did not understand how much work will be needed
 
 ### Good Answer (3-6)
 
-- The candidate was excited to start the course
+- The applicant was excited to start the course
+- The applicant had research coding previously
 
 ### Excellent Answer (7-10)
 
+- The applicant had started practicing coding already
 - The applicant showed they understood the scale of the challenge
 - The applicant showed specific example of being prepared to start
 
@@ -114,28 +122,35 @@ Each of the questions will be banded into the following sections
 
 ### Good Answer (3-6)
 
+- The applicant gave an example of overcoming a challenge
+- The applicant worked out how to get help or find answers
+
 ### Excellent Answer (7-10)
 
-- The applicant should have explained a time they have overcome a specific challenge in a work/learning environment
+- The applicant explained a time they have overcome a specific challenge in a work/learning environment
 
 ## The applicant is interested in learning how things work
 
 ### Poor Answer (1-3)
 
+- The applicant was obviously uninterested in how things work
+
 ### Good Answer (3-6)
 
-- The applicant
+- The applicant was interested when they were told new information about how something worked
 
 ### Excellent Answer (7-10)
 
-- A strong candidate should have shown a specific interest in the particulars of the challenges they've completed.
+- The applicant showed a specific interest in the particulars of the challenges they've completed
+- The applicant asked questions when they did not understand
 
 ## The applicant is determined to start a career as a developer
 
 ### Poor Answer (1-3)
 
-- The applicant did not mention having a career as a developer
+- The applicant did not mention wanting to have a career as a developer
 - The applicant seemed to be unsure about starting a career as a developer
+- The applicant did not do what a developer did
 
 ### Good Answer (3-6)
 
