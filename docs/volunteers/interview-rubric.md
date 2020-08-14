@@ -1,6 +1,6 @@
 ---
 id: interview-rubric
-title: applicant Interview Rubric
+title: Applicant Interview Rubric
 ---
 
 In this rubric you will find a marking guide to the questions found in the interview form.
@@ -59,25 +59,44 @@ Each of the questions will be banded into the following sections
 
 ### Good Answer (3-6)
 
+-
+
 ### Excellent Answer (7-10)
 
-- The stu
+- The applicant answered questions correctly and accurately with little prompting
+- The applicant candidate might ask clarifying questions before answering
 
 ## The applicant is open to feedback
 
 ### Poor Answer (1-3)
 
+- The applicant reacted as if the feedback was personal,
+- The applicant did not seem keen to use the feedback constructively.
+
 ### Good Answer (3-6)
 
+- The applicant accepted the feedback in a positive way
+
 ### Excellent Answer (7-10)
+
+- The applicant was able to interpret feedback that interviewers give
+- The applicant seemed keen to implement the feedback
+- The applicant appreciate the feedback they are given
 
 ## The applicant is ready to challenge themselves
 
 ### Poor Answer (1-3)
 
+- The candidate was seemed unprepared to challenge themselves
+
 ### Good Answer (3-6)
 
+- The candidate was excited to start the course
+
 ### Excellent Answer (7-10)
+
+- The applicant showed they understood the scale of the challenge
+- The applicant showed specific example of being prepared to start
 
 ## The applicant is resourceful and finds solutions to problems
 
@@ -87,6 +106,8 @@ Each of the questions will be banded into the following sections
 
 ### Excellent Answer (7-10)
 
+- The applicant should have explained a time they have overcome a specific challenge in a work/learning environment
+
 ## The applicant is interested in learning how things work
 
 ### Poor Answer (1-3)
@@ -94,6 +115,8 @@ Each of the questions will be banded into the following sections
 ### Good Answer (3-6)
 
 ### Excellent Answer (7-10)
+
+- A strong candidate should have shown a specific interest in the particulars of the challenges they've completed.
 
 ## The applicant is determined to start a career as a developer
 
@@ -116,6 +139,10 @@ Each of the questions will be banded into the following sections
 
 ### Excellent Answer (7-10)
 
+- The applicant gave a detailed answer to how they would structure their time
+- The applicant should show they understand what 20 hours a week actually means.
+- The applicant should show that they are giving the course a priority.
+
 ## The applicant will be a good fit for CodeYourFuture
 
 ### Poor Answer (1-3)
@@ -123,6 +150,10 @@ Each of the questions will be banded into the following sections
 ### Good Answer (3-6)
 
 ### Excellent Answer (7-10)
+
+- The applicant showed indications of being community-minded
+- The applicant was personable and nice to talk to
+- The applicant they are excited for the opportunity
 
 ## The applicant has a good English level
 
