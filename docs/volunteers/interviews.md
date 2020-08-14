@@ -22,6 +22,7 @@ Make sure you have all of this information before you have your first interview
    - If you do not have access, speak to your coordinator
 2. Read this document fully
 3. Make sure you have access to the interview form mentioned in the `Interview Days` section
+4. Make sure you have read the [Interview Rubric](/volunteers/interview-rubric)
 
 ## Roles
 
@@ -111,6 +112,8 @@ When completing the form you should endeavour to write as much as you can for ea
 It is important to be firm but fair in grading applicants. Do not give a applicant 10/10 for everything just because you like them.
 
 We will be cross-referencing scores against feedback recorded so it is important to always give a full description of how applicants responded to questions in the interview.
+
+You should make sure you use the [Interview Rubric](/volunteers/interview-rubric) to grade students responses.
 
 ### Upper Bounds & Lower Bounds
 
