@@ -86,6 +86,12 @@ We ask that you arrive at least ten minutes before the interview that you will b
 
 You can find a guide for the technical section of the interview [here](./volunteers/interview-technical)
 
+### English Assessment
+
+You can find an English Assessment test [here](https://gist.github.com/nbogie/b9a3e377607b85754f71ff3043bc68eb).
+
+The guide for the assessment can be found [here](./volunteers/interview-english)
+
 ### Ideal Student
 
 When selecting applicants your primary aim should be to answer this statement.
