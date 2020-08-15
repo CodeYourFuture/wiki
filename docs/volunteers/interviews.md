@@ -64,6 +64,8 @@ Technical interviewers should focus on questions surrounding
 
 This will mostly be the second section of the form.
 
+You can find a guide for this section of the interview [here](./volunteers/interview-technical)
+
 ## Who are our applicants?
 
 Our applicants come from a wide variety of backgrounds. You can see lots of background information on our students [here](/volunteers/understand-students)
@@ -81,6 +83,8 @@ Together they should complete this form:
 The class coordinator should duplicate this form for each Class. Please contact your class coordinator for access to this Google form.
 
 We ask that you arrive at least ten minutes before the interview that you will be attending to prepare.
+
+You can find a guide for the technical section of the interview [here](./volunteers/interview-technical)
 
 ### Ideal Student
 
