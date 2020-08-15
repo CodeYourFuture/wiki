@@ -94,29 +94,6 @@ You can find an English Assessment test [here](https://gist.github.com/nbogie/b9
 
 The guide for the assessment can be found [here](./volunteers/interview-english)
 
-### Ideal Student
-
-When selecting applicants your primary aim should be to answer this statement.
-
-```
-I believe that the applicant shows the potential and drive to complete the course and get the job as a developer.
-```
-
-You can read our outline of what an ideal graduate of our course might look like [here](https://docs.codeyourfuture.io/volunteers/course-eligibility#our-ideal-student)
-
-Previous programming experience is not required to join the course however it is a good determinant of a person showing passion for coding.
-
-A strong candidate for our course should
-
-- show that they are passionate about programming
-- show potential or current experience of being a self-learner
-- show a good to very good grasp of the English language
-- show they are open to feedback
-- show they understand the scale of the challenge
-- show that they are ready to undertake such a large challenge
-- show that they are focussing on our course
-- be somebody who would fit into our community
-
 ### Feeding Back on Students
 
 When completing the form you should endeavour to write as much as you can for each candidate as this will be our primary resource for deciding who will get a place on the course.
@@ -148,6 +125,29 @@ It's important to spot both lower and upper bound applicants as our course may n
 For lower bound applicants, a referral to a less intense programming course or further English lessons may be a better solution. Our course can be very challenging for people and if we're not sure that they're ready then we should endeavour to be upfront and supportive wherever possible.
 
 For upper bound applicants, it may be preferable to give them the skills they need to be able to get a job and have them start applying. This could take the form of personal development lessons or some sessions working on our tech projects. We're in the business of finding jobs for the people and if the most efficient way to do that is by **not** joining our course then that is the best outcome.
+
+## Ideal Student
+
+When selecting applicants your primary aim should be to answer this statement.
+
+```
+I believe that the applicant shows the potential and drive to complete the course and get the job as a developer.
+```
+
+You can read our outline of what an ideal graduate of our course might look like [here](https://docs.codeyourfuture.io/volunteers/course-eligibility#our-ideal-student)
+
+Previous programming experience is not required to join the course however it is a good determinant of a person showing passion for coding.
+
+A strong candidate for our course should
+
+- show that they are passionate about programming
+- show potential or current experience of being a self-learner
+- show a good to very good grasp of the English language
+- show they are open to feedback
+- show they understand the scale of the challenge
+- show that they are ready to undertake such a large challenge
+- show that they are focussing on our course
+- be somebody who would fit into our community
 
 ## Frequently Asked Questions
 
