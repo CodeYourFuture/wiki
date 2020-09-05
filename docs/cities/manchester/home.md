@@ -9,11 +9,7 @@ Welcome to the CodeYourFuture North-West page, as the course is currently held i
 
 ## Calendar
 
-You can stay up to date with all of our events by adding this Google Calendar.
-
-[CYF Manchester Calendar](https://calendar.google.com/calendar/b/1?cid=Y29kZXlvdXJmdXR1cmUuaW9fb2U2OWNsb2piMHFzZm80dDNpMG1hNWpkamdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-
-For all other events you can follow the global calendar
+For all events you can follow the global calendar
 
 [CYF Global Calendar](https://calendar.google.com/calendar/b/1?cid=Y29kZXlvdXJmdXR1cmUuaW9fdG00MDN0NTlmNWJzcjlocm10bGVyN2RiaThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
