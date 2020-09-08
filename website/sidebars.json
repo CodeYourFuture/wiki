@@ -80,6 +80,7 @@
         "label": "Personal Development",
         "ids": [
           "volunteers/personaldevelopment/pd-roles",
+          "volunteers/personaldevelopment/pd-mentor-guidance",
           "volunteers/personaldevelopment/template-agenda"
         ]
       },
