@@ -81,6 +81,6 @@ Channel prefixes:
 - **\#scot-\*** - group projects done by the students
 - **\#cyf-\*** - a number of CYF-wide channels that are used for different purposes
 
-## Code of conduct
+## Code of Conduct
 
-All students and volunteers at CodeYourFuture must follow the [code of conduct](/code-of-conduct).
+All students and volunteers at CodeYourFuture must follow the [code of conduct](https://codeyourfuture.io/about/code-of-conduct/).
