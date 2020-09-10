@@ -11,7 +11,9 @@ The session will allow potential volunteers to find out about what CYF does and 
 2. Give them a sense of the community
 3. Sign interested volunteers up to an onboarding session - where they will get trained in the basics and take their first tasks on
 
-## Presentation
+## Details
+
+### Presentation
 
 The presentation we use can be found here
 
@@ -19,15 +21,15 @@ The presentation we use can be found here
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSea49j9wt2PTM7L_lvGpooxCf_4LYSxsAdxL00CYxnOiC5s02pKAd3Yzu-UOtP8OK6C2MyOy1OCDVd/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-## Sign-up Sheet
+### Sign-up Sheet
 
 [Click here](https://docs.google.com/spreadsheets/d/1rCLQlLzybu2A19Lxehhk7uV8GnUHicIhRfloSqawN4g/edit?usp=sharing) for the volunteer sign-up sheet for the event
 
-## Eventbrite Link
+### Eventbrite Link
 
 Here’s [the Eventbrite link](https://www.eventbrite.co.uk/o/code-your-future-26744287653) with further description.
 
-## Meeting links
+### Meeting links
 
 All Welcome Events are hosted on this Zoom call
 
@@ -81,7 +83,7 @@ All Welcome Events are hosted on this Zoom call
 - Enlist specific folks for the roles below (use [sign up sheet here](https://docs.google.com/spreadsheets/d/1rCLQlLzybu2A19Lxehhk7uV8GnUHicIhRfloSqawN4g/edit)) - make sure they are familiar with their role and this agenda document.
 - Check the material is current (presentation is [here](https://docs.google.com/presentation/d/1yL7e201eBj2aPJqZKAxg4Bh1iRTP9tP4gYa2S3aeP2s/edit#slide=id.g60ad391a5b_0_254)). If it needs adjusting, ask for updates in the cyf-ambassadors channel
 
-#### 30mins before the call
+#### 30 Minutes Before The Call
 
 - Get the Zoom Room and presentation ready.
   - Ask @ambassadors or `@cyf-mgmt` for Zoom log-in credentials
@@ -96,13 +98,13 @@ All Welcome Events are hosted on this Zoom call
 
 6.20 - 6.25pm: Graduate shares CYF story (Or, we can play the graduate video after the Team Intros if the presenter feels the need and we have no graduate present in the session)
 
-6.25 - 6.40pm: intro to teams (Personal Development, Education and Ambassador Volunteer)
+6.25 - 6.40pm: Intro to teams (Personal Development, Education and Ambassador Volunteer)
 
-6.40 - 6.45 - Remaining slides (Presenter - Values, brief onboarding process summary)
+6.40 - 6.45: Remaining slides (Presenter - Values, brief onboarding process summary)
 
-6.45 - 7.00pm: team Q&As - with Volunteer from each team answering questions from guests about their team
+6.45 - 7.00pm: Team Q&As - with Volunteer from each team answering questions from guests about their team
 
-7.00 - 7.05pm: redirect people to sign up form (however, they are also automatically - [https://bit.ly/cyf-volunteering](https://bit.ly/cyf-volunteering)
+7.00 - 7.05pm: Redirect people to sign up form (however, they are also automatically - [https://bit.ly/cyf-volunteering](https://bit.ly/cyf-volunteering)
 
 7.05pm: Thanks / more chats if people stick around
 
