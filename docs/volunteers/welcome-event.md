@@ -3,7 +3,7 @@ id: welcome-event
 title: Welcome Event
 ---
 
-The session will allow potential volunteers to find out about what CYF does and how it operates.
+These sessions are potential volunteers first contact with CodeYourFuture and one of the key moments in a volunteers journey. The aim of this event is to give a face to the organisation, to inform the volunteers on how we work and increase the number of volunteer we get involved in what we do.
 
 ## Goals
 
