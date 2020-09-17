@@ -8,7 +8,7 @@ title: Useful information
 Accessible at https://codeyourfuture.slack.com/
 
 In West Midlands, the main channels are listed below:
-- **\#birmingham**: local events, news, for everyone
+- **\#westmidlands**: local events, news, for everyone
 - **\#westmidlands-edu**: all members of the West Midlands volunteer education team
 - **\#westmidlands-pd**: all members of the West Midlands volunteer personal development team
 - **\#westmidlands-photos**: photos taken by volunteers related to CYF activities, we pick out pictures from here to share on social media
@@ -17,15 +17,7 @@ In West Midlands, the main channels are listed below:
 
 ## Useful People
 
-- Cemil Okay aka Jamil [@Cemil (Jamil)] - Education facilitator (Fundamentals Module)
-
-- Atanas Kozarev [@Atanas AK] - Education facilitator (Fundamentals Module)
-
-- Kevin Carmody [@Kevin] - Teaching Assistant
-
-- Tom Paine [@Tom Paine] - Teaching Assistant
-
-- Simon Whitehouse [@Simon Whitehouse] - Personal Development facilitator
+- Atanas Kozarev [@Atanas AK] - Education facilitator
 
 - Shukri Ali [@Shukri] - Personal Development facilitator
 
