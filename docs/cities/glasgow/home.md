@@ -7,16 +7,6 @@ title: CodeYourFuture Scotland
 
 - [Syllabus](https://codeyourfuture.github.io/syllabus-scotland/) for the course content
 
-## Calendar
-
-You can stay up to date with all of our events by adding this Google Calendar.
-
-[CYF Scotland Calendar](https://calendar.google.com/calendar?cid=Y29kZXlvdXJmdXR1cmUuaW9fYmswNDFocTNkdm9zdjBidmdkN2wwb2lwY2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) ([calendar in iCal format](https://calendar.google.com/calendar/ical/codeyourfuture.io_bk041hq3dvosv0bvgd7l0oipck%40group.calendar.google.com/private-6eb101d8a2bc2ef98073e6875d9c0216/basic.ics)) for class times
-
-For all other events you can follow the global calendar
-
-[CYF Global Calendar](https://calendar.google.com/calendar/b/1?cid=Y29kZXlvdXJmdXR1cmUuaW9fdG00MDN0NTlmNWJzcjlocm10bGVyN2RiaThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-
 ## Class structure
 
 Our Saturday class is normally held at [Collabor8te](https://collabor8te.co.uk/) ([22 Montrose Street, G1 1RE](https://goo.gl/maps/C6aFxhqyvqz)) between 11am and 5pm, including a 1 hour lunch break.

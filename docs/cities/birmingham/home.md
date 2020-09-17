@@ -7,16 +7,6 @@ title: Overview
 
 In this section you'll find all the information specific to <strong>Birmingham</strong> and the <strong>West Midlands</strong>. We say both Birmingham and West Midlands as we cover areas beyond Birmingham including Coventry, Dudley, Sandwell, Solihull, Walsall and Wolverhampton.
 
-## Calendar
-
-You can stay up to date with all of our events by adding this Google Calendar.
-
-[CYF Birmingham Calendar](https://calendar.google.com/calendar/b/1?cid=Y29kZXlvdXJmdXR1cmUuaW9fbGVrNnF2MXZuZ24zMmVzZ3AxajU1MnQ4cWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) ([iCal](https://calendar.google.com/calendar/ical/codeyourfuture.io_lek6qv1vngn32esgp1j552t8qc%40group.calendar.google.com/public/basic.ics))
-
-For all other events you can follow the global calendar
-
-[CYF Global Calendar](https://calendar.google.com/calendar/b/1?cid=Y29kZXlvdXJmdXR1cmUuaW9fdG00MDN0NTlmNWJzcjlocm10bGVyN2RiaThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-
 ## Where is our office?
 
 We're based at Melting Pot usually on Tuesdays, Wednesdays and Thursdays.<br>

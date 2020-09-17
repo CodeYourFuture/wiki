@@ -7,12 +7,6 @@ title: Overview
 
 Welcome to the CodeYourFuture North-West page, as the course is currently held in Manchester, 'North-West' and 'Manchester' are often used interchangeably. In this section you'll find all the information specific to the North-West
 
-## Calendar
-
-For all events you can follow the global calendar
-
-[CYF Global Calendar](https://calendar.google.com/calendar/b/1?cid=Y29kZXlvdXJmdXR1cmUuaW9fdG00MDN0NTlmNWJzcjlocm10bGVyN2RiaThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-
 ## Where do we teach?
 
 Federation House,
