@@ -9,6 +9,7 @@
     ],
     "Tech Guides": [
       "students/guides/online-lessons",
+      "students/guides/students-google-classroom",
       "students/guides/hosting-netlify",
       "students/guides/node",
       "students/guides/cors",
