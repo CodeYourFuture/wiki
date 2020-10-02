@@ -11,7 +11,7 @@ You might be wondering what will happen next in your post-graduation journey - t
 
 Even though we've finished teaching you have only scratched the surface of everything you could learn and it important that you keep your skills fresh.
 
-The job market will always be competitive so you should
+The job market will always be competitive so you should continue to learn new technologies, build cool projects and develop your soft skills.
 
 ### CodeYourFuture Tech Projects
 
