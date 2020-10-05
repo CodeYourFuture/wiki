@@ -41,7 +41,7 @@ Before you start you should make sure
 We can support you by
 
 - Helping you work on our CV & LinkedIn
-- Providing Interview
+- Providing interview training
 - Helping you search for jobs
 - Giving you interview practice
   - Both technical and personal
@@ -72,7 +72,7 @@ As a Graduate Mentor you will be
 
 We'd love for you to continue to come to class during our next class.
 
-At first, it would be great for you to come as a [Teaching Assitant](https://teachertraining.codeyourfuture.io/roles/teaching-assistant/role) to share your expertise with the students but as you progress we'd love for you to lead a class.
+At first, it would be great for you to come as a [Teaching Assistant](https://teachertraining.codeyourfuture.io/roles/teaching-assistant/role) to share your expertise with the students but as you progress we'd love for you to lead a class.
 
 To get involved, keep on checking Slack for when our next class starts.
 
