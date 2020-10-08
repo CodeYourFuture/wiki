@@ -90,7 +90,7 @@ You can find a guide for the technical section of the interview [here](/voluntee
 
 ### English Assessment
 
-You can find an English Assessment test [here](https://gist.github.com/nbogie/b9a3e377607b85754f71ff3043bc68eb).
+You can find an English Assessment test [here](https://codepen.io/enz0/full/eYzOeVg).
 
 The guide for the assessment can be found [here](/volunteers/interview-english)
 
