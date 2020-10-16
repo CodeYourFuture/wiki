@@ -7,11 +7,14 @@ In this section you'll find all the information to do with the education team.
 
 ## Responsibilities
 
-- Deliver course content to the students
-- Assess and give feedback on student homework
-- Provide mentoring to students
-- Update and maintain the syllabus
-- Organize and deliver teacher training for other volunteers
+The function of this team varies due to the stage within the cohort:
+
+- Initially, the Education Team is responsible for finalising the syllabus & scheduling the course
+- From here, the team must welcome & onboard mentors, and organise mentor/assistant distribution throughout the course
+- The role then shifts to focusing on general class admin, covering class organisation, homework, assessments etc.
+- As a cohort nears completion, the education team then focus on managing final projects, and assisting students to continue these beyond graduation
+
+![Education Roles](./assets/role-edu.png)
 
 ## Meeting Documentation
 

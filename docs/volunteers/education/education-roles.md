@@ -54,12 +54,6 @@ Additionally - depending on your city - Education buddies may also be required t
 
 - Give feedback and grade homework
 
-## General online help
-
-**Time Commitment**: Flexible
-
-Sometimes students ask for clarifications or questions related to particular homework exercises on the Slack channel. Any mentor can reply on the same platform and thus provide a benefit to the rest of the students.
-
 ## Homework review
 
 **Time Commitment**: Flexible
@@ -71,10 +65,3 @@ The homework is done as Pull Requests on the students' GitHub accounts. Mentors 
 **Time Commitment**: Six weeks at the end of the course
 
 The graduation projects, at the end of the course, require developers who are comfortable jumping into several different roles: Being the architect of the project, Lead developer taking responsibility of PRs and their quality, a lot of Project Management and wearing the hat of Scrum master few times. If you'd like to get involved in one or few of those roles, please let one of the lead mentors know.
-
-## Non-technical Support
-
-**Time Commitment**: Flexible
-
-There are also a lot of admin and management tasks involved in running the project and this responsibility is shared between a handful mentors. Examples of these are: help manage the new student application process, contact potential employers, respond to emails and other general management tasks.
-We expect people to be around for a bit before getting involved with this side of things, but if you are interested in helping out then please let us know.
