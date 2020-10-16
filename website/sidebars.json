@@ -44,6 +44,7 @@
       "volunteers/online-teaching",
       "volunteers/study-groups",
       "volunteers/welcome-event",
+      "volunteers/hackathons",
       {
         "type": "subcategory",
         "label": "Courses",
