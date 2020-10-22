@@ -3,6 +3,8 @@ id: final-project
 title: Final Project
 ---
 
+More information about Final Projects can be found [in the Syllabus](https://syllabus.codeyourfuture.io/finalproject/intro)
+
 The final projects for a CYF class are expected to take around four weeks, beginning with an introductory session where the students form groups (unless they are already part of one) and select their projects and ending with a presentation on what they’ve built and what they’ve learned through it, in preparation for their graduation.
 
 ### Goals
@@ -34,3 +36,7 @@ A good project should:
 ## Submitting a project
 
 Have a project that you think would be good for our students to work on. [Check out this presentation](https://docs.google.com/presentation/d/1-rj0NAncIhIZuay6TXEyUeuXFFUnE7vmN12223rHZOI/edit?usp=sharing).
+
+## Syllabus
+
+More information about Final Projects can be found [in the Syllabus](https://syllabus.codeyourfuture.io/finalproject/intro)
