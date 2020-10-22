@@ -7,7 +7,7 @@ Throughout the course, our students may have the opportunity to work on [Hackath
 
 ## Goals
 
-The goals of the hackathon are as follows in priority order
+The goals of the Hackathon are as follows in priority order
 
 1. The students have the chance to put their learning into practice in a low risk environment
 2. The students get experience working in a team
@@ -39,7 +39,7 @@ In addition to this, the depending on when during the course takes place the Edu
 - What technologies the particpants will be using
    - To make sure that the hackathon compliments students learning rather than being in conflict
 
-## Constraints
+## Student Constraints
 
 If a Hackathon is taking place during the duration of a class (i.e. before Graduation) then there are some constraints on the students
 
@@ -50,8 +50,8 @@ If a Hackathon is taking place during the duration of a class (i.e. before Gradu
 
 2. Only Fully Up To Date Students
 
-   - To be able to take part in the Hackathon a student must be up to date with their homework and be performing well on the course
-
+   - The student must have no outstanding coursework
+   
 3. Only Part Time Paid Working or Less
 
    - Some of our students work in paid jobs. We ask that they don't partake in any hackathons if they are already working more than twenty hours a week of paid work.
