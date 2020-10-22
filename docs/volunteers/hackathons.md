@@ -14,6 +14,31 @@ The goals of the hackathon are as follows in priority order
 3. The students get to meet experienced developers (if pairing with external developers)
 4. The teams produce some useful that will be used
 
+## Steps Required Running a Hackathon
+
+More details about these steps can be found below
+
+1. Sign off from City Coordinators & Education Team to run a Hackathon
+2. All Stakeholders must decide when the Hackathon will run
+3. Dicuss with Education Team about the technologies that the participants will be encouraged to use
+4. Decide on the Challenges that will be set
+5. Find and onboard Volunteers
+6. Select and onboard Students
+
+## Prerequisite 
+
+Before a Hackathon can happen sign-off must be given from
+
+- Local City Coordinator(s)
+- Local Education Team
+
+In addition to this, the depending on when during the course takes place the Education Team must be consonsulted on
+
+- When the Hackathon runs
+   - To make sure it doesn't clash with any other events
+- What technologies the particpants will be using
+   - To make sure that the hackathon compliments students learning rather than being in conflict
+
 ## Constraints
 
 If a Hackathon is taking place during the duration of a class (i.e. before Graduation) then there are some constraints on the students
