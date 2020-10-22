@@ -7,7 +7,7 @@ CodeYourFuture is made possible by teams of Volunteers who give their time to he
 
 To show your respect for the time they commit and the community that you are part of we expect you to fulfil the following commitments.
 
-This document call also be found on Google Docs [here](https://docs.google.com/document/d/1NS1B1HqLyilsT1Sf4B42zcTg7JZofv7ATMWVdHnz3EA/edit) and on Eversign [here]().
+This document call also be found on Eversign [here](https://codeyourfuture.eversign.com/embedded/a4062d0361324f7f97cba1105f164b24).
 
 ## Code of Conduct
 
