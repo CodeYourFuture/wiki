@@ -98,3 +98,9 @@ Alternatively, we might have a problem that we need a creative solution for. For
 > Our student often have trouble managing their time and submitted homework before each lesson.
 
 For more general problems like this we're looking to your creativity to help us solve the problems in ways we haven't thought of yet.
+
+## Previous Hackathon
+
+Here are some example hackathon that we've run with partners in the past
+
+- [Capgemini Hackathon - West Midlands - November 2020](https://docs.google.com/document/d/1ZSA10i9ub6Mm_OpQKl3Esl6vP_A_crq7PiCwqzeTx6s/edit#)
