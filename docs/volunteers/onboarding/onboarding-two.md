@@ -1,13 +1,13 @@
 ---
 id: onboarding-two
-title: 2. First Events
+title: 2. Intro to Coding
 ---
 
-As part of the volunteer onboarding, you should join a class. 
+As part of the volunteer onboarding, you can help out with the Intro to Coding. 
 
-- For Education team volunteers, you can join as a TA. Instructions are available in your Slack workspace. 
-- For new PD team and Outreach volunteers, you can join an energiser - or help run one. Instructions are available in your Slack workspace.   
-- Outreach volunteers - please share a short post on the experience in the Slack channel. Instructions are available in your Slack workspace.
+https://introtocoding.codeyourfuture.io/
 
-NB: If you are only listening, please rename yourself as 'Listener' in the zoom call. 
+- For Education team volunteers, you can be a technical TA
+- Ambassador volunteers - you can help promote or manage the event 
+- PD volunteers - please check with your city coordinator on your role
 
