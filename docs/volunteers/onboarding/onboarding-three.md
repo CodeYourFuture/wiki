@@ -3,7 +3,7 @@ id: onboarding-three
 title: 3. Continuing
 ---
 
-Once you have completed your general onboarding tasks, you should be invited to a team meeting, to the main CYF Slack workspace and to some of the other tools below (depending on your team).
+Once you have completed your general onboarding tasks, you should be invited to a meeting by your city coordinator, to the main CYF Slack workspace and to some of the other tools below (depending on your team).
 
 - Slack
   - All the channels associated with your city
