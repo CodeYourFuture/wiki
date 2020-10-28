@@ -5,18 +5,21 @@ title: Local Teams
 
 CYF local leadership team is divided in four teams: _Outreach, Personal Development, Education and Tech Projects_. The main responsibilities are:
 
-- **Outreach**
-  - Share social updates on every CYF event and class
+- **Ambassadors**
+  - Help arrange CYF events
+  - Share social updates on CYF events and class
   - Find and welcome new applicants and volunteers
-  - Find company leads for partnership and recruitment
+  - Connect with NGO partners for referrals
 - **Personal Development (PD):**
   - Check weekly how students are doing
   - Organise support for students with most needs
   - Coordinate soft skills day sessions
+  - You can read more about the PD roles here: https://docs.codeyourfuture.io/volunteers/personaldevelopment/pd-roles
 - **Education**
   - Coordinate face-to-face classes and homework
   - Organize homework review
   - Track student performance
+  - You can read more about the roles here: https://docs.codeyourfuture.io/volunteers/education/education-roles
 - **Tech Projects**
   - Coordinate final projects and tech projects (post-graduation)
   - Oversee tech content in final presentation (graduation)
@@ -26,7 +29,7 @@ Each team member in PD & Education is in charge of overseeing up to 5 students p
 
 ## Brief Overview in the life of a local chapter
 
-**Outreach**
+**Ambassador**
 
 - The team start the year by reaching out to different organisations, attending events to promote volunteering opportunities at CYF and social media campaigns. The idea will be to renew the leadership teams and find new core members to lead the program locally. A priority will be given to Education team.
 - The team will then start finding new students by contacting a number of organisations working with refugees and disadvantaged groups with the goal of getting them to promote our program to their clients. The team will also start social media campaigns (particularly Facebook) to get new applicants.
