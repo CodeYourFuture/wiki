@@ -17,9 +17,9 @@ These sessions are potential volunteers first contact with CodeYourFuture and on
 
 The presentation we use can be found here
 
-[https://docs.google.com/presentation/d/1yL7e201eBj2aPJqZKAxg4Bh1iRTP9tP4gYa2S3aeP2s/edit#slide=id.g60ad391a5b_0_254](https://docs.google.com/presentation/d/1yL7e201eBj2aPJqZKAxg4Bh1iRTP9tP4gYa2S3aeP2s/edit#slide=id.g60ad391a5b_0_254)
+[https://docs.google.com/presentation/d/1aXYe1iguIp-xUaDM0qw7QNs5p12ocigxmbi2Za_gHhE/edit](https://docs.google.com/presentation/d/1aXYe1iguIp-xUaDM0qw7QNs5p12ocigxmbi2Za_gHhE/edit)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSea49j9wt2PTM7L_lvGpooxCf_4LYSxsAdxL00CYxnOiC5s02pKAd3Yzu-UOtP8OK6C2MyOy1OCDVd/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTu8qniJHibY8EnZg2rbpm8Et8gdCxWgjvkz9NQA_RMY9QJGlwycxNT-Z0NjwsTCZOEVXjG8T_V0Bxo/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Sign-up Sheet
 
